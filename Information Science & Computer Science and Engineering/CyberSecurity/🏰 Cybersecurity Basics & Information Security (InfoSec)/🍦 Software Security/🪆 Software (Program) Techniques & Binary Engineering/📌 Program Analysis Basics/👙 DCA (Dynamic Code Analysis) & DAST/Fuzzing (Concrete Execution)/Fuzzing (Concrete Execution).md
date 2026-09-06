@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md) 🎓
-↗ [OSS-Fuzz](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Fuzzers%20&%20Fuzzing%20Project/OSS-Fuzz.md)
+↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md) 🎓
+↗ [OSS-Fuzz](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Fuzzers%20&%20Fuzzing%20Project/OSS-Fuzz.md)
 
-↗ [Software Testing](../../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Software Testing](../../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/🧪%20Software%20Testing/Software%20Testing.md)
 
 ↗ [Code Sanitizer](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Code%20Sanitizer.md)
 ↗ [Code Instrumentation, System Visibility, & Computer Profiling](../🥁%20Code%20Instrumentation,%20System%20Visibility,%20&%20Computer%20Profiling/Code%20Instrumentation,%20System%20Visibility,%20&%20Computer%20Profiling.md)
@@ -250,7 +250,7 @@ Fundamentally, fuzzing shifts the focus from functional test cases (i.e., what s
 
 目前，Fuzzing技术已经是软件测试、漏洞挖掘领域的最有效的手段之一。Fuzzing技术特别适合用于发现0 Day漏洞，也是众多黑客或黑帽子发现软件漏洞的首选技术。Fuzzing虽然不能直接达到入侵的效果，但是Fuzzing非常容易找到软件或系统的漏洞，以此为突破口深入分析，就更容易找到入侵路径，这就是黑客喜欢Fuzzing技术的原因。
 #### Fuzzing 🆚 Symbolic /Concolic Execution?
-↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
+↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29/Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29.md)
 
 
 ### Terminology in Fuzzing ⭐
@@ -347,7 +347,7 @@ A fuzzer can be categorized in several ways:
 1. (Reuse of existing input seeds) A fuzzer can be **generation-based** or **mutation-based** depending on whether inputs are generated from scratch or by modifying existing inputs.
 2. (Aware of input structure) A fuzzer can be **dumb (unstructured)** or **smart (structured)** depending on whether it is aware of input structure.
 3. (Aware of program structure) A fuzzer can be **white-, grey-, or black-box**, depending on whether it is aware of program structure.
-	1. ↗ [Types of Software Testing](../../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Types%20of%20Software%20Testing/Types%20of%20Software%20Testing.md)
+	1. ↗ [Types of Software Testing](../../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/🧪%20Software%20Testing/Types%20of%20Software%20Testing/Types%20of%20Software%20Testing.md)
 
 > Besides, fuzzers can also be classified by the corresponding PUTs. Please see section below of "Fuzzers by PUT".
 
@@ -520,7 +520,7 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 
 
 ### LLM-based Fuzzing Procedure
-↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md)
+↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md)
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2020.42.35.png)
 <small>LLM驱动缺陷检测的一般流程 <a>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). http://www.jos.org.cn/1000-9825/7323.htm</a></small>
@@ -531,9 +531,9 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 ### 📋 Fuzzing by Techniques (List of Fuzzers)
 
 > [!links]
-> ↗ [Dynamics Code Analysis Tools (DCAT)](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Dynamics%20Code%20Analysis%20Tools%20(DCAT).md)
-> - ↗ [AFL-based](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Fuzzers%20&%20Fuzzing%20Project/AFL-based.md)
-> - ↗ [OSS-Fuzz](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Fuzzers%20&%20Fuzzing%20Project/OSS-Fuzz.md)
+> ↗ [Dynamics Code Analysis Tools (DCAT)](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29.md)
+> - ↗ [AFL-based](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Fuzzers%20&%20Fuzzing%20Project/AFL-based.md)
+> - ↗ [OSS-Fuzz](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Fuzzers%20&%20Fuzzing%20Project/OSS-Fuzz.md)
 #### Genealogy
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2015.52.12.png)
 <small>Genealogy tracing significant fuzzers’ lineage back to Miller et al.’s seminal work. Each node in the same row represents a set of fuzzers appeared in the same year. A solid arrow from X to Y indicates that Y cites, references, or otherwise uses techniques from X. 📗 denotes that a paper describing the work was published.</small>
@@ -545,7 +545,7 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 
 
 #### 3️⃣ 🔥 LLM Based Fuzzers
-↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md)
+↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md)
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2021.11.11.png)
 <small>Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." arXiv preprint arXiv:2402.00350 (2024).
@@ -559,10 +559,10 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.35.25.png)
 <small>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). <a>http://www.jos.org.cn/1000-9825/7323.htm</a></small>
 #### Hybrid Fuzzers
-↗ [Symbolic & Concolic Execution Engines](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Symbolic%20&%20Concolic%20Execution%20Engines/Symbolic%20&%20Concolic%20Execution%20Engines.md)
-- ↗ [SymCC](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Symbolic%20&%20Concolic%20Execution%20Engines/SymCC.md)
+↗ [Symbolic & Concolic Execution Engines](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Symbolic%20&%20Concolic%20Execution%20Engines/Symbolic%20&%20Concolic%20Execution%20Engines.md)
+- ↗ [SymCC](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Symbolic%20&%20Concolic%20Execution%20Engines/SymCC.md)
 
-↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
+↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29/Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29.md)
 
 
 ### 👉 Fuzzer by PUT

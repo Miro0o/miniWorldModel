@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [ECMAScript-Based Languages & JavaScript](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md)
+↗ [ECMAScript-Based Languages & JavaScript](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md)
 ↗ [JavaScript Browser End Libraries](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20Browser%20End%20Libraries/JavaScript%20Browser%20End%20Libraries.md)
 
-↗ [Obfuscation](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Anti-Reverse%20Engineering%20&%20Software%20Protection/Obfuscation/Obfuscation.md)
+↗ [Obfuscation](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Anti-Reverse%20Engineering%20&%20Software%20Protection/Obfuscation/Obfuscation.md)
 ↗ [Encodings](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
 
@@ -157,7 +157,7 @@ jsnice
 
 
 ## WebAssembly
- ↗️ [WASM (WebAssembly)](../../Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns/🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
+ ↗️ [WASM (WebAssembly)](../../Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns/🚜%20WASM%20%28WebAssembly%29/WASM%20%28WebAssembly%29.md)
 
 
 

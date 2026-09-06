@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-↗ [SCA (Static Code Analysis) & SAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
+↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
+↗ [SCA (Static Code Analysis) & SAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md)
 ↗ [Programming Language Processing & Program Execution](../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-- ↗ [Program Language Processing & Compilation Theory (Compile-time)](../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
+- ↗ [Program Language Processing & Compilation Theory (Compile-time)](../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29.md)
 
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
@@ -17,35 +17,35 @@
 - ↗ [Concurrent Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Concurrent%20Computing/Concurrent%20Computing.md)
 - ↗ [Distributed Computing & Systems](../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 - ↗ [Parallel Computing & Programming](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing%20&%20Programming/Parallel%20Computing%20&%20Programming.md)
-- ↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
+- ↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20%28and%20Communication%29/Quantum%20Computing%20%28and%20Communication%29.md)
 - etc.
 
 ↗ [Algorithm & Data Structure](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
-↗ [Database Languages](DSL(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
-↗ [HDL (Hardware Definition Languages)](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
-↗ [Web Templating Engines & Languages](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Web%20Templating%20Engines%20&%20Languages.md)
+↗ [Database Languages](DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Database%20Languages.md)
+↗ [HDL (Hardware Definition Languages)](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20%28Hardware%20Definition%20Languages%29/HDL%20%28Hardware%20Definition%20Languages%29.md)
+↗ [Web Templating Engines & Languages](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Web%20Templating%20Engines%20&%20Languages.md)
 
 ↗ [Information, Data, Number and Math in Digital Systems](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
 ↗ [System Software Engineering](../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
-- ↗ [Computer (IO Devices) Drivers & Programming](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Computer%20(IO%20Devices)%20Drivers%20&%20Programming.md)
-- ↗ [Compute Unified Device Architecture & CUDA Programming](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
+- ↗ [Computer (IO Devices) Drivers & Programming](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20%28IO%20Devices%29%20Drivers%20&%20Programming/Computer%20%28IO%20Devices%29%20Drivers%20&%20Programming.md)
+- ↗ [Compute Unified Device Architecture & CUDA Programming](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20%28IO%20Devices%29%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
 ↗ [Network Programming & RPC](../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
-- ↗ [DPDK (Data Plane Development Kits)](../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/DPDK%20(Data%20Plane%20Development%20Kits)/DPDK%20(Data%20Plane%20Development%20Kits).md)
-↗ [Foundation Models & Development & SDKs](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/Foundation%20Models%20&%20Development%20&%20SDKs.md)
-- ↗ [ML Programming & Frameworks](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/ML%20Programming%20&%20Frameworks.md)
-- ↗ [ML Toolkits & Runtimes](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/📌%20ML%20Toolkits%20&%20Runtimes/ML%20Toolkits%20&%20Runtimes.md)
+- ↗ [DPDK (Data Plane Development Kits)](../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20%28HPN%29%20&%20IDC%20Technologies/DPDK%20%28Data%20Plane%20Development%20Kits%29/DPDK%20%28Data%20Plane%20Development%20Kits%29.md)
+↗ [Foundation Models & Development & SDKs](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/Foundation%20Models%20&%20Development%20&%20SDKs.md)
+- ↗ [ML Programming & Frameworks](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/ML%20Programming%20&%20Frameworks.md)
+- ↗ [ML Toolkits & Runtimes](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/📌%20ML%20Toolkits%20&%20Runtimes/ML%20Toolkits%20&%20Runtimes.md)
 ↗ [Computer Graphics Programming](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
-↗ [Concurrent Programming](../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrent%20Programming.md)
+↗ [Concurrent Programming](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/Concurrent%20Programming.md)
 ↗ [Embedded Programming & Software Development](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Embedded%20Programming%20&%20Software%20Development.md)
 
 ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
 ↗ [Galleries & Awesome SE](../../Software%20Engineering/Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
 
-↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Security.md)
-↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
+↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/Software%20Security.md)
+↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
 
-↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md)
 
 
 ### Learning Resources
@@ -79,7 +79,7 @@ https://awesome-programming-books.github.io/
 > [!links]
 > ↗ [Language & Literature /The Importance of Language: Natural Language 🆚 Formal Language](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md#The%20Importance%20of%20Language:%20Natural%20Language%20🆚%20Formal%20Language)
 > ↗ [Linguistics](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
-> ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
 
 > 🔗 https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/FormalandNaturalLanguages.html
 
@@ -123,8 +123,8 @@ Semiosis is any activity, conduct, or process that involves signs. Signs often a
 
 Unlike linguistics, semiotics also studies non-linguistic sign systems. Semiotics includes the study of indication, designation, likeness, analogy, allegory, metonymy, metaphor, symbolism, signification, and communication.
 #### Mathematical Logic & Formal Logic Language
-↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-↗ [Formal System, Formal Logic, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+↗ [Formal System, Formal Logic, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 
 
 ### 1️⃣ Computer Languages
@@ -302,7 +302,7 @@ There is also a supposed hierarchy of language power, expressed by Paul Graham a
 ![](../../../Assets/Pics/Screenshot%202023-06-24%20at%208.14.09%20PM.png)
 #### Programming Language Theory: The Designing of A Programming Language
 > [!links]
-> ↗ [Programming Language Theory (PLT)](🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+> ↗ [Programming Language Theory (PLT)](🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Programming_language_theory
 
@@ -376,34 +376,34 @@ Programming language theory (PLT) is a branch of computer science that deals wit
 #### 1️⃣ Declarative Programming Paradigm
 > 💡 [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming) is a declarative programming paradigm concerned with data streams and the propagation of change. With this paradigm, it's possible to express static (e.g., arrays) or dynamic (e.g., event emitters) data streams with ease, and also communicate that an inferred dependency within the associated execution model exists, which facilitates the automatic propagation of the changed data flow.
 > 
-> My notes of Reactive Programing Paradigm can be found in ↗ [Software Engineering/Dev Pattern/RX](../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/RX%20(ReactiveX)/RX%20(ReactiveX).md)
+> My notes of Reactive Programing Paradigm can be found in ↗ [Software Engineering/Dev Pattern/RX](../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/RX%20%28ReactiveX%29/RX%20%28ReactiveX%29.md)
 
 It is divided as Logic, Functional, Database. In computer science the _declarative programming_ is **a style of building programs that expresses logic of computation without talking about its control flow**. It often considers programs as theories of some logic. It may simplify writing parallel programs. The focus is on what needs to be done rather how it should be done basically emphasize on what code is actually doing. It just declares the result we want rather how it has be produced. This is the only difference between imperative (how to do) and declarative (what to do) programming paradigms. Getting into deeper we would see logic, functional and database.
 ##### 1. Logic Programming Paradigm
 It can be termed as abstract model of computation. It would solve logical problems like puzzles, series etc. In logic programming we have a knowledge base which we know before and along with the question and knowledge base which is given to machine, it produces result. In normal programming languages, such concept of knowledge base is not available but while using the concept of artificial intelligence, machine learning we have some models like Perception model which is using the same mechanism.   
 In logical programming the main emphasize is on knowledge base and the problem. The execution of the program is very much like proof of mathematical statement, e.g., Prolog.
 
-↗ [Logic Programming Languages](GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
-- 👉 [Lambda Calculus (λ-Calculus)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
-- 👉 [Prolog (Programmation en Logique)](GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
-- 👉 [Datalog (Data Logic)](GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Datalog%20(Data%20Logic)/Datalog%20(Data%20Logic).md)
+↗ [Logic Programming Languages](GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+- 👉 [Lambda Calculus (λ-Calculus)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+- 👉 [Prolog (Programmation en Logique)](GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Prolog%20%28Programmation%20en%20Logique%29/Prolog%20%28Programmation%20en%20Logique%29.md)
+- 👉 [Datalog (Data Logic)](GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Datalog%20%28Data%20Logic%29/Datalog%20%28Data%20Logic%29.md)
 ##### 2. Functional Programming
 e.g.
-- 👉 [ECMAScript-Based Languages & JavaScript](GPL(General%20Purpose%20Languages)/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md): developed by Brendan Eich
-- 👉 [Haskell](GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
-- 👉 [Scala](GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/Scala/Scala.md): developed by Martin Odersky
+- 👉 [ECMAScript-Based Languages & JavaScript](GPL%20%28General%20Purpose%20Languages%29/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md): developed by Brendan Eich
+- 👉 [Haskell](GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
+- 👉 [Scala](GPL%20%28General%20Purpose%20Languages%29/⚰️%20JVM-Based%20Languages/Scala/Scala.md): developed by Martin Odersky
 - 👉 **Erlang**: developed by Joe Armstrong, Robert Virding
-- ↗ [LISP-Based Languages](GPL(General%20Purpose%20Languages)/LISP-Based%20Languages/LISP-Based%20Languages.md)
-	- 👉 [Lisp](GPL(General%20Purpose%20Languages)/LISP-Based%20Languages/Lisp/Lisp.md): developed by John Mccarthy
+- ↗ [LISP-Based Languages](GPL%20%28General%20Purpose%20Languages%29/LISP-Based%20Languages/LISP-Based%20Languages.md)
+	- 👉 [Lisp](GPL%20%28General%20Purpose%20Languages%29/LISP-Based%20Languages/Lisp/Lisp.md): developed by John Mccarthy
 	- 👉 **ML**: developed by Robin Milner
-	- 👉 [Clojure](GPL(General%20Purpose%20Languages)/LISP-Based%20Languages/Clojure/Clojure.md): developed by Rich Hickey
+	- 👉 [Clojure](GPL%20%28General%20Purpose%20Languages%29/LISP-Based%20Languages/Clojure/Clojure.md): developed by Rich Hickey
 ##### 3. Database Processing Approach
 e.g.
-- ↗ [Database Languages](DSL(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
-	- ↗ [Record-Based Data Model Languages](DSL(Domain%20Specific%20Languages)/Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
-	- ↗ [Object-Based Data Model Languages](DSL(Domain%20Specific%20Languages)/Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
-	- ↗ [Query Languages (Data Query Languages, DQL)](DSL(Domain%20Specific%20Languages)/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
-		- ↗ [SQL (Structured Query Language)](DSL(Domain%20Specific%20Languages)/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
+- ↗ [Database Languages](DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Database%20Languages.md)
+	- ↗ [Record-Based Data Model Languages](DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
+	- ↗ [Object-Based Data Model Languages](DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
+	- ↗ [Query Languages (Data Query Languages, DQL)](DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/🦆%20Query%20Languages%20%28Data%20Query%20Languages,%20DQL%29/Query%20Languages%20%28Data%20Query%20Languages,%20DQL%29.md)
+		- ↗ [SQL (Structured Query Language)](DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/🦆%20Query%20Languages%20%28Data%20Query%20Languages,%20DQL%29/🩼%20SQL%20%28Structured%20Query%20Language%29/SQL%20%28Structured%20Query%20Language%29.md)
 
 ```mysql
 CREATE DATABASE databaseAddress;
@@ -426,23 +426,23 @@ It is one of the oldest programming paradigm. It features close relation to mach
 > **Basic**: developed by John G Kemeny and Thomas E Kurtz
 ##### 1. Procedural Programming Paradigm
 e.g.
-- ↗ [C-Based Languages](GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/C-Based%20Languages.md)
-- ↗ [C & CPP](GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+- ↗ [C-Based Languages](GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/C-Based%20Languages.md)
+- ↗ [C & CPP](GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 	- 👉 **C**: developed by Dennis Ritchie and Ken Thompson
 	- 👉 **C++**: developed by Bjarne Stroustrup
-- ↗ [JVM-Based Languages](GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/JVM-Based%20Languages.md)
-	- 👉 [Java](GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
+- ↗ [JVM-Based Languages](GPL%20%28General%20Purpose%20Languages%29/⚰️%20JVM-Based%20Languages/JVM-Based%20Languages.md)
+	- 👉 [Java](GPL%20%28General%20Purpose%20Languages%29/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
 - 👉 **ColdFusion**: developed by J J Allaire
 - 👉 **Pascal**: developed by Niklaus Wirth
 ##### 2. Object Oriented Programming (OOP)
 e.g.
 - 👉 **Simula**: first OOP language
-- 👉 [Java](GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
+- 👉 [Java](GPL%20%28General%20Purpose%20Languages%29/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
 - 👉 **C++**: developed by Bjarne Stroustrup
-- 👉 [Objective-C](GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/Objective-C/Objective-C.md): designed by Brad Cox
-- 👉 [Dot.Net-Based Languages](GPL(General%20Purpose%20Languages)/🪟%20Dot.Net-Based%20Languages/Dot.Net-Based%20Languages.md): developed by Microsoft
-- 👉 [Python](GPL(General%20Purpose%20Languages)/🐍%20Python/Python.md): developed by Guido van Rossum
-- 👉 [Ruby](GPL(General%20Purpose%20Languages)/Ruby/Ruby.md): developed by Yukihiro Matsumoto
+- 👉 [Objective-C](GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/Objective-C/Objective-C.md): designed by Brad Cox
+- 👉 [Dot.Net-Based Languages](GPL%20%28General%20Purpose%20Languages%29/🪟%20Dot.Net-Based%20Languages/Dot.Net-Based%20Languages.md): developed by Microsoft
+- 👉 [Python](GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/Python.md): developed by Guido van Rossum
+- 👉 [Ruby](GPL%20%28General%20Purpose%20Languages%29/Ruby/Ruby.md): developed by Yukihiro Matsumoto
 - 👉 **Smalltalk**: developed by Alan Kay, Dan Ingalls, Adele Goldberg
 ##### 3. Parallel Processing Approach
 Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer. 
@@ -542,7 +542,7 @@ Examples are NESL (one of the oldest one) and C/C++ also supports because of som
 			- Violating any of these guidelines is likely to lead to incorrect results or a spectacularly inefficient program (see Exercises 1.1.19 and 1.1.27). Adhering to them is likely to lead to a clear and correct program whose performance is easy to understand. Another reason to use recursive methods is that they lead to mathematical models that we can use to understand performance. We address this issue for binary search in Section 3.2 and in several other instances throughout the book.
 
 - Input & Output
-	- ↗ [Shell & Terminals (Console)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
+	- ↗ [Shell & Terminals (Console)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/🐚%20Shell%20&%20Terminals%20%28Console%29/Shell%20&%20Terminals%20%28Console%29.md)
 	- Commands and arguments
 	- Standard Input /Output (STD I/O)
 	- Formatted Output
@@ -571,7 +571,7 @@ Programming in Java is largely based on building data types known as **reference
 
 
 > [!links]
-> ↗ [Java](GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+> ↗ [Java](GPL%20%28General%20Purpose%20Languages%29/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 > 🔗 https://algs4.cs.princeton.edu/12oop/
 
 - _**Abstract data types (ADT).**_ An _abstract data type_ is a data type whose internal representation is hidden from the client. (i.e. object as in OOP)
@@ -659,15 +659,15 @@ More about ADT and programming model:
 #### Semantic Level
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
-↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-↗ [Formal System, Formal Logic, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-- ↗ [Classical Logic (Standard Formal Logic)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+↗ [Formal System, Formal Logic, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+- ↗ [Classical Logic (Standard Formal Logic)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
-↗ [Theory of Computation /Models of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md#Models%20of%20Computation)
-- ↗ [Models of Computation & Abstract Machines](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-- ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+↗ [Theory of Computation /Models of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md#Models%20of%20Computation)
+- ↗ [Models of Computation & Abstract Machines](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+- ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
+- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 ##### Control Flow
 
 ##### State Spaces
@@ -693,9 +693,9 @@ More about ADT and programming model:
 
 ### 3️⃣ Program in Practice: Data CRUD, Data Structure & Algorithm, and API Calling (Programmer's Perspective)
 > [!links]
-> ↗ [C & CPP](GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-> ↗ [Python](GPL(General%20Purpose%20Languages)/🐍%20Python/Python.md)
-> ↗ [Java](GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+> ↗ [C & CPP](GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+> ↗ [Python](GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/Python.md)
+> ↗ [Java](GPL%20%28General%20Purpose%20Languages%29/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 
 > [!links]
 > ↗ [Algorithm & Data Structure](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
@@ -713,8 +713,8 @@ More about ADT and programming model:
 > ↗ [Program Compilation & Execution](../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 
 > [!links]
-> ↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
-> ↗ [SRE (Software Reverse Engineering)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/SRE%20(Software%20Reverse%20Engineering)/SRE%20(Software%20Reverse%20Engineering).md)
+> ↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
+> ↗ [SRE (Software Reverse Engineering)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/SRE%20%28Software%20Reverse%20Engineering%29/SRE%20%28Software%20Reverse%20Engineering%29.md)
 
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
 <small>Application Execution and Computer Data Flow</small>

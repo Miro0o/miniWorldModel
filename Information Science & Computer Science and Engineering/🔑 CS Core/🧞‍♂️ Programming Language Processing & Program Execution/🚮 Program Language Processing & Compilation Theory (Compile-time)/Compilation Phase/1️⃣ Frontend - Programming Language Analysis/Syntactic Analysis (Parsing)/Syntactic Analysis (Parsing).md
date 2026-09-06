@@ -6,19 +6,19 @@
 
 ## Res
 ### Related Topics
-↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
-↗ [Attribute Grammars](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Attribute%20Grammars.md)
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29/Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29.md)
+↗ [Attribute Grammars](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29/Attribute%20Grammars.md)
 
-↗ [Theory of Computation](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-- ↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-	- ↗ [Context-Free Languages (CFL) & Push-Down Automata (PDA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Free%20Languages%20(CFL)%20&%20Push-Down%20Automata%20(PDA).md)
-	- ↗ [Context-Sensitive Languages (CSL) & Linear-Bounded Automata (LBA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Sensitive%20Languages%20(CSL)%20&%20Linear-Bounded%20Automata%20(LBA).md)
-- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+↗ [Theory of Computation](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
+	- ↗ [Context-Free Languages (CFL) & Push-Down Automata (PDA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Context-Free%20Languages%20%28CFL%29%20&%20Push-Down%20Automata%20%28PDA%29.md)
+	- ↗ [Context-Sensitive Languages (CSL) & Linear-Bounded Automata (LBA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Context-Sensitive%20Languages%20%28CSL%29%20&%20Linear-Bounded%20Automata%20%28LBA%29.md)
+- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 
-↗ [Program Analysis Basics](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
-↗ [SCA (Static Code Analysis) & SAST](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
+↗ [Program Analysis Basics](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+↗ [SCA (Static Code Analysis) & SAST](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md)
 
-↗ [Tokenization Techniques & Tokenizers](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
+↗ [Tokenization Techniques & Tokenizers](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
 
 
 ### Other Resources
@@ -72,7 +72,7 @@ Since a syntactic analysis can never be sound (accepting only good programs), we
 
 
 ### Formal Language and Formal Syntax
-> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29/Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29.md)
 > 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html#sec:2.1
 
@@ -80,7 +80,7 @@ In Computer Science, we refer to a _language_ as a set of a sequence of _symb
 
 The goal is automatically to figure out if a given word is in the language or not. We differentiate between _Recognizers_ and _Deciders_. A decider, is a machine (or _Automaton_), which can determine if a string is in a language or not. A recognizer does the same thing, but is allowed to never give an answer. Essentially run forever.
 
-↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 #### Levels of Syntax by Chomsky Hierarchy
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
 
@@ -110,14 +110,14 @@ Finally, we have _type 0_ languages, is a set of words which can be recognized
 
 ## Syntactic Analysis (Pattern Match) In Practice
 ### Type-3 Regular Language: Regular Expression
-> ↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
-> ↗ [regex (Regular Expression)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/📌%20regex%20(Regular%20Expression)/regex%20(Regular%20Expression).md)
+> ↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Regular%20Language%20%28RL%29%20&%20Finite%20Automata%20%28FA%29.md)
+> ↗ [regex (Regular Expression)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/📌%20regex%20%28Regular%20Expression%29/regex%20%28Regular%20Expression%29.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html#sec:3.1
 
 
 ### Type-2 Context-Free Language: Grammars and Parsers 🤔
-> ↗ [Context-Free Languages (CFL) & Push-Down Automata (PDA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Free%20Languages%20(CFL)%20&%20Push-Down%20Automata%20(PDA).md)
+> ↗ [Context-Free Languages (CFL) & Push-Down Automata (PDA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Context-Free%20Languages%20%28CFL%29%20&%20Push-Down%20Automata%20%28PDA%29.md)
 > 
 > 🔗 [Backus–Naur form - Wikipedia](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form)
 > 🔗 [Deterministic context-free language - Wikipedia](https://en.wikipedia.org/wiki/Deterministic_context-free_language)
@@ -133,7 +133,7 @@ Parsers are often generated automatically from grammars, and the grammars are of
 
 It is created by a set of productions (like with our grammar), but we allow each production to have multiple matches, separated by `|`: $A:=abc|B|x*$ and $B := a$. The BNF is often extended with syntax for many "$⋅*$" and some "$⋅+$". Furthermore, we often uses first-match semantics where we match on the first production we can. This makes the language _deterministically context-free_, which changes the complexity of parsing a program from $O(n^3)$ to $O(n$).
 
-(There are many categories of parsers. Compilation theory covers most of them. 🤔 ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md))
+(There are many categories of parsers. Compilation theory covers most of them. 🤔 ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29.md))
 #### `Tree-sitter`
 🔗
 -  [Tree-sitter](https://tree-sitter.github.io/)
@@ -156,7 +156,7 @@ You can write your own queries using the [Query Syntax](https://tree-sitter.git
 
 
 ### Type-1 Context-Sensitive Language: Trees 🤔
-> ↗ [Context-Sensitive Languages (CSL) & Linear-Bounded Automata (LBA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Sensitive%20Languages%20(CSL)%20&%20Linear-Bounded%20Automata%20(LBA).md)
+> ↗ [Context-Sensitive Languages (CSL) & Linear-Bounded Automata (LBA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Context-Sensitive%20Languages%20%28CSL%29%20&%20Linear-Bounded%20Automata%20%28LBA%29.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html#sec:3.3
 
@@ -184,7 +184,7 @@ public class Simple {
 
 We call recursively matching a pattern on a tree structure a fold. Actually, there is whole discipline in math devoted to this problem called Abstract Algebra (↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)). Here they have spend a lot of effort categorizing all kinds of folds (and unfolds). Here we refer to patterns as _Initial Algebras_, and we can see them as the nodes of the tree, where each edge is replaced by a hole. E.g ., the initial algebra of a list of $x$'s $[x]$ is $F[x]a=(x,a)+⊥$. The most common is called a catamorphism: $$𝚌𝚊𝚝𝚊:(F_Xa→a)→X→a$$which says I can reduce any structure $X$, with initial algebra $F_X$, given a function that given the algebra with have computed the value for all of your children, what is the value I should replace you with in your parent.
 #### Tree Traversals & Traversal Order
-> ↗ [Tree Basics](../../../../../../🧮%20Mathematics/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Tree%20Basics.md)
+> ↗ [Tree Basics](../../../../../../🧮%20Mathematics/Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Tree%20Basics.md)
 > ↗ [Basic Searching](../../../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Basic%20Searching/Basic%20Searching.md)
 > 
 > 🔗 [Tree traversal - Wikipedia](https://en.wikipedia.org/wiki/Tree_traversal) "An interactive demonstration of different tree traversal methods"
@@ -241,9 +241,9 @@ int reverse_dfs(node n){
 
 
 ### Type-0 R.E. Language: Bespoke ⭐
-> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-> ↗ [SCA (Static Code Analysis) & SAST](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
-> ↗ [Static Code Analysis Tools (SCAT)](../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Static%20Code%20Analysis%20Tools%20(SCAT).md)
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> ↗ [SCA (Static Code Analysis) & SAST](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md)
+> ↗ [Static Code Analysis Tools (SCAT)](../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20%28SCAT%29/Static%20Code%20Analysis%20Tools%20%28SCAT%29.md)
 > ↗ [Code Linters & Formatters](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Code%20Linters%20&%20Formatters/Code%20Linters%20&%20Formatters.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html#sec:3.4

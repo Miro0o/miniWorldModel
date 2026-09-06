@@ -6,13 +6,13 @@
 
 ## Res
 ### Related Topics
-↗ [Boolean Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Boolean%20Algebra/Boolean%20Algebra.md)
-↗ [Lambda Calculus (λ-Calculus)](../🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
-↗ [Combinatory Logic](../🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Combinatory%20Logic.md)
+↗ [Boolean Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29/Boolean%20Algebra/Boolean%20Algebra.md)
+↗ [Lambda Calculus (λ-Calculus)](../🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+↗ [Combinatory Logic](../🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Combinatory%20Logic.md)
 
-↗ [Game Theory & Multi-Agent Decision-Making](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
+↗ [Game Theory & Multi-Agent Decision-Making](../../../🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 
-↗ [Propositional Logic Model Checking & Algorithms](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/MC%20Algorithms/Propositional%20Logic%20Model%20Checking%20&%20Algorithms.md)
+↗ [Propositional Logic Model Checking & Algorithms](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/MC%20Algorithms/Propositional%20Logic%20Model%20Checking%20&%20Algorithms.md)
 
 
 ### Other Resources
@@ -40,7 +40,7 @@ Propositional logic is typically studied with a formal language, in which propos
 
 
 ### Proposition & Boolean Algebra ⭐
-↗ [Boolean Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Boolean%20Algebra/Boolean%20Algebra.md)
+↗ [Boolean Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29/Boolean%20Algebra/Boolean%20Algebra.md)
 #### Classification of Proposition
 > 🔗 https://baike.baidu.com/item/%E5%91%BD%E9%A1%8C/119969#4
 
@@ -112,9 +112,9 @@ A formula is _valid_ (a tautology) if it is true for **all** the valuation of th
 ![](../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2013.38.08.png)
 ##### SAT Problem! (And Model Checking) ⭐
 > [!links]
-> ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
-> ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
-> - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+> ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
+> ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29/Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29.md)
+> - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)
 
 > [!TIP]
 > ↗ [Complexity Theory & Computational Complexity](../../😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
@@ -212,22 +212,22 @@ A different use of logic emerged in the 1980s [Bry86, CBM90, Bry92], when logica
 
 Formulas can be viewed as a data structure for representing sets and relations. The advantage of logic in this application is succinctness: a formula can represent a set that has a size that is exponential in the size of the formula. Logic representation is therefore succinct. This is in strong contrast to conventional data structures which would explicitly enumerate all elements of a set, and therefore have a size that is linear in the size of the set.
 #### BDDs (Binary Decision Diagrams) & ROBDD
-↗ [BDDs (Binary Decision Diagrams) & ROBDD](../🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md)
+↗ [BDDs (Binary Decision Diagrams) & ROBDD](../🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20%28Binary%20Decision%20Diagrams%29%20&%20ROBDD.md)
 #### PDAG (Propositional Directed Acyclic Graph)
-↗ [PDAG (Propositional Directed Acyclic Graph)](../🧶%20Data%20Structure%20in%20Logic%20Formulas/PDAG%20(Propositional%20Directed%20Acyclic%20Graph).md)
+↗ [PDAG (Propositional Directed Acyclic Graph)](../🧶%20Data%20Structure%20in%20Logic%20Formulas/PDAG%20%28Propositional%20Directed%20Acyclic%20Graph%29.md)
 
 
 
 ## Reasoning in Propositional Logic
 > [!links]
-> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 > ↗ [Mathematics /Types of Proofs](../../../Mathematics.md#Types%20of%20Proofs)
 
 
 ### Formal Deduction in Logics
 > [!links]
-> ↗ [Logic (and Critical Thinking) / Logical Reasoning](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Logical%20Reasoning)
-> ↗ [Gentzen-Style Proofs (Natural Deduction)](../../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+> ↗ [Logic (and Critical Thinking) / Logical Reasoning](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md#Logical%20Reasoning)
+> ↗ [Gentzen-Style Proofs (Natural Deduction)](../../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2017.02.37.png)
 <small>《离散数学》四川大学计算机学院</small>

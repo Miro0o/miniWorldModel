@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Agentic LLMs & LLM Agent Harness](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
-↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Engineering and Security/Dossiers/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
+↗ [Agentic LLMs & LLM Agent Harness](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
+↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/Dossiers/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
 
 ↗ [OpenAI Codex](../🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenAI%20Codex.md)
 ↗ [Claude Code](../🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Claude%20Code.md)
@@ -15,7 +15,7 @@
 ↗ [OpenCode](../🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenCode.md)
 ↗ [Github Copilot](../🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Github%20Copilot.md)
 
-↗ [Agent Programming Languages & Agent-Oriented Programming (AOP)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20(AOP)/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20(AOP).md)
+↗ [Agent Programming Languages & Agent-Oriented Programming (AOP)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20%28AOP%29/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20%28AOP%29.md)
 
 
 ### Other Resources

@@ -29,12 +29,19 @@ function destination(root, rel) {
   return absolute;
 }
 
-function converted(bytes, file, index, config) {
+function converted(bytes, file, index, config, { sourceFile = file, sourceIndex = index, relocations } = {}) {
   if (bytes === null || bytes.includes(0)) return bytes;
   try {
-    const text = utf8.decode(bytes).replaceAll('\r\n', '\n');
-    return Buffer.from(/\.(md|markdown)$/i.test(file) && !file.startsWith('Assets/Scripts/')
-      ? repairText(text, file, index, config, { repairStale: true }).text : text);
+    let text = utf8.decode(bytes).replaceAll('\r\n', '\n');
+    if (/\.(md|markdown)$/i.test(file) && !file.startsWith('Assets/Scripts/')) {
+      text = repairText(text, sourceFile, sourceIndex, config, {
+        repairStale: true, normalizeEncoding: true, relocations, outputSource: file
+      }).text;
+      if (sourceFile !== file || sourceIndex !== index) {
+        text = repairText(text, file, index, config, { repairStale: true, normalizeEncoding: true }).text;
+      }
+    }
+    return Buffer.from(text);
   }
   catch (error) { if (error instanceof TypeError) return bytes; throw error; }
 }
@@ -101,6 +108,10 @@ export async function sync({ source, target, config, stateFile = STATE, head: re
     if (op.next) finalPaths.add(sanitizeTarget(op.next, config));
   }
   const index = new VaultIndex(finalPaths);
+  const sourceIndex = new VaultIndex(paths(source, base).map(file => sanitizeTarget(file, config)));
+  const windowsIndex = new VaultIndex(existingPaths);
+  const relocations = new Map(operations.filter(op => op.status === 'R')
+    .map(op => [sanitizeTarget(op.old, config), sanitizeTarget(op.next, config)]));
   const plans = [];
   const errors = [];
   const temp = await fs.mkdtemp(path.join(os.tmpdir(), 'vault-three-way-'));
@@ -123,7 +134,11 @@ export async function sync({ source, target, config, stateFile = STATE, head: re
       try {
         // Tools and generated workflow/config copies are maintained on main.
         const control = file.startsWith('Assets/Scripts/') || file.startsWith('.github/');
-        const data = control ? incoming : await merge(file, converted(before, file, index, config), converted(current, file, index, config), converted(incoming, file, index, config), temp);
+        const context = { sourceFile: old ?? file, relocations };
+        const data = control ? incoming : await merge(file,
+          converted(before, file, index, config, { ...context, sourceIndex }),
+          converted(current, file, index, config, { ...context, sourceIndex: windowsIndex }),
+          converted(incoming, file, index, config), temp);
         plans.push({ old, next, data });
       } catch (error) { errors.push(error.message); }
     }
@@ -133,6 +148,25 @@ export async function sync({ source, target, config, stateFile = STATE, head: re
     await fs.rmdir(temp);
   }
   if (errors.length) throw new Error(errors.join('\n'));
+  // Windows-only or otherwise untouched notes can also link to renamed files.
+  // Prepare these changes before writing, using the same exact rename mapping.
+  if (relocations.size) {
+    const touched = new Set(plans.flatMap(plan => [plan.old, plan.next]).filter(Boolean));
+    const untouched = existingPaths.filter(file => !touched.has(file) && /\.(md|markdown)$/i.test(file)
+      && !file.startsWith('Assets/Scripts/') && !file.startsWith('Assets/Reports/')
+      && !file.split('/').some(part => part.startsWith('.')));
+    for (let offset = 0; offset < untouched.length; offset += 64) {
+      const batch = await Promise.all(untouched.slice(offset, offset + 64).map(async file => {
+        const bytes = await fs.readFile(destination(target, file));
+        if (bytes.includes(0)) return null;
+        let text;
+        try { text = utf8.decode(bytes); } catch { return null; }
+        const result = repairText(text, file, windowsIndex, config, { relocations });
+        return result.edits.length ? { old: file, next: file, data: Buffer.from(result.text) } : null;
+      }));
+      plans.push(...batch.filter(Boolean));
+    }
+  }
   if (gitText(target, ['rev-parse', 'HEAD']) !== targetHead || gitText(target, ['status', '--porcelain', '--untracked-files=normal'])) throw new Error('Target changed while preparing sync; no files written');
 
   for (const plan of plans) {

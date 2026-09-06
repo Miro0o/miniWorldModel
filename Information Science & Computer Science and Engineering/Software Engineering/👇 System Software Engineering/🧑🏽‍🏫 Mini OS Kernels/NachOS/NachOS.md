@@ -5,12 +5,12 @@
 
 
 ## Res
-### Courses
-↗ [Operating System & OS Kernel (Theory Part)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
-↗ [Operating Systems & Kernels (Engineering Part)](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+### Related Topics
+↗ [Operating System & OS Kernel (Theory Part)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29.md)
+↗ [Operating Systems & Kernels (Engineering Part)](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29.md)
 
 
-### NachOS Solusions
+### NachOS Solutions
 🏫 [berkeley.edu/CS162/Fall2010/Nachos](https://inst.eecs.berkeley.edu/~cs162/fa10/Nachos/index.html)
 
 [github.com/soohyunc/nachos](https://github.com/soohyunc/nachos)
@@ -69,6 +69,9 @@ PKU advanced OS course project and notes based on Nachos.
 https://icoty.github.io/categories/操作系统/
 
 
+### Other Resources
+
+
 
 ## Intro
 ![](../../../../../Assets/Pics/Screenshot%202023-04-26%20at%209.00.30%20PM.png)
@@ -76,7 +79,4 @@ https://icoty.github.io/categories/操作系统/
 
 
 
-
-
 ## Ref
-

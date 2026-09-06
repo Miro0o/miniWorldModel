@@ -7,13 +7,13 @@
 ## Res
 ### Related Topics
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
-↗ [Operating Systems & Kernels (Engineering Part)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+↗ [Operating Systems & Kernels (Engineering Part)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29.md)
 
 ↗ [Operating System Components & Runtime Libraries](😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
-- ↗ [Operating System Kernel (Kernel Mode)](😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
-- ↗ [System Core Function Libraries & C Standard Library (User Mode)](😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
+- ↗ [Operating System Kernel (Kernel Mode)](😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20%28Kernel%20Mode%29.md)
+- ↗ [System Core Function Libraries & C Standard Library (User Mode)](😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20%28User%20Mode%29.md)
 
-↗ [C & CPP](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+↗ [C & CPP](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 
 ↗ [Programming Language Processing & Program Execution](../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 
@@ -29,9 +29,9 @@
 - 🎬【课程总结 (从逻辑门到计算机系统) [南京大学2022操作系统-P32]】 https://www.bilibili.com/video/BV1R34y1L7sY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 🏫 [UCB /CS162 Operating System](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
-🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
+🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/MIT/6.S081%286.828,%206.1810%29%20Operating%20System%20Engineering/6.S081%286.828,%206.1810%29%20Operating%20System%20Engineering.md)
 
-> Learning in action by ↗ [Operating Systems & Kernels (Engineering Part)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+> Learning in action by ↗ [Operating Systems & Kernels (Engineering Part)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29.md)
 > Theoretical knowledge begins with ↗ [📌 Operating System Overview](🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md)
 
 🇨🇳 ↗ [NJU /操作系统](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/操作系统/操作系统.md)
@@ -41,12 +41,12 @@ https://hexhive.epfl.ch/OSTEP-slides/
 Introduction to Operating Systems (CS-323, EPFL)
 This class is a gently introduction into operating systems concepts at EPFL for undergraduate students in their third year. The students come with a light background in C programming from a mandatory class on C concepts and an optional C programming project in their second year. Generally, the C background of the students is rather light and many have not really worked with Linux environments yet.
 #### Books
-↗ [Computer (Host) System](../Computer%20(Host)%20System.md)
+↗ [Computer (Host) System](../Computer%20%28Host%29%20System.md)
 ↗ [Computer Architecture](../Computer%20Architecture/Computer%20Architecture.md)
 
-↗ [Linux (Derived From UNIX Family)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
-↗ [UNIX Family](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/UNIX%20Family/UNIX%20Family.md)
-↗ [Windows](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows.md)
+↗ [Linux (Derived From UNIX Family)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/Linux%20%28Derived%20From%20UNIX%20Family%29.md)
+↗ [UNIX Family](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/UNIX%20Family/UNIX%20Family.md)
+↗ [Windows](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Microsoft%20Operating%20Systems/Windows/Windows.md)
 
 📖 [UNIX Network Programming](http://www.unpbook.com) volumn I & II
 📖 Advanced Programming in the UNIX® Environment 
@@ -151,8 +151,8 @@ Curious exactly what happens when you run a program on your computer? Read this 
 ### ⭐ Computation, Programming Languages and Programs
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
-↗ [Theory of Computation](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-- ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Theory of Computation](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 
 ↗ [Computer Languages & Programming Methodology](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 ↗ [Programming Language Processing & Program Execution](../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
@@ -167,13 +167,13 @@ Curious exactly what happens when you run a program on your computer? Read this 
 
 ### Operating System Overview
 ↗ [📌 Operating System Overview](🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md)
-↗ [Firmware and Computer (OS) Booting](../Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
+↗ [Firmware and Computer (OS) Booting](../Firmware%20and%20Computer%20%28OS%29%20Booting/Firmware%20and%20Computer%20%28OS%29%20Booting.md)
 
 
 
 ## Operating System Security
-↗ [Software Security](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Security.md)
-↗ [Operating System Security (& Mobile Security)](../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/Operating%20System%20Security%20(&%20Mobile%20Security).md)
+↗ [Software Security](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/Software%20Security.md)
+↗ [Operating System Security (& Mobile Security)](../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20%28&%20Mobile%20Security%29/Operating%20System%20Security%20%28&%20Mobile%20Security%29.md)
 
 
 

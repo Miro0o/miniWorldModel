@@ -6,22 +6,22 @@
 
 ## Res
 ### Related Topics
-↗ [C-Based Languages](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/C-Based%20Languages.md)
-- ↗ [C & CPP](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+↗ [C-Based Languages](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/C-Based%20Languages.md)
+- ↗ [C & CPP](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 
 ↗ [Compilation & Program Loading Tools](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 - ↗ [Program Linkers & Loaders](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Program%20Linkers%20&%20Loaders/Program%20Linkers%20&%20Loaders.md)
 
-↗ [Operating System Components & Runtime Libraries](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
-↗ [System Core Function Libraries & C Standard Library (User Mode)](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
-↗ [Load Control](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Load%20Control/Load%20Control.md)
+↗ [Operating System Components & Runtime Libraries](../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
+↗ [System Core Function Libraries & C Standard Library (User Mode)](../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20%28User%20Mode%29.md)
+↗ [Load Control](../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/Virtual%20Memory%20%28OS%20Software%20Level%29/Load%20Control/Load%20Control.md)
 
-↗ [File Types & File Formats](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20Types%20&%20File%20Formats.md)
-↗ [ELF (Executable and Linkable Format)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/ELF%20(Executable%20and%20Linkable%20Format)/ELF%20(Executable%20and%20Linkable%20Format).md)
-↗ [Windows PE (Portable Executable) File](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Windows%20PE%20(Portable%20Executable)%20File/Windows%20PE%20(Portable%20Executable)%20File.md)
+↗ [File Types & File Formats](../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20IO%20System/IO%20Generality%20%28via%20Abstraction%29/File%20&%20File%20System/File%20Types%20&%20File%20Formats.md)
+↗ [ELF (Executable and Linkable Format)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/ELF%20%28Executable%20and%20Linkable%20Format%29/ELF%20%28Executable%20and%20Linkable%20Format%29.md)
+↗ [Windows PE (Portable Executable) File](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20%28New%20Technology%29%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Windows%20PE%20%28Portable%20Executable%29%20File/Windows%20PE%20%28Portable%20Executable%29%20File.md)
 
-↗ [GNU C Library (glibc)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
-↗ [Microsoft C run-time library (MSVCRT.DLL)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows%20System%20Libraries%20&%20Runtime%20Environments/Microsoft%20C%20run-time%20library%20(MSVCRT.DLL)/Microsoft%20C%20run-time%20library%20(MSVCRT.DLL).md)
+↗ [GNU C Library (glibc)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/👎%20GNU%20C%20Library%20%28glibc%29/GNU%20C%20Library%20%28glibc%29.md)
+↗ [Microsoft C run-time library (MSVCRT.DLL)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Microsoft%20Operating%20Systems/Windows/Windows%20System%20Libraries%20&%20Runtime%20Environments/Microsoft%20C%20run-time%20library%20%28MSVCRT.DLL%29/Microsoft%20C%20run-time%20library%20%28MSVCRT.DLL%29.md)
 
 ↗ [Application Runtimes & SDKs](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Application%20Runtimes%20&%20SDKs.md)
 
@@ -61,10 +61,10 @@ As with assemblers, most link editors require two passes to produce a complete l
 ↗ [PE File Static Linking](Program%20Static%20Linking%20Procedure/PE%20File%20Static%20Linking.md)
 ↗ [PE File Dynamic Linking & Loading](Program%20Dynamic%20Linking%20&%20Loading%20Procedure/PE%20File%20Dynamic%20Linking%20&%20Loading.md)
 #### Linking Library Files
-↗ [Operating System Components & Runtime Libraries](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
-↗ [System Core Function Libraries & C Standard Library (User Mode)](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
-↗ [GNU C Library (glibc)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
-↗ [Microsoft C run-time library (MSVCRT.DLL)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows%20System%20Libraries%20&%20Runtime%20Environments/Microsoft%20C%20run-time%20library%20(MSVCRT.DLL)/Microsoft%20C%20run-time%20library%20(MSVCRT.DLL).md)
+↗ [Operating System Components & Runtime Libraries](../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
+↗ [System Core Function Libraries & C Standard Library (User Mode)](../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20%28User%20Mode%29.md)
+↗ [GNU C Library (glibc)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/👎%20GNU%20C%20Library%20%28glibc%29/GNU%20C%20Library%20%28glibc%29.md)
+↗ [Microsoft C run-time library (MSVCRT.DLL)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Microsoft%20Operating%20Systems/Windows/Windows%20System%20Libraries%20&%20Runtime%20Environments/Microsoft%20C%20run-time%20library%20%28MSVCRT.DLL%29/Microsoft%20C%20run-time%20library%20%28MSVCRT.DLL%29.md)
 
 ↗ [Application Runtimes & SDKs](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Application%20Runtimes%20&%20SDKs.md)
 
@@ -141,7 +141,7 @@ int execve(const char *filename, char *const argv[], char *const envp[]);
 > There is a difference between compilation, linking, and loading. 
 > That means, static /dynamic complication doesn't necessarily indicate static /dynamic linking!
 > 
-> ↗ [Program Language Processing & Compilation Theory (Compile-time)](../🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
+> ↗ [Program Language Processing & Compilation Theory (Compile-time)](../🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29.md)
 #### Static Linking
 ↗ [ELF File Static Linking](Program%20Static%20Linking%20Procedure/ELF%20File%20Static%20Linking.md)
 ↗ [PE File Static Linking](Program%20Static%20Linking%20Procedure/PE%20File%20Static%20Linking.md)

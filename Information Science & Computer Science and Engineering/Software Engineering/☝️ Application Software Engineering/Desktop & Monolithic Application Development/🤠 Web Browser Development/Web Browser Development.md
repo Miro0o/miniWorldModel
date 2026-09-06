@@ -9,18 +9,18 @@
 ↗ [Web Browser Implementations](📌%20Web%20Browser%20Implementations/Web%20Browser%20Implementations.md)
 ↗ [Video & Streaming Service](../../🎨%20Computer%20Graphics%20Programming/Video%20&%20Streaming%20Service/Video%20&%20Streaming%20Service.md)
 
-↗ [Web FrontEnd Dev](../../🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
-↗ [HTML (HyperText Markup Language)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Markup%20Languages%20&%20Data%20Representation/HTML%20(HyperText%20Markup%20Language).md)
-↗ [CSS (Cascading Style Sheets)](../../🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/CSS%20(Cascading%20Style%20Sheets)/CSS%20(Cascading%20Style%20Sheets).md)
+↗ [Web FrontEnd Dev](../../🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
+↗ [HTML (HyperText Markup Language)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Markup%20Languages%20&%20Data%20Representation/HTML%20%28HyperText%20Markup%20Language%29.md)
+↗ [CSS (Cascading Style Sheets)](../../🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/CSS%20%28Cascading%20Style%20Sheets%29/CSS%20%28Cascading%20Style%20Sheets%29.md)
 
-↗ [ECMAScript-Based Languages & JavaScript](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md)
+↗ [ECMAScript-Based Languages & JavaScript](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md)
 ↗ [JavaScript Runtime Environments](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JavaScript%20Runtime%20Environments.md)
 - ↗ [JS Runtime Libraries & SDK](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JS%20Runtime%20Libraries%20&%20SDK.md)
 - ↗ [JS Runtimes](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/JS%20Runtimes.md)
-	- ↗ [JS Engines (JS Compilation)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/JS%20Engines%20(JS%20Compilation).md)
-		- ↗ [Google V8](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/Google%20V8/Google%20V8.md)
-		- ↗ [Apple JavaScriptCore](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/Apple%20JavaScriptCore%20(SquirrelFish%20&%20Nitro)/Apple%20JavaScriptCore.md)
-		- ↗ [Mozilla SpiderMonkey](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/Mozilla%20SpiderMonkey/Mozilla%20SpiderMonkey.md)
+	- ↗ [JS Engines (JS Compilation)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20%28JS%20Compilation%29/JS%20Engines%20%28JS%20Compilation%29.md)
+		- ↗ [Google V8](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20%28JS%20Compilation%29/Google%20V8/Google%20V8.md)
+		- ↗ [Apple JavaScriptCore](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20%28JS%20Compilation%29/Apple%20JavaScriptCore%20%28SquirrelFish%20&%20Nitro%29/Apple%20JavaScriptCore.md)
+		- ↗ [Mozilla SpiderMonkey](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20%28JS%20Compilation%29/Mozilla%20SpiderMonkey/Mozilla%20SpiderMonkey.md)
 
 ↗ [Web Security](../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/Web%20Security.md)
 ↗ [Browser Security](../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🌈%20Browser%20Security/Browser%20Security.md)
@@ -125,7 +125,7 @@ Enabling Site Isolation has been a multi-year engineering effort. Site Isolation
 
 ![browser_navigation.excalidraw | 800](../../../../../Assets/Illustrations/Web/browser_navigation.excalidraw.md)
 #### Response Handling ⭐
-↗ [MIME (Multipurpose Internet Mail Extensions)](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/MIME%20(Multipurpose%20Internet%20Mail%20Extensions).md)
+↗ [MIME (Multipurpose Internet Mail Extensions)](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/MIME%20%28Multipurpose%20Internet%20Mail%20Extensions%29.md)
 [SafeBrowsing](https://safebrowsing.google.com/)
 [Cross-Origin Read Blocking for Web Developers](https://www.chromium.org/Home/chromium-security/corb-for-developers/)
 
@@ -184,7 +184,7 @@ The renderer process's core job is to turn HTML, CSS, and JavaScript into a web 
 ![](../../../../../Assets/Pics/Screenshot%202025-03-19%20at%2020.49.54.png)
 <small>Life of A Pixel <a>https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit#slide=id.ga884fe665f_64_1800</a></small>
 ##### DOM Parsing & Sub-resources Loading
-↗ [DOM (Document Object Model)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Modeling%20(Specification)%20Languages/DOM%20(Document%20Object%20Model).md)
+↗ [DOM (Document Object Model)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Modeling%20%28Specification%29%20Languages/DOM%20%28Document%20Object%20Model%29.md)
 
 Parsing an HTML document into a DOM is defined by the [HTML Standard](https://html.spec.whatwg.org/). You may have noticed that feeding HTML to a browser never throws an error. For example, missing closing `</p>` tag is a valid HTML. Erroneous markup like `Hi! <b>I'm <i>Chrome</b>!</i>` (b tag is closed before i tag) is treated as if you wrote `Hi! <b>I'm <i>Chrome</i></b><i>!</i>`. This is because the HTML specification is designed to handle those errors gracefully. If you are curious how these things are done, you can read on "[An introduction to error handling and strange cases in the parser](https://html.spec.whatwg.org/multipage/parsing.html#an-introduction-to-error-handling-and-strange-cases-in-the-parser)" section of the HTML spec.
 
@@ -223,7 +223,7 @@ You can divide JavaScript operation into small chunks and schedule to run at eve
 
 
 ## DOM (Document Object Model)
-> ↗ [DOM (Document Object Model)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Modeling%20(Specification)%20Languages/DOM%20(Document%20Object%20Model).md)
+> ↗ [DOM (Document Object Model)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Modeling%20%28Specification%29%20Languages/DOM%20%28Document%20Object%20Model%29.md)
 > As mentioned in "DOM Parsing & Sub-resources Loading" section on this page.
 
 Parsing an HTML document into a DOM is defined by the [HTML Standard](https://html.spec.whatwg.org/). You may have noticed that feeding HTML to a browser never throws an error. For example, missing closing `</p>` tag is a valid HTML. Erroneous markup like `Hi! <b>I'm <i>Chrome</b>!</i>` (b tag is closed before i tag) is treated as if you wrote `Hi! <b>I'm <i>Chrome</i></b><i>!</i>`. This is because the HTML specification is designed to handle those errors gracefully. If you are curious how these things are done, you can read on "[An introduction to error handling and strange cases in the parser](https://html.spec.whatwg.org/multipage/parsing.html#an-introduction-to-error-handling-and-strange-cases-in-the-parser)" section of the HTML spec.

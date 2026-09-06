@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [regex (Regular Expression)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/📌%20regex%20(Regular%20Expression)/regex%20(Regular%20Expression).md)
-↗ [Kleene Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Semiring%20&%20Semiring-Like%20Algebraic%20Structure/Star%20Semiring/Kleene%20Algebra.md)
+↗ [regex (Regular Expression)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/📌%20regex%20%28Regular%20Expression%29/regex%20%28Regular%20Expression%29.md)
+↗ [Kleene Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Semiring%20&%20Semiring-Like%20Algebraic%20Structure/Star%20Semiring/Kleene%20Algebra.md)
 
 
 ### Other Resources
@@ -24,7 +24,7 @@ Alternatively, a regular language can be defined as a language recognized by a 
 
 ### Formal Definition of Finite Automata
 > [!links]
-> ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md) "Transition System"
+> ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md) "Transition System"
 
 > 📖  Introduction to the Theory of Computation | Sipser
 

@@ -6,23 +6,23 @@
 
 ## Res
 ### Related Topics
-↗ [Set Theory & Axiomatic Set Theory](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+↗ [Set Theory & Axiomatic Set Theory](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
 ↗ [Topology Structure](../Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
 ↗ [Algebraic Topology](../Topology/Algebraic%20Topology/Algebraic%20Topology.md)
 
-↗ [Algebraic Graph Theory](../Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
+↗ [Algebraic Graph Theory](../Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
 
-↗ [Type Theory (类型论)](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+↗ [Type Theory (类型论)](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
 ↗ [Programming Language Theory (PLT)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
 ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
 
-↗ [Mathematical Logic (Foundations of Mathematics)](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-↗ [Formal System, Formal Logic, and Its Semantics](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-↗ [Programming Language & Formal Semantics](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+↗ [Formal System, Formal Logic, and Its Semantics](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Programming Language & Formal Semantics](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
-↗ [Functional Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+↗ [Functional Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
 
 ↗ [Morpheme & Word](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20%28Second%29%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/1️⃣%20English%20Grammar/Morpheme%20&%20Word/Morpheme%20&%20Word.md)
 
@@ -61,7 +61,7 @@ Lecture notes by Jesper Grodal, with contributions by Shachar Carmeli, Simon Gri
 
 因此，我们要先理解什么是**数学结构**。后文中，我们会首先介绍最常被提及的群结构，然后再介绍拓扑空间和CPO（完全偏序）。有了这些例子之后，对抽象概念的理解是事半功倍的。
 - ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-	- ↗ [Group Theory & Group-Like Algebraic Structure (群)](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群).md)
+	- ↗ [Group Theory & Group-Like Algebraic Structure (群)](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29.md)
 - ↗ [Topology](../Topology/Topology.md)
 	- ↗ [Topology Structure](../Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
 - ↗ [Relation & Relation Theory](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
@@ -101,7 +101,7 @@ Category theory has come to occupy a central position in contemporary mathematic
 
 ### Diagram Representation
 > [!links]
-> ↗ [Semigroup & Monoid Group Theory](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Semigroup%20&%20Monoid%20Group%20Theory/Semigroup%20&%20Monoid%20Group%20Theory.md)
+> ↗ [Semigroup & Monoid Group Theory](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Semigroup%20&%20Monoid%20Group%20Theory/Semigroup%20&%20Monoid%20Group%20Theory.md)
 
 > 🔗 https://thzt.github.io/2018/02/11/semantics-8/
 
@@ -195,7 +195,7 @@ Example functors:
 - Algebra of continuous functions
 - Tangent and cotangent bundles
 - Group actions/representations
-- ↗ [Lie Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Algebra-Like%20Structure%20&%20F-Algebra%20(Algebra%20Over%20A%20Field)/Non-Associative%20F-Algebra/Lie%20Algebra/Lie%20Algebra.md)
+- ↗ [Lie Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29/Algebra-Like%20Structure%20&%20F-Algebra%20%28Algebra%20Over%20A%20Field%29/Non-Associative%20F-Algebra/Lie%20Algebra/Lie%20Algebra.md)
 - Forgetful functors
 - Free functors
 - Homomorphism groups
@@ -210,7 +210,10 @@ Let _C_ and _D_ be categories. The collection of all functors from _C_ to�
 Functors are often defined by [universal properties](https://en.wikipedia.org/wiki/Universal_property "Universal property"); examples are the [tensor product](https://en.wikipedia.org/wiki/Tensor_product "Tensor product"), the [direct sum](https://en.wikipedia.org/wiki/Direct_sum_of_modules "Direct sum of modules") and [direct product](https://en.wikipedia.org/wiki/Direct_product "Direct product") of groups or vector spaces, construction of free groups and modules, [direct](https://en.wikipedia.org/wiki/Direct_limit "Direct limit") and [inverse](https://en.wikipedia.org/wiki/Inverse_limit "Inverse limit") limits. The concepts of [limit and colimit](https://en.wikipedia.org/wiki/Limit_\(category_theory\) "Limit (category theory)") generalize several of the above.
 
 Universal constructions often give rise to pairs of [adjoint functors](https://en.wikipedia.org/wiki/Adjoint_functors "Adjoint functors").
-#### Endofunctor & Monad
+#### Endofunctor (自函子) & Monad (单子)
+> [!TIP]
+> Do not confuse monad (单子) and monoid (幺半群).
+
 > 🔗 https://thzt.github.io/2018/02/11/semantics-8/
 
 范畴到自身的函子，称为**自函子**（endofunctor）。
@@ -242,7 +245,7 @@ $$\mu_x : T^2x \to Tx, \quad \forall x \in X$$
 > All told, a monad in X is just a monoid in the category of endofunctors of X, with product x replaced by composition of endofunctors and unit set by the identity endofunctor.
 ##### e.g. Monad on Hask Category
 > [!links]
-> ↗ [Haskell](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
+> ↗ [Haskell](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
 
 > 🔗 https://thzt.github.io/2018/02/11/semantics-8/
 
@@ -283,9 +286,9 @@ m        >>= (\x -> k x >>= h) = (m >>= k) >>= h
 ```
 
 可以证明，这些 “Monad Law” 刚好使 `m`, `>>=` 和 `return` 构成了范畴论意义上的 Monad。
-#### Adjoint Functor
+#### Adjoint Functor (伴随函子)
 > [!links]
-> ↗ [Program Abstraction & Abstract Interpretation](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+> ↗ [Program Abstraction & Abstract Interpretation](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Adjoint_functors
 

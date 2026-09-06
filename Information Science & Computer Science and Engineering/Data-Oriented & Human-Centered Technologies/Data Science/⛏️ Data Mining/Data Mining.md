@@ -8,17 +8,17 @@
 ### Related Topics
 ↗ [Artificial Intelligence](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 - ↗ [AI Basics & Major Techniques](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
-	- ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
-		- ↗ [Knowledge Graph (KG)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
-	- ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
+	- ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
+		- ↗ [Knowledge Graph (KG)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Graphical%20Models/Knowledge%20Graph%20%28KG%29/Knowledge%20Graph%20%28KG%29.md)
+	- ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
 
-↗ [Probability Theory & Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
-↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
+↗ [Probability Theory & Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
 
 ↗ [Mathematical Tools & Scientific Computing](../../../🧮%20Mathematics/Computational%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
 
 ↗ [R Language](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Science%20&%20Data%20Processing/R%20Language/R%20Language.md)
-↗ [Python](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/🐍%20Python/Python.md)
+↗ [Python](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/Python.md)
 
 
 ### Learning Resources

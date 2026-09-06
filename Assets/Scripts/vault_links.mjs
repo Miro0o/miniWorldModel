@@ -142,7 +142,7 @@ export class VaultIndex {
   }
 }
 
-export function inspectLink(link, source, index, config, { repairStale = false } = {}) {
+export function inspectLink(link, source, index, config, { repairStale = false, normalizeEncoding = false, relocations, outputSource = source } = {}) {
   const hash = link.raw.indexOf('#');
   const rawPath = hash < 0 ? link.raw : link.raw.slice(0, hash);
   const fragment = hash < 0 ? '' : link.raw.slice(hash);
@@ -192,8 +192,14 @@ export function inspectLink(link, source, index, config, { repairStale = false }
       }
     }
   }
-  // Do not alter drawing text without updating its compressed scene as well.
-  // Embedded-file records are separate from the scene and can be repaired.
+  // During sync, resolve against the historical tree before carrying links to
+  // their new locations. Git's explicit rename pairs identify renamed basenames.
+  if (resolved && (relocations?.has(resolved) || outputSource !== source)) {
+    const destination = relocations?.get(resolved) ?? resolved;
+    newPath = p.relative(p.dirname(outputSource), destination);
+    if (!/\.md$/i.test(decoded) && /\.md$/i.test(newPath)) newPath = newPath.slice(0, -3);
+    category = 'relocated-link';
+  }
   // Directory separators must stay literal in Markdown destinations. A decoded
   // filesystem lookup alone hides encoded separators left by older converters.
   const encodedSeparator = target && link.kind === 'markdown' && /%2f/i.test(rawPath);
@@ -201,6 +207,13 @@ export function inspectLink(link, source, index, config, { repairStale = false }
   let replacement = newPath !== decoded
     ? (link.kind === 'wiki' ? newPath : encode(newPath)) + fragment
     : encodedSeparator ? rawPath.replace(/%2f/gi, '/') + fragment : null;
+  // Equivalent URI spellings must compare equally during three-way merging.
+  // This opt-in does not change ordinary audit/repair output for valid links.
+  if (resolved && normalizeEncoding && link.kind !== 'wiki') {
+    replacement = encode(newPath) + fragment;
+    if (replacement === link.raw) replacement = null;
+    else if (category === 'resolved') category = 'equivalent-encoding';
+  }
   if (resolved && unencodedWhitespace) {
     if (category === 'resolved') category = 'unencoded-whitespace';
     replacement = (replacement ?? link.raw).replace(/\s/g, c => encodeURIComponent(c));

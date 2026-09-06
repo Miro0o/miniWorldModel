@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Functional Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+↗ [Functional Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
 
 
 ### Other Resources

@@ -6,17 +6,17 @@
 
 ## Res
 ### Related Topics
-↗ [ASM (Assembly Languages)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ASM%20(Assembly%20Languages).md)
-↗ [C & CPP](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-↗ [Operating System Kernel (Kernel Mode)](../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
+↗ [ASM (Assembly Languages)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/ASM%20%28Assembly%20Languages%29.md)
+↗ [C & CPP](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+↗ [Operating System Kernel (Kernel Mode)](../../Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20%28Kernel%20Mode%29.md)
 ↗ [Programming Language Processing & Program Execution](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-↗ [Memory Access & Addressing](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [Memory Access & Addressing](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
-↗ [TPM & TSS](../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Trusted%20Computing%20(TC)/TPM%20&%20TSS/TPM%20&%20TSS.md)
-↗ [TPM](../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Trusted%20Computing%20(TC)/TPM%20&%20TSS/TPM%20Project/TPM.md)
+↗ [TPM & TSS](../../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Trusted%20Computing%20%28TC%29/TPM%20&%20TSS/TPM%20&%20TSS.md)
+↗ [TPM](../../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Trusted%20Computing%20%28TC%29/TPM%20&%20TSS/TPM%20Project/TPM.md)
 
-↗ [Linux Kernel Booting Process](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20Kernel%20Booting%20Process.md)
-↗ [Android Starting Process](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Android%20&%20AOSP/Android%20Starting%20Process.md)
+↗ [Linux Kernel Booting Process](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🔩%20Linux%20Kernel/Linux%20Kernel%20Booting%20Process.md)
+↗ [Android Starting Process](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Android%20&%20AOSP/Android%20Starting%20Process.md)
 
 
 ### Learning Resources
@@ -54,7 +54,7 @@ Explain linux by its source codes!
 
 
 > [!links]
-> ↗ [Motherboard & Mainboard](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Motherboard%20&%20Mainboard.md)
+> ↗ [Motherboard & Mainboard](../../Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Motherboard%20&%20Mainboard.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Booting
 
@@ -93,8 +93,8 @@ For example, on a PC with [Windows](https://en.wikipedia.org/wiki/Windows "Wind
 Several devices are available that enable the user to _quick-boot_ into what is usually a variant of Linux for various simple tasks such as Internet access; examples are [Splashtop](https://en.wikipedia.org/wiki/Splashtop_OS "Splashtop OS") and [Latitude ON](https://en.wikipedia.org/wiki/Latitude_ON "Latitude ON").
 ##### Boot Sequence
 > [!links]
-> ↗ [Legacy BIOS (Basic IO System)](First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20Legacy%20BIOS%20(Basic%20IO%20System)/Legacy%20BIOS%20(Basic%20IO%20System).md) 
-> ↗ [UEFI BIOS](First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20UEFI%20BIOS/UEFI%20BIOS.md)
+> ↗ [Legacy BIOS (Basic IO System)](First-Stage%20Boot%20Loader%20%28System%20Firmware%29/📌%20Legacy%20BIOS%20%28Basic%20IO%20System%29/Legacy%20BIOS%20%28Basic%20IO%20System%29.md) 
+> ↗ [UEFI BIOS](First-Stage%20Boot%20Loader%20%28System%20Firmware%29/📌%20UEFI%20BIOS/UEFI%20BIOS.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Booting#Boot_sequence
 
@@ -157,9 +157,9 @@ On systems with those constraints, the first program loaded into RAM may not be 
 ### 1️⃣ First-Stage Boot Loader
 Examples of first-stage (hardware initialization stage) boot loaders include BIOS, UEFI, coreboot, Libreboot and Das U-Boot. On the IBM PC, the boot loader in the Master Boot Record (MBR) and the Partition Boot Record (PBR) was coded to require at least 32 KB[51][52] (later expanded to 64 KB[53]) of system memory and only use instructions supported by the original 8088/8086 processors.
 
-↗ [First-Stage Boot Loader (System Firmware)](First-Stage%20Boot%20Loader%20(System%20Firmware)/First-Stage%20Boot%20Loader%20(System%20Firmware).md)
-- ↗ [Legacy BIOS (Basic IO System)](First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20Legacy%20BIOS%20(Basic%20IO%20System)/Legacy%20BIOS%20(Basic%20IO%20System).md)
-- ↗[UEFI BIOS](First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20UEFI%20BIOS/UEFI%20BIOS.md)
+↗ [First-Stage Boot Loader (System Firmware)](First-Stage%20Boot%20Loader%20%28System%20Firmware%29/First-Stage%20Boot%20Loader%20%28System%20Firmware%29.md)
+- ↗ [Legacy BIOS (Basic IO System)](First-Stage%20Boot%20Loader%20%28System%20Firmware%29/📌%20Legacy%20BIOS%20%28Basic%20IO%20System%29/Legacy%20BIOS%20%28Basic%20IO%20System%29.md)
+- ↗[UEFI BIOS](First-Stage%20Boot%20Loader%20%28System%20Firmware%29/📌%20UEFI%20BIOS/UEFI%20BIOS.md)
 
 
 ### 2️⃣ Second-Stage Boot Loader
@@ -188,12 +188,12 @@ Large and complex systems may have boot procedures that proceed in multiple phas
 
 ## Booting Security
 > [!links]
-> ↗ [Trusted Computing (TC)](../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Trusted%20Computing%20(TC)/Trusted%20Computing%20(TC).md)
-> - ↗ [TPM & TSS](../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Trusted%20Computing%20(TC)/TPM%20&%20TSS/TPM%20&%20TSS.md)
+> ↗ [Trusted Computing (TC)](../../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Trusted%20Computing%20%28TC%29/Trusted%20Computing%20%28TC%29.md)
+> - ↗ [TPM & TSS](../../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Trusted%20Computing%20%28TC%29/TPM%20&%20TSS/TPM%20&%20TSS.md)
 >
-> ↗ [Operating System Security (& Mobile Security)](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/Operating%20System%20Security%20(&%20Mobile%20Security).md)
-> ↗ [SELinux (Security-Enhanced Linux)](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/SELinux%20(Security-Enhanced%20Linux)/SELinux%20(Security-Enhanced%20Linux).md)
-> ↗ [SecureBoot](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/SecureBoot.md)
+> ↗ [Operating System Security (& Mobile Security)](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20%28&%20Mobile%20Security%29/Operating%20System%20Security%20%28&%20Mobile%20Security%29.md)
+> ↗ [SELinux (Security-Enhanced Linux)](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20%28&%20Mobile%20Security%29/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/SELinux%20%28Security-Enhanced%20Linux%29/SELinux%20%28Security-Enhanced%20Linux%29.md)
+> ↗ [SecureBoot](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20%28&%20Mobile%20Security%29/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/SecureBoot.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Booting#Security
 

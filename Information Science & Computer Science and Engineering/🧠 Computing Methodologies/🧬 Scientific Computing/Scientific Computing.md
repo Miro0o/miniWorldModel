@@ -10,18 +10,18 @@
 ↗ [Mathematical Tools & Scientific Computing](../../🧮%20Mathematics/Computational%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
 
 ↗ [Computational Mathematics](../../🧮%20Mathematics/Computational%20Mathematics/Computational%20Mathematics.md)
-↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
-- ↗ [Mathematical Optimization (Programming)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+- ↗ [Mathematical Optimization (Programming)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
 
 ↗ [Formal Verification & Analysis Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
 - ↗ [LEAN](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
 
-↗ [Julia](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/Julia/Julia.md)
+↗ [Julia](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/Julia/Julia.md)
 ↗ [R Language](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Science%20&%20Data%20Processing/R%20Language/R%20Language.md)
 
 ↗ [Data Mining](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Mining.md)
 
-↗ [AI For Science (AI4S)](../👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI%20For%20Science%20(AI4S)/AI%20For%20Science%20(AI4S).md)
+↗ [AI For Science (AI4S)](../👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI%20For%20Science%20%28AI4S%29/AI%20For%20Science%20%28AI4S%29.md)
 
 
 

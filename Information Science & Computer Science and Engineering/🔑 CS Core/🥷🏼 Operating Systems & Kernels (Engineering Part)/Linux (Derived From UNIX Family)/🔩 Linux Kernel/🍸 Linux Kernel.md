@@ -24,22 +24,22 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 
 
 ### Related Topics
-↗ [Operating System Kernel (Kernel Mode)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
-↗ [Operating System & OS Kernel (Theory Part)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+↗ [Operating System Kernel (Kernel Mode)](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20%28Kernel%20Mode%29.md)
+↗ [Operating System & OS Kernel (Theory Part)](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29.md)
 
 ↗ [Linux System Libraries & Runtime Environments](../🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/Linux%20System%20Libraries%20&%20Runtime%20Environments.md)
-- ↗ [GNU C Library (glibc)](../🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
+- ↗ [GNU C Library (glibc)](../🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/👎%20GNU%20C%20Library%20%28glibc%29/GNU%20C%20Library%20%28glibc%29.md)
 
-↗ [Operating System Components & Runtime Libraries](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
+↗ [Operating System Components & Runtime Libraries](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
 ↗ [OS Level Programming with C & CPP](../../../../Software%20Engineering/👇%20System%20Software%20Engineering/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
 
-↗ [Linux Kernel (Modules) Management](../Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/Linux%20Kernel%20(Modules)%20Management.md)
-↗ [Firmware and Computer (OS) Booting](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
+↗ [Linux Kernel (Modules) Management](../Linux%20Free%20Software%20&%20OSS%20%28Open%20Source%20Software%29/Host%20Management/Linux%20Kernel%20%28Modules%29%20Management.md)
+↗ [Firmware and Computer (OS) Booting](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Firmware%20and%20Computer%20%28OS%29%20Booting/Firmware%20and%20Computer%20%28OS%29%20Booting.md)
 
 ↗ [The Linux man-pages Project](../The%20Linux%20man-pages%20Project.md)
 
-↗ [Linux Security](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/🐏%20Linux%20Security/Linux%20Security.md)
-↗ [Linux Security Modules (LSM)](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/Linux%20Security%20Modules%20(LSM).md)
+↗ [Linux Security](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20%28&%20Mobile%20Security%29/🐏%20Linux%20Security/Linux%20Security.md)
+↗ [Linux Security Modules (LSM)](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20%28&%20Mobile%20Security%29/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/Linux%20Security%20Modules%20%28LSM%29.md)
 
 ↗ [Computer Engineering, Embedded & IoT](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 ↗ [Embedded Operating Systems](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/Embedded%20Operating%20Systems.md)
@@ -385,7 +385,7 @@ It also implements architecture optimized functions (e.g. memcpy, string operati
 
 ## 🚂 Rust in the Kernel
 > 🔗 https://www.kernel.org/doc/html/next/rust/index.html
-> ↗ [Rust](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/⚙️%20Rust/Rust.md)
+> ↗ [Rust](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/⚙️%20Rust/Rust.md)
 
 To start using Rust in the kernel, please read the [Quick Start](https://www.kernel.org/doc/html/next/rust/quick-start.html)guide.
 

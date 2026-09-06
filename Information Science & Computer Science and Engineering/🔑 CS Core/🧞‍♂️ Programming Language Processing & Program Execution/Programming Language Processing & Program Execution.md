@@ -6,35 +6,35 @@
 
 ## Res
 ### Related Topics
-↗ [ASM (Assembly Languages)](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ASM%20(Assembly%20Languages).md)
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-↗ [ISA Instruction Basics](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Basics.md)
-↗ [Operating System & OS Kernel (Theory Part)](../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+↗ [ASM (Assembly Languages)](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/ASM%20%28Assembly%20Languages%29.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
+↗ [ISA Instruction Basics](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Basics.md)
+↗ [Operating System & OS Kernel (Theory Part)](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29.md)
 - ↗ [System Software Engineering](../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
 
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
-↗ [File Types & File Formats](../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20Types%20&%20File%20Formats.md)
-- ↗ [ELF (Executable and Linkable Format)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/ELF%20(Executable%20and%20Linkable%20Format)/ELF%20(Executable%20and%20Linkable%20Format).md)
-- ↗ [Windows PE (Portable Executable) File](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Windows%20PE%20(Portable%20Executable)%20File/Windows%20PE%20(Portable%20Executable)%20File.md)
+↗ [File Types & File Formats](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20IO%20System/IO%20Generality%20%28via%20Abstraction%29/File%20&%20File%20System/File%20Types%20&%20File%20Formats.md)
+- ↗ [ELF (Executable and Linkable Format)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/ELF%20%28Executable%20and%20Linkable%20Format%29/ELF%20%28Executable%20and%20Linkable%20Format%29.md)
+- ↗ [Windows PE (Portable Executable) File](../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20%28New%20Technology%29%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Windows%20PE%20%28Portable%20Executable%29%20File/Windows%20PE%20%28Portable%20Executable%29%20File.md)
 
-↗ [SCA (Static Code Analysis) & SAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
-↗ [DCA (Dynamic Code Analysis) & DAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST.md)
+↗ [SCA (Static Code Analysis) & SAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md)
+↗ [DCA (Dynamic Code Analysis) & DAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👙%20DCA%20%28Dynamic%20Code%20Analysis%29%20&%20DAST/DCA%20%28Dynamic%20Code%20Analysis%29%20&%20DAST.md)
 ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 ↗ [Application Runtimes & SDKs](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Application%20Runtimes%20&%20SDKs.md)
-↗ [Cloud Runtime](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Runtime/Cloud%20Runtime.md)
+↗ [Cloud Runtime](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20%28System%20Level%20Engineering%29/Cloud%20Runtime/Cloud%20Runtime.md)
 
-↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
-↗ [Firmware and Computer (OS) Booting](../👷🏾‍♂️%20Computer%20(Host)%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
-- ↗ [Computer Bootstrapping (Booting)](../👷🏾‍♂️%20Computer%20(Host)%20System/Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrapping%20(Booting)/Computer%20Bootstrapping%20(Booting).md)
+↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29.md)
+↗ [Firmware and Computer (OS) Booting](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Firmware%20and%20Computer%20%28OS%29%20Booting/Firmware%20and%20Computer%20%28OS%29%20Booting.md)
+- ↗ [Computer Bootstrapping (Booting)](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Firmware%20and%20Computer%20%28OS%29%20Booting/🌽%20Computer%20Bootstrapping%20%28Booting%29/Computer%20Bootstrapping%20%28Booting%29.md)
 
 ↗ [Programming Tool Chain](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Programming%20Tool%20Chain.md)
 - ↗ [Application Runtimes & SDKs](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Application%20Runtimes%20&%20SDKs.md)
 - ↗ [Compilation & Program Loading Tools](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 
-↗ [IDE (Integrated Development Environment)](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/IDE%20(Integrated%20Development%20Environment)/IDE%20(Integrated%20Development%20Environment).md)
+↗ [IDE (Integrated Development Environment)](../../Software%20Engineering/CASE%20%28Computer-Aided%20Software%20Engineering%29%20Tools/Lower%20CASE%20Tools/IDE%20%28Integrated%20Development%20Environment%29/IDE%20%28Integrated%20Development%20Environment%29.md)
 
-↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md)
 
 
 ### Learning Resources
@@ -90,71 +90,71 @@ hardware perspective:
 #### Information, Language, and Computation
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
-↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-↗ [Models of Computation & Abstract Machines](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-↗ [Lambda Calculus (λ-Calculus)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
-↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+↗ [Models of Computation & Abstract Machines](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+↗ [Lambda Calculus (λ-Calculus)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
 
-↗ [Formal System, Formal Logic, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-↗ [Type Theory (类型论)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+↗ [Formal System, Formal Logic, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Type Theory (类型论)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
 
-↗ [Programming Language Theory (PLT)](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+↗ [Programming Language Theory (PLT)](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
 ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 #### Encoding, Computer/Digital System Data Representations & Computer File Formats
-↗ [(Text) Data Representations & Storage in Computer](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
+↗ [(Text) Data Representations & Storage in Computer](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/%28Text%29%20Data%20Representations%20&%20Storage%20in%20Computer.md)
 ↗ [Encodings](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
-↗ [Reliable Data Transfer (RDT)](../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
+↗ [Reliable Data Transfer (RDT)](../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/Reliable%20Data%20Transfer%20%28RDT%29/Reliable%20Data%20Transfer%20%28RDT%29.md)
 ↗ [Information Theory](../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 
-↗ [OS /File System](../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
-↗ [OS /Linux /Linux File Formats](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
+↗ [OS /File System](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20IO%20System/IO%20Generality%20%28via%20Abstraction%29/File%20&%20File%20System/File%20&%20File%20System.md)
+↗ [OS /Linux /Linux File Formats](../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
 
 
 ### 0️⃣ (Compiled) Programming Languages
 ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-- ↗ [ASM (Assembly Languages)](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ASM%20(Assembly%20Languages).md)
-- ↗ [DSL(Domain Specific Languages)](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/DSL(Domain%20Specific%20Languages).md)
-- ↗ [Media Formats & Standards & Codec (Coder-Decoder)](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder).md)
+- ↗ [ASM (Assembly Languages)](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/ASM%20%28Assembly%20Languages%29.md)
+- ↗ [DSL(Domain Specific Languages)](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/DSL%28Domain%20Specific%20Languages%29.md)
+- ↗ [Media Formats & Standards & Codec (Coder-Decoder)](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20%28Coder-Decoder%29/Media%20Formats%20&%20Standards%20&%20Codec%20%28Coder-Decoder%29.md)
 
-↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md)
 
 
 ### 1️⃣ Compilation (Compile-time)
-↗ [Program Language Processing & Compilation Theory (Compile-time)](🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
-- ↗ [Compilation Phase](🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
-- ↗ [Assembly Phase](🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Assembly%20Phase/Assembly%20Phase.md)
+↗ [Program Language Processing & Compilation Theory (Compile-time)](🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29.md)
+- ↗ [Compilation Phase](🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/Compilation%20Phase.md)
+- ↗ [Assembly Phase](🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Assembly%20Phase/Assembly%20Phase.md)
 
-↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
-- ↗ [SCA (Static Code Analysis) & SAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
+↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
+- ↗ [SCA (Static Code Analysis) & SAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md)
 
 
 ### 2️⃣/3️⃣ Linking (Link-time) & Loading (Load-time)
-↗ [Program Linking & Loading (Link-time & Load-time)](🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time).md)
-↗ [Assembly Phase](🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Assembly%20Phase/Assembly%20Phase.md)
+↗ [Program Linking & Loading (Link-time & Load-time)](🚽%20Program%20Linking%20&%20Loading%20%28Link-time%20&%20Load-time%29/Program%20Linking%20&%20Loading%20%28Link-time%20&%20Load-time%29.md)
+↗ [Assembly Phase](🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Assembly%20Phase/Assembly%20Phase.md)
 
 
 ### 4️⃣ Execution (Runtime)
-↗ [von Neumann Based Microarchitecture /Memory Access](🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [von Neumann Based Microarchitecture /Memory Access](🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 ↗ [System Security /Memory Attack](../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Memory%20Threats%20&%20Attacks.md)
 
-↗ [Program Execution (Runtime)](🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+↗ [Program Execution (Runtime)](🤡%20Program%20Execution%20%28Runtime%29/Program%20Execution%20%28Runtime%29.md)
 ↗ [Application Runtimes & SDKs](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Application%20Runtimes%20&%20SDKs.md)
 
-↗ [Operating System & OS Kernel (Theory Part)](../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
-- ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
-- ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
+↗ [Operating System & OS Kernel (Theory Part)](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29.md)
+- ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29.md)
+- ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29.md)
 
 ↗ [System Security](../../CyberSecurity/System%20Security/System%20Security.md)
-- ↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
-- ↗ [Anti-Reverse Engineering & Software Protection](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Anti-Reverse%20Engineering%20&%20Software%20Protection/Anti-Reverse%20Engineering%20&%20Software%20Protection.md)
-- ↗ [Techniques - Vulnerability Disclosure & Discovery](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Techniques/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
-- ↗ [Software Vulnerability & Weakness](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
+- ↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
+- ↗ [Anti-Reverse Engineering & Software Protection](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Anti-Reverse%20Engineering%20&%20Software%20Protection/Anti-Reverse%20Engineering%20&%20Software%20Protection.md)
+- ↗ [Techniques - Vulnerability Disclosure & Discovery](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Techniques/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
+- ↗ [Software Vulnerability & Weakness](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 #### High-Level Language Function-Level Execution (Logical Execution)
 > [!links]
-> ↗ [Program Execution (Runtime)](🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+> ↗ [Program Execution (Runtime)](🤡%20Program%20Execution%20%28Runtime%29/Program%20Execution%20%28Runtime%29.md)
 
 > Use Linux program execution for example
 > 🔗 https://gist.github.com/x0nu11byt3/bcb35c3de461e5fb66173071a2379779
@@ -168,8 +168,8 @@ Summary:
 
 ![](../../../Assets/Pics/Pasted%20image%2020250329142225.png)
 #### CPU-Level Execution (Instruction Execution)
-↗ [ISA /Instruction Basics](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Basics.md)
-↗ [ISA /Instruction Execution](🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+↗ [ISA /Instruction Basics](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Basics.md)
+↗ [ISA /Instruction Execution](🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Instruction%20Execution.md)
 
 ![](../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
 

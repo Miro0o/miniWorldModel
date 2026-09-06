@@ -6,28 +6,28 @@
 
 ## Res
 ### Related Topics
-↗ [Model Theory (模型论)](../../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+↗ [Model Theory (模型论)](../../Model%20Theory%20%28模型论%29/Model%20Theory%20%28模型论%29.md)
 
 ↗ [Theory of Computation](../Theory%20of%20Computation.md)
-- ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+- ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
+- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 - ↗ [Complexity Theory & Computational Complexity](../Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 
 ↗ [Formal System, Formal Logic, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-- ↗ [Classical Logic (Standard Formal Logic)](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-- ↗ [Higher-Order Languages & Logics (HOL)](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Higher-Order%20Languages%20&%20Logics%20(HOL).md)
-	- ↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+- ↗ [Classical Logic (Standard Formal Logic)](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+- ↗ [Higher-Order Languages & Logics (HOL)](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Higher-Order%20Languages%20&%20Logics%20%28HOL%29.md)
+	- ↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 
 ↗ [Computer Languages & Programming Methodology](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-- ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-- ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+- ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+- ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
-- ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
-- ↗ [Constraint Solving & Theorem Proving](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
+- ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
+- ↗ [Constraint Solving & Theorem Proving](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 
-↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process.md)
 
 ↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
 
@@ -35,10 +35,10 @@
 - ↗ [Distributed Computing & Systems](../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 - ↗ [Concurrent Computing](../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Concurrent%20Computing/Concurrent%20Computing.md)
 - ↗ [Artificial Intelligence](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-	- ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+	- ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-↗ [Universal Algebra (泛代数)](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20(泛代数)/Universal%20Algebra%20(泛代数).md)
+↗ [Universal Algebra (泛代数)](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20%28泛代数%29/Universal%20Algebra%20%28泛代数%29.md)
 
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
@@ -54,17 +54,17 @@ https://github.com/Jacopo00811/02141_Computer_Science_Modelling
 ## Intro
 > [!links]
 > ↗ [Mathematical Modeling & Abstraction](../../../Mathematical%20Modeling%20&%20Abstraction.md)
-> ↗ [(Formal) Model Checking /1️⃣ System Modeling](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
+> ↗ [(Formal) Model Checking /1️⃣ System Modeling](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md#1️⃣%20System%20Modeling)
 > ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
-> ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+> ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 > 
 > ↗ [Proof Theory](../../Proof%20Theory/Proof%20Theory.md)
-> - ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
-> ↗ [Model Theory (模型论)](../../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+> - ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
+> ↗ [Model Theory (模型论)](../../Model%20Theory%20%28模型论%29/Model%20Theory%20%28模型论%29.md)
 > 
-> ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 > 
-> ↗ [Computer (Host) System](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+> ↗ [Computer (Host) System](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20%28Host%29%20System.md)
 
 ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>Language and Computation</small>
@@ -83,8 +83,8 @@ In computer science, and more specifically in computability theory and computati
 
 ### Mathematical Function as Computation 🤔
 ↗ [Function & Mapping of Set](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
-↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
-↗ [Functional Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+↗ [Functional Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
 
 
 ### Taxonomy of Computational Models
@@ -146,11 +146,11 @@ Some of these models have both [deterministic](https://en.wikipedia.org/wiki/De
 Models differ in their expressive power; for example, each function that can be computed by a _finite-state machine_ can also be computed by a _Turing machine_, but not vice versa.
 #### By Storage /Communication Style
 > [!links]
-> ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
-> ↗ [IPC (Inter Process Communication)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
-> ↗ [Concurrency Control](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/Concurrency%20Control.md)
+> ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29.md)
+> ↗ [IPC (Inter Process Communication)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/IPC%20%28Inter%20Process%20Communication%29/IPC%20%28Inter%20Process%20Communication%29.md)
+> ↗ [Concurrency Control](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/Concurrency%20Control/Concurrency%20Control.md)
 > 
-> ↗ [OS Scheduling & Resource Management](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Scheduling%20&%20Resource%20Management/OS%20Scheduling%20&%20Resource%20Management.md)
+> ↗ [OS Scheduling & Resource Management](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Scheduling%20&%20Resource%20Management/OS%20Scheduling%20&%20Resource%20Management.md)
 
 > 🤖 https://chatgpt.com/share/69d04122-f4f4-838a-b6cb-5c2b6ad3f707
 
@@ -234,8 +234,8 @@ These are common in OS, verification, and concurrency theory.
 
 ## (Symbolic) Transition System ⭐
 > [!links]
-> ↗ [Graph Theory](../../../Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
-> ↗ [Graph Basics](../../../Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+> ↗ [Graph Theory](../../../Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/Graph%20Theory.md)
+> ↗ [Graph Basics](../../../Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
 > 
 > ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 > - programs are transition systems
@@ -345,7 +345,7 @@ The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions t
 #### Action Language
 [Action languages](https://en.wikipedia.org/wiki/Action_language "Action language") are extensions of transition systems, adding a set of _fluents_ _F_, a set of values _V_, and a function that maps _F_ × _S_ to _V_.
 #### Automata & State Machine 🤔
-↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 
 > [!quote]
 > Transition systems coincide mathematically with [abstract rewriting systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system "Abstract rewriting system") (as explained further in this article) and [directed graphs](https://en.wikipedia.org/wiki/Directed_graph "Directed graph"). They differ from [finite-state automata](https://en.wikipedia.org/wiki/Finite-state_automata "Finite-state automata") in several ways:
@@ -353,16 +353,16 @@ The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions t
 > - The set of transitions is not necessarily finite, or even countable.
 > - No "start" state or "final" states are given.
 #### Probabilistic Version of Transition Systems
-↗ [Probability Theory & Statistics](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
-↗ [Markov Process & Markov Chain (MC)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
-- ↗ [Discrete-Time Markov Chains (DTMC)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)
-- ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
+↗ [Probability Theory & Statistics](../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+↗ [Markov Process & Markov Chain (MC)](../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20%28MC%29/Markov%20Process%20&%20Markov%20Chain%20%28MC%29.md)
+- ↗ [Discrete-Time Markov Chains (DTMC)](../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20%28MC%29/Discrete-Time%20Markov%20Chains%20%28DTMC%29/Discrete-Time%20Markov%20Chains%20%28DTMC%29.md)
+- ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20%28MC%29/Markov%20Decision%20Processes%20%28MDP%29%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20%28MDP%29%20&%20Stochastic%20Dynamic%20Program.md)
 $$\text{Data} \ \overset{Statistics}{\to} \ \text{Models (Rules)} \ \overset{Probability}{\to} \ Data ()$$
 
 
 ### Semantics of Transition System
 > [!links]
-> ↗ [Graph Basics](../../../Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+> ↗ [Graph Basics](../../../Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
 #### Execution & Trace
 **Execution**
 An execution fragment is a sequence of transitions.
@@ -433,7 +433,7 @@ Synchronizations may reduce the size composition but the worstcase is still expo
 
 ## Turing Machine Equivalents / Turing Complete Models (Partial)
 > [!links]
-> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Turing_machine_equivalents
 
@@ -467,14 +467,14 @@ While none of the following models have been shown to have more power than the s
 
 
 ### Lambda Calculus
-↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 
 
 ### General Recursive (μ-Recursive) Function
 > [!links]
-> ↗ [Natural Number & Peano Axioms](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+> ↗ [Natural Number & Peano Axioms](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
 > ↗ [Function & Mapping of Set](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
-> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 
 > 🔗 https://en.wikipedia.org/wiki/General_recursive_function
 
@@ -503,7 +503,7 @@ Rewriting can be [non-deterministic](https://en.wikipedia.org/wiki/Nondetermini
 
 ##### Markov Algorithm
 > [!links]
-> ↗ [Markov Process & Markov Chain (MC)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
+> ↗ [Markov Process & Markov Chain (MC)](../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20%28MC%29/Markov%20Process%20&%20Markov%20Chain%20%28MC%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Markov_algorithm
 
@@ -518,7 +518,7 @@ In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_com
 
 ### Automaton /Automata
 > [!links]
-> ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 
 #### Queue Automaton (Pull-Up Automaton)
 
@@ -526,7 +526,7 @@ In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_com
 
 
 ### Combinatory Logic
-↗ [Combinatory Logic](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Combinatory%20Logic.md)
+↗ [Combinatory Logic](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Combinatory%20Logic.md)
 
 
 
@@ -534,8 +534,8 @@ In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_com
 > [!links]
 > ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.mdj)
 > 
-> ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
-> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+> ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model.md)
+> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
 
 > 🤖 https://chatgpt.com/share/69d04122-f4f4-838a-b6cb-5c2b6ad3f707
 
@@ -578,11 +578,11 @@ In this sense, modern computers are best understood as **register- and memory-ba
 
 ### Register Machine
 > [!links]
-> ↗ [CPU (Central Processing Unit)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
-> - ↗ [Register](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/Register.md)
+> ↗ [CPU (Central Processing Unit)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/CPU%20%28Central%20Processing%20Unit%29.md)
+> - ↗ [Register](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/📌%20Inside%20CPU%20Core%20%28Core%20Microarchitecture%29/Register.md)
 > 
-> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-> ↗ [ASM (Assembly Languages)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ASM%20(Assembly%20Languages).md)
+> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
+> ↗ [ASM (Assembly Languages)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/ASM%20%28Assembly%20Languages%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Turing_machine_equivalents#Register_machine_models
 
@@ -621,16 +621,16 @@ In practical computer science, a related concept known as a [virtual machine](h
 
 ### CPU & ISA Models
 > [!links]
-> ↗ [Computer Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
+> ↗ [Computer Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Architecture.md)
 > 
-> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-> ↗ [ISA Instruction Basics](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Basics.md)
+> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
+> ↗ [ISA Instruction Basics](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Basics.md)
 > 
-> ↗ [Microprocessor & Microprocessors Unit (MPU)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
-> ↗ [CPU (Central Processing Unit)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+> ↗ [Microprocessor & Microprocessors Unit (MPU)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29.md)
+> ↗ [CPU (Central Processing Unit)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/CPU%20%28Central%20Processing%20Unit%29.md)
 #### x86 ISA & Programmer-Visible Model of x86 Machine
 > [!links]
-> ↗ [x86 Architecture Family (80x86, 8086 family)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
+> ↗ [x86 Architecture Family (80x86, 8086 family)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/CISC%20%28Complex%20Instruction%20Set%20Computer%29/x86%20Architecture%20Family%20%2880x86,%208086%20family%29/x86%20Architecture%20Family%20%2880x86,%208086%20family%29.md)
 
 > 🤖 https://chatgpt.com/share/69d04122-f4f4-838a-b6cb-5c2b6ad3f707
 
@@ -706,20 +706,20 @@ There is a program counter/instruction pointer (`RIP` in 64-bit mode), along wit
 - instructions that may use both registers and memory operands
 #### Arm ISA & Programmer-Visible Model of Arm Machine
 > [!links]
-> ↗ [ARM Architecture Family](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/ARM%20Architecture%20Family/ARM%20Architecture%20Family.md)
+> ↗ [ARM Architecture Family](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/RISC%20%28Reduced%20Instruction%20Set%20Computer%29/ARM%20Architecture%20Family/ARM%20Architecture%20Family.md)
 
 
 ### (Formal) Semantics of Programming Language & Computer Program ⭐
-↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-- ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-	- ↗ [Operational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
-	- ↗ [Axiomatic Semantics (Hoare-Style Logic)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Axiomatic%20Semantics%20(Hoare-Style%20Logic)/Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
-	- ↗ [Denotational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Denotational%20Semantics.md)
-	- ↗ [Algebraic Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Algebraic%20Semantics/Algebraic%20Semantics.md)
-	- ↗ [Action Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Action%20Semantics/Action%20Semantics.md)
+↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+- ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+	- ↗ [Operational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
+	- ↗ [Axiomatic Semantics (Hoare-Style Logic)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Axiomatic%20Semantics%20%28Hoare-Style%20Logic%29/Axiomatic%20Semantics%20%28Hoare-Style%20Logic%29.md)
+	- ↗ [Denotational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Denotational%20Semantics.md)
+	- ↗ [Algebraic Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Algebraic%20Semantics/Algebraic%20Semantics.md)
+	- ↗ [Action Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Action%20Semantics/Action%20Semantics.md)
 
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
-↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 
 
@@ -727,26 +727,26 @@ There is a program counter/instruction pointer (`RIP` in 64-bit mode), along wit
 > [!links]
 > ↗ [Computing Methodologies](../../../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 > 
-> ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-> ↗ [Programming Language Constructs and Abstraction Mechanisms](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms.md)
+> ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+> ↗ [Programming Language Constructs and Abstraction Mechanisms](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms.md)
 
 
 ### Concurrent Computation Models
 ↗ [Concurrent Computing](../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Concurrent%20Computing/Concurrent%20Computing.md)
 
-↗ [Programming Language Constructs and Abstraction Mechanisms](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms.md)
+↗ [Programming Language Constructs and Abstraction Mechanisms](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms.md)
 "Concurrency and Communication "
 
-↗ [Concurrent Programming](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrent%20Programming.md)
-↗ [Go Concurrent Programming](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/Golang/📌%20Go%20Advanced/Go%20Concurrent%20Programming.md)
-↗ [Java Concurrent Programming](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java%20Advanced/Java%20Concurrent%20Programming.md)
-↗ [Python Concurrent Programming](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/🐍%20Python/📌%20Python%20Basics/Python%20Concurrent%20Programming.md)
+↗ [Concurrent Programming](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/Concurrent%20Programming.md)
+↗ [Go Concurrent Programming](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/Golang/📌%20Go%20Advanced/Go%20Concurrent%20Programming.md)
+↗ [Java Concurrent Programming](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/⚰️%20JVM-Based%20Languages/☕️%20Java/Java%20Advanced/Java%20Concurrent%20Programming.md)
+↗ [Python Concurrent Programming](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/📌%20Python%20Basics/Python%20Concurrent%20Programming.md)
 
-↗ [Concurrency Control](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/Concurrency%20Control.md)
-↗ [Concurrency Control](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Concurrency%20Control/Concurrency%20Control.md)
+↗ [Concurrency Control](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/Concurrency%20Control/Concurrency%20Control.md)
+↗ [Concurrency Control](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20%28Physical%20Modeling%29/Transaction%20Management/Concurrency%20Control/Concurrency%20Control.md)
 
 ↗ [Actor Model & Actor Model Theory](Concurrent%20Computation%20Models/Actor%20Model%20&%20Actor%20Model%20Theory.md)
-↗ [Process Calculi (Process Algebras)](Concurrent%20Computation%20Models/Process%20Calculi%20(Process%20Algebras).md)
+↗ [Process Calculi (Process Algebras)](Concurrent%20Computation%20Models/Process%20Calculi%20%28Process%20Algebras%29.md)
 
 
 ### Distributed Computation Models
@@ -757,38 +757,38 @@ There is a program counter/instruction pointer (`RIP` in 64-bit mode), along wit
 
 ### Models of Artificial Intelligence & Cognition 🤔
 > [!links]
-> ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
-> ↗ [Bayesian Statistics & Statistical Analysis](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
+> ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process.md)
+> ↗ [Bayesian Statistics & Statistical Analysis](../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
 > 
 > ↗ [Artificial Intelligence](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 > ↗ [Cognitive & Neuron Science](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Cognitive%20&%20Neuron%20Science/Cognitive%20&%20Neuron%20Science.md)
 > 
 > ↗ [AI Basics & Major Techniques](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
-> - ↗ [Reflex-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Reflex-Based%20Models.md)
-> - ↗ [Logic-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Logic-Based%20Models.md)
-> - ↗ [State-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/State-Based%20Models.md)
-> - ↗ [Variables-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Variables-Based%20Models.md)
+> - ↗ [Reflex-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20%28Semantic%20Level%29/Reflex-Based%20Models.md)
+> - ↗ [Logic-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20%28Semantic%20Level%29/Logic-Based%20Models.md)
+> - ↗ [State-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20%28Semantic%20Level%29/State-Based%20Models.md)
+> - ↗ [Variables-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20%28Semantic%20Level%29/Variables-Based%20Models.md)
 > 
-> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
-> - ↗ [(Deep) Generative Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/(Deep)%20Generative%20Models.md)
-> 	- ↗ [Autoregressive (AR) Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/Autoregressive%20(AR)%20Models/Autoregressive%20(AR)%20Models.md)
-> 	- ↗ [Flow-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/Flow-Based%20Models/Flow-Based%20Models.md)
-> 	- ↗ [Latent-Variable Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/Latent-Variable%20Models/Latent-Variable%20Models.md)
-> 	- ↗ [Energy-Based Models (EBMs)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/Energy-Based%20Models%20(EBMs)/Energy-Based%20Models%20(EBMs).md)
-> 	- ↗ [GAN (Generative Adversarial Network)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/GAN%20(Generative%20Adversarial%20Network)/GAN%20(Generative%20Adversarial%20Network).md)
-> - ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-> 	- ↗ [Neural Network Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
+> - ↗ [(Deep) Generative Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🪽%20%28Deep%29%20Generative%20Models/%28Deep%29%20Generative%20Models.md)
+> 	- ↗ [Autoregressive (AR) Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🪽%20%28Deep%29%20Generative%20Models/Autoregressive%20%28AR%29%20Models/Autoregressive%20%28AR%29%20Models.md)
+> 	- ↗ [Flow-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🪽%20%28Deep%29%20Generative%20Models/Flow-Based%20Models/Flow-Based%20Models.md)
+> 	- ↗ [Latent-Variable Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🪽%20%28Deep%29%20Generative%20Models/Latent-Variable%20Models/Latent-Variable%20Models.md)
+> 	- ↗ [Energy-Based Models (EBMs)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🪽%20%28Deep%29%20Generative%20Models/Energy-Based%20Models%20%28EBMs%29/Energy-Based%20Models%20%28EBMs%29.md)
+> 	- ↗ [GAN (Generative Adversarial Network)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🪽%20%28Deep%29%20Generative%20Models/GAN%20%28Generative%20Adversarial%20Network%29/GAN%20%28Generative%20Adversarial%20Network%29.md)
+> - ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods.md)
+> 	- ↗ [Neural Network Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 #### Artificial Neuron & Neural Networks
 > [!links]
-> ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+> ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods.md)
 > 
-> ↗ [Model Tuning & Hyperparameter Optimization (HPO)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
+> ↗ [Model Tuning & Hyperparameter Optimization (HPO)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29.md)
 > 
-> ↗ [Neural Network Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
-> - ↗ [CNN (Convolutional Neural Network)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
-> - ↗ [Transformers](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> ↗ [Neural Network Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+> - ↗ [CNN (Convolutional Neural Network)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/CNN%20%28Convolutional%20Neural%20Network%29.md)
+> - ↗ [Transformers](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 > 
-> ↗ [(Deep) Generative Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/(Deep)%20Generative%20Models.md)
+> ↗ [(Deep) Generative Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🪽%20%28Deep%29%20Generative%20Models/%28Deep%29%20Generative%20Models.md)
 
 ![](../../../../../Assets/Pics/Pasted%20image%2020260318160336.png)
 <small><a>https://www.activestate.com/blog/neural-network-showdown-tensorflow-vs-pytorch/</a></small>
@@ -798,27 +798,27 @@ There is a program counter/instruction pointer (`RIP` in 64-bit mode), along wit
 
 
 ---
-↗ [Transformers](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Transformers](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 https://sebastianraschka.com/llm-architecture-gallery/
 - This page collects architecture figures and fact sheets from [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison), [From GPT-2 to gpt-oss](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the), [From DeepSeek V3 to V3.2](https://magazine.sebastianraschka.com/p/technical-deepseek), and [A Dream of Spring for Open-Weight LLMs](https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight), plus selected release posts or technical reports when a new architecture has not been covered in one of those articles yet. It focuses on the architecture panels only. Click a figure to enlarge it and use the model title to jump to the corresponding article section.
 - ![](../../../../../Assets/Pics/Pasted%20image%2020260404215455.png)
 
 #### Multi-Agent Systems (MAS)
-↗ [Agents & Multi-Agent System (MAS)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Agents%20&%20Multi-Agent%20System%20(MAS)/Agents%20&%20Multi-Agent%20System%20(MAS).md)
+↗ [Agents & Multi-Agent System (MAS)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Agents%20&%20Multi-Agent%20System%20%28MAS%29/Agents%20&%20Multi-Agent%20System%20%28MAS%29.md)
 
-↗ [Game Theory & Multi-Agent Decision-Making](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
+↗ [Game Theory & Multi-Agent Decision-Making](../../../🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 
 
 
 ## Models For (Secure) Communication & Protocols
 ↗ [Computer Networking and Communication](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-↗ [Computer Network Protocol Suites Standardizations & Administration](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration.md)
+↗ [Computer Network Protocol Suites Standardizations & Administration](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration.md)
 
-↗ [Network Security Protocol Stacks](../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Network%20Security%20Protocol%20Stacks.md)
+↗ [Network Security Protocol Stacks](../../../../CyberSecurity/Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Network%20Security%20Protocol%20Stacks.md)
 
-↗ [Security Protocols & Cryptographic Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
-↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+↗ [Security Protocols & Cryptographic Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 
 ↗ [Cryptology & Secure Communication](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 - ![](../../../../../Assets/Pics/Screenshot%202023-03-01%20at%208.48.15%20PM.png)
@@ -828,16 +828,16 @@ https://sebastianraschka.com/llm-architecture-gallery/
 - ↗ [Shannon–Weaver Model](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Information-Theoretic%20Models/Shannon–Weaver%20Model.md)
 	- ![](../../../../../Assets/Pics/Pasted%20image%2020260209201620.png)
 	- <small>The five essential parts of the Shannon–Weaver model: A source uses a transmitter to translate a message into a signal, which is sent through a channel and translated back by a receiver until it reaches its destination.</small>
-- ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
+- ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20%28Formal%29%20Models/Dolev–Yao%20%28DY%29%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
 
 
 
 ## Models For Security
-↗ [Protocol & Policy Security](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🗂️%20Protocol%20&%20Policy%20Security/Protocol%20&%20Policy%20Security.md)
+↗ [Protocol & Policy Security](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🗂️%20Protocol%20&%20Policy%20Security/Protocol%20&%20Policy%20Security.md)
 
 ↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
 
-↗ [Access Control Models](../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/Access%20Control%20Models.md)
+↗ [Access Control Models](../../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/📌%20Access%20Control%20Models/Access%20Control%20Models.md)
 
 
 

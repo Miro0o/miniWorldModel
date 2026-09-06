@@ -7,26 +7,26 @@
 ## Res
 ### Related Topics
 ↗ [Information Systems & System Architecture Design](../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
-↗ [Enterprise Architecture Modeling (Software Integration)](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
+↗ [Enterprise Architecture Modeling (Software Integration)](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29/Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29.md)
 ↗ [Data Integration](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Integration.md)
 
 ↗ [Database System Security](../../../CyberSecurity/System%20Security/Database%20System%20Security/Database%20System%20Security.md)
-↗ [Database Languages](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
+↗ [Database Languages](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Database%20Languages.md)
 
 ↗ [Distributed Computing & Systems](../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 ↗ [Parallel Computing & Programming](../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing%20&%20Programming/Parallel%20Computing%20&%20Programming.md)
 
 ↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 
-↗ [NAS (Network-Attached Storage) Protocols](../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)
+↗ [NAS (Network-Attached Storage) Protocols](../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/NAS%20%28Network-Attached%20Storage%29%20Protocols/NAS%20%28Network-Attached%20Storage%29%20Protocols.md)
 ↗ [Data Analysis & Automation](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
 
-↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
-↗ [OS IO System](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
-- ↗ [File & File System](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
+↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29.md)
+↗ [OS IO System](../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20IO%20System/OS%20IO%20System.md)
+- ↗ [File & File System](../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20IO%20System/IO%20Generality%20%28via%20Abstraction%29/File%20&%20File%20System/File%20&%20File%20System.md)
 
-↗ [Computer Memory & Storage](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
-↗ [Computer IO System & Device Management](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System%20&%20Device%20Management/Computer%20IO%20System%20&%20Device%20Management.md)
+↗ [Computer Memory & Storage](../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
+↗ [Computer IO System & Device Management](../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20IO%20System%20&%20Device%20Management/Computer%20IO%20System%20&%20Device%20Management.md)
 
 
 ### Courses
@@ -78,7 +78,7 @@ https://www.infoq.cn/theme/46
 ### History of Database Systems /DBMS
 1. Manual Management
 2. File-Based Systems
-	1. ↗ [File & File System](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
+	1. ↗ [File & File System](../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20IO%20System/IO%20Generality%20%28via%20Abstraction%29/File%20&%20File%20System/File%20&%20File%20System.md)
 3. First-generation Database Systems
 	1. Hierarchical and Network  
 4. Second generation Database Systems
@@ -102,7 +102,7 @@ https://www.infoq.cn/theme/46
 * Services to Promote Data Independence
 * Utility Services
 
-==marked== part is discussed at ↗ [Transaction Management](Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Transaction%20Management.md)
+==marked== part is discussed at ↗ [Transaction Management](Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20%28Physical%20Modeling%29/Transaction%20Management/Transaction%20Management.md)
 
 
 ### DS Pros & Cons
@@ -208,7 +208,7 @@ Physical Design
 
 ### 1️⃣ DBMS (DataBase Management System)
 > [!links]
-> ↗ [DBMS (DataBase Management System) Implementations](Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/DBMS%20(DataBase%20Management%20System)%20Implementations.md)
+> ↗ [DBMS (DataBase Management System) Implementations](Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20%28DataBase%20Management%20System%29%20Implementations/DBMS%20%28DataBase%20Management%20System%29%20Implementations.md)
 
 ![](../../../../Assets/Pics/Screenshot%202023-02-27%20at%205.44.00%20PM.png)
 <small>DBMS's Hierarchical Architecture (SQL & Relational datamodel as an example)</small>
@@ -222,7 +222,7 @@ The system catalog **consists of tables and views that describe the structure o
 
 ### 2️⃣ Database Application/ Clients
 > [!links]
-> ↗ [Database Applications (DBAP) & Services](Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
+> ↗ [Database Applications (DBAP) & Services](Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20%28DBAP%29%20&%20Services/Database%20Applications%20%28DBAP%29%20&%20Services.md)
 
 
 
@@ -230,10 +230,10 @@ The system catalog **consists of tables and views that describe the structure o
 ↗ [Database System Design](Database%20System%20Design/Database%20System%20Design.md)
 - ↗ [Database System Meta Design](Database%20System%20Design/Database%20System%20Meta%20Design/Database%20System%20Meta%20Design.md)
 - ↗ [Database Design](Database%20System%20Design/Database%20Design/Database%20Design.md)
-	- ↗ [Conceptual Database Design (Conceptual Modeling)](Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
-	- ↗ [Logical Database Design (Data Modeling)](Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
-	- ↗ [Physical Database Design (Physical Modeling)](Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
-- ↗ [Database Application (DBAP) Design](Database%20System%20Design/Database%20Application%20(DBAP)%20Design/Database%20Application%20(DBAP)%20Design.md)
+	- ↗ [Conceptual Database Design (Conceptual Modeling)](Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20%28Conceptual%20Modeling%29/Conceptual%20Database%20Design%20%28Conceptual%20Modeling%29.md)
+	- ↗ [Logical Database Design (Data Modeling)](Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20%28Data%20Modeling%29/Logical%20Database%20Design%20%28Data%20Modeling%29.md)
+	- ↗ [Physical Database Design (Physical Modeling)](Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20%28Physical%20Modeling%29/Physical%20Database%20Design%20%28Physical%20Modeling%29.md)
+- ↗ [Database Application (DBAP) Design](Database%20System%20Design/Database%20Application%20%28DBAP%29%20Design/Database%20Application%20%28DBAP%29%20Design.md)
 
 
 
@@ -247,9 +247,9 @@ Database System Security Management
 Professional, Legal, and Ethical Issues in Data Management
 
 Risk Management & Data Recovery
-↗ [Database Recovery](Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Database%20Recovery/Database%20Recovery.md)
+↗ [Database Recovery](Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20%28Physical%20Modeling%29/Transaction%20Management/Database%20Recovery/Database%20Recovery.md)
 
-↗ [Risk Management (In Cyberspace)](../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/Risk%20Management%20(In%20Cyberspace).md)
+↗ [Risk Management (In Cyberspace)](../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/Risk%20Management%20%28In%20Cyberspace%29.md)
 
 ↗ [Data Security](../../../CyberSecurity/Data%20Security/Data%20Security.md)
 - ↗ [Data Protection & Security](../../../CyberSecurity/Data%20Security/Data%20Protection%20&%20Security/Data%20Protection%20&%20Security.md)

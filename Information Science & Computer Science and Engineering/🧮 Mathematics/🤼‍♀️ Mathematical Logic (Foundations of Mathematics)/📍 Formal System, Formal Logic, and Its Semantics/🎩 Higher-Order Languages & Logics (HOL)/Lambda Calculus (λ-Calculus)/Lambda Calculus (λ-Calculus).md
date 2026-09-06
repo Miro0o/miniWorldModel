@@ -6,17 +6,17 @@
 
 ## Res
 ### Related Topics
-↗ [PL Static Syntactic Analysis & Type System](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
-↗ [Type Analysis](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
-↗ [Type Theory (类型论)](../../🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+↗ [PL Static Syntactic Analysis & Type System](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
+↗ [Type Analysis](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
+↗ [Type Theory (类型论)](../../🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
 
-↗ [Functional Models & Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/Object-Based%20Data%20Model%20Languages/Functional%20Models%20&%20Languages/Functional%20Models%20&%20Languages.md)
-↗ [Functional Programming Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+↗ [Functional Models & Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Object-Based%20Data%20Model%20Languages/Functional%20Models%20&%20Languages/Functional%20Models%20&%20Languages.md)
+↗ [Functional Programming Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
 
-↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 
 ↗ [Function & Mapping of Set](../../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
-↗ [Number Sequence](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md)
+↗ [Number Sequence](../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md)
 - Recurrence Relation (递推关系) & Recursion (递归)
 - Generating Function (生成函数 /母函数)
 
@@ -84,7 +84,7 @@ What is PLUS times PLUS?
 
 为了让λ演算更容易被接受，我们暂时先岔开话题，看看自然数是怎么定义的。
 
-> ↗ [Natural Number & Peano Axioms](../../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+> ↗ [Natural Number & Peano Axioms](../../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
 
 [λ演算](https://zh.wikipedia.org/wiki/%CE%9B%E6%BC%94%E7%AE%97)，是1930年由邱奇（[Alonzo Church](https://zh.wikipedia.org/zh-hans/%E9%98%BF%E9%9A%86%E4%BD%90%C2%B7%E9%82%B1%E5%A5%87)）发明的一套[形式系统](https://zh.wikipedia.org/zh/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%B5%B1)，它是从具体的函数定义，函数调用和函数复合中，抽象出来的数学概念。
 
@@ -169,8 +169,8 @@ Lambda Diagrams are a graphical notation for closed lambda terms, in which abstr
 
 ## Typed Lambda Calculus
 > [!links]
-> ↗ [Type Theory (类型论)](../../🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
-> ↗ [PL Static Syntactic Analysis & Type System](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
+> ↗ [Type Theory (类型论)](../../🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
+> ↗ [PL Static Syntactic Analysis & Type System](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
 
 
 ### Simply Typed Lambda Calculus
@@ -184,8 +184,8 @@ Lambda Diagrams are a graphical notation for closed lambda terms, in which abstr
 > 	- ↗ [σ-Algebra (Sigma Algebra)](../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/σ-Algebra%20%28Sigma%20Algebra%29/σ-Algebra%20%28Sigma%20Algebra%29.md)
 > 	- ↗ [Henkin Model & Henkin Semantics](Henkin%20Model%20&%20Henkin%20Semantics.md)
 > - Cartesian closed category
-> 	- ↗ [Category Theory (范畴论)](../../../../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
-> 	- ↗ [Cartesian Closed Category (CCC)](../../../../🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
+> 	- ↗ [Category Theory (范畴论)](../../../../🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
+> 	- ↗ [Cartesian Closed Category (CCC)](../../../../🩻%20Category%20Theory%20%28范畴论%29/Cartesian%20Closed%20Category%20%28CCC%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus
 

@@ -9,32 +9,32 @@
 ↗ [Mathematical Modeling & Abstraction](../../Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Decision Science](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Decision%20Science/Decision%20Science.md)
 
-↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
+↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20%28Decision%20Making%29.md)
 
-↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
 - ↗ [Differential Geometry & Differential Manifold](../../Geometry/Differential%20Geometry%20&%20Differential%20Manifold/Differential%20Geometry%20&%20Differential%20Manifold.md)
 ↗ [Topology](../../Topology/Topology.md)
-↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
 ↗ [Formal Verification & Analysis Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
 - ↗ [LEAN](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
 
-↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
-- ↗ [Automated & Generic Theorem Provers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
-- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
-- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
+↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+- ↗ [Generic & Automated Theorem Provers (ATP)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md)
+- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)
+- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
 
-↗ [Systematic & Combinatorial Search (Classical Search)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+↗ [Systematic & Combinatorial Search (Classical Search)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29.md)
 
 ↗ [Scientific Computing](../../../🧠%20Computing%20Methodologies/🧬%20Scientific%20Computing/Scientific%20Computing.md)
-↗ [Julia](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/Julia/Julia.md)
+↗ [Julia](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/Julia/Julia.md)
 
 ↗ [Problem Solving & Search-Based Methods](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
 - ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
-- ↗ [Constraint Satisfaction Problems (CSPs)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
-↗ [AI4Math](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Math/AI4Math.md)
+- ↗ [Constraint Satisfaction Problems (CSPs)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20%28CSPs%29.md)
+↗ [AI4Math](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4Math/AI4Math.md)
 
 
 ### Learning Resources
@@ -73,7 +73,7 @@ In the more general approach, an [optimization problem](https://en.wikipedia.or
 
 
 ### Formal Methods, Symbolic Methods, Constraint Solving, Search & AI Planning, and Mathematical Optimization ⭐
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md) ✅
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md) ✅
 ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
 
 

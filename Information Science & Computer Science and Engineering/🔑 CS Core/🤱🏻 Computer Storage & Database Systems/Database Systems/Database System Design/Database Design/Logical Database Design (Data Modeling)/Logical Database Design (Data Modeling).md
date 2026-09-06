@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Database Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
+↗ [Database Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Database%20Languages.md)
 
 
 ### Other Resources
@@ -19,26 +19,26 @@
 
 
 ## Data Models & Languages
-↗ [Database Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
+↗ [Database Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Database%20Languages.md)
 
 
 
 ## Data Modelings
 ### 1️⃣ Data Models & Data Modelings
 #### Object-Based Data Models
-↗ [Object-Based Data Model Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
+↗ [Object-Based Data Model Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
 
 
 #### Record-Based Data Models
-↗ [Record-Based Data Model Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
+↗ [Record-Based Data Model Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
 
 
 #### 🧑🏿‍🏭 Physical Data Models (Physical Database Design)
-↗ [Physical Database Design (Physical Modeling)](../Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
+↗ [Physical Database Design (Physical Modeling)](../Physical%20Database%20Design%20%28Physical%20Modeling%29/Physical%20Database%20Design%20%28Physical%20Modeling%29.md)
 
 
 ### 2️⃣ Normalization (For Relational Data Models)
-↗ [Normalization](Record-Based%20Data%20Models/Relational%20(Data)%20Models/Normalization/Normalization.md)
+↗ [Normalization](Record-Based%20Data%20Models/Relational%20%28Data%29%20Models/Normalization/Normalization.md)
 
 
 

@@ -6,32 +6,32 @@
 
 ## Res
 ### Related Topics
-↗ [The Internet Development (and Web Development)](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
-- ↗ [Web FrontEnd Dev](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
-- ↗ [Web BackEnd Dev & Middleware](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
-	- ↗ [RPC Services](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/RPC%20Services/RPC%20Services.md)
-		- ↗ [gRPC](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/RPC%20Services/gRPC/gRPC.md)
-		- ↗ [tRPC](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/👬%20APIs%20&%20Interfaces%20in%20Web%20Development/Web%20Server%20Side%20API/tRPC/tRPC.md)
-- ↗ [APIs & Interfaces in Web Development](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/👬%20APIs%20&%20Interfaces%20in%20Web%20Development/APIs%20&%20Interfaces%20in%20Web%20Development.md)
-	- ↗ [REST (Restful API)](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/👬%20APIs%20&%20Interfaces%20in%20Web%20Development/🎯%20API%20Interaction%20Methods/REST%20(Restful%20API).md)
-↗ [GraphQL](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/GraphQL/GraphQL.md)
+↗ [The Internet Development (and Web Development)](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/The%20Internet%20Development%20%28and%20Web%20Development%29.md)
+- ↗ [Web FrontEnd Dev](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
+- ↗ [Web BackEnd Dev & Middleware](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
+	- ↗ [RPC Services](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/RPC%20Services/RPC%20Services.md)
+		- ↗ [gRPC](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/RPC%20Services/gRPC/gRPC.md)
+		- ↗ [tRPC](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/👬%20APIs%20&%20Interfaces%20in%20Web%20Development/Web%20Server%20Side%20API/tRPC/tRPC.md)
+- ↗ [APIs & Interfaces in Web Development](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/👬%20APIs%20&%20Interfaces%20in%20Web%20Development/APIs%20&%20Interfaces%20in%20Web%20Development.md)
+	- ↗ [REST (Restful API)](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/👬%20APIs%20&%20Interfaces%20in%20Web%20Development/🎯%20API%20Interaction%20Methods/REST%20%28Restful%20API%29.md)
+↗ [GraphQL](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/🦆%20Query%20Languages%20%28Data%20Query%20Languages,%20DQL%29/GraphQL/GraphQL.md)
 
-↗ [Network (& Communication) Security](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
-- ↗ [Application Layer Security Protocols](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
-- ↗ [Tunneling Protocols & Technologies](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/📌%20Tunneling%20Protocols%20&%20Technologies/Tunneling%20Protocols%20&%20Technologies.md)
-- ↗ [Proxy Technology (& Bypassing GFW)](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20(&%20Bypassing%20GFW)/Proxy%20Technology%20(&%20Bypassing%20GFW).md)
-↗ [Network Traffic Analysis](../../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
+↗ [Network (& Communication) Security](../../../../../CyberSecurity/Network%20%28&%20Communication%29%20Security/Network%20%28&%20Communication%29%20Security.md)
+- ↗ [Application Layer Security Protocols](../../../../../CyberSecurity/Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
+- ↗ [Tunneling Protocols & Technologies](../../../../../CyberSecurity/Network%20%28&%20Communication%29%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20%28Virtual%20Personal%20Network%29/📌%20Tunneling%20Protocols%20&%20Technologies/Tunneling%20Protocols%20&%20Technologies.md)
+- ↗ [Proxy Technology (& Bypassing GFW)](../../../../../CyberSecurity/Network%20%28&%20Communication%29%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20%28&%20Bypassing%20GFW%29/Proxy%20Technology%20%28&%20Bypassing%20GFW%29.md)
+↗ [Network Traffic Analysis](../../../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
 
 ↗ [Pentesting](../../../../../CyberSecurity/🥇%20Best%20Practice/💉%20Pen↗ testing/Pentesting.md)
 ↗ [Web Security](../../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/Web%20Security.md)
-↗ [CTF /Web](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/Web/Web.md)
+↗ [CTF /Web](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/CTF%20&%20AWD/Web/Web.md)
 
-↗ [Remote Procedure Call (RPC)](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Remote%20Procedure%20Call%20(RPC).md)
-↗ [Cloud RPC Services](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/Cloud%20RPC%20Services.md)
+↗ [Remote Procedure Call (RPC)](../../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20IO%20System/IO%20Generality%20%28via%20Abstraction%29/🛜%20Network%20Sockets/Remote%20Procedure%20Call%20%28RPC%29.md)
+↗ [Cloud RPC Services](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20%28System%20Level%20Engineering%29/Orchestration%20&%20Management/Cloud%20RPC%20Services.md)
 
 ↗ [Network Application Communication Architectures](../Network%20Application%20Communication%20Architectures.md)
 
-↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20%28WMF%29.md)
 
 
 ### Other Resources
@@ -62,18 +62,18 @@ has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020240510144223.png)
 <small>https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA</small>
 
-↗ [HTTP (HyperText Transfer Protocol)](HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
-↗ [HTTPS (HTTP Security)](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Secure%20Communication/HTTPS%20(HTTP%20Security)/HTTPS%20(HTTP%20Security).md)
+↗ [HTTP (HyperText Transfer Protocol)](HTTP%20%28HyperText%20Transfer%20Protocol%29/HTTP%20%28HyperText%20Transfer%20Protocol%29.md)
+↗ [HTTPS (HTTP Security)](../../../../../CyberSecurity/Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Secure%20Communication/HTTPS%20%28HTTP%20Security%29/HTTPS%20%28HTTP%20Security%29.md)
 
 
 ### Web Browser /Front End
 ↗ [Web Browser Implementations](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/📌%20Web%20Browser%20Implementations/Web%20Browser%20Implementations.md)
-↗ [Software Engineering /FrontendDev](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
+↗ [Software Engineering /FrontendDev](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 
 
 ### Web Server /Back End
-↗ [Software Engineering  /BackEndDev](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
-↗ [Software Engineering /Middleware](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
+↗ [Software Engineering  /BackEndDev](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
+↗ [Software Engineering /Middleware](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
 
 
 

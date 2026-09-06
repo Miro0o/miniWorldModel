@@ -9,26 +9,26 @@
 
 
 ### Related Topics
-↗ [API (Application Program Interface)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/API%20(Application%20Program%20Interface).md)
-↗ [API Testing](../../../🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Types%20of%20Software%20Testing/Integration%20Test/API%20Testing/API%20Testing.md)
-↗ [API Gateway](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/API%20Gateway/API%20Gateway.md)
+↗ [API (Application Program Interface)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/API%20%28Application%20Program%20Interface%29.md)
+↗ [API Testing](../../../🎭%20Software%20Quality%20Assurance%20%28SQA%29/🧪%20Software%20Testing/Types%20of%20Software%20Testing/Integration%20Test/API%20Testing/API%20Testing.md)
+↗ [API Gateway](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20%28System%20Level%20Engineering%29/Orchestration%20&%20Management/API%20Gateway/API%20Gateway.md)
 ↗ [Web API Security](../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20API%20Security/Web%20API%20Security.md)
-↗ [API Dev Tool Chain](../../../CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/API%20Dev%20Tool%20Chain/API%20Dev%20Tool%20Chain.md)
+↗ [API Dev Tool Chain](../../../CASE%20%28Computer-Aided%20Software%20Engineering%29%20Tools/Lower%20CASE%20Tools/API%20Dev%20Tool%20Chain/API%20Dev%20Tool%20Chain.md)
 
-↗ [CGI (Common Gateway Interface)](Web%20Server%20Side%20API/CGI%20(Common%20Gateway%20Interface).md)
-- ↗ [WSGI (Web Server Gateway Interface)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/📌%20Python%20Third-party%20Libs/SE%20&%20Web/WSGI%20(Web%20Server%20Gateway%20Interface).md)
+↗ [CGI (Common Gateway Interface)](Web%20Server%20Side%20API/CGI%20%28Common%20Gateway%20Interface%29.md)
+- ↗ [WSGI (Web Server Gateway Interface)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/📌%20Python%20Third-party%20Libs/SE%20&%20Web/WSGI%20%28Web%20Server%20Gateway%20Interface%29.md)
 
-↗ [Remote Procedure Call (RPC)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Remote%20Procedure%20Call%20(RPC).md)
+↗ [Remote Procedure Call (RPC)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20IO%20System/IO%20Generality%20%28via%20Abstraction%29/🛜%20Network%20Sockets/Remote%20Procedure%20Call%20%28RPC%29.md)
 ↗ [Network Programming & RPC](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 
-↗ [0x01 Application Layer](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/0x01%20Application%20Layer.md)
-↗ [0x02 Presentation Layer (Syntax Layer)](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x02%20Presentation%20Layer%20(Syntax%20Layer)/0x02%20Presentation%20Layer%20(Syntax%20Layer).md)
-- ↗ [(Object) Serialization & Deserialization](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x02%20Presentation%20Layer%20(Syntax%20Layer)/(Object)%20Serialization%20&%20Deserialization/(Object)%20Serialization%20&%20Deserialization.md)
-↗ [0x03 Session Layer](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x03%20Session%20Layer/0x03%20Session%20Layer.md)
+↗ [0x01 Application Layer](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/0x01%20Application%20Layer.md)
+↗ [0x02 Presentation Layer (Syntax Layer)](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x02%20Presentation%20Layer%20%28Syntax%20Layer%29/0x02%20Presentation%20Layer%20%28Syntax%20Layer%29.md)
+- ↗ [(Object) Serialization & Deserialization](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x02%20Presentation%20Layer%20%28Syntax%20Layer%29/%28Object%29%20Serialization%20&%20Deserialization/%28Object%29%20Serialization%20&%20Deserialization.md)
+↗ [0x03 Session Layer](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x03%20Session%20Layer/0x03%20Session%20Layer.md)
 
 ↗ [Cloud Computing & Cloud Native](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 
-↗ [GraphQL](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/GraphQL/GraphQL.md)
+↗ [GraphQL](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/🦆%20Query%20Languages%20%28Data%20Query%20Languages,%20DQL%29/GraphQL/GraphQL.md)
 
 
 

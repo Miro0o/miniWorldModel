@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Python](../../../../GPL(General%20Purpose%20Languages)/🐍%20Python/Python.md)
+↗ [Python](../../../../GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/Python.md)
 
 
 ### Learning Resources

@@ -7,13 +7,13 @@
 ## Res
 ### Related Topics
 ↗ [Information Theory](../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
-↗ [Measures (Measure Theory)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
-↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
-- ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
-- ↗ [Bayesian Statistics & Statistical Analysis](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
-	- ↗ [Inferential Statistics (Analysis) & Statistical Inference](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference.md)
-	- ↗ [Variational Inference](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Variational%20Inference/Variational%20Inference.md)
-	- ↗ [Causal Inference in Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Causal%20Inference%20in%20Statistics/Causal%20Inference%20in%20Statistics.md)
+↗ [Measures (Measure Theory)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/Measures%20%28Measure%20Theory%29.md)
+↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+- ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process.md)
+- ↗ [Bayesian Statistics & Statistical Analysis](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
+	- ↗ [Inferential Statistics (Analysis) & Statistical Inference](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20%28Analysis%29%20&%20Statistical%20Inference/Inferential%20Statistics%20%28Analysis%29%20&%20Statistical%20Inference.md)
+	- ↗ [Variational Inference](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20%28Analysis%29%20&%20Statistical%20Inference/Variational%20Inference/Variational%20Inference.md)
+	- ↗ [Causal Inference in Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20%28Analysis%29%20&%20Statistical%20Inference/Causal%20Inference%20in%20Statistics/Causal%20Inference%20in%20Statistics.md)
 
 ↗ [Data Mining](../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Mining.md)
 
@@ -209,16 +209,16 @@ From a theoretical viewpoint, [probably approximately correct learning](https:/
 > by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/).  
 > MIT Press, 2023.
 
-↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
-↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
-- ↗ [Markov Process & Markov Chain (MC)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
-↗ [Bayesian Statistics & Statistical Analysis](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
+↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process.md)
+- ↗ [Markov Process & Markov Chain (MC)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20%28MC%29/Markov%20Process%20&%20Markov%20Chain%20%28MC%29.md)
+↗ [Bayesian Statistics & Statistical Analysis](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
 
 ↗ [Information Theory](../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 
-↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
 
-↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
 #### Machine Learning, Statistical Learning, Neural Network & Deep Learning, and AI?
 #machine_learning #statistical_learning #neural_networks #deep_learning #AI
 
@@ -340,17 +340,17 @@ Key idea: Learn from labeled examples.
     - Density estimation
 Key idea: Learn hidden structure or representations.
 
-↗ [Reinforcement Learning (RL) & Sequential Decision Making](Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+↗ [Reinforcement Learning (RL) & Sequential Decision Making](Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making.md)
 - Data: interaction with environment
 - Feedback: reward signal (often delayed)
 - Goal: learn a **policy** that maximizes long-term reward
 Key idea: Learn by trial and error through interaction.
 #### Neural Networks and Deep Learning
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-- ↗ [Neural Network Models](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
-	- ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
-	- ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md)
-	- ↗ [Transformers](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods.md)
+- ↗ [Neural Network Models](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+	- ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/CNN%20%28Convolutional%20Neural%20Network%29.md)
+	- ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/RNN%20%28Recurrent%20Neural%20Network%29.md)
+	- ↗ [Transformers](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 Deep learning
 - Not a learning paradigm by itself
@@ -363,7 +363,7 @@ Deep learning
     - Reinforcement learning
 Key idea: Learn representations and decision functions jointly using deep networks.
 #### Ensemble Learning
-↗ [Ensemble Learning](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Trees,%20Forests,%20Bagging,%20and%20Boosting/Ensemble%20Learning.md)
+↗ [Ensemble Learning](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Trees,%20Forests,%20Bagging,%20and%20Boosting/Ensemble%20Learning.md)
 #### Learning with Fewer Labeled Examples
 > 🔗 https://probml.github.io/pml-book/toc1.pdf
 > Probabilistic Machine Learning: An Introduction
@@ -371,7 +371,7 @@ Key idea: Learn representations and decision functions jointly using deep networ
 > MIT Press, March 2022.
 
 ↗ [Semi-supervised Learning](Supervised%20Learning/🥝%20Semi-supervised%20Learning/Semi-supervised%20Learning.md)
-↗ [Transfer Learning](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Transfer%20Learning/Transfer%20Learning.md)
+↗ [Transfer Learning](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Transfer%20Learning/Transfer%20Learning.md)
 active learning
 meta-learning
 zero-shot /few-shot learning
@@ -379,7 +379,7 @@ zero-shot /few-shot learning
 
 ### Learning Models: Parametric & Nonparametric 🤔
 > [!links]
-> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -389,8 +389,8 @@ zero-shot /few-shot learning
 
 ### The Theory of Learning ⭐
 > [!links]
-> ↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI.md)
-> ↗ [Computational Learning Theory](../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/Computational%20Learning%20Theory/Computational%20Learning%20Theory.md)
+> ↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI.md)
+> ↗ [Computational Learning Theory](../🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/Computational%20Learning%20Theory/Computational%20Learning%20Theory.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -401,7 +401,7 @@ How can we be sure that our learned hypothesis will predict well for previously 
 We’ll start with the question of how many examples are needed for learning. We saw from the learning curve for decision tree learning on the restaurant problem (Figure 19.7 on page 679) that accuracy improves with more training data. Learning curves are useful, but they are specific to a particular learning algorithm on a particular problem. Are there some more general principles governing the number of examples needed?
 
 Questions like this are addressed by **computational learning theory**, which lies at the intersection of AI, statistics, and theoretical computer science. The underlying principle is that any hypothesis that is seriously wrong will almost certainly be “found out” with high probability after a small number of examples, because it will make an incorrect prediction. Thus, any hypothesis that is consistent with a sufficiently large set of training examples is unlikely to be seriously wrong; that is, it must be **probably approximately correct (PAC)**.
-- ↗ [PAC (Probably Approximately Correct) Learning](../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/Computational%20Learning%20Theory/PAC%20(Probably%20Approximately%20Correct)%20Learning/PAC%20(Probably%20Approximately%20Correct)%20Learning.md)
+- ↗ [PAC (Probably Approximately Correct) Learning](../🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/Computational%20Learning%20Theory/PAC%20%28Probably%20Approximately%20Correct%29%20Learning/PAC%20%28Probably%20Approximately%20Correct%29%20Learning.md)
 
 Any learning algorithm that returns hypotheses that are probably approximately correct is called a **PAC learning** algorithm; we can use this approach to provide bounds on the performance of various learning algorithms.
 
@@ -465,33 +465,33 @@ Suggested Notation for Machine Learning
 ↗ [Mathematical Modeling & Abstraction](../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 
 ↗ [Information Theory](../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
-↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
-↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
 ↗ [Topology](../../../../🧮%20Mathematics/Topology/Topology.md)
 
 
 ### 1️⃣ Data Preparation (Collection, Assessment, and Management)
-↗ [Dataset Preparation](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
+↗ [Dataset Preparation](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
 
-↗ [LLM Training Datasets](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/LLM%20Training%20Datasets/LLM%20Training%20Datasets.md)
+↗ [LLM Training Datasets](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/LLM%20Training%20Datasets/LLM%20Training%20Datasets.md)
 
 
 ### Model Selection & Optimization (Training)
 > [!links]
-> ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
-> - ↗ [Reinforcement Learning (RL) & Sequential Decision Making](Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+> ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
+> - ↗ [Reinforcement Learning (RL) & Sequential Decision Making](Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making.md)
 > - ↗ [Supervised Learning](Supervised%20Learning/Supervised%20Learning.md)
 > 	- ↗ [ML Classification Algorithms](Supervised%20Learning/ML%20Classification%20Algorithms.md)
 > 	- ↗ [ML Regression Algorithms](Supervised%20Learning/ML%20Regression%20Algorithms.md)
 > - ↗ [Unsupervised Learning](Unsupervised%20Learning/Unsupervised%20Learning.md)
 > 
-> [Neural Network Models](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
-> - ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
-> - ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md)
-> 	- ↗ [LSTM (Long-Short Term Memories)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/LSTM%20(Long-Short%20Term%20Memories)/LSTM%20(Long-Short%20Term%20Memories).md)
-> - ↗ [GNN (Graph Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/GNN%20(Graph%20Neural%20Network)/GNN%20(Graph%20Neural%20Network).md)
-> - ↗ [GAN (Generative Adversarial Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/GAN%20(Generative%20Adversarial%20Network)/GAN%20(Generative%20Adversarial%20Network).md)
-> - ↗ [Transformers](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> [Neural Network Models](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+> - ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/CNN%20%28Convolutional%20Neural%20Network%29.md)
+> - ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/RNN%20%28Recurrent%20Neural%20Network%29.md)
+> 	- ↗ [LSTM (Long-Short Term Memories)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/LSTM%20%28Long-Short%20Term%20Memories%29/LSTM%20%28Long-Short%20Term%20Memories%29.md)
+> - ↗ [GNN (Graph Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/GNN%20%28Graph%20Neural%20Network%29/GNN%20%28Graph%20Neural%20Network%29.md)
+> - ↗ [GAN (Generative Adversarial Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🪽%20%28Deep%29%20Generative%20Models/GAN%20%28Generative%20Adversarial%20Network%29/GAN%20%28Generative%20Adversarial%20Network%29.md)
+> - ↗ [Transformers](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -529,16 +529,16 @@ Part of model selection is qualitative and subjective: we might select polynomia
 #### 3️⃣ Model Training & Optimization
 (Neural Networks /Deep Learning training approaches. Classical ML can be found as well.)
 
-↗ [Model Training (Classical ML & NN)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Training%20(Classical%20ML%20&%20NN).md)
-- ↗ [Model Tuning & Hyperparameter Optimization (HPO)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
-↗ [Process Monitoring](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/4️⃣%20Process%20Monitoring/Process%20Monitoring.md)
+↗ [Model Training (Classical ML & NN)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Training%20%28Classical%20ML%20&%20NN%29.md)
+- ↗ [Model Tuning & Hyperparameter Optimization (HPO)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29.md)
+↗ [Process Monitoring](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/4️⃣%20Process%20Monitoring/Process%20Monitoring.md)
 
-↗ [LLM Training, Utilization, and Evaluation](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
-- ↗ [Pre-Training](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Pre-Training.md)
-- ↗ [Post-Training & Fine Tuning](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
-	- ↗ [Instruction Tuning](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/Instruction%20Tuning.md)
-	- ↗ [LLM Adaptation & Alignment Tuning](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
-- ↗ [Knowledge Distillation](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Knowledge%20Distillation/Knowledge%20Distillation.md)
+↗ [LLM Training, Utilization, and Evaluation](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
+- ↗ [Pre-Training](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Pre-Training.md)
+- ↗ [Post-Training & Fine Tuning](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
+	- ↗ [Instruction Tuning](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/Instruction%20Tuning.md)
+	- ↗ [LLM Adaptation & Alignment Tuning](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
+- ↗ [Knowledge Distillation](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Knowledge%20Distillation/Knowledge%20Distillation.md)
 
 Model Evaluation & Metrics
 
@@ -556,25 +556,25 @@ So far we have looked at learning methods in which a single hypothesis is used t
 
 
 ### 4️⃣ Model Deployments & Applications (Operation, Monitoring, and Maintenance)
-↗ [Deployment & Application](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/5️⃣%20Deployment%20&%20Application/Deployment%20&%20Application.md)
+↗ [Deployment & Application](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/5️⃣%20Deployment%20&%20Application/Deployment%20&%20Application.md)
 
-↗ [LLM Infrastructure (Deployment & Inference)](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
-↗ [LLM Applications & LLM-Driven Automation](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
+↗ [LLM Infrastructure (Deployment & Inference)](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
+↗ [LLM Applications & LLM-Driven Automation](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
 
 
 ### Trust, Interpretability, and Explainability
-↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI.md)
-↗ [Computational Learning Theory](../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/Computational%20Learning%20Theory/Computational%20Learning%20Theory.md)
-↗ [(M)LLM Explainability](../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/🥺%20(M)LLM%20Explainability/(M)LLM%20Explainability.md)
+↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI.md)
+↗ [Computational Learning Theory](../🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/Computational%20Learning%20Theory/Computational%20Learning%20Theory.md)
+↗ [(M)LLM Explainability](../🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/🥺%20%28M%29LLM%20Explainability/%28M%29LLM%20Explainability.md)
 
-↗ [Trust-worthy AI & LLM Safety and Security](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
+↗ [Trust-worthy AI & LLM Safety and Security](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
 ↗ [Philosophy, Ethics, and Risks of AI](../../Philosophy,%20Ethics,%20and%20Risks%20of%20AI/Philosophy,%20Ethics,%20and%20Risks%20of%20AI.md)
 
 
 
 ## Knowledge in Learning
 > [!links]
-> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -604,14 +604,14 @@ Chapter 19 defined pure inductive learning as a process of finding a hypothesis 
 
 ### Inductive Logic Programming (ILP)
 > [!links]
-> ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
-> ↗ [Logic Programs & Symbolic AI](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
+> ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+> ↗ [Logic Programs & Symbolic AI](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
 
 
 
 ## Learning Probabilistic Models
 > [!links]
-> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -694,9 +694,9 @@ Hidden variables are important, but they do complicate the learning problem. In 
 
 ## Dimensionality Reduction
 > [!links]
-> ↗ [Statistics (Data) Analyzing Methods & Statistical Model](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
-> ↗ [Dimensionality Reduction (Data Compression)](Unsupervised%20Learning/Dimensionality%20Reduction%20(Data%20Compression)/Dimensionality%20Reduction%20(Data%20Compression).md)
-> ↗ [Principal Component Analysis (PCA)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Principal%20Component%20Analysis%20(PCA)/Principal%20Component%20Analysis%20(PCA).md)
+> ↗ [Statistics (Data) Analyzing Methods & Statistical Model](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20%28Data%29%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20%28Data%29%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+> ↗ [Dimensionality Reduction (Data Compression)](Unsupervised%20Learning/Dimensionality%20Reduction%20%28Data%20Compression%29/Dimensionality%20Reduction%20%28Data%20Compression%29.md)
+> ↗ [Principal Component Analysis (PCA)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20%28Data%29%20Analyzing%20Methods%20&%20Statistical%20Model/Principal%20Component%20Analysis%20%28PCA%29/Principal%20Component%20Analysis%20%28PCA%29.md)
 
 > 🔗 https://probml.github.io/pml-book/toc1.pdf
 > Probabilistic Machine Learning: An Introduction | 20. Dimensionality Reduction

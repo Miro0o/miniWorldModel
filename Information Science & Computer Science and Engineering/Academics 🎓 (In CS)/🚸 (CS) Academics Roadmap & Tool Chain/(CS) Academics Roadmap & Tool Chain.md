@@ -79,7 +79,7 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 ## 0️⃣ Before Academic Research..
 ### Agentic LLM & AI Work Flow 🤔
 > [!links]
-> ↗ [AI4Research](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Research.md)
+> ↗ [AI4Research](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4Research.md)
 
 
 42 【claude 4 ➕ gemini 🟰 科研 的神！！！ - claude万事屋🏠 | 小红书 - 你的生活兴趣社区】 😆 XBYCY0LRmYo56uB 😆 https://www.xiaohongshu.com/discovery/item/686b3506000000001d00d6d4?source=webshare&xhsshare=pc_web&xsec_token=ABCSIYRfKGX0JcortP01nE0WQec9LMm2XIJ_QuT1DDZo4=&xsec_source=pc_share
@@ -91,7 +91,7 @@ https://cspaper.org/
 
 ### Academic Qualities ⭐ ⭐ 
 ↗ [🌲 Road To CS /0️⃣ Before you hit the road ...](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#0️⃣%20Before%20you%20hit%20the%20road%20...)
-↗ [Academic Writing (in English) & Research Paper Writing Skills](Academic%20Writing%20(in%20English)%20&%20Research%20Paper%20Writing%20Skills.md)
+↗ [Academic Writing (in English) & Research Paper Writing Skills](Academic%20Writing%20%28in%20English%29%20&%20Research%20Paper%20Writing%20Skills.md)
 
 🔗 [What is academic integrity? - MIT](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
@@ -182,7 +182,7 @@ Consensus
 ### Paper Explore /Analysis /Visualization ⭐
 > [!links]
 > ↗ [Bib-Management](Bib-Management/Bib-Management.md)
-> ↗ [AI4Research](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Research.md)
+> ↗ [AI4Research](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4Research.md)
 
 
 🔍 https://keywords.groundedai.company
@@ -267,7 +267,7 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 
 ## 3️⃣ Academic Paper Writing
 > [!links]
-> ↗ [Academic Writing (in English) & Research Paper Writing Skills](Academic%20Writing%20(in%20English)%20&%20Research%20Paper%20Writing%20Skills.md)
+> ↗ [Academic Writing (in English) & Research Paper Writing Skills](Academic%20Writing%20%28in%20English%29%20&%20Research%20Paper%20Writing%20Skills.md)
 
 
 [CGIE model](https://www2.compute.dtu.dk/~chrg/notes/CGIE.html)
@@ -296,11 +296,11 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 
 ### Academic Diagrams & Illustrations & Data Presentation
 ↗ [Human-Data Interactivity](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Data%20Interactivity/Human-Data%20Interactivity.md)
-↗ [Graph & Diagram & Charts & Slides](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts%20&%20Slides/Graph%20&%20Diagram%20&%20Charts%20&%20Slides.md)
-↗ [Color & Layout Design](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Color%20&%20Layout%20Design.md)
+↗ [Graph & Diagram & Charts & Slides](../../Software%20Engineering/CASE%20%28Computer-Aided%20Software%20Engineering%29%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts%20&%20Slides/Graph%20&%20Diagram%20&%20Charts%20&%20Slides.md)
+↗ [Color & Layout Design](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Color%20&%20Layout%20Design.md)
 
 ↗ [R Language](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Science%20&%20Data%20Processing/R%20Language/R%20Language.md)
-↗ [Python](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/🐍%20Python/Python.md)
+↗ [Python](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/Python.md)
 - ↗ [Matplotlib](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/📌%20Python%20Third-party%20Libs/Graphics%20&%20Visualization/Matplotlib.md)
 
 
@@ -429,7 +429,7 @@ Call for Paper Lists
 ### Conferences & Journals /中国大陆学术论文分区
 > [!links]
 > ↗ [Research Frontiers, Venues, and Humans by CS Areas](../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
-> ↗ [Sec (Security) Related Venues and People](../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Sec%20(Security)%20Related%20Venues%20and%20People.md)
+> ↗ [Sec (Security) Related Venues and People](../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Sec%20%28Security%29%20Related%20Venues%20and%20People.md)
 
 https://www.myhuiban.com/
 Conference Partner
@@ -473,7 +473,7 @@ Tracking Paper Acceptance Rates at CS Conferences
 > ↗ [Academic Networks & Nepotism](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Academic%20Networks%20&%20Nepotism.md)
 > ↗ [Scholars & Groups Lists - Theory](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20Theory.md)
 > ↗ [Scholars & Groups Lists - Application](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20Application.md)
-> ↗ [Scholars & Groups Lists - System (and Security)](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
+> ↗ [Scholars & Groups Lists - System (and Security)](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20System%20%28and%20Security%29.md)
 
 [Research Gate](https://www.researchgate.net)
 

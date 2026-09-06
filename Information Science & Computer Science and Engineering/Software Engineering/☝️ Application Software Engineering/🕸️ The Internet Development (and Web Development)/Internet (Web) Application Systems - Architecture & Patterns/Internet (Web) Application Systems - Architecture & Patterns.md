@@ -6,20 +6,20 @@
 
 ## Res
 ### Related Topics
-↗ [Network Application Communication Architectures](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Network%20Application%20Communication%20Architectures.md)
+↗ [Network Application Communication Architectures](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/Network%20Application%20Communication%20Architectures.md)
 ↗ [Awesome Architect](../../../Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
 
-↗ [Dev(Sec)Ops (Application Level Engineering)](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
-↗ [CI & CD Workflow](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🔃%20CI%20&%20CD%20Workflow/CI%20&%20CD%20Workflow.md)
+↗ [Dev(Sec)Ops (Application Level Engineering)](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev%28Sec%29Ops%20%28Application%20Level%20Engineering%29/Dev%28Sec%29Ops%20%28Application%20Level%20Engineering%29.md)
+↗ [CI & CD Workflow](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev%28Sec%29Ops%20%28Application%20Level%20Engineering%29/🔃%20CI%20&%20CD%20Workflow/CI%20&%20CD%20Workflow.md)
 
 ↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 - ↗ [System Modeling & Integration](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
-- ↗ [Requirement Engineering (Business Integration)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
+- ↗ [Requirement Engineering (Business Integration)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29/Requirement%20Engineering%20%28Business%20Integration%29/Requirement%20Engineering%20%28Business%20Integration%29.md)
 
 ↗ [Cloud System Software Architectures](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20System%20Software%20Architectures/Cloud%20System%20Software%20Architectures.md)
 
 ↗ [Software Development Norms & Patterns](../../../Software%20Development%20Norms%20&%20Patterns/Software%20Development%20Norms%20&%20Patterns.md)
-- ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+- ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20%28Software%20Development%20Life%20Circle%29%20&%20SDLC%20Models/SDLC%20%28Software%20Development%20Life%20Circle%29%20&%20SDLC%20Models.md)
 
 ↗ [Galleries & Awesome SE](../../../Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
 ↗ [Web Application Galleries](../../../Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Application%20Galleries.md)
@@ -40,8 +40,8 @@ https://gitlib.com/architecture/
 ## Intro
 ### Web Application Systems: Architecture
 > [!links]
-> ↗ [Database Applications (DBAP) & Services](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
-> ↗ [Enterprise Architecture Modeling (Software Integration)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
+> ↗ [Database Applications (DBAP) & Services](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20%28DBAP%29%20&%20Services/Database%20Applications%20%28DBAP%29%20&%20Services.md)
+> ↗ [Enterprise Architecture Modeling (Software Integration)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29/Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29.md)
 > 
 > ↗ [Cloud System Software Architectures](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20System%20Software%20Architectures/Cloud%20System%20Software%20Architectures.md)
 
@@ -150,11 +150,11 @@ These answer: **how the problem domain is conceptualized and bounded**.
 6. Dependency and modularity techniques
 These answer: **how code is wired together internally**.
 
-|Time order|Term|What it is|Main idea|Best fit|Notes|
-|---|---|---|---|---|---|
-|Earlier as a principle|**IoC**|Inversion of Control|Control of object creation/wiring is moved outward|Medium and large applications/frameworks|A principle|
-|Later as concrete practice|**DI**|Dependency Injection|Dependencies are supplied rather than created internally|Testable, modular applications|Common implementation of IoC|
-|Later|**AOP**|Aspect-Oriented Programming|Separate cross-cutting concerns like logging, auth, transactions|Framework-heavy systems|More about cross-cutting behavior than core domain structure|
+| Time order                 | Term    | What it is                  | Main idea                                                        | Best fit                                 | Notes                                                        |
+| -------------------------- | ------- | --------------------------- | ---------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
+| Earlier as a principle     | **IoC** | Inversion of Control        | Control of object creation/wiring is moved outward               | Medium and large applications/frameworks | A principle                                                  |
+| Later as concrete practice | **DI**  | Dependency Injection        | Dependencies are supplied rather than created internally         | Testable, modular applications           | Common implementation of IoC                                 |
+| Later                      | **AOP** | Aspect-Oriented Programming | Separate cross-cutting concerns like logging, auth, transactions | Framework-heavy systems                  | More about cross-cutting behavior than core domain structure |
 
  Domain-centric architecture patterns
 - DDD

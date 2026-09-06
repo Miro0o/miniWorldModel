@@ -6,28 +6,28 @@
 
 ## Res
 ### Related Topics
-↗ [Theory of Computation](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-- ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Theory of Computation](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 ↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-- ↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-	- ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
+↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+- ↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+	- ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
 
 ↗ [Mathematical Modeling & Abstraction](../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
-↗ [Models of Computation & Abstract Machines](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-↗ [(Formal) Model Checking](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [Models of Computation & Abstract Machines](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+↗ [(Formal) Model Checking](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 ↗ [Programming Language Processing & Program Execution](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-- ↗ [Program Language Processing & Compilation Theory (Compile-time)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
-	- ↗ [Semantic Analysis](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
-- ↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
-	- ↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+- ↗ [Program Language Processing & Compilation Theory (Compile-time)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29.md)
+	- ↗ [Semantic Analysis](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
+- ↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Program%20Execution%20%28Runtime%29.md)
+	- ↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Procedure%20%28Function%29%20Call%20&%20Runtime%20Memory%20Layout.md)
 
-↗ [Computer Memory & Storage](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
-↗ [Operating System & OS Kernel (Theory Part)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
-- ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
-	- ↗ [Address Space & Memory Layout](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
-↗ [Operating Systems & Kernels (Engineering Part)](../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+↗ [Computer Memory & Storage](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
+↗ [Operating System & OS Kernel (Theory Part)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29.md)
+- ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29.md)
+	- ↗ [Address Space & Memory Layout](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/Address%20Space%20&%20Memory%20Layout.md)
+↗ [Operating Systems & Kernels (Engineering Part)](../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29.md)
 
 ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
 
@@ -50,11 +50,11 @@ Harold Abelson and Gerald Jay Sussman with Julie Sussman
 
 ![Automata_Formal_Lan.excalidraw | 800](../../Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md)
 <small>Automata and Formal Language</small>
-↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 
 ![computer_architecture.excalidraw | 800](../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
-↗ [Computer Architecture](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
+↗ [Computer Architecture](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Architecture.md)
 
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
 <small>Computer Program Execution Procedure: Top-down Review</small>
@@ -77,20 +77,20 @@ Harold Abelson and Gerald Jay Sussman with Julie Sussman
 	- 程序的主要研究范围在于程序的设计及运行，前者涉及具体的编程语言和算法，后者涉及计算机硬件和软件的工作原理。
 #### Formal System & Language, Computer Language, and Programming Language
 ↗ [Language & Literature](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md) (the basic of information science)
-↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md) "reasoning (an informal approach)"
+↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md) "reasoning (an informal approach)"
 
 ↗ [Mathematics](../🧮%20Mathematics/Mathematics.md) "axiomatization"
-- ↗ [Proof Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md) "reasoning in formal way"
-	- ↗ [Gentzen-Style Proofs (Natural Deduction)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
-↗ [Formal System, Formal Logic, and Its Semantics](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) "formalization"
-- ↗ [Classical Logic (Standard Formal Logic)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md) "construction of formal language"
-↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md) "computation as a formal language"
+- ↗ [Proof Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md) "reasoning in formal way"
+	- ↗ [Gentzen-Style Proofs (Natural Deduction)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
+↗ [Formal System, Formal Logic, and Its Semantics](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) "formalization"
+- ↗ [Classical Logic (Standard Formal Logic)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md) "construction of formal language"
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md) "computation as a formal language"
 
 ↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-- ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-↗ [Formal Syntax & Metasyntax (and Metalanguage)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
-↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+- ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29/Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29.md)
+↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
 > [!TIP]
 > The distinction between formal language theory and logic
@@ -105,53 +105,53 @@ Harold Abelson and Gerald Jay Sussman with Julie Sussman
 > For example, the syntax of a programming language like Python can be described by a context-free grammar. However, the program's actual logic, meaning, and behavior are not described by the Chomsky hierarchy. Similarly, a formal language used for logic (e.g., predicate calculus) can be classified on the hierarchy, but the classification says nothing about the logic's ability to express concepts like truth or validity.
 #### Algorithm, Program, and Software
 ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md) (what is algorithm?)
-↗ [Program Analysis Basics](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md) (what is program?)
+↗ [Program Analysis Basics](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md) (what is program?)
 ↗ [Programming Language Processing & Program Execution](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-- ↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
-- ↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+- ↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Program%20Execution%20%28Runtime%29.md)
+- ↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Procedure%20%28Function%29%20Call%20&%20Runtime%20Memory%20Layout.md)
 ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
 
 
 ### Semantics: Programming Language, Program, and Program Execution
-↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
-↗ [Program Analysis Basics](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
-- ↗ [Program Abstraction & Abstract Interpretation /Intro](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md#Intro)
+↗ [Program Analysis Basics](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+- ↗ [Program Abstraction & Abstract Interpretation /Intro](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md#Intro)
 
-↗ [Models of Computation & Abstract Machines](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+↗ [Models of Computation & Abstract Machines](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 - transition systems
 - semantics of transition systems:
 	- execution and traces
 	- computational tree
 
-↗ [(Formal) Model Checking](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [(Formal) Model Checking](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 
 ### (Program) Translation, Interpretation, and Abstraction 🤔
 > [!links]
-> ↗ [Program Abstraction & Abstract Interpretation](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+> ↗ [Program Abstraction & Abstract Interpretation](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 > 
-> ↗ [Program Language Processing & Compilation Theory (Compile-time)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
-> ↗ [Interpretation & REPL](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Interpretation%20&%20REPL.md)
+> ↗ [Program Language Processing & Compilation Theory (Compile-time)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29.md)
+> ↗ [Interpretation & REPL](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Interpretation%20&%20REPL.md)
 
 > Note: The below usage of "program", can be changed to any other targets, like a language or other objects. The intention of this section is to explain "translation", "interpretation", and "abstraction" in general, not these actions working on a specific domain /object. 
 
 To translate a program, we yield a target program in another language of the source program, without changing the semantics (i.e. no information added or lost).
-- ↗ [Program Language Processing & Compilation Theory (Compile-time)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
+- ↗ [Program Language Processing & Compilation Theory (Compile-time)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29.md)
 - syntax: involved, must change
 - semantics: involved, must not change
 
 To interpret a program, we assign a (new) semantics to the source program (without changing the original semantics, i.e. no information added or lost). A semantics usually refers to any structure /model accepted by the interpreter or the human, that explains the semantics /meaning itself. Usually, we don't use a language to represent the semantics, instead we use a structure or a model itself (since we are assigning /explaining the semantics here, we only want a structure or model that carries semantics only. However, we still can use a language as a semantics, and to interpret a program with another language. Though this would involve syntax.) A formal semantics means a mathematical structure /model that is a formal system.
-- ↗ [Models of Computation & Abstract Machines](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-- ↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+- ↗ [Models of Computation & Abstract Machines](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+- ↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 - syntax: not involved
 - semantics: involved, must not change
 To interpret a program, in a narrower sense, one might think of the action of an "interpreter" (which is a program itself) on a program, like a python interpreter: to translate the language (instructions) of a source program into target language in-the-fly, one instruction by one instruction. This is, by our definition above, still essentially program translation, not program interpretation.
 (However this is a little controversial (?). One might still say that to interpret a program in the action of an interpreter program. I think it depends on how you want to define them 😃)
 
 To abstract a program (program abstraction), we assign an abstract semantics (abstract domain) to the source program (concrete domain). Compared with the concrete domain (the original program), the abstract semantics loses information, but we aim to preserve the order within each domain, i.e. the Galois connection. 
-- ↗ [Program Abstraction & Abstract Interpretation](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+- ↗ [Program Abstraction & Abstract Interpretation](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 - syntax: not involved
 - semantics: involved, must change
 
@@ -174,13 +174,13 @@ Program semantics is about assigning meaning to programs. When we can talk about
 
 We are going to discuss some different approaches to writing down the semantics of a program.  ==They all essentially turn programs syntax into mathematical logic.==
 
-↗ [Mathematical Logic (Foundations of Mathematics)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-↗ [Formal System, Formal Logic, and Its Semantics](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+↗ [Formal System, Formal Logic, and Its Semantics](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 
 
 **2. Prerequisite: Mathematical Logic Languages & Natural Deduction**
-↗ [Formal System, Formal Logic, and Its Semantics](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-↗ [Gentzen-Style Proofs (Natural Deduction)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+↗ [Formal System, Formal Logic, and Its Semantics](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Gentzen-Style Proofs (Natural Deduction)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/semantics.html##sec:2.1
 
@@ -193,14 +193,14 @@ In natural deduction, we build up syntactic objects which represents the truth o
 
 
 **3. Formal Semantics of Program Language**
-↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-- ↗ [Axiomatic Semantics (Hoare-Style Logic)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Axiomatic%20Semantics%20(Hoare-Style%20Logic)/Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
-- ↗ [Denotational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Denotational%20Semantics.md)
-- ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
+↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+- ↗ [Axiomatic Semantics (Hoare-Style Logic)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Axiomatic%20Semantics%20%28Hoare-Style%20Logic%29/Axiomatic%20Semantics%20%28Hoare-Style%20Logic%29.md)
+- ↗ [Denotational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Denotational%20Semantics.md)
+- ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
 
 **Operational Semantics**
 > [!links]
-> ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
+> ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
 
 > 🔗 [Operational semantics - Wikipedia](https://en.wikipedia.org/wiki/Operational_semantics)
 > 🔗 [Plotkin (2004)](https://courses.compute.dtu.dk/02242/topics/semantics.html#ref:plotkin2004origins)
@@ -220,7 +220,7 @@ Big Step semantics have the benefit of being easier to read, however, it has som
 
 
 **4. Transition System** (in Kripe Structure)
-(↗ [Models of Computation & Abstract Machines](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md))
+(↗ [Models of Computation & Abstract Machines](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md))
 
 Using operational semantics, we can define the meaning of a program $P$ as a Transition System:
 
@@ -253,9 +253,9 @@ The meaning of a program is now the set of traces that it exhibit:
  - $Semantics: Program \to 2^{Trace}$, or
  - $Sem(P)= \{\tau \in (State_P)^n ~ | ~ n \in [1,∞], ~ \tau_0 \in I_P, ~ \forall i \in [1, n−1], ~ \theta_P(\tau_{i−1},\tau_i) \}$
 
-This is also called the **Maximal Trace Semantics**. We can now define properties, like does a program halt, using relatively well defined math: $\mathcal{L}_{halt}= \{P ~ | ~ ⁡P \in \mathcal{L}, ~ \forall \tau \in Sem(P), ~ |\tau|\neq \infty \}$, where $\mathcal{L}$ stands for Language. (↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md))
+This is also called the **Maximal Trace Semantics**. We can now define properties, like does a program halt, using relatively well defined math: $\mathcal{L}_{halt}= \{P ~ | ~ ⁡P \in \mathcal{L}, ~ \forall \tau \in Sem(P), ~ |\tau|\neq \infty \}$, where $\mathcal{L}$ stands for Language. (↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md))
 #### Mathematical Model of Computer: Turing Machine
-↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 
 
 ### Digital Circuits Semantics as State Machine (Transition System)
@@ -266,10 +266,10 @@ This is also called the **Maximal Trace Semantics**. We can now define properti
 
 ### Programming Languages Semantics as State Machine (Transition System) -- C Language and OS for example
 > [!links]
-> ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 > - Push-Down Automaton (PDA)
 > 
-> ↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+> ↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 #### 1️⃣ Program's State Machine: Application Perspective
 C 程序的状态机模型1 (语义，semantics)
 - 状态 = 堆 + 栈
@@ -293,11 +293,11 @@ C 程序的状态机模型3 (语义，semantics)
 - 迁移 = 执行一条指令
 #### Application Program and OS Program
 > [!links]
-> ↗ [Operating System & OS Kernel (Theory Part)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
-> ↗ [Operating Systems & Kernels (Engineering Part)](../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
-> ↗ [Operating System Kernel (Kernel Mode)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
-> ↗ [System Calls](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md)
-> ↗ [Interrupts (Software & Hardware)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
+> ↗ [Operating System & OS Kernel (Theory Part)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29.md)
+> ↗ [Operating Systems & Kernels (Engineering Part)](../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29.md)
+> ↗ [Operating System Kernel (Kernel Mode)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20%28Kernel%20Mode%29.md)
+> ↗ [System Calls](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md)
+> ↗ [Interrupts (Software & Hardware)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Interrupts%20%28Software%20&%20Hardware%29.md)
 
 操作系统上的程序:
 - 所有的指令都只能计算
@@ -355,9 +355,9 @@ C 程序的状态机模型3 (语义，semantics)
 
 ### Compilation: Switch /Transfer Between Program's State Machine
 > [!links]
-> ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 > ↗ [Programming Language Processing & Program Execution](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-> ↗ [Compilation Phase](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
+> ↗ [Compilation Phase](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/Compilation%20Phase.md)
 > ↗ [Compilation & Program Loading Tools](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 
 ![Language_and_Programming_Language_Processing | 800](../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
@@ -389,10 +389,10 @@ C 程序的状态机模型3 (语义，semantics)
 ## 🥸 Semantics of Program - Programming Language Specific
 ↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 
-↗ [CPU (Central Processing Unit)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
-↗ [Address Space & Memory Layout](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
-↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
-↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+↗ [CPU (Central Processing Unit)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/CPU%20%28Central%20Processing%20Unit%29.md)
+↗ [Address Space & Memory Layout](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/Address%20Space%20&%20Memory%20Layout.md)
+↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Program%20Execution%20%28Runtime%29.md)
+↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Procedure%20%28Function%29%20Call%20&%20Runtime%20Memory%20Layout.md)
 
 ![](../../Assets/Pics/Screenshot%202023-03-02%20at%204.11.10%20PM.png)
 <small>Computer Components: Top-Level View</small>
@@ -404,17 +404,17 @@ C 程序的状态机模型3 (语义，semantics)
 
 ### Declarative Programming Paradigm
 #### Haskell
-↗ [Haskell](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
+↗ [Haskell](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
 
 
 ### Imperative Programming Paradigm
 #### Java and Java Bytecode 🤔
 > [!links]
-> ↗ [Java](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
-> ↗ [Java Bytecode](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
-> ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+> ↗ [Java](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+> ↗ [Java Bytecode](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
+> ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/RISC%20%28Reduced%20Instruction%20Set%20Computer%29/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
 > 
-> ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
+> ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/semantics.html#sec:jvm-semantics
 
@@ -444,7 +444,7 @@ There are many formal semantics. Small step semantics is a kind of operational s
 		- $\iota$ is a single stack value $\iota \in V_\sigma$ representing PC (the value of memory address of next instruction to be executed).
 	- Frame stack $\mu$ consists of stacks of frames $\{⟨\lambda_i, \sigma_i,\iota_i⟩\}$.
 **Transition**: execution of one instruction of PC ($\iota$): $V \overset{bc[\iota]}{\to} V'$, or $⟨\eta, \ \mu⟩ \overset{bc[\iota]}{\to} ⟨\eta, \ \mu⟩'$
-- Different instructions have different behaviors in changing $V$ to $V'$. See ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md) for the instruction set.
+- Different instructions have different behaviors in changing $V$ to $V'$. See ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/RISC%20%28Reduced%20Instruction%20Set%20Computer%29/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md) for the instruction set.
 
 For example, we look at below decompiled `.class` file of java bytecde:
 TBD.
@@ -704,12 +704,12 @@ case jvm.Binary(type=jvm.Int(), operant=jvm.BinaryOpr.Div):
     return state
 ```
 #### C and C++
-↗ [C-Based Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/C-Based%20Languages.md)
-↗ [C & CPP](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+↗ [C-Based Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/C-Based%20Languages.md)
+↗ [C & CPP](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 #### Go
-↗ [Golang](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/Golang/Golang.md)
+↗ [Golang](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/Golang/Golang.md)
 #### Rust
-↗ [Rust](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/⚙️%20Rust/Rust.md)
+↗ [Rust](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/⚙️%20Rust/Rust.md)
 
 
 

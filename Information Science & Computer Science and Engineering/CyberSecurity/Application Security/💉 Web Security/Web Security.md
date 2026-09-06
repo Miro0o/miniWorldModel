@@ -6,34 +6,34 @@
 
 ## Res
 ### Related Topics
-↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Security.md)
-↗ [Network (& Communication) Security](../../Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
-↗ [Application Layer Security Protocols](../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
-↗ [Network & Web Security Products](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Network%20&%20Web%20Security%20Products.md)
+↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/Software%20Security.md)
+↗ [Network (& Communication) Security](../../Network%20%28&%20Communication%29%20Security/Network%20%28&%20Communication%29%20Security.md)
+↗ [Application Layer Security Protocols](../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
+↗ [Network & Web Security Products](../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Network%20&%20Web%20Security%20Products.md)
 
-↗ [0x01 Application Layer](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/0x01%20Application%20Layer.md)
-- ↗ [Web (WWW) Protocols](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/Web%20(WWW)%20Protocols.md)
-- ↗ [HTTP (HyperText Transfer Protocol)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
-- ↗ [HTTP Security](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Secuirty/HTTP%20Security.md)
+↗ [0x01 Application Layer](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/0x01%20Application%20Layer.md)
+- ↗ [Web (WWW) Protocols](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/🔥%20Web%20%28WWW%29%20Protocols/Web%20%28WWW%29%20Protocols.md)
+- ↗ [HTTP (HyperText Transfer Protocol)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/🔥%20Web%20%28WWW%29%20Protocols/HTTP%20%28HyperText%20Transfer%20Protocol%29/HTTP%20%28HyperText%20Transfer%20Protocol%29.md)
+- ↗ [HTTP Security](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/🔥%20Web%20%28WWW%29%20Protocols/HTTP%20%28HyperText%20Transfer%20Protocol%29/HTTP%20Secuirty/HTTP%20Security.md)
 
 ↗ [Database Systems & Web Security](../../System%20Security/Database%20System%20Security/Database%20Systems%20&%20Web%20Security/Database%20Systems%20&%20Web%20Security.md)
 
-↗ [The Internet Development (and Web Development)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
-↗ [HTML (HyperText Markup Language)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Markup%20Languages%20&%20Data%20Representation/HTML%20(HyperText%20Markup%20Language).md)
-↗ [CSS (Cascading Style Sheets)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/CSS%20(Cascading%20Style%20Sheets)/CSS%20(Cascading%20Style%20Sheets).md)
+↗ [The Internet Development (and Web Development)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/The%20Internet%20Development%20%28and%20Web%20Development%29.md)
+↗ [HTML (HyperText Markup Language)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Markup%20Languages%20&%20Data%20Representation/HTML%20%28HyperText%20Markup%20Language%29.md)
+↗ [CSS (Cascading Style Sheets)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/CSS%20%28Cascading%20Style%20Sheets%29/CSS%20%28Cascading%20Style%20Sheets%29.md)
 ↗ [JavaScript Browser End Libraries](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20Browser%20End%20Libraries/JavaScript%20Browser%20End%20Libraries.md)
-↗ [ECMAScript-Based Languages & JavaScript](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md)
-↗ [SQL (Structured Query Language)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
-↗ [Web Dev Middleware](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
+↗ [ECMAScript-Based Languages & JavaScript](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md)
+↗ [SQL (Structured Query Language)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/🦆%20Query%20Languages%20%28Data%20Query%20Languages,%20DQL%29/🩼%20SQL%20%28Structured%20Query%20Language%29/SQL%20%28Structured%20Query%20Language%29.md)
+↗ [Web Dev Middleware](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
 
-↗ [DVWA (Damn Vulnerable Web Application)](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/DVWA%20(Damn%20Vulnerable%20Web%20Application)/DVWA%20(Damn%20Vulnerable%20Web%20Application).md)
+↗ [DVWA (Damn Vulnerable Web Application)](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/DVWA%20%28Damn%20Vulnerable%20Web%20Application%29/DVWA%20%28Damn%20Vulnerable%20Web%20Application%29.md)
 ↗ [sqli-labs](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/sqli-labs/sqli-labs.md)
 
-↗ [CTF /Web](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/Web/Web.md)
+↗ [CTF /Web](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/CTF%20&%20AWD/Web/Web.md)
 
-↗ [SE /BackEndDev](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
-↗ [SE /FrontendDev](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
-↗ [SE /Middleware](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
+↗ [SE /BackEndDev](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
+↗ [SE /FrontendDev](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
+↗ [SE /Middleware](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
 
 
 ### Learning Web Security
@@ -61,7 +61,7 @@ UCB CS161 Textbook
 - [CAPTCHAs](https://textbook.cs161.org/web/captchas.html)
 
 📈 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
-↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)
+↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](🛟%20Web%20Application%20Security%20Risks%20%28Threats,%20Attacks,%20Vulnerabilities%29%20&%20OWASP/Web%20Application%20Security%20Risks%20%28Threats,%20Attacks,%20Vulnerabilities%29%20&%20OWASP.md)
 The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 
 ![](../../../../Assets/Pics/Pasted%20image%2020231010134233.png)
@@ -77,7 +77,7 @@ Our carefully curated pathways provide a structured approach to learning web sec
 
 
 ## Intro: Web Basics
-> ↗ [The Internet Development (and Web Development)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
+> ↗ [The Internet Development (and Web Development)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/The%20Internet%20Development%20%28and%20Web%20Development%29.md)
 > 🔗 https://textbook.cs161.org/web/intro.html
 
 ![web_application_arch.excalidraw | 800](../../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)

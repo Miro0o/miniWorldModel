@@ -10,7 +10,7 @@
 - ↗ [Cryptography](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
 - ↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
 
-↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md)
+↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20%28Alice%20and%20Bob%29%20Notation%20&%20AnBx%20Languages.md)
 
 
 ### Learning Resources
@@ -47,14 +47,14 @@ by Alessandro Armando, David Basin, Jorge Cuellar, Michael Rusinowitch and Luca 
 
 ## Intro
 > [!links]
-> ↗ [(Formal) Model Checking](../../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [(Formal) Model Checking](../../🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 > ↗ [Constraint Solving & Theorem Proving](../../🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 > 
 > ↗ [Problem Solving & Search-Based Methods](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
 > ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
 > 
 > ↗ [Formal Verification & Analysis Programming Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
-> - ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md)
+> - ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20%28Alice%20and%20Bob%29%20Notation%20&%20AnBx%20Languages.md)
 > 
 > ↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
 
@@ -113,16 +113,16 @@ Overview of Problem Areas
 ↗ [Cryptology & Secure Communication](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 - ↗ [Cryptography](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
 - ↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md) ✅
-	- ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
+	- ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20%28Formal%29%20Models/Dolev–Yao%20%28DY%29%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
 
-↗ [Term Algebra & Free Σ-algebra](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20(泛代数)/Σ-algebra%20(Sigma-Algebra)/Term%20Algebra%20&%20Free%20Σ-algebra.md)
+↗ [Term Algebra & Free Σ-algebra](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20%28泛代数%29/Σ-algebra%20%28Sigma-Algebra%29/Term%20Algebra%20&%20Free%20Σ-algebra.md)
 
 
 ### Alice and Bob Notation & AnB Language (Syntax & Semantics) ⭐
 ↗ [Formal Verification & Analysis Programming Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
-- ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md)
+- ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20%28Alice%20and%20Bob%29%20Notation%20&%20AnBx%20Languages.md)
 
-↗ [Strand Spaces Model](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Strand%20Spaces%20Model.md)
+↗ [Strand Spaces Model](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20%28Formal%29%20Models/Strand%20Spaces%20Model.md)
 
 ----
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
@@ -161,7 +161,7 @@ Overview of Problem Areas
 > - If $f\in\Sigma$ is a function symbol that takes $n$ arguments and if $t_1,\ldots,t_n$ are terms, then also $f(t_1,\ldots,t_n)$ is a term.
 
 > [!example]
-> ↗ [Needham–Schroeder Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Needham–Schroeder%20Protocol.md)
+> ↗ [Needham–Schroeder Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29/Key%20Transport%20Algorithms%20&%20Protocols/Needham–Schroeder%20Protocol.md)
 > NSPK protocol expressed as in AnB language, message sequence chart, and Role /Strand
 > 
 > ==AnB language:==
@@ -428,7 +428,7 @@ Overview of Problem Areas
 > ↗ [Diffie-Hellman Based Key Exchange](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29/Key%20Exchange%20Algorithms%20&%20Protocols/Diffie-Hellman%20Based%20Key%20Exchange.md)
 #### Example: TLS Modeling
 > [!links]
-> ↗ [TLS (Transport Layer Security) Protocols](../../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20(&%20Session)%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/📌%20TLS%20(Transport%20Layer%20Security)%20Protocols/TLS%20(Transport%20Layer%20Security)%20Protocols.md)
+> ↗ [TLS (Transport Layer Security) Protocols](../../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20%28&%20Session%29%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/📌%20TLS%20%28Transport%20Layer%20Security%29%20Protocols/TLS%20%28Transport%20Layer%20Security%29%20Protocols.md)
 
 
 ### Basic Models of Cryptographic Protocols
@@ -443,8 +443,8 @@ Overview of Problem Areas
 <small>The five essential parts of the Shannon–Weaver model: A source uses a transmitter to translate a message into a signal, which is sent through a channel and translated back by a receiver until it reaches its destination. <br> <a> https://en.wikipedia.org/wiki/Shannon%E2%80%93Weaver_model</a></small>
 #### The Dolev-Yao Intruder Model
 > [!links]
-> ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
-> ↗ [Term Algebra & Free Σ-algebra](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20(泛代数)/Σ-algebra%20(Sigma-Algebra)/Term%20Algebra%20&%20Free%20Σ-algebra.md)
+> ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20%28Formal%29%20Models/Dolev–Yao%20%28DY%29%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
+> ↗ [Term Algebra & Free Σ-algebra](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20%28泛代数%29/Σ-algebra%20%28Sigma-Algebra%29/Term%20Algebra%20&%20Free%20Σ-algebra.md)
 
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
  >Protocol Security Verification Tutorial
@@ -460,7 +460,7 @@ One of the most cited papers of protocol verification is one by Danny Dolev and 
 
 > [!definition]
 > **Definition 8.**  (Dolev-Yao Closure)
-> (↗ [Functions & Closures](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms/Functions%20&%20Closures.md), ↗ [Number Sets & Field Construction (Completion) and Extension](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md))
+> (↗ [Functions & Closures](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms/Functions%20&%20Closures.md), ↗ [Number Sets & Field Construction (Completion) and Extension](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension.md))
 > 
 > *We define $\vdash$ as the least relation that satisfies the following rules:*
 > $$
@@ -503,7 +503,7 @@ One of the most cited papers of protocol verification is one by Danny Dolev and 
 ### Transition Systems Semantics of Security Protocol Models & AnB Language
 > [!links]
 > ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-> ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md)
+> ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20%28Alice%20and%20Bob%29%20Notation%20&%20AnBx%20Languages.md)
 
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
  >Protocol Security Verification Tutorial
@@ -529,8 +529,8 @@ We can now put it all together and define a world of honest agents, an intruder,
 
 ### Modeling Security Goals 🤔
 > [!links]
-> ↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md)
-> ↗ [Core Cryptographic Properties Threats & Countermeasures](../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+> ↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29.md)
+> ↗ [Core Cryptographic Properties Threats & Countermeasures](../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
  >Protocol Security Verification Tutorial
@@ -625,7 +625,7 @@ We can now put it all together and define a world of honest agents, an intruder,
 
 #### Authentication
 > [!links]
-> ↗ [Authentication (身份鉴别)](../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+> ↗ [Authentication (身份鉴别)](../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Authentication%20%28身份鉴别%29/Authentication%20%28身份鉴别%29.md)
 
 #### Sender Invariance
 
@@ -633,7 +633,7 @@ We can now put it all together and define a world of honest agents, an intruder,
 
 #### Privacy ⭐
 > [!links]
-> ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../../../Data%20Security/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies)/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies).md)
+> ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../../../Data%20Security/Data%20Privacy%20&%20PET%20%28Privacy%20Enhancement%20Technologies%29/Data%20Privacy%20&%20PET%20%28Privacy%20Enhancement%20Technologies%29.md)
 
 > [!EXAMPLE] A motivating example /FOO’92
 > 
@@ -697,7 +697,7 @@ Notions based on ==Indistinguishability==:
 ---
 
 > [!TIP] Inspiration /Idea: 
-> In ↗ [Zero-Knowledge Proof (ZKP)](../🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md) we can usually specify a statement that is being proved.
+> In ↗ [Zero-Knowledge Proof (ZKP)](../🍭%20Zero-Knowledge%20Proof%20%28ZKP%29/Zero-Knowledge%20Proof%20%28ZKP%29.md) we can usually specify a statement that is being proved.
 > -  Definitely, that statement is revealed to the verifier
 > - The verifier (or others) should not learn anything else
 > - Everybody can draw conclusions from everything they learned
@@ -717,12 +717,12 @@ We define the intuition of "learning nothing new" using two formulae (in Herbran
 
 **Model-Theoretic Formulation**
 
-> [!TIP] ↗ [Model Theory (模型论)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+> [!TIP] ↗ [Model Theory (模型论)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Model%20Theory%20%28模型论%29/Model%20Theory%20%28模型论%29.md)
 > A model of a formula is an interpretation of all symbols that makes the formula true.
 > 
 > e.g. Formula α≡x[1],x[2],x[3] ∈{0,1}∧x[1] + x[2] + x[3] = 1. What are the models of α?
 > 
-> More: ↗ [(Formal) Model Checking](../../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> More: ↗ [(Formal) Model Checking](../../🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 > [!QUOTE] Definition (Model-theoretic Definition of $\alpha$-$\beta$-privacy)
 > Every $\Sigma_0$-model of $\alpha$ can be extended to a $\Sigma$-model of $\beta$.
@@ -752,8 +752,8 @@ Thus, $\beta$ does not allow the intruder to rule out any model of $\alpha$.
 
 ### Secure Implementation & Typing 🤔
 > [!links]
-> ↗ [Type Theory (类型论)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
-> ↗ [Type Analysis](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
+> ↗ [Type Theory (类型论)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
+> ↗ [Type Analysis](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
 > ↗ [Type Confusion](../../../../System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Stack%20Attack/Type%20Confusion.md)
 
 > [!ABSTRACT] Summary
@@ -993,7 +993,7 @@ Thus, $\beta$ does not allow the intruder to rule out any model of $\alpha$.
 > ```
 > 
 > Hence: ==Always be clear what the messages <a style="color:blue">mean</a>!==
-> - context (e.g. ↗ [Authentication (身份鉴别)](../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md))
+> - context (e.g. ↗ [Authentication (身份鉴别)](../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Authentication%20%28身份鉴别%29/Authentication%20%28身份鉴别%29.md))
 > - type & formats (e.g. ↗ [Type Confusion](../../../../System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Stack%20Attack/Type%20Confusion.md))
 > 
 > 🤔 **Further question:**
@@ -1145,7 +1145,7 @@ Thus, $\beta$ does not allow the intruder to rule out any model of $\alpha$.
 
 
 > [!example]
-> ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md)
+> ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md)
 > 
 > Classics: Otway-Rees [1987]
 > ![](../../../../../../Assets/Pics/Screenshot%202026-02-24%20at%2021.46.38.png)
@@ -1205,7 +1205,7 @@ flowchart LR
 			- **Disjointness**: No string can be parsed for more than one format.
 
 > [!example]
-> Formats in ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md)
+> Formats in ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md)
 > 
 > Consider again the Otway-Rees protocol – without the cleartext messages for simplicity:
 > ```
@@ -1249,7 +1249,7 @@ For that, we first define what sub-message patterns are.
 > Finally, rename all variables such that every two distinct messages $s,t\in SMP(P)$ have no variables in common.
 
 > [!example]
-> ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md) with sub-message patterns
+> ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md) with sub-message patterns
 > 
 > Messages of the protocol:
 > ```
@@ -1286,7 +1286,7 @@ A protocol is called ==type-flaw resistant== if the following holds:
 - If `s` and `t` can be unified then `s` and `t` have the same type.
 
 > [!example]
-> ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md)
+> ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md)
 > 
 > ![](../../../../../../Assets/Pics/Screenshot%202026-02-24%20at%2022.20.49.png)
 > ![](../../../../../../Assets/Pics/Screenshot%202026-02-24%20at%2022.21.00.png)
@@ -1634,11 +1634,11 @@ Definition of application protocols
 
 #### Guessing Attacks & Mitigations
 > [!links]
-> ↗ [Password Attack](../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
+> ↗ [Password Attack](../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20%28CTI%29%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
 > ↗ [Credentials & Password Related Tools](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credentials%20&%20Password%20Related%20Tools.md)
 > - ↗ [Login Cracker & Password Cracker](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Login%20Cracker%20&%20Password%20Cracker/Login%20Cracker%20&%20Password%20Cracker.md)
 > 
-> ↗ [OFMC (Open-Source Fixed-Point Model-Checker)](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker/OFMC%20(Open-Source%20Fixed-Point%20Model-Checker).md)
+> ↗ [OFMC (Open-Source Fixed-Point Model-Checker)](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/OFMC%20%28Open-Source%20Fixed-Point%20Model-Checker%29.md)
 
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
  >Protocol Security Verification Tutorial
@@ -1654,8 +1654,8 @@ guess good cryptographic keys), but one can do a few things to mitigate the risk
 
 ## 2️⃣ Automated Verification of Security Protocols
 > [!links]
-> ↗ [Software (Program) Verification](../../Software%20(Program)%20Verification/Software%20(Program)%20Verification.md)
-> ↗ [(Formal) Model Checking](../../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [Software (Program) Verification](../../Software%20%28Program%29%20Verification/Software%20%28Program%29%20Verification.md)
+> ↗ [(Formal) Model Checking](../../🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 
 ### Introduction
@@ -1693,20 +1693,20 @@ The principle limitation does not mean, however, that one cannot solve practical
 > ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
 > ↗ [Constraint Satisfaction Problems (CSPs)](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20%28CSPs%29.md)
 > 
-> ↗ [SCA (Static Code Analysis) & SAST](../../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
-> ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
-> ↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+> ↗ [SCA (Static Code Analysis) & SAST](../../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md)
+> ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29/Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29.md)
+> ↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
 ##### Symbolic Transition Systems
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
  >Protocol Security Verification Tutorial
  >Sebastian M ̈odersheim,
  >Chapter 12
 ##### The Lazy Intruder
-Recall the automated ↗ [Dolev–Yao (DY)](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md) deduction and ↗ [attack semantics (of AnB language)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md) in strand space: 
+Recall the automated ↗ [Dolev–Yao (DY)](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20%28Formal%29%20Models/Dolev–Yao%20%28DY%29%20Model%20&%20Extended%20Dolev–Yao%20Models.md) deduction and ↗ [attack semantics (of AnB language)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20%28Alice%20and%20Bob%29%20Notation%20&%20AnBx%20Languages.md) in strand space: 
 
 > [!Abstract] Review
-> ↗ [Needham–Schroeder Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Needham–Schroeder%20Protocol.md)
-> ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md)
+> ↗ [Needham–Schroeder Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29/Key%20Transport%20Algorithms%20&%20Protocols/Needham–Schroeder%20Protocol.md)
+> ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20%28Alice%20and%20Bob%29%20Notation%20&%20AnBx%20Languages.md)
 > 
 > NSPK protocol expressed as in AnB language, message sequence chart, and Role /Strand
 > 
@@ -2042,7 +2042,7 @@ Important properties of the lazy intruder:
 Finally, one can show that the problem of protocol security with bounded sessions (and nonces) but unbounded messages is co-NP-complete.
 
 > [!link] Theorem (Rusinowitch & Turuani 2001)
-> ↗ [Complexity Theory & Computational Complexity](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+> ↗ [Complexity Theory & Computational Complexity](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 > Protocol insecurity for a bounded number of sessions is NP-complete. 
 > 
 > Proof Sketch.
@@ -2116,8 +2116,8 @@ Thus, when we arrive at a simple constraint, we have found a solution. If we arr
 ###### Constraint Solving Example ⭐
 
 > [!example]
-> ↗ [Needham–Schroeder Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Needham–Schroeder%20Protocol.md)
-> ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md)
+> ↗ [Needham–Schroeder Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29/Key%20Transport%20Algorithms%20&%20Protocols/Needham–Schroeder%20Protocol.md)
+> ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20%28Alice%20and%20Bob%29%20Notation%20&%20AnBx%20Languages.md)
 > 
 > **Example 21.**  Consider again the constraint in from the NSPK example. Let us label the intruder knowledge at different points $M_0, \ldots, M_2$:
 > 
@@ -2229,7 +2229,7 @@ Thus, when we arrive at a simple constraint, we have found a solution. If we arr
 ### 🎯 Unbounded Approaches
 #### Abstract Interpretation (Finding Proofs)
 > [!links]
-> ↗ [Program Abstraction & Abstract Interpretation](../../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+> ↗ [Program Abstraction & Abstract Interpretation](../../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 ##### A Example
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
  >Protocol Security Verification Tutorial
@@ -2237,9 +2237,9 @@ Thus, when we arrive at a simple constraint, we have found a solution. If we arr
  >Chapter 14.1
 ##### Two Abstractions & Galois-Connection
 > [!links]
-> ↗ [Program Abstraction & Abstract Interpretation /Galois Connection & Safe-Approximation ⭐](../../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md#Galois%20Connection%20&%20Safe-Approximation%20⭐)
-> ↗ [Galois Theory](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Galois%20Theory.md)
-> ↗ [Category Theory (范畴论)](../../../../../🧮%20Mathematics/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+> ↗ [Program Abstraction & Abstract Interpretation /Galois Connection & Safe-Approximation ⭐](../../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md#Galois%20Connection%20&%20Safe-Approximation%20⭐)
+> ↗ [Galois Theory](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Galois%20Theory.md)
+> ↗ [Category Theory (范畴论)](../../../../../🧮%20Mathematics/🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.4
 

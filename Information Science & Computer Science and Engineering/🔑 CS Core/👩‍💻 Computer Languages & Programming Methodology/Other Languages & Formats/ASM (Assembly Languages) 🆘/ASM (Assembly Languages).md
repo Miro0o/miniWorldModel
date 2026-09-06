@@ -6,27 +6,27 @@
 
 ## Res
 ### Related Topics
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-↗ [CPU (Central Processing Unit)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
-↗ [Register](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/Register.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
+↗ [CPU (Central Processing Unit)](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/CPU%20%28Central%20Processing%20Unit%29.md)
+↗ [Register](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/📌%20Inside%20CPU%20Core%20%28Core%20Microarchitecture%29/Register.md)
 
-↗ [C-Based Languages](../../GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/C-Based%20Languages.md)
-↗ [C & CPP](../../GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+↗ [C-Based Languages](../../GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/C-Based%20Languages.md)
+↗ [C & CPP](../../GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 
-↗ [Program Execution (Runtime)](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
-↗ [Instruction Execution](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+↗ [Program Execution (Runtime)](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Program%20Execution%20%28Runtime%29.md)
+↗ [Instruction Execution](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Instruction%20Execution.md)
 
 ↗ [Debuggers & Disassemblers & Decompilers](../../🛠️%20Programming%20Tool%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Debuggers%20&%20Disassemblers%20&%20Decompilers.md)
 ↗ [Compilation & Program Loading Tools](../../🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 - ↗ [Assemblers](../../🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Assemblers/Assemblers.md)
 
-↗ [Cybersecurity - Malicious Code Analysis](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Techniques/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
-↗ [CTF - RE&BE](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/Reverse%20&%20Pwn/Reverse%20&%20Pwn.md)
-↗ [Cybersecurity - Reverse Engineering](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
+↗ [Cybersecurity - Malicious Code Analysis](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Techniques/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
+↗ [CTF - RE&BE](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/CTF%20&%20AWD/Reverse%20&%20Pwn/Reverse%20&%20Pwn.md)
+↗ [Cybersecurity - Reverse Engineering](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
 
 
 ### Learning Resources
-🏫 [Compilation Principles](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
+🏫 [Compilation Principles](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29.md)
 📖 [汇编语言]: "王爽"
 📖 C++反汇编与逆向分析技术揭秘，钱林松，张延清
 
@@ -52,13 +52,13 @@
 <small>Assembly Language in the Computer Programming Language Hierarchy</small>
 
 > Assembly language is human-readable characters encoding of binary machine code language!
-> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-> ↗ [Machine Code](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Machine%20Code.md)
-> ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
+> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
+> ↗ [Machine Code](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Machine%20Code.md)
+> ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
 
 
 ### What is ASM and why is it?
-> ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
+> ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
 
 > 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
 
@@ -70,22 +70,22 @@
 	- **Labels and Symbols**: ASM allows the use of labels and symbols to make code more understandable and to manage control flow (e.g., loop labels, function names).
 	- **Assembler**: An assembler is a tool that translates assembly language code into the corresponding machine code that the processor can execute.
 #### History of ASM
-↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
-[Microprocessor & Microprocessors Unit (MPU) /Evolution of Microprocessor](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md#Evolution%20of%20Microprocessor) 
+↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
+[Microprocessor & Microprocessors Unit (MPU) /Evolution of Microprocessor](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29.md#Evolution%20of%20Microprocessor) 
 
 
 ### 🤔 How is High-Level Language Translated into ASM?
-↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
-- ↗ [Compilation Phase](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
-- ↗ [Assembly Phase](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Assembly%20Phase/Assembly%20Phase.md)
+↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29.md)
+- ↗ [Compilation Phase](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/Compilation%20Phase.md)
+- ↗ [Assembly Phase](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Assembly%20Phase/Assembly%20Phase.md)
 
 ↗ [Assemblers](../../🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Assemblers/Assemblers.md)
 ↗ [Debuggers & Disassemblers & Decompilers](../../🛠️%20Programming%20Tool%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Debuggers%20&%20Disassemblers%20&%20Decompilers.md)
 
 
 ### 🤔 How is ASM Translated into Machine Code?
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-↗ [8086 ASM (16 bit)](x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
+↗ [8086 ASM (16 bit)](x86%20ISA%20Based%20ASM/8086%20ASM%20%2816%20bit%29.md)
 ↗ [Assemblers](../../🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Assemblers/Assemblers.md)
 
 **示例：MIPS 指令到机器码**
@@ -125,11 +125,11 @@ add 对应的 MIPS 指令里 opcode 是 0，rs 代表第一个寄存器 s1 的�
 ### ASM and Bytecode
 #ASM #bytecode
 
-> ↗ [Bytecode](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Bytecode.md)
+> ↗ [Bytecode](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Bytecode.md)
 > ↗ [Java Bytecode](🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
-> ↗ [JVM Instrument Set & Java Bytecode](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+> ↗ [JVM Instrument Set & Java Bytecode](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/RISC%20%28Reduced%20Instruction%20Set%20Computer%29/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
 > 
-> ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
+> ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
 
 Although ASM and Bytecode are different concepts, they still play somehow similar role considering their position in translating the semantics of high-level programming languages into low-level machine-readable instructions (?🤔).
 

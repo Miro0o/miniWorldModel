@@ -7,28 +7,28 @@
 ## Res
 ### Related Topics
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
-↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20%28Large%20Language%20Model%29.md)
 
-↗ [Awesome AI (Tools)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
+↗ [Awesome AI (Tools)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕶️%20Awesome%20AI%20%28Tools%29/Awesome%20AI%20%28Tools%29.md)
 
-↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
+↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods.md)
 
 ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md)
 - ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
-- ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+- ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
 - ↗ [Algebra](../../🧮%20Mathematics/🧊%20Algebra/Algebra.md)
 	- ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-- ↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+- ↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
 - ↗ [Cybernetics & Control Theory](../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
-- ↗ [Game Theory & Multi-Agent Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
-- ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+- ↗ [Game Theory & Multi-Agent Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
+- ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making.md)
 
 ↗ [AI4SE](../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
-- ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
+- ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC.md)
 - ↗ [MLOps](../../Software%20Engineering/🤖%20AI4SE/MLOps/MLOps.md)
 
-↗ [HuggingFace 🤗](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/🐙%20VCM%20(Version%20Control%20Management)/Git/👩🏼‍🍳%20Git%20Services%20Providers/HuggingFace%20🤗.md)
+↗ [HuggingFace 🤗](../../Software%20Engineering/CASE%20%28Computer-Aided%20Software%20Engineering%29%20Tools/Upper%20CASE%20Tools/🐙%20VCM%20%28Version%20Control%20Management%29/Git/👩🏼‍🍳%20Git%20Services%20Providers/HuggingFace%20🤗.md)
 
 ↗ [Artificial Intelligence Industry and Companies](../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Artificial%20Intelligence%20Industry%20and%20Companies/Artificial%20Intelligence%20Industry%20and%20Companies.md)
 
@@ -136,9 +136,9 @@ or（感性，理性）X （认识，实践）
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
 > ↗ [The Development History of AI](🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
 > 
-> ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
-> ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
-> ↗ [Vision-Language-Action (VLA) Model](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20+%20Robotics%20&%20Robot%20Learning/Vision-Language-Action%20(VLA)%20Model/Vision-Language-Action%20(VLA)%20Model.md)
+> ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC.md)
+> ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20%28WM%29/AI%20Embodiment%20&%20World%20Model%20%28WM%29.md)
+> ↗ [Vision-Language-Action (VLA) Model](❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20%28WM%29/AI%20+%20Robotics%20&%20Robot%20Learning/Vision-Language-Action%20%28VLA%29%20Model/Vision-Language-Action%20%28VLA%29%20Model.md)
 
 ![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 
@@ -200,7 +200,7 @@ This chapter defines AI and establishes the cultural background against which it
 
 #### Scale of (Artificial) Intelligent Levels
 > [!links]
-> ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
+> ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC.md)
 
 ![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 ##### Performance Measures
@@ -221,9 +221,9 @@ This chapter defines AI and establishes the cultural background against which it
 > [!links]
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
 > ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
-> ↗ [Agents & Multi-Agent System (MAS)](Agents%20&%20Multi-Agent%20System%20(MAS)/Agents%20&%20Multi-Agent%20System%20(MAS).md)
-> ↗ [Agentic LLMs & LLM Agent Harness](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
-> ↗ [Game Theory & Multi-Agent Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
+> ↗ [Agents & Multi-Agent System (MAS)](Agents%20&%20Multi-Agent%20System%20%28MAS%29/Agents%20&%20Multi-Agent%20System%20%28MAS%29.md)
+> ↗ [Agentic LLMs & LLM Agent Harness](Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
+> ↗ [Game Theory & Multi-Agent Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -306,10 +306,10 @@ As noted on page 57, the performance measure itself may be unknown, either becau
 ##### Agent Models & The Internal Structure of Agents
 > [!links]
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
-> - ↗ [Reflex-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Reflex-Based%20Models.md)
-> - ↗ [Variables-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Variables-Based%20Models.md)
-> - ↗ [Logic-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Logic-Based%20Models.md)
-> - ↗ [State-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/State-Based%20Models.md)
+> - ↗ [Reflex-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20%28Semantic%20Level%29/Reflex-Based%20Models.md)
+> - ↗ [Variables-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20%28Semantic%20Level%29/Variables-Based%20Models.md)
+> - ↗ [Logic-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20%28Semantic%20Level%29/Logic-Based%20Models.md)
+> - ↗ [State-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20%28Semantic%20Level%29/State-Based%20Models.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -334,7 +334,7 @@ As noted on page 57, the performance measure itself may be unknown, either becau
 
 > [!links]
 > ↗ [Problem Solving & Search-Based Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
-> ↗ [Automated Planning and Scheduling (APS) & AI Planning](Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
+> ↗ [Automated Planning and Scheduling (APS) & AI Planning](Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -361,9 +361,9 @@ In an atomic representation ==each state of the world is indivisible==—it has 
 The standard algorithms underlying search and game-playing (Chapters 3, 4, and 6), hidden Markov models (Chapter 14), and Markov decision processes (Chapter 16) all work with atomic representations.
 
 > [!links]
-> ↗ [Systematic & Combinatorial Search (Classical Search)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+> ↗ [Systematic & Combinatorial Search (Classical Search)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29.md)
 > ↗ [Games & Search in Multi-Agents Environment](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
-> ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
+> ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20%28MC%29/Markov%20Decision%20Processes%20%28MDP%29%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20%28MDP%29%20&%20Stochastic%20Dynamic%20Program.md)
 
 
 **Factored Representation**
@@ -373,16 +373,16 @@ Many important areas of AI are based on factored representations, including cons
 
 > [!links]
 > ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
-> ↗ [Constraint Satisfaction Problems (CSPs)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+> ↗ [Constraint Satisfaction Problems (CSPs)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20%28CSPs%29.md)
 > 
-> ↗ [Constraint Solving & Theorem Proving](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-> - ↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
-> - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
-> - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
->↗ [(Formal) Model Checking](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [Constraint Solving & Theorem Proving](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+> - ↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+> - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)
+> - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
+>↗ [(Formal) Model Checking](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 >
-> ↗ [Automated Planning and Scheduling (APS) & AI Planning](Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
-> ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
+> ↗ [Automated Planning and Scheduling (APS) & AI Planning](Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning.md)
+> ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
 
 > [!TIP]
 > https://chatgpt.com/share/6994e9a5-ffd0-8010-b952-1355963ff237
@@ -423,25 +423,25 @@ For many purposes, we need to ==understand the world as having things in it that
 Structured representations underlie relational databases and first-order logic (Chapters 8, 9, and 10), first-order probability models (Chapter 18), and much of natural language understanding (Chapters 24 and 25). ==In fact, much of what humans express in natural language concerns objects and their relationships.==
 
 > [!links]
-> ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> ↗ [Formal System, Formal Logic, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+> ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+> ↗ [Formal System, Formal Logic, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
-> - ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
-> - ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
+> - ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
+> - ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
 > 
-> ↗ [Natural Language Processing (NLP) & Computational Linguistics](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
-> - ↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+> ↗ [Natural Language Processing (NLP) & Computational Linguistics](Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md)
+> - ↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20%28Large%20Language%20Model%29.md)
 >
-> ↗ [Computer Vision (CV)](Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md)
+> ↗ [Computer Vision (CV)](Computer%20Vision%20%28CV%29/Computer%20Vision%20%28CV%29.md)
 
 
 ---
 2️⃣ **==Implicit, Learnt Modeling of Environment==**
 
 > [!links]
-> ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
-> ↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-> ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
+> ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
+> ↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20%28Large%20Language%20Model%29.md)
+> ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20%28WM%29/AI%20Embodiment%20&%20World%20Model%20%28WM%29.md)
 
 > 🤖 GPT-5.2
 > https://chatgpt.com/share/6994e9a5-ffd0-8010-b952-1355963ff237
@@ -468,7 +468,7 @@ From a formal methods perspective:
 ###### Agent Types & AI Task Types
 > [!links]
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
-> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
 
 
 ---
@@ -476,7 +476,7 @@ From a formal methods perspective:
 
 > [!links]
 > ↗ [Problem Solving & Search-Based Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
-> ↗ [Automated Planning and Scheduling (APS) & AI Planning](Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
+> ↗ [Automated Planning and Scheduling (APS) & AI Planning](Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning.md)
 
 > 🤖 GPT-5.2
 > https://chatgpt.com/share/6994e9a5-ffd0-8010-b952-1355963ff237
@@ -521,12 +521,12 @@ So:
 2️⃣ **==Learn-Based AI==**
 
 > [!links]
-> ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
-> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
-> ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-> - ↗ [Neural Network Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+> ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
+> ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods.md)
+> - ↗ [Neural Network Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 >
-> ↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+> ↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20%28Large%20Language%20Model%29.md)
 
 > 🤖 GPT-5.2
 > https://chatgpt.com/share/6994e9a5-ffd0-8010-b952-1355963ff237
@@ -613,7 +613,7 @@ Different tools, same underlying idea.
 > ↗ [Philosophy & Its History](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 > 
 > ↗ [Philosophy, Ethics, and Risks of AI](Philosophy,%20Ethics,%20and%20Risks%20of%20AI/Philosophy,%20Ethics,%20and%20Risks%20of%20AI.md)
-> ↗ [Trust-worthy AI & LLM Safety and Security](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
+> ↗ [Trust-worthy AI & LLM Safety and Security](Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -674,7 +674,7 @@ Most experts are optimistic about continued progress; as we saw on page 46, the 
 
 #### Representing The State of The World
 > [!links]
-> ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
+> ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20%28WM%29/AI%20Embodiment%20&%20World%20Model%20%28WM%29.md)
 
 #### Selecting Actions
 
@@ -721,9 +721,9 @@ Now fix the agent architecture (the underlying machine capabilities, perhaps wit
 
 For some elementary classes of agent programs in simple real-time environments, it is possible to identify bounded-optimal agent programs (Etzioni, 1989; Russell and Subramanian, 1995). The success of Monte Carlo tree search has revived interest in metalevel decision making, and there is reason to hope that bounded optimality within more complex families of agent programs can be achieved by techniques such as metalevel reinforcement learning. It should also be possible to develop a constructive theory of architecture, beginning with theorems on the bounded optimality of suitable methods of combining different bounded-optimal components such as reflex and action–value systems.
 #### Generative AI & AGI
-↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
-- ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
-↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI.md)
+↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC.md)
+- ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20%28WM%29/AI%20Embodiment%20&%20World%20Model%20%28WM%29.md)
+↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI.md)
 #### AI Engineering
 
 

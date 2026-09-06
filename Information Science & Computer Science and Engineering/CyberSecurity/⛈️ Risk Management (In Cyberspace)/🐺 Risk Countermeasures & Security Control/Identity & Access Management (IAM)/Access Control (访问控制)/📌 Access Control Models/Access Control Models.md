@@ -7,10 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [DBMS Access Control](../../../../../System%20Security/Database%20System%20Security/DBMS%20Access%20Control/DBMS%20Access%20Control.md)
-↗ [SQL & Access Control](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20Data%20Control%20(DCL)/SQL%20&%20Access%20Control/SQL%20&%20Access%20Control.md)
-↗ [File Sharing & Access Control](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20Management%20(User%20Level)/File%20Sharing%20&%20Access%20Control/File%20Sharing%20&%20Access%20Control.md)
+↗ [SQL & Access Control](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/🦆%20Query%20Languages%20%28Data%20Query%20Languages,%20DQL%29/🩼%20SQL%20%28Structured%20Query%20Language%29/SQL%20Data%20Control%20%28DCL%29/SQL%20&%20Access%20Control/SQL%20&%20Access%20Control.md)
+↗ [File Sharing & Access Control](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20IO%20System/IO%20Generality%20%28via%20Abstraction%29/File%20&%20File%20System/File%20Management%20%28User%20Level%29/File%20Sharing%20&%20Access%20Control/File%20Sharing%20&%20Access%20Control.md)
 
-↗ [Information Flow & Information Flow Control (IFC)](../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Information%20Flow%20&%20Information%20Flow%20Control%20(IFC)/Information%20Flow%20&%20Information%20Flow%20Control%20(IFC).md)
+↗ [Information Flow & Information Flow Control (IFC)](../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/Information%20Flow%20&%20Information%20Flow%20Control%20%28IFC%29/Information%20Flow%20&%20Information%20Flow%20Control%20%28IFC%29.md)
 
 
 ### Other Resources

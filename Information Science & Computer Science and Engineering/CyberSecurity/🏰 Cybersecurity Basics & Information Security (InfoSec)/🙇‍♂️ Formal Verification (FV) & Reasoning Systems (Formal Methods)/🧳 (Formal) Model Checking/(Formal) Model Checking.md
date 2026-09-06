@@ -10,36 +10,36 @@
 ↗ [Complexity Theory & Computational Complexity](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 ↗ [Computationally Hard Problems](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
 
-↗ [ICT System Reliability (Correctness) & Verification](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
+↗ [ICT System Reliability (Correctness) & Verification](../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20%28Correctness%29%20&%20Verification.md)
 ↗ [Software Quality Assurance (SQA)](../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/Software%20Quality%20Assurance%20%28SQA%29.md)
 
 ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process.md)
 - ↗ [Markov Process & Markov Chain (MC)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20%28MC%29/Markov%20Process%20&%20Markov%20Chain%20%28MC%29.md)
 
-↗ [Formal System, Formal Logic, and Its Semantics](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-- ↗ [Classical Logic (Standard Formal Logic)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-- ↗ [Temporal Logic (时态逻辑)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Temporal%20Logic%20(时态逻辑).md)
+↗ [Formal System, Formal Logic, and Its Semantics](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+- ↗ [Classical Logic (Standard Formal Logic)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+- ↗ [Temporal Logic (时态逻辑)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Temporal%20Logic%20%28时态逻辑%29.md)
 	- ↗ [Computation-Tree Logic (CTL*) Family](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Computation-Tree%20Logic%20%28CTLstar%29%20Family.md)
-		- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Linear%20Temporal%20Logic%20(LTL).md)
-		- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
-- ↗ [Data Structure in Logic Formulas](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
-	- ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md)
+		- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Linear%20Temporal%20Logic%20%28LTL%29.md)
+		- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Branching%20Time%20Logic%20%28Computation-Tree%20Logic,%20CTL%29.md)
+- ↗ [Data Structure in Logic Formulas](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
+	- ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20%28Binary%20Decision%20Diagrams%29%20&%20ROBDD.md)
 
-↗ [Logic Programs & Symbolic AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
+↗ [Logic Programs & Symbolic AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
 ↗ [Problem Solving & Search-Based Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
 
-↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
+↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29/Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29.md)
 ↗ [Static Code Analysis Tools (SCAT)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20%28SCAT%29/Static%20Code%20Analysis%20Tools%20%28SCAT%29.md)
 - model checkers
-	- ↗ [PRISM](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/PRISM.md)
-	- ↗ [TLA+](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/TLA+.md)
-	- ↗ [SPIN](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/SPIN.md)
-	- ↗ [ESBMC (Efficient SMT-Based Model Checker)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/ESBMC%20%28Efficient%20SMT-Based%20Model%20Checker%29.md)
-	- ↗ [CBMC (C Bounded Model Checker)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/CBMC%20%28C%20Bounded%20Model%20Checker%29.md)
+	- ↗ [PRISM](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/PRISM.md)
+	- ↗ [TLA+](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/TLA+.md)
+	- ↗ [SPIN](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/SPIN.md)
+	- ↗ [ESBMC (Efficient SMT-Based Model Checker)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/ESBMC%20%28Efficient%20SMT-Based%20Model%20Checker%29.md)
+	- ↗ [CBMC (C Bounded Model Checker)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/CBMC%20%28C%20Bounded%20Model%20Checker%29.md)
 - theorem solvers (proof assistant)
-	- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
-	- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)
-	- ↗ [Automated & Generic Theorem Provers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
+	- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
+	- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)
+	- ↗ [Generic & Automated Theorem Provers (ATP)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md)
 
 
 ### Related Tools
@@ -106,8 +106,8 @@ Model Checking - An Overview
 
 ## Intro
 > [!links]
-> ↗ [Formal System, Formal Logic, and Its Semantics](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) "satisfiability"
-> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md) "satisfiability"
+> ↗ [Formal System, Formal Logic, and Its Semantics](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) "satisfiability"
+> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md) "satisfiability"
 >
 > The SAT problem: does there exist a model $M$ that satisfies $\Phi$? $$\exists M. M\models\Phi ?$$
 >
@@ -245,8 +245,8 @@ Model checking. Model checking originates from the independent work of two pairs
 > ↗ [Theory of Computation](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 > - ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 > 
-> ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-> ↗ [Data Structure in Logic Formulas](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
+> ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+> ↗ [Data Structure in Logic Formulas](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
 >
 > ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
@@ -305,13 +305,13 @@ A computation tree is the unfolding of the transition system.
 - ↗ [Context-Sensitive Languages (CSL) & Linear-Bounded Automata (LBA)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Context-Sensitive%20Languages%20%28CSL%29%20&%20Linear-Bounded%20Automata%20%28LBA%29.md)
 - ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 
-↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
 
 ### (Mathematical) Symbolic Models
 > [!links]
-> ↗ [Data Structure in Logic Formulas](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
-> ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md)
+> ↗ [Data Structure in Logic Formulas](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
+> ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20%28Binary%20Decision%20Diagrams%29%20&%20ROBDD.md)
 
 > 🤖 Google AI Mode
 
@@ -333,13 +333,13 @@ Symbolic models in model checking are a technique that uses mathematical symbol
 
 ### Distributed System Modeling
 > [!link]
-> ↗ [Petri Nets](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Distributed%20Computation%20Models/Petri%20Nets.md)
+> ↗ [Petri Nets](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Distributed%20Computation%20Models/Petri%20Nets.md)
 
 
 ### Concurrent System Modeling
 > [!links]
-> ↗ [Process Calculi (Process Algebras)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Concurrent%20Computation%20Models/Process%20Calculi%20(Process%20Algebras).md)
-> ↗ [Actor Model & Actor Model Theory](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Concurrent%20Computation%20Models/Actor%20Model%20&%20Actor%20Model%20Theory.md)
+> ↗ [Process Calculi (Process Algebras)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Concurrent%20Computation%20Models/Process%20Calculi%20%28Process%20Algebras%29.md)
+> ↗ [Actor Model & Actor Model Theory](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Concurrent%20Computation%20Models/Actor%20Model%20&%20Actor%20Model%20Theory.md)
 
 > 🤖 Google AI Mode
 
@@ -368,21 +368,21 @@ These models are used to analyze multi-agent systems where multiple independent 
 ### Logic Languages
 > foundations for property specialization
 
-↗ [Classical Logic (Standard Formal Logic)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+↗ [Classical Logic (Standard Formal Logic)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
+- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
-↗ [Higher-Order Languages & Logics (HOL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Higher-Order%20Languages%20&%20Logics%20(HOL).md)
+↗ [Higher-Order Languages & Logics (HOL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Higher-Order%20Languages%20&%20Logics%20%28HOL%29.md)
 
-↗ [Modal Logic (模态逻辑)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Modal%20Logic%20(模态逻辑).md)
-- ↗ [Dynamic Logic (DL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Dynamic%20Logic%20(DL)/Dynamic%20Logic%20(DL).md)
+↗ [Modal Logic (模态逻辑)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Modal%20Logic%20%28模态逻辑%29.md)
+- ↗ [Dynamic Logic (DL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Dynamic%20Logic%20%28DL%29/Dynamic%20Logic%20%28DL%29.md)
 - ↗ [Computation-Tree Logic (CTL*) Family](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Computation-Tree%20Logic%20%28CTLstar%29%20Family.md)
-	- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Linear%20Temporal%20Logic%20(LTL).md)
-	- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+	- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Linear%20Temporal%20Logic%20%28LTL%29.md)
+	- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Branching%20Time%20Logic%20%28Computation-Tree%20Logic,%20CTL%29.md)
 #### Semantics of Property Language over Transition System
 ↗ [Computation-Tree Logic (CTL*) Family](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Computation-Tree%20Logic%20%28CTLstar%29%20Family.md)
-- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Linear%20Temporal%20Logic%20(LTL).md)
-- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Linear%20Temporal%20Logic%20%28LTL%29.md)
+- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Branching%20Time%20Logic%20%28Computation-Tree%20Logic,%20CTL%29.md)
 
 We define the satisfaction set of a formula as the set of states that satisfy the formula
 $$sat(ϕ) = {s ∣ s ⊧ ϕ}$$
@@ -407,37 +407,37 @@ Regular Properties
 
 
 ## 3️⃣ Model Checking System & SAT Problem
-↗ [Formal System, Formal Logic, and Its Semantics](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) "satisfiability and SAT problem"
-↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+↗ [Formal System, Formal Logic, and Its Semantics](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) "satisfiability and SAT problem"
+↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
 
 ↗ [Complexity Theory & Computational Complexity](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 
 ↗ [MC Algorithms](MC%20Algorithms/MC%20Algorithms.md)
 
-↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
-- ↗ [Automated & Generic Theorem Provers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
-- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
-- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)
+↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+- ↗ [Generic & Automated Theorem Provers (ATP)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md)
+- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
+- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)
 
-↗ [Logic Programs & Symbolic AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
+↗ [Logic Programs & Symbolic AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
 ↗ [Problem Solving & Search-Based Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
 - ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
 - ↗ [Constraint Satisfaction Problems (CSPs)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20%28CSPs%29.md)
 
 
 ### Propositional Logic Model Checking & Algorithms
-↗ [Classical Logic (Standard Formal Logic)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+↗ [Classical Logic (Standard Formal Logic)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
 
 ↗ [Propositional Logic Model Checking & Algorithms](MC%20Algorithms/Propositional%20Logic%20Model%20Checking%20&%20Algorithms.md)
 
 
 ### Modal Logic Model Checking & Algorithms
-↗ [Modal Logic (模态逻辑)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Modal%20Logic%20(模态逻辑).md)
-- ↗ [Temporal Logic (时态逻辑)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Temporal%20Logic%20(时态逻辑).md)
+↗ [Modal Logic (模态逻辑)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Modal%20Logic%20%28模态逻辑%29.md)
+- ↗ [Temporal Logic (时态逻辑)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Temporal%20Logic%20%28时态逻辑%29.md)
 	- ↗ [Computation-Tree Logic (CTL*) Family](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Computation-Tree%20Logic%20%28CTLstar%29%20Family.md)
-- ↗ [Dynamic Logic (DL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Dynamic%20Logic%20(DL)/Dynamic%20Logic%20(DL).md)
-- ↗ [Epistemic (Modal) Logic](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Epistemic%20(Modal)%20Logic/Epistemic%20(Modal)%20Logic.md)
+- ↗ [Dynamic Logic (DL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Dynamic%20Logic%20%28DL%29/Dynamic%20Logic%20%28DL%29.md)
+- ↗ [Epistemic (Modal) Logic](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Epistemic%20%28Modal%29%20Logic/Epistemic%20%28Modal%29%20Logic.md)
 
 ↗ [MC Algorithms For CTLstar](MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family/MC%20Algorithms%20For%20CTLstar.md)
 ↗ [MC Algorithms For CTL](MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family/MC%20Algorithms%20For%20CTL.md)
@@ -491,8 +491,8 @@ Rare events
 
 
 ### States Explosion & Reduction
-↗ [Software Analysis Basics /Program State Space & State Explosion](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Program%20State%20Space%20&%20State%20Explosion)
-↗ [Lattice (Order Theory)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+↗ [Software Analysis Basics /Program State Space & State Explosion](../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Program%20State%20Space%20&%20State%20Explosion)
+↗ [Lattice (Order Theory)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
 
 
 

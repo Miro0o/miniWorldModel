@@ -7,23 +7,23 @@
 ## Res
 ### Related Topics
 ↗ [Cryptology & Secure Communication](../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
-↗ [Reliable Data Transfer (RDT)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
+↗ [Reliable Data Transfer (RDT)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/Reliable%20Data%20Transfer%20%28RDT%29/Reliable%20Data%20Transfer%20%28RDT%29.md)
 
-↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
-- ↗ [(Formal) Model Checking](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
-- ↗ [Security Protocols & Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
-	- ↗ [Cryptographic Protocols Modeling & Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
-- ↗ [Hardware (Digital Circuits) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Hardware%20(Digital%20Circuits)%20Verification/Hardware%20(Digital%20Circuits)%20Verification.md)
-- ↗ [Software (Program) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Software%20(Program)%20Verification/Software%20(Program)%20Verification.md)
+↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
+- ↗ [(Formal) Model Checking](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
+- ↗ [Security Protocols & Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+	- ↗ [Cryptographic Protocols Modeling & Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+- ↗ [Hardware (Digital Circuits) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Hardware%20%28Digital%20Circuits%29%20Verification/Hardware%20%28Digital%20Circuits%29%20Verification.md)
+- ↗ [Software (Program) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Software%20%28Program%29%20Verification/Software%20%28Program%29%20Verification.md)
 
-↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
-- ↗ [Software Testing](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
-↗ [Software (Program) Techniques & Binary Engineering](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
-↗ [Program Analysis Basics](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/Software%20Quality%20Assurance%20%28SQA%29.md)
+- ↗ [Software Testing](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Software (Program) Techniques & Binary Engineering](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
+↗ [Program Analysis Basics](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
 
 ↗ [Attack Simulation - Red, Blue, Purple, White](Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
-↗ [Network Penetration (Pen-testing)](../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+↗ [Network Penetration (Pen-testing)](../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20%28Pen-testing%29/Network%20Penetration%20%28Pen-testing%29.md)
 
 
 ### Other Resources
@@ -44,32 +44,32 @@ Errors are typically concentrated in a few software modules – about half of th
 
 ![](../../../../Assets/Pics/Screenshot%202025-08-29%20at%2013.08.12.png)
 
-↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
-↗ [SDL (Secure Development Lifecycle)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/SDL%20(Secure%20Development%20Lifecycle).md)
+↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20%28Software%20Development%20Life%20Circle%29%20&%20SDLC%20Models/SDLC%20%28Software%20Development%20Life%20Circle%29%20&%20SDLC%20Models.md)
+↗ [SDL (Secure Development Lifecycle)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/SDL%20%28Secure%20Development%20Lifecycle%29.md)
 
 
 ### Software Verification
 > [!links]
-> ↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
-> ↗ [Software (Program) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Software%20(Program)%20Verification/Software%20(Program)%20Verification.md)
+> ↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/Software%20Quality%20Assurance%20%28SQA%29.md)
+> ↗ [Software (Program) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Software%20%28Program%29%20Verification/Software%20%28Program%29%20Verification.md)
 
 > 📖 Principles of Model Checking, Christel Baier and Joost-Pieter Katoen
 
-**Software Verification**: ↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
-- *Peer reviewing* (↗ [Code Review](Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)) and *software testing* (↗ [Software Testing](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)) are the major software verification techniques used in practice.
-- Formal verification techniques for property P: ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
+**Software Verification**: ↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/Software%20Quality%20Assurance%20%28SQA%29.md)
+- *Peer reviewing* (↗ [Code Review](Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)) and *software testing* (↗ [Software Testing](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/🧪%20Software%20Testing/Software%20Testing.md)) are the major software verification techniques used in practice.
+- Formal verification techniques for property P: ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
 	- Deductive methods:
 		- Method: provide a formal proof that P holds
 		- Tool:
-			- Theorem Prover: [Automated & Generic Theorem Provers](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md), [SMT (Satisfiability Modulo Theory) Solvers](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md), [SAT (Boolean Satisfiability Problem) Solvers](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md);
+			- Theorem Prover: [Generic & Automated Theorem Provers (ATP)](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md), [SMT (Satisfiability Modulo Theory) Solvers](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md), [SAT (Boolean Satisfiability Problem) Solvers](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md);
 			- Proof Assistant;
 			- Proof Checker;
 		- Applicable if: system has form a systematical theory
-	- ↗ [(Formal) Model Checking](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md):
+	- ↗ [(Formal) Model Checking](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md):
 		- Method: systematic check on P in ALL STATES
 		- Tool: model checker
 		- Applicable if: system generates (finite) behavioural model
-	- Model-based Simulation or Testing: ↗ [Software Testing](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
+	- Model-based Simulation or Testing: ↗ [Software Testing](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/🧪%20Software%20Testing/Software%20Testing.md)
 		- Method: test P by exploring possible behaviours.
 		- Tool: 
 		- Basic Procedure: 
@@ -92,13 +92,13 @@ Errors are typically concentrated in a few software modules – about half of th
 - Automated verification of concurrent programs
 	- ﻿﻿model-based instead of proof-rule based approach
 	- ﻿﻿does the concurrent program satisfy a given (logical) property?
-- ↗ [(Formal) Model Checking](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+- ↗ [(Formal) Model Checking](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 
 ### Hardware Verification
 > [!links]
-> ↗ [Hardware Quality Assurance (HQA)](../../../Computer%20Engineering,%20Embedded%20&%20IoT/Hardware%20Quality%20Assurance%20(HQA)/Hardware%20Quality%20Assurance%20(HQA).md)
-> ↗ [Hardware (Digital Circuits) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Hardware%20(Digital%20Circuits)%20Verification/Hardware%20(Digital%20Circuits)%20Verification.md)
+> ↗ [Hardware Quality Assurance (HQA)](../../../Computer%20Engineering,%20Embedded%20&%20IoT/Hardware%20Quality%20Assurance%20%28HQA%29/Hardware%20Quality%20Assurance%20%28HQA%29.md)
+> ↗ [Hardware (Digital Circuits) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Hardware%20%28Digital%20Circuits%29%20Verification/Hardware%20%28Digital%20Circuits%29%20Verification.md)
 
 > 📖 Principles of Model Checking, Christel Baier and Joost-Pieter Katoen
 

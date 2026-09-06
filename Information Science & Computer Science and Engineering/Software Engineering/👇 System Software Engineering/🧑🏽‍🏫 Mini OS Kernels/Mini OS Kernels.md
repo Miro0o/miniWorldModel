@@ -6,11 +6,17 @@
 
 ## Res
 ### Related Topics
+↗ [Operating System & OS Kernel (Theory Part)](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29.md)
+↗ [Operating System Design (OS Kernel Design) & Kernel Architecture](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/🦺%20Operating%20System%20Basics/Operating%20System%20Design%20%28OS%20Kernel%20Design%29%20&%20Kernel%20Architecture/Operating%20System%20Design%20%28OS%20Kernel%20Design%29%20&%20Kernel%20Architecture.md)
+↗ [Microkernel (μ-kernel)](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/🦺%20Operating%20System%20Basics/Operating%20System%20Design%20%28OS%20Kernel%20Design%29%20&%20Kernel%20Architecture/Microkernel%20%28μ-kernel%29.md)
+
+
+### Other Resources
 
 
 
 ## Intro
 
 
-## Ref
 
+## Ref

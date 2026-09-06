@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [AIGC WorkFlow & Agents](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🌀%20AIGC%20WorkFlow%20&%20Agents/AIGC%20WorkFlow%20&%20Agents.md)
+↗ [AIGC WorkFlow & Agents](../../../../❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/🌀%20AIGC%20WorkFlow%20&%20Agents/AIGC%20WorkFlow%20&%20Agents.md)
 ↗ [LLM Utilization & Prompt, Context, and Harness Engineering](../../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
-↗ [AI Embodiment & World Model (WM)](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
+↗ [AI Embodiment & World Model (WM)](../../../../❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20%28WM%29/AI%20Embodiment%20&%20World%20Model%20%28WM%29.md)
 
-↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
-↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../../../../Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Engineering and Security/Dossiers/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
+↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS/AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS.md)
+↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/Dossiers/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
 
 ↗ [AI4SE](../../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 ↗ [AI4Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
@@ -19,7 +19,7 @@
 - ↗ [Agentic AI Workflow Dev](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
 	- LLM App Dev Framework
 		- ↗ [LangChain & LangGraph](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Agents%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
-		- ↗ [Google ADK (Agent Development Kits)](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Agents%20Dev%20Frameworks/Google%20ADK%20(Agent%20Development%20Kits).md)
+		- ↗ [Google ADK (Agent Development Kits)](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Agents%20Dev%20Frameworks/Google%20ADK%20%28Agent%20Development%20Kits%29.md)
 	- LLM App Dev Platform & AI Workflow
 		- ↗ [Dify.AI](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20Orchestration%20&%20Agents%20Dev%20Platforms/Dify.AI.md)
 		- ↗ [Coze](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20Orchestration%20&%20Agents%20Dev%20Platforms/Coze.md)
@@ -32,17 +32,17 @@
 ↗ [Multimodal AI & MLLM](../../../🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
 
 ↗ [Web Automation, Testing, and WebDriver](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Automation,%20Testing,%20and%20WebDriver/Web%20Automation,%20Testing,%20and%20WebDriver.md)
-↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20%28WMF%29.md)
 
-↗ [APIs & Interfaces in Web Development](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/👬%20APIs%20&%20Interfaces%20in%20Web%20Development/APIs%20&%20Interfaces%20in%20Web%20Development.md)
-↗ [DBMS (DataBase Management System) Implementations](../../../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/DBMS%20(DataBase%20Management%20System)%20Implementations.md)
-- ↗ [Vector Database](../../../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/Vector%20Database/Vector%20Database.md)
+↗ [APIs & Interfaces in Web Development](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/👬%20APIs%20&%20Interfaces%20in%20Web%20Development/APIs%20&%20Interfaces%20in%20Web%20Development.md)
+↗ [DBMS (DataBase Management System) Implementations](../../../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20%28DataBase%20Management%20System%29%20Implementations/DBMS%20%28DataBase%20Management%20System%29%20Implementations.md)
+- ↗ [Vector Database](../../../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20%28DataBase%20Management%20System%29%20Implementations/Vector%20Database/Vector%20Database.md)
 
-↗ [(CS) Academics Roadmap & Tool Chain](../../../../../../Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
+↗ [(CS) Academics Roadmap & Tool Chain](../../../../../../Academics%20🎓%20%28In%20CS%29/🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 
-↗ [Knowledge Graph (KG)](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
+↗ [Knowledge Graph (KG)](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Graphical%20Models/Knowledge%20Graph%20%28KG%29/Knowledge%20Graph%20%28KG%29.md)
 
-↗ [Agent Programming Languages & Agent-Oriented Programming (AOP)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20(AOP)/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20(AOP).md)
+↗ [Agent Programming Languages & Agent-Oriented Programming (AOP)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20%28AOP%29/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20%28AOP%29.md)
 
 
 ### Papers
@@ -217,9 +217,9 @@ Ralph is an autonomous AI agent loop that runs AI coding tools ([Amp](https://am
 ### Agents
 ↗ [Artificial Intelligence /🎯 AI Without Self-Awareness: Agent vs Environment (Narrow AI)](../../../../Artificial%20Intelligence.md#🎯%20AI%20Without%20Self-Awareness:%20Agent%20vs%20Environment%20(Narrow%20AI))
 ↗ [Games & Search in Multi-Agents Environment](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
-↗ [Agents & Multi-Agent System (MAS)](../../../../Agents%20&%20Multi-Agent%20System%20(MAS)/Agents%20&%20Multi-Agent%20System%20(MAS).md)
+↗ [Agents & Multi-Agent System (MAS)](../../../../Agents%20&%20Multi-Agent%20System%20%28MAS%29/Agents%20&%20Multi-Agent%20System%20%28MAS%29.md)
 
-↗ [Game Theory & Multi-Agent Decision-Making](../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
+↗ [Game Theory & Multi-Agent Decision-Making](../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 
 ![AI-Layer.excalidraw | 800](../../../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw.md)
 
@@ -245,7 +245,7 @@ Ralph is an autonomous AI agent loop that runs AI coding tools ([Amp](https://am
 - ↗ [Agentic AI Workflow Dev](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
 - ↗ [AI API Call & AI Gateway](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20API%20Call%20&%20AI%20Gateway.md)
 
-↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
+↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS/AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS.md)
 
 
 ---
@@ -291,11 +291,11 @@ Pi / Claude Code / OpenCode / dcode
 
 
 ## ReAct & Agentic Reasoning
-↗ [Automated Planning and Scheduling (APS) & AI Planning](../../../../Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
+↗ [Automated Planning and Scheduling (APS) & AI Planning](../../../../Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning.md)
 
-↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making.md)
 
-↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../../LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20(Reasoning%20Language%20Model)%20&%20LRM%20(Large%20Reasoning%20Model).md)
+↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../../LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20%28Reasoning%20Language%20Model%29%20&%20LRM%20%28Large%20Reasoning%20Model%29.md)
 ↗ [LLM Agentic Reasoning](📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
 
 
@@ -319,7 +319,7 @@ Pi / Claude Code / OpenCode / dcode
 
 #### Context Construction & KV Cache Friendly Prompt
 > [!lihnks]
-> ↗ [LLM Infrastructure (Deployment & Inference)](../../LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
+> ↗ [LLM Infrastructure (Deployment & Inference)](../../LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
 
 #### Dynamic Prompts & Agent Skills
 > [!Abstract]
@@ -515,9 +515,9 @@ site:github.com "Codex" "Claude Code" "Cursor" "SKILL.md"
 > ↗ [OpenCode](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenCode.md)
 > ↗ [Kimi Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Kimi%20Code.md)
 > 
-> ↗ [openclaw](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/openclaw.md)
-> ↗ [Hermes Agent](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/Hermes%20Agent.md)
-> ↗ [nanobot](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/nanobot.md)
+> ↗ [openclaw](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS/openclaw.md)
+> ↗ [Hermes Agent](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS/Hermes%20Agent.md)
+> ↗ [nanobot](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS/nanobot.md)
 
 
 
@@ -527,10 +527,10 @@ site:github.com "Codex" "Claude Code" "Cursor" "SKILL.md"
 
 ## Multi-Agents System, Games, and Swarm Intelligence
 > [!Links]
-> ↗ [Agents & Multi-Agent System (MAS)](../../../../Agents%20&%20Multi-Agent%20System%20(MAS)/Agents%20&%20Multi-Agent%20System%20(MAS).md)
+> ↗ [Agents & Multi-Agent System (MAS)](../../../../Agents%20&%20Multi-Agent%20System%20%28MAS%29/Agents%20&%20Multi-Agent%20System%20%28MAS%29.md)
 > 
 > ↗ [Games & Search in Multi-Agents Environment](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
-> ↗ [Multi-Agent RL (MARL)](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Multi-Agent%20RL%20(MARL)/Multi-Agent%20RL%20(MARL).md)
+> ↗ [Multi-Agent RL (MARL)](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making/Multi-Agent%20RL%20%28MARL%29/Multi-Agent%20RL%20%28MARL%29.md)
 
 
 

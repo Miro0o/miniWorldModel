@@ -6,20 +6,20 @@
 
 ## Res
 ### Related Topics
-↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
-- ↗ [Decision Theory](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/📌%20Decision%20Theory/Decision%20Theory.md)
-↗ [Chaos Theory](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Dynamical%20Systems%20Theory/🇺🇳%20Chaos%20Theory/Chaos%20Theory.md)
+↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+- ↗ [Decision Theory](../../../🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/📌%20Decision%20Theory/Decision%20Theory.md)
+↗ [Chaos Theory](../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Dynamical%20Systems%20Theory/🇺🇳%20Chaos%20Theory/Chaos%20Theory.md)
 
-↗ [Measures (Measure Theory)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
-- ↗ [Probability Theory & Statistics](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+↗ [Measures (Measure Theory)](../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/Measures%20%28Measure%20Theory%29.md)
+- ↗ [Probability Theory & Statistics](../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 
 ↗ [Algorithm & Data Structure](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
 ↗ [Problem Solving & Search-Based Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
-- ↗ [Systematic & Combinatorial Search (Classical Search)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+- ↗ [Systematic & Combinatorial Search (Classical Search)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29.md)
 
-↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
-↗ [Matching & Assignment Problems](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Matching%20&%20Assignment%20Problems/Matching%20&%20Assignment%20Problems.md)
+↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+↗ [Matching & Assignment Problems](../../../🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Discrete%20Optimization/Combinatorial%20Optimization/Matching%20&%20Assignment%20Problems/Matching%20&%20Assignment%20Problems.md)
 
 
 ### Learning Resources
@@ -70,7 +70,7 @@ Closely related fields in [theoretical computer science](https://en.wikipedia.o
 
 ### (Computational) Complexity Classes ⭐
 > [!TIP]
-> Recall Chomsky Hierarchy ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> Recall Chomsky Hierarchy ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 > 
 > ![](../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
 > 
@@ -147,7 +147,7 @@ It is one of the seven [Millennium Prize Problems](https://en.wikipedia.org/wik
 		- **Traveling Salesperson Problem (TSP)**: can be reduced from the problem of Hamiltonian path
 - NPC Problem: (NP-Complete)
 	- The class of questions that any other NP problem is reducible to in polynomial time and whose solution is still verifiable in polynomial time, i.e. NPC problems are the intersection of NP and NPH. That is, any NP problem can be transformed into any NP-complete problem. Informally, an NP-complete problem is an NP problem that is at least as "tough" as any other problem in NP.
-		- The first natural problem proven to be NP-complete was the  [Boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem "Boolean satisfiability problem"), also known as SAT. (↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)) This is the [Cook–Levin theorem](https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem "Cook–Levin theorem"), so _any_ instance of _any_ problem in NP can be transformed mechanically into a Boolean satisfiability problem in polynomial time. The Boolean satisfiability problem is one of many NP-complete problems. If any NP-complete problem is in P, then it would follow that P = NP. However, many important problems are NP-complete, and no fast algorithm for any of them is known.
+		- The first natural problem proven to be NP-complete was the  [Boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem "Boolean satisfiability problem"), also known as SAT. (↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)) This is the [Cook–Levin theorem](https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem "Cook–Levin theorem"), so _any_ instance of _any_ problem in NP can be transformed mechanically into a Boolean satisfiability problem in polynomial time. The Boolean satisfiability problem is one of many NP-complete problems. If any NP-complete problem is in P, then it would follow that P = NP. However, many important problems are NP-complete, and no fast algorithm for any of them is known.
 		- After SAT problem was proved to be NP-complete, [proof by reduction](https://en.wikipedia.org/wiki/Reduction_\(complexity\) "Reduction (complexity)") provided a simpler way to show that many other problems are also NP-complete, including the game Sudoku discussed earlier. In this case, the proof shows that a solution of Sudoku in polynomial time could also be used to complete [Latin squares](https://en.wikipedia.org/wiki/Latin_square "Latin square") in polynomial time. This in turn gives a solution to the problem of partitioning [tri-partite graphs](https://en.wikipedia.org/wiki/Multipartite_graph "Multipartite graph") into triangles, which could then be used to find solutions for the special case of SAT known as 3-SAT, which then provides a solution for general Boolean satisfiability. So a polynomial-time solution to Sudoku leads, by a series of mechanical transformations, to a polynomial time solution of satisfiability, which in turn can be used to solve any other NP-problem in polynomial time. Using transformations like this, a vast class of seemingly unrelated problems are all reducible to one another, and are in a sense "the same problem".
 	- e.g.
 		- **Traveling Salesperson Problem (TSP)**, with the total cost lower than C: this is a NP problem itself, and can be reduced from the problem of Hamiltonian path as well.
@@ -157,13 +157,13 @@ It is one of the seven [Millennium Prize Problems](https://en.wikipedia.org/wik
 #### SAT Problem & SMT Problem
 ↗ [Formal System, Formal Logic, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 
-↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
-- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
-- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
+↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)
+- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
-- ↗ [Constraint Solving & Theorem Proving](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-- ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
+- ↗ [Constraint Solving & Theorem Proving](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+- ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 
 ### Formal Definition
@@ -192,13 +192,13 @@ neuro-symbolic AI: LLM + verification = generation + filtering. this approach do
 
 
 ---
-↗ [Software Testing](../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Software Testing](../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/🧪%20Software%20Testing/Software%20Testing.md)
 
 
 ---
 ↗ [Education](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
-↗ [中国教育与培训业](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/🧑🏽‍🏫%20中国教育与培训业/中国教育与培训业.md)
-↗ [中国教育 & 教育部](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国教育%20&%20教育部/中国教育%20&%20教育部.md)
+↗ [中国教育与培训业](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/🧑🏽‍🏫%20中国教育与培训业/中国教育与培训业.md)
+↗ [中国教育 & 教育部](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国教育%20&%20教育部/中国教育%20&%20教育部.md)
 
 In China, we don't educate /inspire students. we only filter students. meaning, we don't bother finding a better educational system to cultivate a people form ignorance to liberal, instead, we generate lots of people and set a verifier to filter people who are somewhat already "liberal". as for how people grew into that talents, don't care. we let that person him/herself to figure out. 
 

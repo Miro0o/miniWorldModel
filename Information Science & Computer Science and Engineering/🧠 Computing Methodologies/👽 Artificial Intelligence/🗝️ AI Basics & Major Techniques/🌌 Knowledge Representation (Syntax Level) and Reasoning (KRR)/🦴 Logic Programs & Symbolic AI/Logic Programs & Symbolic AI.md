@@ -6,19 +6,19 @@
 
 ## Res
 ### Related Topics
-↗ [Formal System, Formal Logic, and Its Semantics](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-- ↗ [Classical Logic (Standard Formal Logic)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-- ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
-↗ [Prolog (Programmation en Logique)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
+↗ [Formal System, Formal Logic, and Its Semantics](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+- ↗ [Classical Logic (Standard Formal Logic)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+- ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
+↗ [Prolog (Programmation en Logique)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Prolog%20%28Programmation%20en%20Logique%29/Prolog%20%28Programmation%20en%20Logique%29.md)
 
-↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
-- ↗ [Constraint Solving & Theorem Proving](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
+- ↗ [Constraint Solving & Theorem Proving](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 
-↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
-↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
-- ↗ [Automated & Generic Theorem Provers](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
+↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29/Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29.md)
+↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+- ↗ [Generic & Automated Theorem Provers (ATP)](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md)
 
 
 ### Other Resources
@@ -41,10 +41,10 @@ However, given the inherent complexity of intelligence itself, it remains an ope
 
 ### Logic & Logic Programs in AI
 > [!links]
-> ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> ↗ [Formal System, Formal Logic, and Its Semantics](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-> ↗ [Classical Logic (Standard Formal Logic)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-> ↗ [Modal Logic (模态逻辑)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Modal%20Logic%20(模态逻辑).md)
+> ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+> ↗ [Formal System, Formal Logic, and Its Semantics](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+> ↗ [Classical Logic (Standard Formal Logic)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+> ↗ [Modal Logic (模态逻辑)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Modal%20Logic%20%28模态逻辑%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Artificial_intelligence#Logic
 
@@ -60,22 +60,22 @@ Fuzzy logic assigns a "degree of truth" between 0 and 1. It can therefore handle
 
 Non-monotonic logics, including logic programming with negation as failure, are designed to handle default reasoning.[28] Other specialized versions of logic have been developed to describe many complex domains.
 #### Logical Reasoning & Inference
-↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
-↗ [Proof Theory](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+↗ [Proof Theory](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
-- ↗ [Constraint Solving & Theorem Proving](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-- ↗ [(Formal) Model Checking](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
+- ↗ [Constraint Solving & Theorem Proving](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+- ↗ [(Formal) Model Checking](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 #### Model Checking
-↗ [(Formal) Model Checking](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [(Formal) Model Checking](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 #### Theorem Proving
-↗ [Constraint Solving & Theorem Proving](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+↗ [Constraint Solving & Theorem Proving](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
-↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
-- ↗ [Automated & Generic Theorem Provers](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
+↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+- ↗ [Generic & Automated Theorem Provers (ATP)](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md)
 
 
 ### Symbolic AI Techniques & Contributions
@@ -83,8 +83,8 @@ Non-monotonic logics, including logic programming with negation as failure, are 
 
 ---
 **AI programming languages**
-- ↗ [Logic Programming Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
-- ↗ [LISP-Based Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/LISP-Based%20Languages/LISP-Based%20Languages.md)
+- ↗ [Logic Programming Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+- ↗ [LISP-Based Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/LISP-Based%20Languages/LISP-Based%20Languages.md)
 
 The key AI programming language in the US during the last symbolic AI boom period was [LISP](https://en.wikipedia.org/wiki/LISP_\(programming_language\) "LISP (programming language)"). [LISP](https://en.wikipedia.org/wiki/LISP_\(programming_language\) "LISP (programming language)") is the second oldest programming language after [FORTRAN](https://en.wikipedia.org/wiki/FORTRAN "FORTRAN") and was created in 1958 by [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_\(computer_scientist\) "John McCarthy (computer scientist)"). LISP provided the first [read-eval-print loop](https://en.wikipedia.org/wiki/Read-eval-print_loop "Read-eval-print loop") to support rapid program development. Compiled functions could be freely mixed with interpreted functions. Program tracing, stepping, and breakpoints were also provided, along with the ability to change values or functions and continue from breakpoints or errors. It had the first [self-hosting compiler](https://en.wikipedia.org/wiki/Self-hosting_\(compilers\) "Self-hosting (compilers)"), meaning that the compiler itself was originally written in LISP and then ran interpretively to compile the compiler code.
 
@@ -114,8 +114,8 @@ For other AI programming languages see this [list of programming languages for 
 **Search** 
 - ↗ [Problem Solving & Search-Based Methods](../../Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
 - ↗ [Basic Searching](../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Basic%20Searching/Basic%20Searching.md)
-- ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
-	- ↗ [Combinatorial Optimization](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Combinatorial%20Optimization.md)
+- ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+	- ↗ [Combinatorial Optimization](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Discrete%20Optimization/Combinatorial%20Optimization/Combinatorial%20Optimization.md)
 
 Search arises in many kinds of problem solving, including [planning](https://en.wikipedia.org/wiki/Automated_planning "Automated planning"), [constraint satisfaction](https://en.wikipedia.org/wiki/Constraint_satisfaction "Constraint satisfaction"), and playing games such as [checkers](https://en.wikipedia.org/wiki/Checkers "Checkers"), [chess](https://en.wikipedia.org/wiki/Chess "Chess"), and [go](https://en.wikipedia.org/wiki/Go_\(game\) "Go (game)"). The best known AI-search tree search algorithms are [breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search "Breadth-first search"), [depth-first search](https://en.wikipedia.org/wiki/Depth-first_search "Depth-first search"), [A*](https://en.wikipedia.org/wiki/A*_search_algorithm "A* search algorithm"), and [Monte Carlo Search](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search "Monte Carlo tree search"). Key search algorithms for [Boolean satisfiability](https://en.wikipedia.org/wiki/Boolean_satisfiability "Boolean satisfiability") are [WalkSAT](https://en.wikipedia.org/wiki/WalkSAT "WalkSAT"), [conflict-driven clause learning](https://en.wikipedia.org/wiki/Conflict-driven_clause_learning "Conflict-driven clause learning"), and the [DPLL algorithm](https://en.wikipedia.org/wiki/DPLL_algorithm "DPLL algorithm"). For adversarial search when playing games, [alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha-beta_pruning "Alpha-beta pruning"), [branch and bound](https://en.wikipedia.org/wiki/Branch_and_bound "Branch and bound"), and [minimax](https://en.wikipedia.org/wiki/Minimax "Minimax") were early contributions.
 
@@ -126,19 +126,19 @@ Search arises in many kinds of problem solving, including [planning](https://en
 
 ---
 **Automated planning**
-- ↗ [Automated Planning and Scheduling (APS) & AI Planning](../../../Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
+- ↗ [Automated Planning and Scheduling (APS) & AI Planning](../../../Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning.md)
 
 The [General Problem Solver](https://en.wikipedia.org/wiki/General_Problem_Solver "General Problem Solver") (GPS) cast planning as problem-solving used [means-ends analysis](https://en.wikipedia.org/wiki/Means-ends_analysis "Means-ends analysis") to create plans. [STRIPS](https://en.wikipedia.org/wiki/Stanford_Research_Institute_Problem_Solver "Stanford Research Institute Problem Solver") took a different approach, viewing planning as theorem proving. [Graphplan](https://en.wikipedia.org/wiki/Graphplan "Graphplan") takes a least-commitment approach to planning, rather than sequentially choosing actions from an initial state, working forwards, or a goal state if working backwards. [Satplan](https://en.wikipedia.org/wiki/Satplan "Satplan") is an approach to planning where a planning problem is reduced to a [Boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem "Boolean satisfiability problem").
 
 
 ---
 **Natural language processing**
-- ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+- ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md)
 
 
 ---
 **Agents & multi-agent system**
-- ↗ [Agents & Multi-Agent System (MAS)](../../../Agents%20&%20Multi-Agent%20System%20(MAS)/Agents%20&%20Multi-Agent%20System%20(MAS).md)
+- ↗ [Agents & Multi-Agent System (MAS)](../../../Agents%20&%20Multi-Agent%20System%20%28MAS%29/Agents%20&%20Multi-Agent%20System%20%28MAS%29.md)
 
 [Agents](https://en.wikipedia.org/wiki/Software_agent) are autonomous systems embedded in an environment they perceive and act upon in some sense. Russell and Norvig's standard textbook on artificial intelligence is organized to reflect agent architectures of increasing sophistication. The sophistication of agents varies from simple reactive agents, to those with a model of the world and [automated planning](https://en.wikipedia.org/wiki/Automated_planning "Automated planning") capabilities, possibly a [BDI agent](https://en.wikipedia.org/wiki/Belief%E2%80%93desire%E2%80%93intention_software_model "Belief–desire–intention software model"), i.e., one with beliefs, desires, and intentions – or alternatively a [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning "Reinforcement learning") model learned over time to choose actions – up to a combination of alternative architectures, such as a neuro-symbolic architecture that includes deep learning for perception.
 
@@ -148,20 +148,20 @@ In contrast, a [multi-agent system](https://en.wikipedia.org/wiki/Multi-agent_s
 
 ## Agents Based on Logics & Logic Reasoning and Inference
 > [!links]
-> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 > 
-> ↗ [Proof Theory](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-> - ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+> ↗ [Proof Theory](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md)
+> - ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
 > 
-> ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
-> - ↗ [Constraint Solving & Theorem Proving](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-> - ↗ [(Formal) Model Checking](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
+> - ↗ [Constraint Solving & Theorem Proving](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+> - ↗ [(Formal) Model Checking](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 
 ### Agents Based on Propositional Logics
 > [!links]
-> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
-> ↗ [Constraint Solving & Theorem Proving](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
+> ↗ [Constraint Solving & Theorem Proving](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -172,8 +172,8 @@ In this section, we bring together what we have learned so far in order to const
 
 ### Inference in First Order Logic
 > [!links]
-> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
-> ↗ [Constraint Solving & Theorem Proving](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
+> ↗ [Constraint Solving & Theorem Proving](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG

@@ -7,16 +7,16 @@
 ## Res
 ### Related Topics
 ↗ [Markdown](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Markup%20Languages%20&%20Data%20Representation/Markdown.md)
-↗ [Project Jupyter (Julia, Python, R)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/🐍%20Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20(Julia,%20Python,%20R).md)
+↗ [Project Jupyter (Julia, Python, R)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20%28Julia,%20Python,%20R%29.md)
 
-↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
-- ↗ [Knowledge Graph (KG)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
-↗ [📇 Docs Management](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/📇%20Docs%20Management.md)
+↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
+- ↗ [Knowledge Graph (KG)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Graphical%20Models/Knowledge%20Graph%20%28KG%29/Knowledge%20Graph%20%28KG%29.md)
+↗ [📇 Docs Management](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/Linux%20Free%20Software%20&%20OSS%20%28Open%20Source%20Software%29/Text%20&%20File%20&%20Dir%20Management/📇%20Docs%20Management.md)
 
-↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20%28WMF%29.md)
 
-↗ [Documentation & Static Site Generator (SSG)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Documentation%20&%20Static%20Site%20Generator%20(SSG).md)
-↗ [MkDocs](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/MkDocs.md)
+↗ [Documentation & Static Site Generator (SSG)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20%28SSG%29/Documentation%20&%20Static%20Site%20Generator%20%28SSG%29.md)
+↗ [MkDocs](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20%28SSG%29/MkDocs.md)
 
 
 ### Other Resources
@@ -90,7 +90,7 @@ A notebook is both a final product for presentation, and a large blank canvas fo
 
 All content in notebooks is made in cells. Within cells, you can author formatted text (in Markdown) and code (JavaScript, SQL, HTML) to view right alongside customized data tables and visualizations. Then, quickly share your work with teammates and stakeholders to get everyone literally on the same page.
 #### Jupyter Notebook
-↗ [Project Jupyter (Julia, Python, R)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/🐍%20Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20(Julia,%20Python,%20R).md)
+↗ [Project Jupyter (Julia, Python, R)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20%28Julia,%20Python,%20R%29.md)
 
 
 

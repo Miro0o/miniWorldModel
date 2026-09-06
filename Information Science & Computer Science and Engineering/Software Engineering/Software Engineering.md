@@ -11,18 +11,18 @@
 
 ↗ [Development Related Conferences & Events](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/📆%20IT%20Conference%20&%20Events%20(Industry%20&%20Academia)/Development%20Related%20Conferences%20&%20Events.md)
 
-↗ [C & CPP](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-↗ [Python](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/🐍%20Python/Python.md)
-↗ [Golang](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/Golang/Golang.md)
-↗ [Java](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+↗ [C & CPP](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+↗ [Python](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/Python.md)
+↗ [Golang](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/Golang/Golang.md)
+↗ [Java](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 
 🔥 ↗ [Appendix](Appendix.md)
 ↗ [Galleries & Awesome SE](Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
 ↗ [Cracked Software](../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Cracked%20Software.md)
 
-↗ [Software Security](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Security.md)
+↗ [Software Security](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/Software%20Security.md)
 
-↗ [Github](CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/🐙%20VCM%20(Version%20Control%20Management)/Git/👩🏼‍🍳%20Git%20Services%20Providers/Github.md)
+↗ [Github](CASE%20%28Computer-Aided%20Software%20Engineering%29%20Tools/Upper%20CASE%20Tools/🐙%20VCM%20%28Version%20Control%20Management%29/Git/👩🏼‍🍳%20Git%20Services%20Providers/Github.md)
 
 
 ### Learning Resources
@@ -41,20 +41,20 @@
 ↗ [Information Theory](../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Information, Data, Number and Math in Digital Systems](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
 ↗ [Language & Literature](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
-↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md)
 
 ↗ [Mathematics](../🧮%20Mathematics/Mathematics.md)
-↗ [Mathematical Logic (Foundations of Mathematics)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+↗ [Mathematical Logic (Foundations of Mathematics)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
 
-↗ [Theory of Computation](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Theory of Computation](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 
 
 ### Program, Software, and Information Systems
 ↗ [Computation as Programs - Computer Program Semantics & Models](../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
-↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Program%20Execution%20%28Runtime%29.md)
 
-↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29.md)
 
 
 ![application_execution_and_computer_data_flow.excalidraw|800](../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
@@ -105,7 +105,7 @@ A software process is the set of activities and associated outcome that produce 
 ### Software Process Model
 A software life cycle model (also termed process model) is a pictorial and diagrammatic representation of the software life cycle. A life cycle model represents all the methods required to make a software product transit through its life cycle stages. It also captures the structure in which these methods are to be undertaken.
 
-See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20%28Software%20Development%20Life%20Circle%29%20&%20SDLC%20Models/SDLC%20%28Software%20Development%20Life%20Circle%29%20&%20SDLC%20Models.md)
 
 
 ### Software Management
@@ -116,7 +116,7 @@ See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Softw
 
 ### Software Design & Development
 ↗️ [Software Development Norms & Patterns](Software%20Development%20Norms%20&%20Patterns/Software%20Development%20Norms%20&%20Patterns.md)
-↗ [Web Application Design Patterns](☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Design%20Patterns.md)
+↗ [Web Application Design Patterns](☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Design%20Patterns.md)
 
 ↗ [Application Software Engineering](☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
 ↗ [System Software Engineering](👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
@@ -131,16 +131,16 @@ See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Softw
 
 
 ### Software Quality and Security
-↗ [ICT System Reliability (Correctness) & Verification](../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
-↗ [Software Quality Assurance (SQA)](🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
+↗ [ICT System Reliability (Correctness) & Verification](../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20%28Correctness%29%20&%20Verification.md)
+↗ [Software Quality Assurance (SQA)](🎭%20Software%20Quality%20Assurance%20%28SQA%29/Software%20Quality%20Assurance%20%28SQA%29.md)
 
 ↗️ [Software Testing](🎭%20Software%20Quality%20Assurance%20%28SQA%29/🧪%20Software%20Testing/Software%20Testing.md)
-↗ [Network Penetration (Pen-testing)](../CyberSecurity/Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
-↗ [Vulnerability Discovery & Scanning（漏洞检测 & 扫描）](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/Vulnerability%20Discovery%20&%20Scanning（漏洞检测%20&%20扫描）.md)
+↗ [Network Penetration (Pen-testing)](../CyberSecurity/Application%20Security/💉%20Web%20Security/Network%20Penetration%20%28Pen-testing%29/Network%20Penetration%20%28Pen-testing%29.md)
+↗ [Vulnerability Discovery & Scanning（漏洞检测 & 扫描）](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/Vulnerability%20Discovery%20&%20Scanning（漏洞检测%20&%20扫描）.md)
 
 
 ### Software Maintenance & Operations
-↗ [Software Maintenance & Operations Management](☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🧑🏼‍🔧%20Software%20Maintenance%20&%20Operations%20Management/Software%20Maintenance%20&%20Operations%20Management.md)
+↗ [Software Maintenance & Operations Management](☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🧑🏼‍🔧%20Software%20Maintenance%20&%20Operations%20Management/Software%20Maintenance%20&%20Operations%20Management.md)
 
 
 

@@ -10,11 +10,11 @@
 ↗ [Cryptography](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
 ↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
 
-↗ [Security Protocols & Cryptographic Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
-- ↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+↗ [Security Protocols & Cryptographic Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+- ↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 
-↗ [Proof Theory](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+↗ [Proof Theory](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
 
 
 ### Other Resources
@@ -70,12 +70,12 @@ The backend for this work is the [Tamarin prover](https://infsec.ethz.ch/resear
 
 ## AnB Language & Cryptographic Protocol Modeling
 > [!links]
-> ↗ [Security Protocols & Cryptographic Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
-> - ↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+> ↗ [Security Protocols & Cryptographic Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+> - ↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 > 
 > ↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
 > 
-> ↗ [OFMC (Open-Source Fixed-Point Model-Checker)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker/OFMC%20(Open-Source%20Fixed-Point%20Model-Checker).md)
+> ↗ [OFMC (Open-Source Fixed-Point Model-Checker)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/OFMC%20%28Open-Source%20Fixed-Point%20Model-Checker%29.md)
 
 
 ### AnB Syntax
@@ -110,7 +110,7 @@ The backend for this work is the [Tamarin prover](https://infsec.ethz.ch/resear
 > 	- In the NSSK example, A creates NA, s creates KAB, B creates NB.
 #### Message Term Algebra
 > [!links]
-> ↗ [Term Algebra & Free Σ-algebra](../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20(泛代数)/Σ-algebra%20(Sigma-Algebra)/Term%20Algebra%20&%20Free%20Σ-algebra.md)
+> ↗ [Term Algebra & Free Σ-algebra](../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20%28泛代数%29/Σ-algebra%20%28Sigma-Algebra%29/Term%20Algebra%20&%20Free%20Σ-algebra.md)
 
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
  >Protocol Security Verification Tutorial
@@ -167,30 +167,30 @@ A distinguished constant is the name of the intruder: `i`.
 > - All variables of $V$ are terms.
 > - If $f\in\Sigma$ is a function symbol that takes $n$ arguments and if $t_1,\ldots,t_n$ are terms, then also $f(t_1,\ldots,t_n)$ is a term.
 #### Examples of AnB Modeling Protocols
-↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 - Key-Establishment Protocol & Diffie-Hellman Key Exchange
 - TLS
 
 
 ### AnB Semantics
 > [!links]
-> ↗ [Strand Spaces Model](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Strand%20Spaces%20Model.md)
+> ↗ [Strand Spaces Model](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20%28Formal%29%20Models/Strand%20Spaces%20Model.md)
 > 
-> ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition systems"
+> ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition systems"
 
 So far we have covered the syntax of messages:
 - What constitutes a syntactically correct message.
 
 Now we define the semantics of messages:
 - What does a message actually mean?
-- How can ↗ [OFMC (Open-Source Fixed-Point Model-Checker)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker/OFMC%20(Open-Source%20Fixed-Point%20Model-Checker).md) make a meaningful analysis of a protocol?
+- How can ↗ [OFMC (Open-Source Fixed-Point Model-Checker)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/OFMC%20%28Open-Source%20Fixed-Point%20Model-Checker%29.md) make a meaningful analysis of a protocol?
 - Like a set of rules of a game.
 #### Intruder Models
-↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
-- ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
+↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+- ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20%28Formal%29%20Models/Dolev–Yao%20%28DY%29%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
 #### Strands Space Semantics
 > [!links]
-> ↗ [Strand Spaces Model](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Strand%20Spaces%20Model.md)
+> ↗ [Strand Spaces Model](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20%28Formal%29%20Models/Strand%20Spaces%20Model.md)
 
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
  >Protocol Security Verification Tutorial
@@ -198,7 +198,7 @@ Now we define the semantics of messages:
  >Chapter 5. From Alice and Bob to Strands – Intuition
 
 > [!example]
-> ↗ [Needham–Schroeder Protocol](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Needham–Schroeder%20Protocol.md)
+> ↗ [Needham–Schroeder Protocol](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29/Key%20Transport%20Algorithms%20&%20Protocols/Needham–Schroeder%20Protocol.md)
 > 
 > NSPK protocol expressed as in AnB language, message sequence chart, and Role /Strand
 > 

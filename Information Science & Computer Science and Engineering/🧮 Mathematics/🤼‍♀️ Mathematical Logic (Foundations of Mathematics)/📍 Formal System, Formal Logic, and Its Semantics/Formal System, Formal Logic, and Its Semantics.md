@@ -11,8 +11,8 @@
 ↗ [Models of Computation & Abstract Machines](../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
-↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-↗ [Logic Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md)
+↗ [Logic Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
 ↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
@@ -20,25 +20,25 @@
 - ↗ [Hilbert-Style Deduction Systems](../Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-↗ [Type Theory (类型论)](🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+↗ [Type Theory (类型论)](🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
 
-↗ [LISP-Based Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/LISP-Based%20Languages/LISP-Based%20Languages.md)
-↗ [Expert System (ES)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Expert%20System%20(ES)/Expert%20System%20(ES).md)
+↗ [LISP-Based Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/LISP-Based%20Languages/LISP-Based%20Languages.md)
+↗ [Expert System (ES)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Expert%20System%20%28ES%29/Expert%20System%20%28ES%29.md)
 
 ↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 - ↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 
-↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
-↗ [Programming Language Theory (PLT)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-- ↗ [Axiomatic Semantics (Hoare-Style Logic)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Axiomatic%20Semantics%20(Hoare-Style%20Logic)/Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
-- ↗ [Denotational Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Denotational%20Semantics.md)
-- ↗ [Operational Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29/Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29.md)
+↗ [Programming Language Theory (PLT)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+- ↗ [Axiomatic Semantics (Hoare-Style Logic)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Axiomatic%20Semantics%20%28Hoare-Style%20Logic%29/Axiomatic%20Semantics%20%28Hoare-Style%20Logic%29.md)
+- ↗ [Denotational Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Denotational%20Semantics.md)
+- ↗ [Operational Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
-- ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
-- ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
+- ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
+- ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 
 
 ### Other Resources
@@ -73,13 +73,13 @@ Nielson, Hanne Riis; Nielson, Flemming (2007). _Semantics with Applications._
 
 ## Intro
 > [!links]
-> ↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+> ↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md)
 > ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 > ↗ [Math History & Development /Foundational Crisis of Mathematics](../../Math%20History%20&%20Development.md#Foundational%20Crisis%20of%20Mathematics)
 > 
-> ↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-> ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+> ↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
+> ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20%28Standard%20Formal%20Logic%29/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
 ![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
 <small>A Map of Mathematical Structures for AI <br>
@@ -261,7 +261,7 @@ To conclude:
 \end{tikzpicture}
 \end{document}
 ```
-Also in ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+Also in ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
 
 > [!TIP]
 > The notations here $\implies$, $\vdash$, $\models$ can be confusing! 
@@ -417,15 +417,15 @@ Set Theory, Natural Number (As a Language), and Peano Axioms
 ---
 Formal Logics (Mathematical Logics)
 This note.
-- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
-- ↗ [Second-Order Predicate Logic (二阶谓词逻辑)](Classical%20Logic%20(Standard%20Formal%20Logic)/Second-Order%20Predicate%20Logic%20(二阶谓词逻辑).md)
-- ↗ [Higher-Order Languages & Logics (HOL)](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Higher-Order%20Languages%20&%20Logics%20(HOL).md)
+- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
+- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20%28Standard%20Formal%20Logic%29/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+- ↗ [Second-Order Predicate Logic (二阶谓词逻辑)](Classical%20Logic%20%28Standard%20Formal%20Logic%29/Second-Order%20Predicate%20Logic%20%28二阶谓词逻辑%29.md)
+- ↗ [Higher-Order Languages & Logics (HOL)](🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Higher-Order%20Languages%20&%20Logics%20%28HOL%29.md)
 - etc.
 
 ---
 Simplified Typed Lambda Calculus
-↗ [Lambda Calculus (λ-Calculus)](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+↗ [Lambda Calculus (λ-Calculus)](🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 
 **Syntax** 
 - 🔗 https://thzt.github.io/2017/09/19/type-6/
@@ -433,10 +433,10 @@ Simplified Typed Lambda Calculus
 **Semantics**
 - 🔗 https://thzt.github.io/2018/02/03/semantics-5/
 - Henkin semantics & Henkin model
-	- ↗ [σ-Algebra (sigma Algebra)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(sigma%20Algebra)/σ-Algebra%20(sigma%20Algebra).md)
-	- ↗ [Henkin Model & Henkin Semantics](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
+	- ↗ [σ-Algebra (sigma Algebra)](../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/σ-Algebra%20%28sigma%20Algebra%29/σ-Algebra%20%28sigma%20Algebra%29.md)
+	- ↗ [Henkin Model & Henkin Semantics](🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Henkin%20Model%20&%20Henkin%20Semantics.md)
 - Cartesian closed category
-	- ↗ [Cartesian Closed Category (CCC)](../../🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
+	- ↗ [Cartesian Closed Category (CCC)](../../🩻%20Category%20Theory%20%28范畴论%29/Cartesian%20Closed%20Category%20%28CCC%29.md)
 #### Algebra & Arithmetic Systems
 > [!links]
 > ↗ [Algebra](../../🧊%20Algebra/Algebra.md)
@@ -482,11 +482,11 @@ Simplified Typed Lambda Calculus
 > [!links]
 > ↗ [Mathematics / Axiomatization of Mathematics & Axiomatic System ⭐](../../Mathematics.md#Axiomatization%20of%20Mathematics%20&%20Axiomatic%20System%20⭐)
 > ↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
-> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29/Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29.md)
 > 
-> ↗ [Programming Language Theory (PLT)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-> ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-> ↗ [PL Static Syntactic Analysis & Type System](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
+> ↗ [Programming Language Theory (PLT)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+> ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+> ↗ [PL Static Syntactic Analysis & Type System](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
 
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
 > 🔗 https://thzt.github.io/2018/01/30/semantics-4/
@@ -560,12 +560,12 @@ From this view: Logics are **related species in a family**, not members of a sin
 
 In logic, the **order** of a system refers to the kinds of entities that its variables can quantify over. **Zeroth-order logic**, or propositional logic, has no quantification over objects and deals only with whole propositions. **First-order logic** allows quantification over individual objects, while **second-order logic** also allows quantification over properties, sets, or relations of those objects. Higher-order logics extend this idea further by allowing quantification over increasingly higher-level entities. Thus, “order” describes the **level of entities that can be quantified over**, not the number of arguments a predicate has.
 ##### Zero-Order Language
-↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
 ##### First-Order Language
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
 
 ---
-**↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)**
+**↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20%28Standard%20Formal%20Logic%29/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)**
 一阶谓词逻辑是一种一阶语言。
 
 一阶谓词逻辑由如下符号构成：
@@ -589,14 +589,14 @@ In logic, the **order** of a system refers to the kinds of entities that its var
 **Elementary Arithmetics**
 初等算术语言是一个一阶语言，记为$\Pi$。它的常元符号集合为$\{0\}$，函数符号集合为$\{S, +, \cdot\}$，谓词符号集合为$\{\lt\}$。其中，$S$可以表示算术中的后继函数，而二元函数符号 $+$ 和 $\cdot$ 可以分别表示算术中的加法和乘法，谓词符号$\lt$可以描述自然数之间的小于关系。
 ##### Higher-Order Language
-↗ [Higher-Order Languages & Logics (HOL)](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Higher-Order%20Languages%20&%20Logics%20(HOL).md)
+↗ [Higher-Order Languages & Logics (HOL)](🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Higher-Order%20Languages%20&%20Logics%20%28HOL%29.md)
 #### 1️⃣ Syntax & 2️⃣ Semantics
 > [!links]
 > ↗ [Language & Literature](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 > - ↗ [Linguistics](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
 > ↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
-> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
-> ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29/Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29.md)
+> ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
 > [!TIP]
 > The distinction between formal language theory and logic
@@ -636,8 +636,8 @@ In logic, the **order** of a system refers to the kinds of entities that its var
 ### Properties of Formal /Logic Systems (Syntax + Semantics) ⭐
 > [!links]
 > ↗ [Mathematics](../../Mathematics.md)
-> ↗ [Logic (and Critical Thinking) /Properties & Evaluation of Logics](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Properties%20&%20Evaluation%20of%20Logics)
-> ↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
+> ↗ [Logic (and Critical Thinking) /Properties & Evaluation of Logics](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md#Properties%20&%20Evaluation%20of%20Logics)
+> ↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
 
 > 🔗 https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/
 
@@ -662,11 +662,11 @@ Essentially all the systems have a syntax, a semantics in the styles of Tarski o
 ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 - ↗ [Decidability](../😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Decidability.md)
 ↗ [Complexity Theory & Computational Complexity](../😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
-↗ [Program Analysis Basics](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+↗ [Program Analysis Basics](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
 #### Soundness & Completeness
 > [!links]
-> ↗ [Logic (and Critical Thinking) /Soundness, Truth, and Completeness](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Soundness,%20Truth,%20and%20Completeness)
-> ↗ [Software Analysis Basics /Soundness, Truth, and Completeness](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Soundness,%20Truth,%20and%20Completeness)
+> ↗ [Logic (and Critical Thinking) /Soundness, Truth, and Completeness](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md#Soundness,%20Truth,%20and%20Completeness)
+> ↗ [Software Analysis Basics /Soundness, Truth, and Completeness](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Soundness,%20Truth,%20and%20Completeness)
 
 > 🔗 https://thzt.github.io/2018/01/30/semantics-4/
 
@@ -717,7 +717,7 @@ Informally, a soundness theorem for a deductive system expresses that all provab
 
 [Gödel's first incompleteness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorem "Gödel's incompleteness theorem") shows that for languages sufficient for doing a certain amount of arithmetic, there can be no consistent and effective deductive system that is complete with respect to the intended interpretation of the symbolism of that language. Thus, not all sound deductive systems are complete in this special sense of completeness, in which the class of models (up to [isomorphism](https://en.wikipedia.org/wiki/Isomorphism "Isomorphism")) is restricted to the intended one. The original completeness proof applies to _all_ classical models, not some special proper subclass of intended ones.
 ##### Soundy & Soundiness
-↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
+↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
 ##### Gödel's Incompleteness Theorems ⭐
 > [!TIP]
 > Applies for formal axiomatic system.
@@ -764,13 +764,13 @@ Employing a [diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagon
 
 ### Logic Language Systems
 Classical Logic: Proposition & Predicate
-↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
+- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20%28Standard%20Formal%20Logic%29/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
 Non-Classical Logics
-↗ [Intuitionistic (Constructive) Logic](Intuitionistic%20(Constructive)%20Logic/Intuitionistic%20(Constructive)%20Logic.md)
-↗ [Modal Logic (模态逻辑)](Modal%20Logic%20(模态逻辑)/Modal%20Logic%20(模态逻辑).md)
+↗ [Intuitionistic (Constructive) Logic](Intuitionistic%20%28Constructive%29%20Logic/Intuitionistic%20%28Constructive%29%20Logic.md)
+↗ [Modal Logic (模态逻辑)](Modal%20Logic%20%28模态逻辑%29/Modal%20Logic%20%28模态逻辑%29.md)
 ↗ [Fuzzy Logic](Many-Valued%20Logic/Fuzzy%20Logic/Fuzzy%20Logic.md)
 ↗ [Paraconsistent Logic](Paraconsistent%20Logic/Paraconsistent%20Logic.md)
 
@@ -799,11 +799,11 @@ Non-Classical Logics
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](../Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
 - ↗ [Formal System, Formal Logic, and Its Semantics](Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-- ↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
+- ↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
 ↗ [Computer Languages & Programming Methodology](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 
 ↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
-↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29/Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29.md)
 
 
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
@@ -822,17 +822,17 @@ Non-Classical Logics
 
 ## Formal Semantics & Models
 > [!links]
-> ↗ [Syntax & Semantics of (Natural) Language](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Syntax%20&%20Semantics%20of%20(Natural)%20Language/Syntax%20&%20Semantics%20of%20(Natural)%20Language.md)
+> ↗ [Syntax & Semantics of (Natural) Language](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Syntax%20&%20Semantics%20of%20%28Natural%29%20Language/Syntax%20&%20Semantics%20of%20%28Natural%29%20Language.md)
 > 
 > ↗ [Models of Computation & Abstract Machines](../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 > ↗ [Model Theory (模型论)](../Model%20Theory%20%28模型论%29/Model%20Theory%20%28模型论%29.md)
-> ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 > 
-> ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+> ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 > ↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 > 
-> ↗ [Semantic Analysis](../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
-> ↗ [Semantic Models & Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
+> ↗ [Semantic Analysis](../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
+> ↗ [Semantic Models & Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
 
 > 📖 Nielson, Hanne Riis; Nielson, Flemming (2007). _Semantics with Applications._
 
@@ -883,8 +883,8 @@ $$\sigma(x) = a, \text{ 其中 } x \in V, a \in \mathbb{M} \text{}$$
 ##### Models & Semantics ⭐
 > [!lnks]
 > ↗ [Model Theory (模型论)](../Model%20Theory%20%28模型论%29/Model%20Theory%20%28模型论%29.md)
-> ↗ [Henkin Model & Henkin Semantics](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
-> ↗ [Cartesian Closed Category (CCC)](../../🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
+> ↗ [Henkin Model & Henkin Semantics](🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Henkin%20Model%20&%20Henkin%20Semantics.md)
+> ↗ [Cartesian Closed Category (CCC)](../../🩻%20Category%20Theory%20%28范畴论%29/Cartesian%20Closed%20Category%20%28CCC%29.md)
 > ↗ [Models of Computation & Abstract Machines](../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
@@ -935,11 +935,11 @@ $$\sigma(x) = a, \text{ 其中 } x \in V, a \in \mathbb{M} \text{}$$
 > 实际上，语法（符号）层面的推导，属于公式的证明，而语义（模型）层面的推导，属于逻辑结论的推理。证明和推理之间的关系由系统的可靠性和完全性给出。
 ##### Satisfiability & Validity⭐
 > [!links]
-> ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
-> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+> ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)
+> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
 > 
-> ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-> ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+> ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 > [!TIP]
 > Intuitively explanation:
@@ -958,22 +958,22 @@ $$\sigma(x) = a, \text{ 其中 } x \in V, a \in \mathbb{M} \text{}$$
 * **公式集：** 如果有公式集 $\Gamma$，其中的每一个公式关于模型 $(M, \sigma)$ 都是可满足的，我们就称公式集 $\Gamma$ 关于模型 $(M, \sigma)$ 是**可满足的**，记为 $M \models_{\sigma} \Gamma$。
 
 
-↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
 - ![](../../../../Assets/Pics/Screenshot%202025-09-23%20at%2013.38.08.png)
 ↗ [Computation-Tree Logic (CTL*) Family](Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Computation-Tree%20Logic%20%28CTLstar%29%20Family.md)
 
 
 > [!TIP]
-> ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md) problem: does a given model $M$ satisfy a given property $\Phi$? $$M \models \Phi \ ?$$
+> ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md) problem: does a given model $M$ satisfy a given property $\Phi$? $$M \models \Phi \ ?$$
 > 
 > Alternatively, does a given model $M$ partially satisfy a given property $\Phi$ ? $$\exists x, y, z. \ M(x,y,z) \models \Phi \ ?$$
 > 
 > SAT problem: given a property $\Phi$ (a proposition), is there any model that satisfy $\Phi$? $$\exists M, \ M \models \Phi \ ?$$
 ###### The Oldest NP-complete Problem: SAT Problem!
 > [!links]
-> ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-> ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
-> - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+> ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+> ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29/Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29.md)
+> - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)
 > 
 > ↗ [Complexity Theory & Computational Complexity](../😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 > ![|400](../../../../Assets/Pics/Pasted%20image%2020250801223400.png)
@@ -984,12 +984,12 @@ $$\sigma(x) = a, \text{ 其中 } x \in V, a \in \mathbb{M} \text{}$$
 The SAT problem: does there exist a model $M$ that satisfies $\Phi$? $$\exists M. M\models\Phi ?$$
 The model checking problem:  given $M$ and $\Phi$ decide $$M\models\Phi ?$$
 NP/NP-complete problems can be solved by encoding them into a SAT problem!
-- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)
 - Building a “very fast” SAT solver could be used for solving lots of other not-so-easy problems!
 - **In theory**: wishful thinking, NP-problems are known to take exponential time in the worst case.
 - **In practice**: modern SAT solvers are very fast most of the time! (but still not enough for solving SAT problem!)
 
-Further, a SAT solver (zero-th order logic) can be extend to a SMT solver (first-order logic + additional interpretations). ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
+Further, a SAT solver (zero-th order logic) can be extend to a SMT solver (first-order logic + additional interpretations). ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
 ###### Logical Deduction & Reasoning
 > 🔗 https://thzt.github.io/2018/01/30/semantics-4/
 
@@ -1021,8 +1021,8 @@ Further, a SAT solver (zero-th order logic) can be extend to a SMT solver (first
 - ↗ [Models of Computation & Abstract Machines](../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 - ↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 ↗ [Computer Languages & Programming Methodology](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-- ↗ [Programming Language Theory (PLT)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+- ↗ [Programming Language Theory (PLT)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
@@ -1031,11 +1031,11 @@ In computer science, however, there are some certain languages (in the form of m
 ![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
 
-For example, a high-level programming language, say ↗ [Java](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md), have semantics to some sort of computational model, at a horizontal level, say a ↗ [Linear-Bounded Automaton (LBA)](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Context-Sensitive%20Languages%20%28CSL%29%20&%20Linear-Bounded%20Automata%20%28LBA%29.md). Also, a high-level programming language can have semantics to a low-level language as well, at a vertical level, say ↗ [Operational Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md).
+For example, a high-level programming language, say ↗ [Java](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md), have semantics to some sort of computational model, at a horizontal level, say a ↗ [Linear-Bounded Automaton (LBA)](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Context-Sensitive%20Languages%20%28CSL%29%20&%20Linear-Bounded%20Automata%20%28LBA%29.md). Also, a high-level programming language can have semantics to a low-level language as well, at a vertical level, say ↗ [Operational Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md).
 
 Likewise, a low-level mathematical logic can also have semantics to another low-level mathematical logic, or to a high-level programming language, or some sort of computational model as well! 
 
-A great example of this, is in the note of ↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md). This note explains how computer is constructed layer by layer, using mapping of semantics, from the very beginning to the very ultimate: from operational semantics (logic language) to transition systems (computational model), then from transition systems to everything: integrated circuits, programming languages, communication protocols, ... and finally the "computer" itself, in the sense of both conceptual and physical. In one word, the physical computer that we see and use nowadays is semantically equivalent to its very first design in ↗ [Operational Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md), a kind of mathematical logic language. 
+A great example of this, is in the note of ↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md). This note explains how computer is constructed layer by layer, using mapping of semantics, from the very beginning to the very ultimate: from operational semantics (logic language) to transition systems (computational model), then from transition systems to everything: integrated circuits, programming languages, communication protocols, ... and finally the "computer" itself, in the sense of both conceptual and physical. In one word, the physical computer that we see and use nowadays is semantically equivalent to its very first design in ↗ [Operational Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md), a kind of mathematical logic language. 
 - Imagine, one day you have some sorts of very crazy ideas that only exists in your mind, and after long long hardworking days that idea finally became an actual, touchable thing showing up in front of people. How cool it is!
 
 In the study of Computer Science, we learn both those mathematical logics and computational models. (Sometimes this is exhausted,  because people don't like to learn that many things to simply achieve some easy tasks they meet at the moment. But I say let's study 🤓)
@@ -1052,18 +1052,18 @@ In the study of Computer Science, we learn both those mathematical logics and co
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
 ↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md) ⭐
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md) ⭐
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md) ⭐
-- ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
-- ↗ [Automated & Generic Theorem Provers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
-- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
-- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
-↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md) ⭐
+- ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+- ↗ [Generic & Automated Theorem Provers (ATP)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md)
+- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md)
+- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
+↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29/Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29.md)
 
-↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
-- ↗ [Logic Programs & Symbolic AI](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
+↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
+- ↗ [Logic Programs & Symbolic AI](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
 
 ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
 

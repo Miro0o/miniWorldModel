@@ -7,20 +7,20 @@
 ## Res
 ### Related Topics
 ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
-↗ [Models of Computation & Abstract Machines](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
+↗ [Models of Computation & Abstract Machines](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
 
-↗ [SDLC (Software Development Life Circle) & SDLC Models](../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+↗ [SDLC (Software Development Life Circle) & SDLC Models](../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20%28Software%20Development%20Life%20Circle%29%20&%20SDLC%20Models/SDLC%20%28Software%20Development%20Life%20Circle%29%20&%20SDLC%20Models.md)
 
-↗ [Modeling Tools](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/Modeling%20Tools.md)
+↗ [Modeling Tools](../../Software%20Engineering/CASE%20%28Computer-Aided%20Software%20Engineering%29%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/Modeling%20Tools.md)
 
-↗ [DSL(Domain Specific Languages)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/DSL(Domain%20Specific%20Languages).md)
-- ↗ [ER & EER & ERD (Entity-Relationship Diagram)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ER%20&%20EER%20&%20ERD%20(Entity-Relationship%20Diagram).md)
-- ↗ [UML (Unified Modeling Language)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/UML%20(Unified%20Modeling%20Language).md)
+↗ [DSL(Domain Specific Languages)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/DSL%28Domain%20Specific%20Languages%29.md)
+- ↗ [ER & EER & ERD (Entity-Relationship Diagram)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Modeling%20%28Specification%29%20Languages/Data%20Modeling%20Languages/ER%20&%20EER%20&%20ERD%20%28Entity-Relationship%20Diagram%29.md)
+- ↗ [UML (Unified Modeling Language)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Modeling%20%28Specification%29%20Languages/Data%20Modeling%20Languages/UML%20%28Unified%20Modeling%20Language%29.md)
 
 ↗ [Application Software Engineering](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
-- ↗ [The Internet Development (and Web Development)](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
-	- ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
-	- ↗ [Web Application Design Patterns](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Design%20Patterns.md)
+- ↗ [The Internet Development (and Web Development)](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/The%20Internet%20Development%20%28and%20Web%20Development%29.md)
+	- ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+	- ↗ [Web Application Design Patterns](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Design%20Patterns.md)
 - ↗ [Desktop & Monolithic Application Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/Desktop%20&%20Monolithic%20Application%20Development.md)
 - ↗ [Mobile Application Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Mobile%20Application%20Development/Mobile%20Application%20Development.md)
 
@@ -111,11 +111,11 @@ Modeling tools:
 
 ## Intro
 Business Integration
-- ↗ [Requirement Engineering (Business Integration)](Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
+- ↗ [Requirement Engineering (Business Integration)](Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29/Requirement%20Engineering%20%28Business%20Integration%29/Requirement%20Engineering%20%28Business%20Integration%29.md)
 Software integration
-- ↗ [Enterprise Architecture Modeling (Software Integration)](Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
+- ↗ [Enterprise Architecture Modeling (Software Integration)](Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29/Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29.md)
 Process integration
-- ↗ [Process Modeling (Business Process Integration)](Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Process%20Modeling%20(Business%20Process%20Integration)/Process%20Modeling%20(Business%20Process%20Integration).md)
+- ↗ [Process Modeling (Business Process Integration)](Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29/Process%20Modeling%20%28Business%20Process%20Integration%29/Process%20Modeling%20%28Business%20Process%20Integration%29.md)
 
 ![|500](../../../Assets/Pics/Screenshot%202026-04-19%20at%2010.52.50.png)
 

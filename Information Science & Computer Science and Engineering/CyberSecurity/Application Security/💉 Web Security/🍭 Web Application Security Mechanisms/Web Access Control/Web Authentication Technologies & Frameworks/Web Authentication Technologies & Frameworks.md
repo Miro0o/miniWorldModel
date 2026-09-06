@@ -6,13 +6,13 @@
 
 ## Res
 ### Related Topics
-↗ [Identity Cloud](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Identity%20Cloud/Identity%20Cloud.md)
-↗ [Authentication (身份鉴别)](../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+↗ [Identity Cloud](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20%28Delivery%29%20Models/SaaS%20%28Software%20as%20a%20Service%29/Identity%20Cloud/Identity%20Cloud.md)
+↗ [Authentication (身份鉴别)](../../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Authentication%20%28身份鉴别%29/Authentication%20%28身份鉴别%29.md)
 
-↗ [HTTP Authentication](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Authentication.md)
-↗ [HTTP Access Control (CORS)](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Access%20Control%20(CORS).md)
+↗ [HTTP Authentication](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/🔥%20Web%20%28WWW%29%20Protocols/HTTP%20%28HyperText%20Transfer%20Protocol%29/HTTP%20Advanced%20Controls/HTTP%20Authentication.md)
+↗ [HTTP Access Control (CORS)](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/🔥%20Web%20%28WWW%29%20Protocols/HTTP%20%28HyperText%20Transfer%20Protocol%29/HTTP%20Advanced%20Controls/HTTP%20Access%20Control%20%28CORS%29.md)
 
-↗ [SAML (Security Assertion Markup Language)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Security%20DSL/SAML%20(Security%20Assertion%20Markup%20Language).md)
+↗ [SAML (Security Assertion Markup Language)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Security%20DSL/SAML%20%28Security%20Assertion%20Markup%20Language%29.md)
 
 
 ### Other Resources
@@ -133,8 +133,8 @@ Session-based authentication has scalability limitations, especially with regard
 
 ## Token Based Authentication
 > [!links]
-> ↗ [SWT (Simple Web Token)](Token%20Based%20Authentication/SWT%20(Simple%20Web%20Token).md)
-> ↗ [JWT (Json Web Token)](Token%20Based%20Authentication/JWT%20(Json%20Web%20Token).md)
+> ↗ [SWT (Simple Web Token)](Token%20Based%20Authentication/SWT%20%28Simple%20Web%20Token%29.md)
+> ↗ [JWT (Json Web Token)](Token%20Based%20Authentication/JWT%20%28Json%20Web%20Token%29.md)
 > ↗ [x-auth-token](Token%20Based%20Authentication/x-auth-token.md)
 
 

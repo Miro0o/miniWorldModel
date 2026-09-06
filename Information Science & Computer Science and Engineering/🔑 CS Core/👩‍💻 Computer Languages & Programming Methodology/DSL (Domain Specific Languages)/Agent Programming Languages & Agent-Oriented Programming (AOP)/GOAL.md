@@ -1,0 +1,20 @@
+# GOAL
+
+[TOC]
+
+
+
+## Res
+### Related Topics
+↗ [Belief–Desire–Intention (BDI) Model](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Agents%20&%20Multi-Agent%20System%20%28MAS%29/Agent%20Architecture%20&%20Models/Belief–Desire–Intention%20%28BDI%29%20Model.md)
+
+
+### Other Resources
+
+
+
+## Intro
+
+
+
+## Ref

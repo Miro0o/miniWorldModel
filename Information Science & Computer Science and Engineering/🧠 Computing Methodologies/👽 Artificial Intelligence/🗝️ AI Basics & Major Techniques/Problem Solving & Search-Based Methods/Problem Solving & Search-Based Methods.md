@@ -7,28 +7,28 @@
 ## Res
 ### Related Topics
 ↗ [Mathematical Modeling & Abstraction](../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
-↗ [Graph Theory](../../../../🧮%20Mathematics/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
-↗ [Graph Basics](../../../../🧮%20Mathematics/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+↗ [Graph Theory](../../../../🧮%20Mathematics/Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/Graph%20Theory.md)
+↗ [Graph Basics](../../../../🧮%20Mathematics/Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
 
 ↗ [Algorithm & Data Structure](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 - ↗ [Basic Searching](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Basic%20Searching/Basic%20Searching.md)
-- ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)
+- ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Dynamic%20Programming%20%28DP%29%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20%28DP%29%20&%20Multi-Objective%20Optimization.md)
 
 ↗ [Numerical Search](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Numerical%20Methods/Numerical%20Search.md)
 
-↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
-- ↗ [Combinatorics (Combinatorial Mathematics)](../../../../🧮%20Mathematics/Combinatorics%20(Combinatorial%20Mathematics)/Combinatorics%20(Combinatorial%20Mathematics).md)
-- ↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-	- ↗ [Heuristics & Metaheuristics](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/💡%20Heuristics%20&%20Metaheuristics/Heuristics%20&%20Metaheuristics.md)
-	- ↗ [Combinatorial Optimization](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Combinatorial%20Optimization.md)
-	- ↗ [Convex Optimization (CO)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Continuous%20Optimization/Convex%20Optimization%20(CO)/Convex%20Optimization%20(CO).md)
-		- ↗ [Dynamic Programming (DP)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/📝%20Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
-	- ↗ [Stochastic Programming](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Optimization%20under%20Uncertainty/Stochastic%20Programming/Stochastic%20Programming.md)
+↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+- ↗ [Combinatorics (Combinatorial Mathematics)](../../../../🧮%20Mathematics/Combinatorics%20%28Combinatorial%20Mathematics%29/Combinatorics%20%28Combinatorial%20Mathematics%29.md)
+- ↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
+	- ↗ [Heuristics & Metaheuristics](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/🦋%20Optimization%20Algorithms%20&%20Computation/💡%20Heuristics%20&%20Metaheuristics/Heuristics%20&%20Metaheuristics.md)
+	- ↗ [Combinatorial Optimization](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Discrete%20Optimization/Combinatorial%20Optimization/Combinatorial%20Optimization.md)
+	- ↗ [Convex Optimization (CO)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Continuous%20Optimization/Convex%20Optimization%20%28CO%29/Convex%20Optimization%20%28CO%29.md)
+		- ↗ [Dynamic Programming (DP)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/🦋%20Optimization%20Algorithms%20&%20Computation/📝%20Dynamic%20Programming%20%28DP%29/Dynamic%20Programming%20%28DP%29.md)
+	- ↗ [Stochastic Programming](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Optimization%20under%20Uncertainty/Stochastic%20Programming/Stochastic%20Programming.md)
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
-- ↗ [Constraint Solving & Theorem Proving](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-- ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
-↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
+- ↗ [Constraint Solving & Theorem Proving](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+- ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
+↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
 
 
 ### Other Resources
@@ -54,13 +54,13 @@ tbd.
 ↗ [Mathematical Modeling & Abstraction](../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 #### Internal Environments Representation
 > [!links]
-> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
 > 
 > ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
-> - ↗ [Constraint Satisfaction Problems (CSPs)](Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+> - ↗ [Constraint Satisfaction Problems (CSPs)](Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20%28CSPs%29.md)
 > 
-> ↗ [Matching & Assignment Problems](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Matching%20&%20Assignment%20Problems/Matching%20&%20Assignment%20Problems.md)
-> ↗ [Automated Planning and Scheduling (APS) & AI Planning](../../Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
+> ↗ [Matching & Assignment Problems](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Discrete%20Optimization/Combinatorial%20Optimization/Matching%20&%20Assignment%20Problems/Matching%20&%20Assignment%20Problems.md)
+> ↗ [Automated Planning and Scheduling (APS) & AI Planning](../../Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning.md)
 
 > 🤖 GPT-5.2
 > https://chatgpt.com/share/6994e9a5-ffd0-8010-b952-1355963ff237
@@ -80,19 +80,19 @@ If you want an even cleaner academic phrasing
 | Symbolic planning / verification | Factored logical variables | Constraint solving / inference    |
 | Neural agents (LLMs)             | Distributed latent vectors | Probabilistic sequence prediction |
 #### Search, Reason (Inference), Learn, and Generation
-↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
 
-↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-↗ [Natural Language Processing (NLP) & Computational Linguistics](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
-- ↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-↗ [Computer Vision (CV)](../../Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md)
+↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
+↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods.md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md)
+- ↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20%28Large%20Language%20Model%29.md)
+↗ [Computer Vision (CV)](../../Computer%20Vision%20%28CV%29/Computer%20Vision%20%28CV%29.md)
 
 
 ### Metahuristics & Huristics
 > [!links]
-> ↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-> ↗ [Heuristics & Metaheuristics](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/💡%20Heuristics%20&%20Metaheuristics/Heuristics%20&%20Metaheuristics.md)
+> ↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
+> ↗ [Heuristics & Metaheuristics](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/🦋%20Optimization%20Algorithms%20&%20Computation/💡%20Heuristics%20&%20Metaheuristics/Heuristics%20&%20Metaheuristics.md)
 
 
 
@@ -145,7 +145,7 @@ The problem-solving approach has been applied to a vast array of task environmen
 
 ### Search Algorithms (State Space Search /Systematic Combinatorial Search)
 > [!links]
-> ↗ [Systematic & Combinatorial Search (Classical Search)](Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+> ↗ [Systematic & Combinatorial Search (Classical Search)](Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Artificial_intelligence#Search_and_optimization
 
@@ -248,32 +248,32 @@ Before we get into the design of various search algorithms, we will consider the
 
 
 ### Search Strategies ⭐
-↗ [Systematic & Combinatorial Search (Classical Search)](Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+↗ [Systematic & Combinatorial Search (Classical Search)](Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29.md)
 #### Uninformed Search /Informed (Heuristic) Search
-↗ [Uninformed Search](Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Uninformed%20Search/Uninformed%20Search.md)
+↗ [Uninformed Search](Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Uninformed%20Search/Uninformed%20Search.md)
 - ↗ [Basic Searching](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Basic%20Searching/Basic%20Searching.md)
 
-↗ [Informed (Heuristic) Search](Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Informed%20(Heuristic)%20Search/Informed%20(Heuristic)%20Search.md)
+↗ [Informed (Heuristic) Search](Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Informed%20%28Heuristic%29%20Search/Informed%20%28Heuristic%29%20Search.md)
 - ↗ [Heuristic Algorithms](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Heuristic%20Algorithms/Heuristic%20Algorithms.md)
 #### Problem Decomposition & Divide-and-Conquer
-↗ [Automated Planning and Scheduling (APS) & AI Planning](../../Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
+↗ [Automated Planning and Scheduling (APS) & AI Planning](../../Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20%28APS%29%20&%20AI%20Planning.md)
 
 
 ### Search & Constraint Solving 🤔
 ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
-- ↗ [Constraint Satisfaction Problems (CSPs)](Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+- ↗ [Constraint Satisfaction Problems (CSPs)](Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20%28CSPs%29.md)
 
-↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
-↗ [Program Analysis Basics](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
-- ↗ [SCA (Static Code Analysis) & SAST](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
-- ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
-- ↗ [Constraint Solving & Theorem Proving](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-	- ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
-	- ↗ [Software (Program) Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Software%20(Program)%20Verification/Software%20(Program)%20Verification.md)
+↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+↗ [Program Analysis Basics](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+- ↗ [SCA (Static Code Analysis) & SAST](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md)
+- ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29/Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29.md)
+- ↗ [Constraint Solving & Theorem Proving](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+	- ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
+	- ↗ [Software (Program) Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Software%20%28Program%29%20Verification/Software%20%28Program%29%20Verification.md)
 
-↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-- ↗ [Combinatorial Optimization](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Combinatorial%20Optimization.md)
-	- ↗ [Matching & Assignment Problems](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Matching%20&%20Assignment%20Problems/Matching%20&%20Assignment%20Problems.md)
+↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
+- ↗ [Combinatorial Optimization](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Discrete%20Optimization/Combinatorial%20Optimization/Combinatorial%20Optimization.md)
+	- ↗ [Matching & Assignment Problems](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Discrete%20Optimization/Combinatorial%20Optimization/Matching%20&%20Assignment%20Problems/Matching%20&%20Assignment%20Problems.md)
 
 
 
@@ -283,7 +283,7 @@ Before we get into the design of various search algorithms, we will consider the
 #### Local Search (and Optimization Problems)
 > [!links]
 > ↗ [Local Search](Local%20Search/Local%20Search.md)
-> ↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+> ↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Artificial_intelligence#Search_and_optimization
 
@@ -333,9 +333,9 @@ A canonical example of online search is the mapping problem: a robot is placed i
 
 ## 🎯 Search Under Multi-Agents Environments & Games
 ↗ [Games & Search in Multi-Agents Environment](🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
-↗ [Agents & Multi-Agent System (MAS)](../../Agents%20&%20Multi-Agent%20System%20(MAS)/Agents%20&%20Multi-Agent%20System%20(MAS).md)
+↗ [Agents & Multi-Agent System (MAS)](../../Agents%20&%20Multi-Agent%20System%20%28MAS%29/Agents%20&%20Multi-Agent%20System%20%28MAS%29.md)
 
-↗ [Game Theory & Multi-Agent Decision-Making](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
+↗ [Game Theory & Multi-Agent Decision-Making](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 
 
 

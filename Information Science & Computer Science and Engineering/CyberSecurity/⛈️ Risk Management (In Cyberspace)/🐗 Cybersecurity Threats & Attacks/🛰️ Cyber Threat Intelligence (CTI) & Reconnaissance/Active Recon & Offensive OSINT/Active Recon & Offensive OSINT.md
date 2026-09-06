@@ -13,8 +13,11 @@
 
 ↗ [Cyberspace Assets Mapping & Management](../../../🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
-↗ [Web (HTML) Scraping & Anti-Bot](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Other%20Web%20Related%20Technologies/Web%20(HTML)%20Scraping%20&%20Anti-Bot/Web%20(HTML)%20Scraping%20&%20Anti-Bot.md)
+↗ [Web (HTML) Scraping & Anti-Bot](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/Other%20Web%20Related%20Technologies/Web%20%28HTML%29%20Scraping%20&%20Anti-Bot/Web%20%28HTML%29%20Scraping%20&%20Anti-Bot.md)
 ↗ [Exploit Database & Google Hacking & GHDB](../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+
+
+### Other Resources
 
 
 
@@ -71,7 +74,7 @@ When attempting to minimize detection, some stealth techniques to avoid detectio
 
 
 ### 3️⃣ Using proxies with anonymity networks
-↗ [Anonymous & Private Networks](../../../../Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
+↗ [Anonymous & Private Networks](../../../../Network%20%28&%20Communication%29%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
 
 
 

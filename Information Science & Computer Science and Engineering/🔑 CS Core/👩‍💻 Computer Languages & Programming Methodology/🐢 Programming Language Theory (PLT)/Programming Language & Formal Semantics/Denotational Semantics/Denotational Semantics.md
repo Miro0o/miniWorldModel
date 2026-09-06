@@ -14,10 +14,10 @@
 	- ↗ [Lattice (Order Theory)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
 	- ↗ [Domain Theory](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Domain%20Theory/Domain%20Theory.md)
 
-↗ [Metric Semantics (Denotational Semantics Based on Metric Space)](Metric%20Semantics%20(Denotational%20Semantics%20Based%20on%20Metric%20Space).md)
+↗ [Metric Semantics (Denotational Semantics Based on Metric Space)](Metric%20Semantics%20%28Denotational%20Semantics%20Based%20on%20Metric%20Space%29.md)
 
-↗ [Functional Programming Languages](../../../GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
-↗ [Haskell](../../../GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
+↗ [Functional Programming Languages](../../../GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+↗ [Haskell](../../../GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
 
 
 ### Other Resources
@@ -64,7 +64,7 @@
 - **不动点理论**
 
 ==「除了传统的基于偏序/域理论的指称语义之外，还可以用度量空间来构建程序的数学语义」==
-- ↗ [Metric Semantics (Denotational Semantics Based on Metric Space)](Metric%20Semantics%20(Denotational%20Semantics%20Based%20on%20Metric%20Space).md)
+- ↗ [Metric Semantics (Denotational Semantics Based on Metric Space)](Metric%20Semantics%20%28Denotational%20Semantics%20Based%20on%20Metric%20Space%29.md)
 - ↗ [Metric Spaces](../../../../../🧮%20Mathematics/Topology/Point-set%20%28General%29%20Topology/Metric%20Spaces.md)
 
 

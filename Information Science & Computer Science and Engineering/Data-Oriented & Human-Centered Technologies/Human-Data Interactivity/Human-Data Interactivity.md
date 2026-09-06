@@ -6,19 +6,19 @@
 
 ## Res
 ### Related Topics
-↗ [Graph & Diagram & Charts & Slides](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts%20&%20Slides/Graph%20&%20Diagram%20&%20Charts%20&%20Slides.md)
-↗ [The Internet Development (and Web Development)](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
-- ↗ [CSS & HTML UI Design & Frameworks](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/CSS%20&%20HTML%20UI%20Design%20&%20Frameworks.md)
-	- ↗ [reveal.js](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/reveal.js.md)
+↗ [Graph & Diagram & Charts & Slides](../../Software%20Engineering/CASE%20%28Computer-Aided%20Software%20Engineering%29%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts%20&%20Slides/Graph%20&%20Diagram%20&%20Charts%20&%20Slides.md)
+↗ [The Internet Development (and Web Development)](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/The%20Internet%20Development%20%28and%20Web%20Development%29.md)
+- ↗ [CSS & HTML UI Design & Frameworks](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/CSS%20&%20HTML%20UI%20Design%20&%20Frameworks.md)
+	- ↗ [reveal.js](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/reveal.js.md)
 
 ↗ [Knowledge Management & Computational Notebook](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Knowledge%20Management%20&%20Computational%20Notebook/Knowledge%20Management%20&%20Computational%20Notebook.md)
 
-↗ [Python](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/🐍%20Python/Python.md)
+↗ [Python](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/Python.md)
 ↗ [R Language](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Science%20&%20Data%20Processing/R%20Language/R%20Language.md)
-↗ [Julia](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/Julia/Julia.md)
+↗ [Julia](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/Julia/Julia.md)
 
 ↗ [Markdown](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Markup%20Languages%20&%20Data%20Representation/Markdown.md)
-↗ [Project Jupyter (Julia, Python, R)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/🐍%20Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20(Julia,%20Python,%20R).md)
+↗ [Project Jupyter (Julia, Python, R)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20%28Julia,%20Python,%20R%29.md)
 
 
 

@@ -200,3 +200,78 @@ test('two main updates preserve a manually edited drawing while repairing both l
     assert.equal(run(f.target, ['merge-base', manual, generated]), manual);
   }
 });
+
+
+test('renamed basenames use historical link resolution and preserve manual text over later updates', async t => {
+  const f = await fixture(t, {
+    'Note.md': '[Old](Wrong/Old%20(Name).md)\n\nbody\n\nlast\n',
+    'Store/Old (Name).md': '# Target\n'
+  });
+  await write(f.target, 'Note.md', '[Old](Store/Old%20%28Name%29.md)\n\nmanual body\n\nlast\n');
+  const manual = commit(f.target, 'Windows link repair and body');
+  await fs.mkdir(path.join(f.source, 'New'));
+  run(f.source, ['mv', 'Store/Old (Name).md', 'New/New Name.md']);
+  await write(f.source, 'Note.md', '[New](New/New%20Name.md)\n\nbody\n\nlast\n');
+  commit(f.source, 'rename target and update label');
+  await sync(f);
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[New](New/New%20Name.md)\n\nmanual body\n\nlast\n');
+  const generated = commit(f.target, 'generated rename');
+  assert.equal(run(f.target, ['rev-parse', generated + '^']), manual);
+  await write(f.source, 'Note.md', '[New](New/New%20Name.md)\n\nbody\n\nmain last\n');
+  commit(f.source, 'later Mac body update');
+  await sync(f);
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[New](New/New%20Name.md)\n\nmanual body\n\nmain last\n');
+});
+
+test('equivalent parenthesis encoding does not conflict with an adjacent main edit', async t => {
+  const f = await fixture(t, {
+    'Note.md': '[A](A%20(One).md)\n[B](B%20(Two).md)\n',
+    'A (One).md': '# A\n', 'B (Two).md': '# B\n'
+  });
+  await write(f.target, 'Note.md', '[A](A%20(One).md)\n[B](B%20%28Two%29.md)\n');
+  commit(f.target, 'equivalent Windows encoding');
+  await write(f.source, 'Note.md', '[Updated A](A%20(One).md)\n[B](B%20(Two).md)\n');
+  commit(f.source, 'edit adjacent link label');
+  await sync(f);
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[Updated A](A%20%28One%29.md)\n[B](B%20%28Two%29.md)\n');
+});
+
+test('moving a source note resolves relative links from its original folder', async t => {
+  const f = await fixture(t, {
+    'Old/Source.md': '# Source\n\n[x](Target.md)\n\nbody\n\nlast\n',
+    'Old/Target.md': '# Original\n', 'New/Target.md': '# Different\n'
+  });
+  await write(f.target, 'Old/Source.md', '# Source\n\n[x](Target.md)\n\nmanual body\n\nlast\n');
+  commit(f.target, 'Windows body edit');
+  run(f.source, ['mv', 'Old/Source.md', 'New/Source.md']);
+  await write(f.source, 'New/Source.md', '# Source\n\n[x](../Old/Target.md)\n\nbody\n\nlast\n');
+  commit(f.source, 'move source folder');
+  await sync(f);
+  assert.equal(await fs.readFile(path.join(f.target, 'New/Source.md'), 'utf8'), '# Source\n\n[x](../Old/Target.md)\n\nmanual body\n\nlast\n');
+  await assert.rejects(fs.access(path.join(f.target, 'Old/Source.md')));
+});
+
+test('different link targets still conflict without writing notes or advancing the sync state', async t => {
+  const f = await fixture(t, { 'Note.md': '[x](Base.md)\n', 'Base.md': '# Base\n', 'Windows.md': '# Windows\n', 'Mac.md': '# Mac\n' });
+  await write(f.target, 'Note.md', '[x](Windows.md)\n');
+  commit(f.target, 'manually change link target');
+  await write(f.source, 'Note.md', '[x](Mac.md)\n');
+  commit(f.source, 'different link target');
+  await assert.rejects(sync(f), /overlapping changes/);
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[x](Windows.md)\n');
+  assert.equal(run(f.target, ['status', '--porcelain']), '');
+  assert.equal(JSON.parse(await fs.readFile(path.join(f.target, STATE))).last_synced_main, f.initialMain);
+});
+
+test('untouched and Windows-only notes follow explicit target renames without losing content', async t => {
+  const f = await fixture(t, { 'Untouched.md': '[old](Old.md)\n', 'Old.md': '# Target\n' });
+  await write(f.target, 'Manual.md', 'Windows only\n\n[[Old#Heading|Alias]]\n');
+  const manual = commit(f.target, 'Windows-only note');
+  run(f.source, ['mv', 'Old.md', 'Renamed.md']);
+  commit(f.source, 'rename target basename');
+  await sync(f);
+  assert.equal(await fs.readFile(path.join(f.target, 'Untouched.md'), 'utf8'), '[old](Renamed.md)\n');
+  assert.equal(await fs.readFile(path.join(f.target, 'Manual.md'), 'utf8'), 'Windows only\n\n[[Renamed#Heading|Alias]]\n');
+  const generated = commit(f.target, 'generated target rename');
+  assert.equal(run(f.target, ['rev-parse', generated + '^']), manual);
+});

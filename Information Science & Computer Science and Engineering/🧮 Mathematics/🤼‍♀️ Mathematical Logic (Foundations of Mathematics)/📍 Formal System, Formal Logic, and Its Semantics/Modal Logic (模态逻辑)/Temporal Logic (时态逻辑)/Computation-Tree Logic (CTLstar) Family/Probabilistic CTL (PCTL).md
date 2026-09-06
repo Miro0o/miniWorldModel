@@ -6,15 +6,15 @@
 
 ## Res
 ### Related Topics
-↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
-- ↗ [Markov Process & Markov Chain (MC)](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
-- ↗ [Discrete-Time Markov Chains (DTMC)](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)
-↗ [MC Algorithms For PCTL](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family/MC%20Algorithms%20For%20PCTL.md)
-↗ [Branching Time Logic (Computation-Tree Logic, CTL)](Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process.md)
+- ↗ [Markov Process & Markov Chain (MC)](../../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20%28MC%29/Markov%20Process%20&%20Markov%20Chain%20%28MC%29.md)
+- ↗ [Discrete-Time Markov Chains (DTMC)](../../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20%28MC%29/Discrete-Time%20Markov%20Chains%20%28DTMC%29/Discrete-Time%20Markov%20Chains%20%28DTMC%29.md)
+↗ [MC Algorithms For PCTL](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family/MC%20Algorithms%20For%20PCTL.md)
+↗ [Branching Time Logic (Computation-Tree Logic, CTL)](Branching%20Time%20Logic%20%28Computation-Tree%20Logic,%20CTL%29.md)
 
-↗ [Series (级数)](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Series%20(级数).md) "geometric series"
+↗ [Series (级数)](../../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20%28级数%29/Series%20%28级数%29.md) "geometric series"
 
-↗ [PRISM](../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker/PRISM.md)
+↗ [PRISM](../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/PRISM.md)
 
 
 ### Other Resources
@@ -56,7 +56,7 @@ where $n\in N$ is some natural number. Here we have the concept of bounded and u
 
 $\mathbb{P}_{\geq1}(...)$ = almost surely...
 $\mathbb{P}_{\leq0}(...)$ = almost never...
-(remember ↗ [Probability Theory & Statistics](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md) ?)
+(remember ↗ [Probability Theory & Statistics](../../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md) ?)
 
 
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-24%20at%2022.38.15.png)
@@ -67,7 +67,7 @@ $\mathbb{P}_{\leq0}(...)$ = almost never...
 The main new aspect is how to measure probabilities: $$s\models\mathbb{P} \iff Pr(\{\pi\in Paths(s) | \pi \models \psi\}) \in J$$ (we may write $Pr_s$ for an implicit “at state s”)
 
 
-See ↗ [MC Algorithms For PCTL](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family/MC%20Algorithms%20For%20PCTL.md) for algorithm solution (using recursion) of probability measure in PCTL. Below gives the probability measure based on cylinder sets (introduced in ↗ [Discrete-Time Markov Chains (DTMC)](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)).
+See ↗ [MC Algorithms For PCTL](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family/MC%20Algorithms%20For%20PCTL.md) for algorithm solution (using recursion) of probability measure in PCTL. Below gives the probability measure based on cylinder sets (introduced in ↗ [Discrete-Time Markov Chains (DTMC)](../../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20%28MC%29/Discrete-Time%20Markov%20Chains%20%28DTMC%29/Discrete-Time%20Markov%20Chains%20%28DTMC%29.md)).
 #### Next-Step Probability
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-24%20at%2022.43.07.png)
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-24%20at%2022.43.19.png)

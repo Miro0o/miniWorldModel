@@ -9,11 +9,11 @@
 ↗ [Protocol & Policy Security](../../🗂️%20Protocol%20&%20Policy%20Security/Protocol%20&%20Policy%20Security.md)
 
 ↗ [Mathematical Modeling & Abstraction](../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
-↗ [(Formal) Model Checking](../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
-↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md)
+↗ [(Formal) Model Checking](../🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
+↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20%28Alice%20and%20Bob%29%20Notation%20&%20AnBx%20Languages.md)
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
-↗ [Formal System, Formal Logic, and Its Semantics](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Formal System, Formal Logic, and Its Semantics](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 ↗ [Proof Theory](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md)
 
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
@@ -29,30 +29,30 @@
 - ↗ [Constraint Satisfaction Problems (CSPs)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20%28CSPs%29.md)
 ↗ [Constraint Solving & Theorem Proving](../🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 
-↗ [Risk Countermeasures & Security Control](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
-- ↗ [Identity & Access Management (IAM)](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identity%20&%20Access%20Management%20(IAM).md)
-	- ↗ [Access Control (访问控制)](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
-	- ↗ [Access Control Models](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/Access%20Control%20Models.md)
+↗ [Risk Countermeasures & Security Control](../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
+- ↗ [Identity & Access Management (IAM)](../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Identity%20&%20Access%20Management%20%28IAM%29.md)
+	- ↗ [Access Control (访问控制)](../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Access%20Control%20%28访问控制%29.md)
+	- ↗ [Access Control Models](../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/📌%20Access%20Control%20Models/Access%20Control%20Models.md)
 
-↗ [SCA (Static Code Analysis) & SAST](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
-- ↗ [Data Flow Analysis](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Data%20Flow%20Analysis/Data%20Flow%20Analysis.md)
-- ↗ [Information Flow & Information Flow Control (IFC)](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Information%20Flow%20&%20Information%20Flow%20Control%20(IFC)/Information%20Flow%20&%20Information%20Flow%20Control%20(IFC).md)
+↗ [SCA (Static Code Analysis) & SAST](../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md)
+- ↗ [Data Flow Analysis](../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/Data%20Flow%20Analysis/Data%20Flow%20Analysis.md)
+- ↗ [Information Flow & Information Flow Control (IFC)](../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/Information%20Flow%20&%20Information%20Flow%20Control%20%28IFC%29/Information%20Flow%20&%20Information%20Flow%20Control%20%28IFC%29.md)
 
 ↗ [Static Code Analysis Tools (SCAT)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20%28SCAT%29/Static%20Code%20Analysis%20Tools%20%28SCAT%29.md) "model checker"
-- ↗ [OFMC (Open-Source Fixed-Point Model-Checker)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/OFMC%20%28Open-Source%20Fixed-Point%20Model-Checker%29.md)
+- ↗ [OFMC (Open-Source Fixed-Point Model-Checker)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/🤼%20Model%20Checker/OFMC%20%28Open-Source%20Fixed-Point%20Model-Checker%29.md)
 
-↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
-- ↗ [Automated & Generic Theorem Provers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
-	- ↗ [Isabelle & Isar Language](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Isabelle%20&%20Isar%20Language/Isabelle%20&%20Isar%20Language.md)
-	- ↗ [HOL Interactive Theorem Prover](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Automated%20&%20Generic%20Theorem%20Provers/HOL%20Interactive%20Theorem%20Prover.md)
-- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
+↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+- ↗ [Generic & Automated Theorem Provers (ATP)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md)
+	- ↗ [Isabelle & Isar Language](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Isabelle%20&%20Isar%20Language/Isabelle%20&%20Isar%20Language.md)
+	- ↗ [HOL Interactive Theorem Prover](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/HOL%20Interactive%20Theorem%20Prover.md)
+- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
 
 ↗ [Security Programming & Security Product Development](../../Security%20Programming%20&%20Security%20Product%20Development/Security%20Programming%20&%20Security%20Product%20Development.md)
 
-↗ [Zero-Knowledge Proof (ZKP)](🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
+↗ [Zero-Knowledge Proof (ZKP)](🍭%20Zero-Knowledge%20Proof%20%28ZKP%29/Zero-Knowledge%20Proof%20%28ZKP%29.md)
 
-↗ [Network (& Communication) Security](../../../Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
-- ↗ [Network Security Protocol Stacks](../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Network%20Security%20Protocol%20Stacks.md)
+↗ [Network (& Communication) Security](../../../Network%20%28&%20Communication%29%20Security/Network%20%28&%20Communication%29%20Security.md)
+- ↗ [Network Security Protocol Stacks](../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Network%20Security%20Protocol%20Stacks.md)
 
 
 ### Learning Resources
@@ -84,7 +84,7 @@ Dhirubhai Ambani Institute of Information and Communication Technology
 
 ## Intro
 > [!links]
-> ↗ [(Formal) Model Checking](../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [(Formal) Model Checking](../🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 > ↗ [Constraint Solving & Theorem Proving](../🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 > 
 > ↗ [Problem Solving & Search-Based Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
@@ -141,9 +141,9 @@ Overview of Problem Areas
 ### Alice and Bob Notation & AnB Language (Syntax & Semantics) ⭐
 > [!links]
 > ↗ [Formal Verification & Analysis Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
-> ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md)
+> ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20%28Alice%20and%20Bob%29%20Notation%20&%20AnBx%20Languages.md)
 > 
-> ↗ [Strand Spaces Model](../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Strand%20Spaces%20Model.md)
+> ↗ [Strand Spaces Model](../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20%28Formal%29%20Models/Strand%20Spaces%20Model.md)
 
 **Table 1:** Standard function symbols for protocol verification.
 
@@ -160,8 +160,8 @@ Overview of Problem Areas
 
 
 > [!example]
-> ↗ [Needham–Schroeder Protocol](../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Needham–Schroeder%20Protocol.md)
-> NSPK protocol expressed as in AnB language, message sequence chart, and Role /Strand (↗ [Strand Spaces Model](../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Strand%20Spaces%20Model.md))
+> ↗ [Needham–Schroeder Protocol](../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29/Key%20Transport%20Algorithms%20&%20Protocols/Needham–Schroeder%20Protocol.md)
+> NSPK protocol expressed as in AnB language, message sequence chart, and Role /Strand (↗ [Strand Spaces Model](../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20%28Formal%29%20Models/Strand%20Spaces%20Model.md))
 > 
 > ==AnB language:==
 > ```AnB
@@ -430,16 +430,16 @@ Overview of Problem Areas
 ↗ [Cryptology & Secure Communication](../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 - ↗ [Cryptography](../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
 - ↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md) ✅
-	- ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
+	- ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20%28Formal%29%20Models/Dolev–Yao%20%28DY%29%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
 
-↗ [Term Algebra & Free Σ-algebra](../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20(泛代数)/Σ-algebra%20(Sigma-Algebra)/Term%20Algebra%20&%20Free%20Σ-algebra.md)
+↗ [Term Algebra & Free Σ-algebra](../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20%28泛代数%29/Σ-algebra%20%28Sigma-Algebra%29/Term%20Algebra%20&%20Free%20Σ-algebra.md)
 
 
 
 ## 2️⃣ Automated Verification of Security Protocols
 > [!links]
-> ↗ [Software (Program) Verification](../Software%20(Program)%20Verification/Software%20(Program)%20Verification.md)
-> ↗ [(Formal) Model Checking](../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [Software (Program) Verification](../Software%20%28Program%29%20Verification/Software%20%28Program%29%20Verification.md)
+> ↗ [(Formal) Model Checking](../🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [PHP](../../../GPL(General%20Purpose%20Languages)/PHP/PHP.md)
+↗ [PHP](../../../GPL%20%28General%20Purpose%20Languages%29/PHP/PHP.md)
 
 
 

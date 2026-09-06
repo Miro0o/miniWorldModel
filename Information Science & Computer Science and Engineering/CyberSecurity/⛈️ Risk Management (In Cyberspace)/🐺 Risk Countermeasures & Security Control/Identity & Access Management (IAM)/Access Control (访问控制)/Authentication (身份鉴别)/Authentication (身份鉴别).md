@@ -6,16 +6,16 @@
 
 ## Res
 ### Related Topics
-↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
+↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20%28报文鉴别，消息鉴别%29/Message%20Authentication%20%28报文鉴别，消息鉴别%29.md)
 
-↗ [HTTP Authentication](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Authentication.md)
+↗ [HTTP Authentication](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/🔥%20Web%20%28WWW%29%20Protocols/HTTP%20%28HyperText%20Transfer%20Protocol%29/HTTP%20Advanced%20Controls/HTTP%20Authentication.md)
 
 ↗ [Web Authentication Technologies & Frameworks](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
-↗ [SSO (Single Sign-On)](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/SSO%20(Single%20Sign-On)/SSO%20(Single%20Sign-On).md)
+↗ [SSO (Single Sign-On)](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/SSO%20%28Single%20Sign-On%29/SSO%20%28Single%20Sign-On%29.md)
 
-↗ [Brocken Authentication](../../../../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Insecure%20Design%20&%20Failures/Identication%20and%20Authentication%20Failures/Brocken%20Authentication.md)
+↗ [Brocken Authentication](../../../../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20%28Threats,%20Attacks,%20Vulnerabilities%29%20&%20OWASP/Insecure%20Design%20&%20Failures/Identication%20and%20Authentication%20Failures/Brocken%20Authentication.md)
 
-↗ [Identity Cloud](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Identity%20Cloud/Identity%20Cloud.md)
+↗ [Identity Cloud](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20%28Delivery%29%20Models/SaaS%20%28Software%20as%20a%20Service%29/Identity%20Cloud/Identity%20Cloud.md)
 
 
 ### Other Resources
@@ -101,7 +101,7 @@ The property that ensures that the identity of a subject or resource is the one 
 
 How someone may be authenticated fall into three categories, based on what is known as the **factors of authentication**:
 - something the 1️⃣ user **knows**, (knowledge)
-	- ↗ [Cryptographic Authentication (基于密码学原理)](🎫%20Cryptographic%20Authentication%20(基于密码学原理)/Cryptographic%20Authentication%20(基于密码学原理).md)
+	- ↗ [Cryptographic Authentication (基于密码学原理)](🎫%20Cryptographic%20Authentication%20%28基于密码学原理%29/Cryptographic%20Authentication%20%28基于密码学原理%29.md)
 - something the 2️⃣ user **has**, (possession)
 - something the 3️⃣ user **is**. (inherence)
 
@@ -227,7 +227,7 @@ Data Origin Authentication (数据原发鉴别)
 ##### 惟一数机制
 ![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.32PM.png)
 ##### 质询机制
-↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
+↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](Password%20Based%20Authentication%20%28基于口令%29/Password%20Based%20Authentication%20%28基于口令%29.md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.44PM.png)
 ##### 专用加密质询机制
@@ -294,7 +294,7 @@ Data Origin Authentication (数据原发鉴别)
 - **代表技术**：轻量级认证协议（如基于ACE-OAuth的IoT鉴别）、对称加密挑战应答、固件签名验证。
 #### 🎯 Message Authentication (Data Origin Authentication, 数据原发鉴别)
 > [!links]
-> ↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
+> ↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20%28报文鉴别，消息鉴别%29/Message%20Authentication%20%28报文鉴别，消息鉴别%29.md)
 
 数据源发鉴别
 - **定义**：确认接收到的特定数据单元确实来自所声称的发送源。
@@ -312,14 +312,14 @@ Data Origin Authentication (数据原发鉴别)
 - 基于生物特征的身份鉴别
 - 基于个人令牌的身份鉴别
 
-↗ [Biometrics Authentication (基于生物特征信息)](Biometrics%20Authentication%20(基于生物特征信息)/Biometrics%20Authentication%20(基于生物特征信息).md)
-↗ [Physical Evidence-Based Authentication (基于实物凭证)](Physical%20Evidence-Based%20Authentication%20(基于实物凭证)/Physical%20Evidence-Based%20Authentication%20(基于实物凭证).md)
-↗ [Password Based Authentication (基于口令)](Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md)
+↗ [Biometrics Authentication (基于生物特征信息)](Biometrics%20Authentication%20%28基于生物特征信息%29/Biometrics%20Authentication%20%28基于生物特征信息%29.md)
+↗ [Physical Evidence-Based Authentication (基于实物凭证)](Physical%20Evidence-Based%20Authentication%20%28基于实物凭证%29/Physical%20Evidence-Based%20Authentication%20%28基于实物凭证%29.md)
+↗ [Password Based Authentication (基于口令)](Password%20Based%20Authentication%20%28基于口令%29/Password%20Based%20Authentication%20%28基于口令%29.md)
 ↗ [Address Based Authentication](Address%20Based%20Authentication.md)
 #### Cryptography-based Authentication
-↗ [Cryptographic Authentication (基于密码学原理)](🎫%20Cryptographic%20Authentication%20(基于密码学原理)/Cryptographic%20Authentication%20(基于密码学原理).md)
+↗ [Cryptographic Authentication (基于密码学原理)](🎫%20Cryptographic%20Authentication%20%28基于密码学原理%29/Cryptographic%20Authentication%20%28基于密码学原理%29.md)
 #### Zero-Knowledge-Proof (ZKP)
-↗ [Zero-Knowledge Proof (ZKP)](../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
+↗ [Zero-Knowledge Proof (ZKP)](../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20%28ZKP%29/Zero-Knowledge%20Proof%20%28ZKP%29.md)
 
 
 
@@ -332,29 +332,29 @@ Data Origin Authentication (数据原发鉴别)
 ↗ [Web Access Control](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Access%20Control.md)
 ↗ [Web Authentication Technologies & Frameworks](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
 - ↗ [Web Authentication Technologies & Frameworks](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
-	- ↗ [JWT (Json Web Token)](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Token%20Based%20Authentication/JWT%20(Json%20Web%20Token).md)
+	- ↗ [JWT (Json Web Token)](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Token%20Based%20Authentication/JWT%20%28Json%20Web%20Token%29.md)
 	- ↗ [x-auth-token](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Token%20Based%20Authentication/x-auth-token.md)
-	- ↗ [SAML (Security Assertion Markup Language)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Security%20DSL/SAML%20(Security%20Assertion%20Markup%20Language).md)
-- ↗ [HTTP Authentication](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Authentication.md)
-- ↗ [HTTP Access Control (CORS)](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Access%20Control%20(CORS).md)
+	- ↗ [SAML (Security Assertion Markup Language)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Security%20DSL/SAML%20%28Security%20Assertion%20Markup%20Language%29.md)
+- ↗ [HTTP Authentication](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/🔥%20Web%20%28WWW%29%20Protocols/HTTP%20%28HyperText%20Transfer%20Protocol%29/HTTP%20Advanced%20Controls/HTTP%20Authentication.md)
+- ↗ [HTTP Access Control (CORS)](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/🔥%20Web%20%28WWW%29%20Protocols/HTTP%20%28HyperText%20Transfer%20Protocol%29/HTTP%20Advanced%20Controls/HTTP%20Access%20Control%20%28CORS%29.md)
 
-↗ [Networking Access Control](../../../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Networking%20Access%20Control/Networking%20Access%20Control.md)
-↗ [Network Managements & Standards](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/Network%20Managements%20&%20Standards.md)
-↗ [NAC (Network Access Control)](../../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/NAC%20(Network%20Access%20Control).md)
+↗ [Networking Access Control](../../../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Networking%20Access%20Control/Networking%20Access%20Control.md)
+↗ [Network Managements & Standards](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/Network%20Managements%20&%20Standards.md)
+↗ [NAC (Network Access Control)](../../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/NAC%20%28Network%20Access%20Control%29.md)
 
-↗ [Application Layer Security Protocols](../../../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
-- ↗ [RADIUS (Remote Authentication Dial-In User Service)](../../../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Authentication%20Protocols/RADIUS%20(Remote%20Authentication%20Dial-In%20User%20Service)/RADIUS%20(Remote%20Authentication%20Dial-In%20User%20Service).md)
-- ↗ [Kerberos](../../../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Authentication%20Protocols/Kerberos/Kerberos.md)
+↗ [Application Layer Security Protocols](../../../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
+- ↗ [RADIUS (Remote Authentication Dial-In User Service)](../../../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Authentication%20Protocols/RADIUS%20%28Remote%20Authentication%20Dial-In%20User%20Service%29/RADIUS%20%28Remote%20Authentication%20Dial-In%20User%20Service%29.md)
+- ↗ [Kerberos](../../../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Authentication%20Protocols/Kerberos/Kerberos.md)
 
-↗ [Physical (& Link) Layer Security Protocols](../../../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(&%20Link)%20Layer%20Security%20Protocols/Physical%20(&%20Link)%20Layer%20Security%20Protocols.md)
-- ↗ [IEEE 802.11 Security Standards & WPA](../../../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(&%20Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11%20Security%20Standards%20&%20WPA/IEEE%20802.11%20Security%20Standards%20&%20WPA.md)
-- ↗ [IEEE 802.1x](../../../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(&%20Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x.md)
-- ↗ [EAP (Extensible Authentication Protocol)](../../../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(&%20Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/EAP%20(Extensible%20Authentication%20Protocol)/EAP%20(Extensible%20Authentication%20Protocol).md)
-- ↗ [WAPI (WLAN Authentication and Privacy Infrastructure)](../../../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(&%20Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/WAPI%20(WLAN%20Authentication%20and%20Privacy%20Infrastructure)/WAPI%20(WLAN%20Authentication%20and%20Privacy%20Infrastructure).md)
-- ↗ [MACsec (Media Access Control Security)](../../../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(&%20Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/MACsec%20(Media%20Access%20Control%20Security)/MACsec%20(Media%20Access%20Control%20Security).md)
+↗ [Physical (& Link) Layer Security Protocols](../../../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20%28&%20Link%29%20Layer%20Security%20Protocols/Physical%20%28&%20Link%29%20Layer%20Security%20Protocols.md)
+- ↗ [IEEE 802.11 Security Standards & WPA](../../../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20%28&%20Link%29%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11%20Security%20Standards%20&%20WPA/IEEE%20802.11%20Security%20Standards%20&%20WPA.md)
+- ↗ [IEEE 802.1x](../../../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20%28&%20Link%29%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x.md)
+- ↗ [EAP (Extensible Authentication Protocol)](../../../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20%28&%20Link%29%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/EAP%20%28Extensible%20Authentication%20Protocol%29/EAP%20%28Extensible%20Authentication%20Protocol%29.md)
+- ↗ [WAPI (WLAN Authentication and Privacy Infrastructure)](../../../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20%28&%20Link%29%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/WAPI%20%28WLAN%20Authentication%20and%20Privacy%20Infrastructure%29/WAPI%20%28WLAN%20Authentication%20and%20Privacy%20Infrastructure%29.md)
+- ↗ [MACsec (Media Access Control Security)](../../../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20%28&%20Link%29%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/MACsec%20%28Media%20Access%20Control%20Security%29/MACsec%20%28Media%20Access%20Control%20Security%29.md)
 
-↗ [LDAP (Lightweight Directory Access Protocol)](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/LDAP%20(Lightweight%20Directory%20Access%20Protocol)/LDAP%20(Lightweight%20Directory%20Access%20Protocol).md)
-↗ [SSH (Secure SHell)](../../../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Secure%20Communication/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
+↗ [LDAP (Lightweight Directory Access Protocol)](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/LDAP%20%28Lightweight%20Directory%20Access%20Protocol%29/LDAP%20%28Lightweight%20Directory%20Access%20Protocol%29.md)
+↗ [SSH (Secure SHell)](../../../../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Secure%20Communication/SSH%20%28Secure%20SHell%29/SSH%20%28Secure%20SHell%29.md)
 
 
 ### Host-Based Authentication

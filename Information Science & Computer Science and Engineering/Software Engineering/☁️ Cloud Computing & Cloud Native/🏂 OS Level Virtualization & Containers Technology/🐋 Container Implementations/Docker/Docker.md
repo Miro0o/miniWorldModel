@@ -52,9 +52,9 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 
 > **The underlying technology**
 > 
-> ↗ [Golang](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/Golang/Golang.md)
-> ↗ [Linux Namespace](../../../../🦄%20Computer%20Virtualization/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20Namespace.md)
-> ↗ [Linux cgroup (control group)](../../../../🦄%20Computer%20Virtualization/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20cgroup%20(control%20group).md)
+> ↗ [Golang](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/Golang/Golang.md)
+> ↗ [Linux Namespace](../../../../🦄%20Computer%20Virtualization/OS%20Level%20Virtualization/Linux%20cgroup%20%28control%20group%29%20Based%20OS%20Virtualization/Linux%20Namespace.md)
+> ↗ [Linux cgroup (control group)](../../../../🦄%20Computer%20Virtualization/OS%20Level%20Virtualization/Linux%20cgroup%20%28control%20group%29%20Based%20OS%20Virtualization/Linux%20cgroup%20%28control%20group%29.md)
 > 
 > Docker is written in the [Go programming language](https://golang.org/) and takes advantage of several features of the Linux kernel to deliver its functionality. Docker uses a technology called `namespaces` to provide the isolated workspace called the _container_. When you run a container, Docker creates a set of _namespaces_ for that container.
 > 

@@ -6,14 +6,14 @@
 
 ## Res
 ### Related Topics
-↗ [Linux File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
-↗ [Window File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Window%20File%20Types%20&%20Formats.md)
-↗ [Unix File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/Unix%20File%20Types%20&%20Formats/Unix%20File%20Types%20&%20Formats.md)
-↗ [macOS File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20IO%20&%20Files%20Management/macOS%20File%20System/macOS%20File%20Types%20&%20Formats/macOS%20File%20Types%20&%20Formats.md)
+↗ [Linux File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
+↗ [Window File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20%28New%20Technology%29%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Window%20File%20Types%20&%20Formats.md)
+↗ [Unix File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/Unix%20File%20Types%20&%20Formats/Unix%20File%20Types%20&%20Formats.md)
+↗ [macOS File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Apple%20Operating%20Systems/macOS%20%28Derived%20From%20UNIX%20Family%29/📌%20macOS%20Kernel%20%28xnu%29%20&%20Darwin/macOS%20IO%20&%20Files%20Management/macOS%20File%20System/macOS%20File%20Types%20&%20Formats/macOS%20File%20Types%20&%20Formats.md)
 
-↗ [DSL(Domain Specific Languages)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/DSL(Domain%20Specific%20Languages).md)
-- ↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20&%20Serialization/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md)
-↗ [Media Formats & Standards & Codec (Coder-Decoder)](../../../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder).md)
+↗ [DSL(Domain Specific Languages)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/DSL%28Domain%20Specific%20Languages%29.md)
+- ↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/IDL%20%28Interface%20Description%20Language%29%20&%20Data%20Exchange%20&%20Serialization/IDL%20%28Interface%20Description%20Language%29%20&%20Data%20Exchange%20Formats.md)
+↗ [Media Formats & Standards & Codec (Coder-Decoder)](../../../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20%28Coder-Decoder%29/Media%20Formats%20&%20Standards%20&%20Codec%20%28Coder-Decoder%29.md)
 
 
 ### Other Resources
@@ -75,8 +75,8 @@
 ## 🎯 Text File (Read, Write) (Data Level)
 ### 📌 Textual File Formats (文本文件格式)
 ↗ [Encodings](../../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
-↗ [DSL(Domain Specific Languages)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/DSL(Domain%20Specific%20Languages).md)
-↗ [Linux File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
+↗ [DSL(Domain Specific Languages)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/DSL%28Domain%20Specific%20Languages%29.md)
+↗ [Linux File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
 
 
 
@@ -153,14 +153,14 @@ Support for the a.out format was deprecated in Linux kernel version 5.1, and sup
 The **Common Object File Format (COFF)** is a format for executable, object code, and shared library computer files used on Unix systems. It was introduced in Unix System V, replaced the previously used a.out format, and formed the basis for extended specifications such as XCOFF and ECOFF, before being largely replaced by ELF, introduced with SVR4. COFF and its variants continue to be used on some Unix-like systems, on Microsoft Windows (Portable Executable), in UEFI environments and in some embedded development systems.
 #### MZ (DOS MZ Executable)
 #### PE (Portable Executable) (PE-COFF)
-↗ [Windows PE (Portable Executable) File](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Windows%20PE%20(Portable%20Executable)%20File/Windows%20PE%20(Portable%20Executable)%20File.md)
-↗ [Window File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Window%20File%20Types%20&%20Formats.md)
+↗ [Windows PE (Portable Executable) File](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20%28New%20Technology%29%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Windows%20PE%20%28Portable%20Executable%29%20File/Windows%20PE%20%28Portable%20Executable%29%20File.md)
+↗ [Window File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20%28New%20Technology%29%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Window%20File%20Types%20&%20Formats.md)
 #### ELF (Executable Linkable Format)
-↗ [ELF (Executable and Linkable Format)](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/ELF%20(Executable%20and%20Linkable%20Format)/ELF%20(Executable%20and%20Linkable%20Format).md)
-↗ [Linux File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
+↗ [ELF (Executable and Linkable Format)](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/ELF%20%28Executable%20and%20Linkable%20Format%29/ELF%20%28Executable%20and%20Linkable%20Format%29.md)
+↗ [Linux File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
 #### OMF (Object Module Format)
 #### Mach-O Universal Binary
-↗ [Mach-O Universal Binary](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20IO%20&%20Files%20Management/macOS%20File%20System/macOS%20File%20Types%20&%20Formats/Mach-O%20Universal%20Binary.md)
+↗ [Mach-O Universal Binary](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Apple%20Operating%20Systems/macOS%20%28Derived%20From%20UNIX%20Family%29/📌%20macOS%20Kernel%20%28xnu%29%20&%20Darwin/macOS%20IO%20&%20Files%20Management/macOS%20File%20System/macOS%20File%20Types%20&%20Formats/Mach-O%20Universal%20Binary.md)
 
 
 ### Executable File Taxonomy & Executable File Extensions

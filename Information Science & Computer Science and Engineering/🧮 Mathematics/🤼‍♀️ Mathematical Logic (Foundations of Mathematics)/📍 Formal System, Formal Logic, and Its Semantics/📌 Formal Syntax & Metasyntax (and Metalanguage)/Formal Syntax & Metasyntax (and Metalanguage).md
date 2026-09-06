@@ -7,28 +7,28 @@
 ## Res
 ### Related Topics
 ↗ [Proof Theory](../../Proof%20Theory/Proof%20Theory.md)
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](../../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
-↗ [Classical Logic (Standard Formal Logic)](../Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](../../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
+↗ [Classical Logic (Standard Formal Logic)](../Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
 ↗ [Computer Languages & Programming Methodology](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-- ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+- ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 
-↗ [Automata Theory and (Formal) Language Theory](../../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-- ↗ [Regular Language (RL) & Finite Automata (FA)](../../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
-- ↗ [Context-Free Languages (CFL) & Push-Down Automata (PDA)](../../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Free%20Languages%20(CFL)%20&%20Push-Down%20Automata%20(PDA).md)
-- ↗ [Context-Sensitive Languages (CSL) & Linear-Bounded Automata (LBA)](../../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Sensitive%20Languages%20(CSL)%20&%20Linear-Bounded%20Automata%20(LBA).md)
-- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+↗ [Automata Theory and (Formal) Language Theory](../../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
+- ↗ [Regular Language (RL) & Finite Automata (FA)](../../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Regular%20Language%20%28RL%29%20&%20Finite%20Automata%20%28FA%29.md)
+- ↗ [Context-Free Languages (CFL) & Push-Down Automata (PDA)](../../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Context-Free%20Languages%20%28CFL%29%20&%20Push-Down%20Automata%20%28PDA%29.md)
+- ↗ [Context-Sensitive Languages (CSL) & Linear-Bounded Automata (LBA)](../../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Context-Sensitive%20Languages%20%28CSL%29%20&%20Linear-Bounded%20Automata%20%28LBA%29.md)
+- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 
-↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
-↗ [Lambda Calculus (λ-Calculus)](../🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+↗ [Lambda Calculus (λ-Calculus)](../🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 
 ↗ [Programming Language Processing & Program Execution](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md)
 
 ↗ [Language & Literature](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 
-↗ [Normalization](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Normalization/Normalization.md)
+↗ [Normalization](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20%28Data%20Modeling%29/Record-Based%20Data%20Models/Relational%20%28Data%29%20Models/Normalization/Normalization.md)
 
 
 ### Other Resources
@@ -49,10 +49,10 @@ Typically, the metalanguage for token-level languages (formally called "[regular
 
 
 ### Metalanguage
-↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
-↗ [Second-Order Predicate Logic (二阶谓词逻辑)](../Classical%20Logic%20(Standard%20Formal%20Logic)/Second-Order%20Predicate%20Logic%20(二阶谓词逻辑).md)
-↗ [Higher-Order Languages & Logics (HOL)](../🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Higher-Order%20Languages%20&%20Logics%20(HOL).md)
+↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
+↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../Classical%20Logic%20%28Standard%20Formal%20Logic%29/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+↗ [Second-Order Predicate Logic (二阶谓词逻辑)](../Classical%20Logic%20%28Standard%20Formal%20Logic%29/Second-Order%20Predicate%20Logic%20%28二阶谓词逻辑%29.md)
+↗ [Higher-Order Languages & Logics (HOL)](../🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Higher-Order%20Languages%20&%20Logics%20%28HOL%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Metalanguage
 
@@ -66,7 +66,7 @@ An _embedded metalanguage_ is a language formally, naturally and firmly fixed 
 
 It occurs in natural, or informal, languages, as well—such as in English, where words such as _noun_, _verb_, or even _word_ describe features and concepts pertaining to the English language itself.
 ##### Ordered
-↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../Classical%20Logic%20%28Standard%20Formal%20Logic%29/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
 An _ordered metalanguage_ is analogous to an [ordered logic](https://en.wikipedia.org/wiki/Ordered_logic "Ordered logic"). An example of an ordered metalanguage is the construction of one metalanguage to discuss an object language, followed by the creation of another metalanguage to discuss the first, etc.
 ##### Nested
@@ -86,7 +86,7 @@ There are several entities commonly expressed in a metalanguage. In logic usuall
 #### Deductive Systems
 > 🔗 [Deductive system](https://en.wikipedia.org/wiki/Deductive_system "Deductive system")
 > ↗ [Proof Theory](../../Proof%20Theory/Proof%20Theory.md)
-> - ↗ [Gentzen-Style Proofs (Natural Deduction)](../../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+> - ↗ [Gentzen-Style Proofs (Natural Deduction)](../../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
 
 A _deductive system_ (or, _deductive apparatus_ of a [formal system](https://en.wikipedia.org/wiki/Formal_system "Formal system")) consists of the [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom") (or [axiom schemata](https://en.wikipedia.org/wiki/Axiom_schema "Axiom schema")) and [rules of inference](https://en.wikipedia.org/wiki/Rules_of_inference "Rules of inference") that can be used to [derive](https://en.wikipedia.org/wiki/Formal_proof "Formal proof") the [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem") of the system.
 #### Metavariables
@@ -110,13 +110,13 @@ An _interpretation_ is an [assignment](https://en.wikipedia.org/wiki/Valuatio
 ### Semantics & Formal Semantics
 ↗ [Mathematical Logic Basics (Formal Logic)](../Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) "Semantic & The Semantics of Mathematical Logics"
 
-↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
 
 
 ## Formal Syntax Basics: Grammatical Category & Logic Formula
 > ↗ [Formal System, Formal Logic, and Its Semantics](../Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-> ↗ [Syntactic Analysis (Parsing)](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/Syntactic%20Analysis%20(Parsing).md)
+> ↗ [Syntactic Analysis (Parsing)](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20%28Parsing%29/Syntactic%20Analysis%20%28Parsing%29.md)
 
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
 
@@ -177,7 +177,7 @@ $$A::=t1≐t2∣Rt1⋅⋅⋅tn∣¬A∣A∧B∣A∨B∣A→B∣A↔B∣∀xA∣�
 
 
 ### Abstract / Concrete Syntax Tree
-↗ [AST & CST (Abstract & Contrete Syntax Tree)](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/AST%20&%20CST%20(Abstract%20&%20Contrete%20Syntax%20Tree).md)
+↗ [AST & CST (Abstract & Contrete Syntax Tree)](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20%28Parsing%29/AST%20&%20CST%20%28Abstract%20&%20Contrete%20Syntax%20Tree%29.md)
 
 
 

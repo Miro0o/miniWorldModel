@@ -14,8 +14,8 @@
 ↗ [Natural Science & Engineering and Technology](../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 ↗ [Economics & Finance](../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
-↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
+↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 ↗ [Formal Verification & Analysis Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
 - ↗ [LEAN](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
 
@@ -24,7 +24,7 @@
 ↗ [科技创新人才培养](../🗺%20CS%20Overview/Appendix/科技创新人才培养.md)
 ↗ [我们需要怎样的数学教育？](../🗺%20CS%20Overview/Appendix/我们需要怎样的数学教育？.md)
 
-↗ [AI4Math](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Math/AI4Math.md)
+↗ [AI4Math](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4Math/AI4Math.md)
 
 
 ### Math Learning Resource
@@ -252,12 +252,12 @@ Generally speaking, each arrow involves the addition of some new symbols and the
 ##### 0️⃣ Foundation of Mathematics and Philosophy
 ↗ [Philosophy & Its History](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Math History & Development /Foundational Crisis of Mathematics](Math%20History%20&%20Development.md#Foundational%20Crisis%20of%20Mathematics)
-↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20%28Theoretical%20Computer%20Science%29.md)
 
-↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
-- ↗ [Category Theory (范畴论)](🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
-- ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+- ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+- ↗ [Category Theory (范畴论)](🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
+- ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
@@ -280,15 +280,15 @@ The resolution of this crisis involved the rise of a new mathematical discipline
 It results from this that the basic mathematical concepts, such as [numbers](https://en.wikipedia.org/wiki/Number "Number"), [points](https://en.wikipedia.org/wiki/Point_\(geometry\) "Point (geometry)"), [lines](https://en.wikipedia.org/wiki/Line_\(geometry\) "Line (geometry)"), and [geometrical spaces](https://en.wikipedia.org/wiki/Geometrical_space "Geometrical space") are not defined as abstractions from reality but from basic properties ([axioms](https://en.wikipedia.org/wiki/Axiom "Axiom")). Their adequation with their physical origins does not belong to mathematics anymore, although their relation with reality is still used for guiding [mathematical intuition](https://en.wikipedia.org/wiki/Mathematical_intuition "Mathematical intuition"): physical reality is still used by mathematicians to choose axioms, find which theorems are interesting to prove, and obtain indications of possible proofs.
 ##### 1️⃣ Pure Mathematics
 ###### 👉 Number（数量）
-↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
-	- ↗ [Number Sets & Field Construction (Completion) and Extension](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
-	- ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+- ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+	- ↗ [Number Sets & Field Construction (Completion) and Extension](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension.md)
+	- ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
 
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
 - ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 - ↗ [Elementary Number Theory](💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
-- ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
+- ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
@@ -296,22 +296,22 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 
 当数系更进一步发展时，整数被视为[有理数](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%90%86%E6%95%B0 "有理数")的[子集](https://zh.wikipedia.org/wiki/%E5%AD%90%E9%9B%86 "子集")，而有理数则包含于[实数](https://zh.wikipedia.org/wiki/%E5%AE%9E%E6%95%B0 "实数")中，连续的量即是以实数来表示的。实数则可以被进一步广义化成[复数](https://zh.wikipedia.org/wiki/%E5%A4%8D%E6%95%B0_\(%E6%95%B0%E5%AD%A6\) "复数 (数学)")。数的进一步广义化可以持续至包含[四元数](https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%85%83%E6%95%B8 "四元数")及[八元数](https://zh.wikipedia.org/wiki/%E5%85%AB%E5%85%83%E6%95%B8 "八元数")。从自然数亦可以推广到[超限数](https://zh.wikipedia.org/wiki/%E8%B6%85%E9%99%90%E6%95%B8 "超限数")，它形式化了计数至无限的这一概念。另一个研究的领域为大小，这个导致了[基数](https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0_\(%E6%95%B0%E5%AD%A6\) "基数 (数学)")和之后对无限的另外一种概念：[阿列夫数](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%88%97%E5%A4%AB%E6%95%B0 "阿列夫数")，它允许无限集合之间的大小可以做有意义的比较。
 ###### 👉 Structure（结构）
-↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
 
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
 - ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-	- ↗ [Group Theory & Group-Like Algebraic Structure (群)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群).md)
-	- ↗ [Ring Theory & Ring-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
-	- ↗ [Field Theory & Field-like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)
-	- ↗ [Category Theory (范畴论)](🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+	- ↗ [Group Theory & Group-Like Algebraic Structure (群)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29.md)
+	- ↗ [Ring Theory & Ring-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
+	- ↗ [Field Theory & Field-like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)
+	- ↗ [Category Theory (范畴论)](🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
 - ↗ [Elementary Number Theory](💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
-- ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
-↗ [Graph Theory](Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
-- ↗ [Graph Basics](Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
-- ↗ [Algebraic Graph Theory](Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
-↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
-- ↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
-	- ↗ [Partial Order & Order Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
+- ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29.md)
+↗ [Graph Theory](Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/Graph%20Theory.md)
+- ↗ [Graph Basics](Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+- ↗ [Algebraic Graph Theory](Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
+↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+- ↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
+	- ↗ [Partial Order & Order Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
 ↗ [Topology](Topology/Topology.md)
 - ↗ [Topology Structure](Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
 
@@ -321,27 +321,27 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 
 创立于二十世纪三十年代的[法国](https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD "法国")的[布尔巴基学派](https://zh.wikipedia.org/wiki/%E5%B8%83%E5%B0%94%E5%B7%B4%E5%9F%BA%E5%AD%A6%E6%B4%BE "布尔巴基学派")认为：纯粹数学，是研究[抽象结构](https://zh.wikipedia.org/wiki/%E6%8A%BD%E8%B1%A1%E7%BB%93%E6%9E%84 "抽象结构")的理论。 结构，就是以初始概念和公理出发的演绎系统。 [布尔巴基学派](https://zh.wikipedia.org/wiki/%E5%B8%83%E5%B0%94%E5%B7%B4%E5%9F%BA%E5%AD%A6%E6%B4%BE "布尔巴基学派")认为，有三种基本的抽象结构：[代数结构](https://zh.wikipedia.org/wiki/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84 "代数结构")（[群](https://zh.wikipedia.org/wiki/%E7%BE%A4 "群")，[环](https://zh.wikipedia.org/wiki/%E7%8E%AF_\(%E4%BB%A3%E6%95%B0\) "环 (代数)")，[域](https://zh.wikipedia.org/wiki/%E5%9F%9F_\(%E6%95%B8%E5%AD%B8\) "域 (数学)")……），[序结构](https://zh.wikipedia.org/wiki/%E5%BA%8F%E7%90%86%E8%AE%BA "序理论")（[偏序](https://zh.wikipedia.org/wiki/%E5%81%8F%E5%BA%8F%E5%85%B3%E7%B3%BB "偏序关系")，[全序](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BA%8F%E5%85%B3%E7%B3%BB "全序关系")……），[拓扑结构](https://zh.wikipedia.org/wiki/%E6%8B%93%E6%89%91%E7%BB%93%E6%9E%84 "拓扑结构")（[邻域](https://zh.wikipedia.org/wiki/%E9%82%BB%E5%9F%9F "邻域")，[极限](https://zh.wikipedia.org/wiki/%E6%9E%81%E9%99%90_\(%E6%95%B0%E5%AD%A6\) "极限 (数学)")，[连通性](https://zh.wikipedia.org/wiki/%E9%80%A3%E9%80%9A%E6%80%A7 "连通性")，[维数](https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%BA%A6 "维度")……）。
 ###### 👉 Space（空间）
-↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-↗ [Measures (Measure Theory)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
+↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+↗ [Measures (Measure Theory)](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/Measures%20%28Measure%20Theory%29.md)
 ↗ [Topology](Topology/Topology.md)
 ↗ [Geometry](Geometry/Geometry.md)
-- ↗ [Euclidean (Elementary) Geometry](Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
-- ↗ [Elliptic Geometry (Riemannian)](Geometry/Non-Euclidean%20Geometry/Elliptic%20Geometry%20(Riemannian)/Elliptic%20Geometry%20(Riemannian).md)
-- ↗ [Hyperbolic Geometry (Bolyai–Lobachevskian)](Geometry/Non-Euclidean%20Geometry/Hyperbolic%20Geometry%20(Bolyai–Lobachevskian)/Hyperbolic%20Geometry%20(Bolyai–Lobachevskian).md)
+- ↗ [Euclidean (Elementary) Geometry](Geometry/Euclidean%20%28Elementary%29%20Geometry/Euclidean%20%28Elementary%29%20Geometry.md)
+- ↗ [Elliptic Geometry (Riemannian)](Geometry/Non-Euclidean%20Geometry/Elliptic%20Geometry%20%28Riemannian%29/Elliptic%20Geometry%20%28Riemannian%29.md)
+- ↗ [Hyperbolic Geometry (Bolyai–Lobachevskian)](Geometry/Non-Euclidean%20Geometry/Hyperbolic%20Geometry%20%28Bolyai–Lobachevskian%29/Hyperbolic%20Geometry%20%28Bolyai–Lobachevskian%29.md)
 - ↗ [Fractal Geometry](Geometry/Non-Euclidean%20Geometry/Fractal%20Geometry/Fractal%20Geometry.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
 空间的研究源自于[几何](https://zh.wikipedia.org/wiki/%E5%87%A0%E4%BD%95%E5%AD%A6 "几何学")－尤其是[欧几里得几何](https://zh.wikipedia.org/wiki/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E5%87%A0%E4%BD%95 "欧几里得几何")。[三角学](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E5%AD%A6 "三角学")则结合了空间及数，且包含有著名的[勾股定理](https://zh.wikipedia.org/wiki/%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86 "勾股定理")。现今对空间的研究更推广到了更高维的几何、[非欧几里得几何](https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%AD%90%E5%B9%BE%E9%87%8C%E5%BE%97%E5%B9%BE%E4%BD%95 "非欧几里得几何")（其在[广义相对论](https://zh.wikipedia.org/wiki/%E5%BB%A3%E7%BE%A9%E7%9B%B8%E5%B0%8D%E8%AB%96 "广义相对论")中扮演着核心的角色）及[拓扑学](https://zh.wikipedia.org/wiki/%E6%8B%93%E6%89%91%E5%AD%A6 "拓扑学")。数和空间在[解析几何](https://zh.wikipedia.org/wiki/%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95 "解析几何")、[微分几何](https://zh.wikipedia.org/wiki/%E5%BE%AE%E5%88%86%E5%B9%BE%E4%BD%95 "微分几何")和[代数几何](https://zh.wikipedia.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95 "代数几何")中都有着很重要的角色。在微分几何中有着[纤维丛](https://zh.wikipedia.org/wiki/%E7%BA%A4%E7%BB%B4%E4%B8%9B "纤维丛")及[流形](https://zh.wikipedia.org/wiki/%E6%B5%81%E5%BD%A2 "流形")上的微积分等概念。在代数几何中有着如[多项式](https://zh.wikipedia.org/wiki/%E5%A4%9A%E9%A0%85%E5%BC%8F "多项式")方程的解集等几何对象的描述，结合了数和空间的概念；亦有着[拓扑群](https://zh.wikipedia.org/wiki/%E6%8B%93%E6%89%91%E7%BE%A4 "拓扑群")的研究，结合了结构与空间。[李群](https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%BE%A4 "李群")被用来研究空间、结构及变化。在其许多分支中，拓扑学可能是二十世纪数学中有着最大进展的领域，并包含有存在已久的[庞加莱猜想](https://zh.wikipedia.org/wiki/%E5%BA%9E%E5%8A%A0%E8%8E%B1%E7%8C%9C%E6%83%B3 "庞加莱猜想")，以及有争议的[四色定理](https://zh.wikipedia.org/wiki/%E5%9B%9B%E8%89%B2%E5%AE%9A%E7%90%86 "四色定理")。庞加莱猜想已在2006年确认由俄罗斯数学家[格里戈里·佩雷尔曼](https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%87%8C%E6%88%88%E9%87%8C%C2%B7%E4%BD%A9%E9%9B%B7%E5%B0%94%E6%9B%BC "格里戈里·佩雷尔曼")证明，而四色定理已在1976年由[凯尼斯·阿佩尔](https://zh.wikipedia.org/wiki/%E5%87%B1%E5%B0%BC%E6%96%AF%C2%B7%E9%98%BF%E4%BD%A9%E7%88%BE "凯尼斯·阿佩尔")和[沃夫冈·哈肯](https://zh.wikipedia.org/wiki/%E6%B2%83%E5%A4%AB%E5%86%88%C2%B7%E5%93%88%E8%82%AF "沃夫冈·哈肯")用电脑证明，而从来没有由人力来验证过。
 ###### 👉 Dynamics（变化）
-↗ [Mathematical Analysis (& Analytical Mathematics)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
-- ↗ [Differential Calculus & Derivative of Function](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
-- ↗ [Real Analysis](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Real%20Analysis/Real%20Analysis.md)
-- ↗ [Complex Analysis](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Complex%20Analysis/Complex%20Analysis.md)
-- ↗ [Functional Analysis (泛函分析)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Functional%20Analysis%20(泛函分析)/Functional%20Analysis%20(泛函分析).md)
-- ↗ [Differential Equation (DE)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Differential%20Equation%20(DE)/Differential%20Equation%20(DE).md)
-↗ [Dynamical Systems Theory](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Dynamical%20Systems%20Theory/Dynamical%20Systems%20Theory.md)
-- ↗ [Chaos Theory](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Dynamical%20Systems%20Theory/🇺🇳%20Chaos%20Theory/Chaos%20Theory.md)
+↗ [Mathematical Analysis (& Analytical Mathematics)](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
+- ↗ [Differential Calculus & Derivative of Function](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
+- ↗ [Real Analysis](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/🤯%20Advanced%20Analysis/Real%20Analysis/Real%20Analysis.md)
+- ↗ [Complex Analysis](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/🤯%20Advanced%20Analysis/Complex%20Analysis/Complex%20Analysis.md)
+- ↗ [Functional Analysis (泛函分析)](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/🤯%20Advanced%20Analysis/Functional%20Analysis%20%28泛函分析%29/Functional%20Analysis%20%28泛函分析%29.md)
+- ↗ [Differential Equation (DE)](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/🤯%20Advanced%20Analysis/Differential%20Equation%20%28DE%29/Differential%20Equation%20%28DE%29.md)
+↗ [Dynamical Systems Theory](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Dynamical%20Systems%20Theory/Dynamical%20Systems%20Theory.md)
+- ↗ [Chaos Theory](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Dynamical%20Systems%20Theory/🇺🇳%20Chaos%20Theory/Chaos%20Theory.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
@@ -354,11 +354,11 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 ↗ [Mathematical Modeling & Abstraction](Mathematical%20Modeling%20&%20Abstraction.md)
 
 ###### 👉 Discrete Mathematics & TCS (Theoretical Computer Science)
-↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
-↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-- ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-- ↗ [Complexity Theory & Computational Complexity](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20%28Theoretical%20Computer%20Science%29.md)
+↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
+- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+- ↗ [Complexity Theory & Computational Complexity](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 ↗ [Information Theory](🥸%20Information%20Theory/Information%20Theory.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8
@@ -367,7 +367,7 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 
 作为一相对较新的领域，离散数学有许多基本的未解问题。其中最有名的为P/NP问题——千禧年大奖难题之一。一般相信此问题的解答是否定的。
 ###### 👉 Statistics and Other Decision Sciences
-↗ [Probability Theory & Statistics](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+↗ [Probability Theory & Statistics](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Statistics_and_other_decision_sciences
 
@@ -376,7 +376,7 @@ The field of statistics is a mathematical application that is employed for the c
 [Statistical theory](https://en.wikipedia.org/wiki/Statistical_theory "Statistical theory") studies [decision problems](https://en.wikipedia.org/wiki/Statistical_decision_theory "Statistical decision theory") such as minimizing the [risk](https://en.wikipedia.org/wiki/Risk "Risk") ([expected loss](https://en.wikipedia.org/wiki/Expected_loss "Expected loss")) of a statistical action, such as using a [procedure](https://en.wikipedia.org/wiki/Statistical_method "Statistical method") in, for example, [parameter estimation](https://en.wikipedia.org/wiki/Parameter_estimation "Parameter estimation"), [hypothesis testing](https://en.wikipedia.org/wiki/Hypothesis_testing "Hypothesis testing"), and [selecting the best](https://en.wikipedia.org/wiki/Selection_algorithm "Selection algorithm"). In these traditional areas of [mathematical statistics](https://en.wikipedia.org/wiki/Mathematical_statistics "Mathematical statistics"), a statistical-decision problem is formulated by minimizing an [objective function](https://en.wikipedia.org/wiki/Objective_function "Objective function"), like expected loss or [cost](https://en.wikipedia.org/wiki/Cost "Cost"), under specific constraints. For example, designing a survey often involves minimizing the cost of estimating a population mean with a given level of confidence. Because of its use of [optimization](https://en.wikipedia.org/wiki/Optimization "Optimization"), the mathematical theory of statistics overlaps with other [decision sciences](https://en.wikipedia.org/wiki/Decision_science "Decision science"), such as [operations research](https://en.wikipedia.org/wiki/Operations_research "Operations research"), [control theory](https://en.wikipedia.org/wiki/Control_theory "Control theory"), and [mathematical economics](https://en.wikipedia.org/wiki/Mathematical_economics "Mathematical economics").
 ###### 👉 Computational Mathematics
 > [!links]
-> ↗ [Numerical Analysis](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Numerical%20Analysis/Numerical%20Analysis.md)
+> ↗ [Numerical Analysis](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Numerical%20Analysis/Numerical%20Analysis.md)
 > 
 > ↗ [Computational Mathematics](Computational%20Mathematics/Computational%20Mathematics.md)
 > ↗ [Mathematical Tools & Scientific Computing](Computational%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
@@ -389,10 +389,10 @@ The field of statistics is a mathematical application that is employed for the c
 
 Computational mathematics is the study of [mathematical problems](https://en.wikipedia.org/wiki/Mathematical_problem "Mathematical problem") that are typically too large for human, numerical capacity. [Numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis "Numerical analysis") studies methods for problems in [analysis](https://en.wikipedia.org/wiki/Analysis_\(mathematics\) "Analysis (mathematics)") using [functional analysis](https://en.wikipedia.org/wiki/Functional_analysis "Functional analysis") and [approximation theory](https://en.wikipedia.org/wiki/Approximation_theory "Approximation theory"); numerical analysis broadly includes the study of [approximation](https://en.wikipedia.org/wiki/Approximation "Approximation") and [discretization](https://en.wikipedia.org/wiki/Discretization "Discretization") with special focus on [rounding errors](https://en.wikipedia.org/wiki/Rounding_error "Rounding error"). Numerical analysis and, more broadly, scientific computing also study non-analytic topics of mathematical science, especially algorithmic-[matrix](https://en.wikipedia.org/wiki/Numerical_linear_algebra "Numerical linear algebra")-and-[graph theory](https://en.wikipedia.org/wiki/Graph_theory "Graph theory"). Other areas of computational mathematics include [computer algebra](https://en.wikipedia.org/wiki/Computer_algebra "Computer algebra") and [symbolic computation](https://en.wikipedia.org/wiki/Symbolic_computation "Symbolic computation").
 ###### 👉 Operational Research & Optimization
-↗ [Operations Research (OR) & Optimization & Rational Decision-Making](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
-- ↗ [Game Theory & Multi-Agent Decision-Making](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
-- ↗ [Mathematical Optimization (Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-	- ↗ [Convex Optimization (CO)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Continuous%20Optimization/Convex%20Optimization%20(CO)/Convex%20Optimization%20(CO).md)
+↗ [Operations Research (OR) & Optimization & Rational Decision-Making](🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+- ↗ [Game Theory & Multi-Agent Decision-Making](🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
+- ↗ [Mathematical Optimization (Programming)](🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
+	- ↗ [Convex Optimization (CO)](🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Continuous%20Optimization/Convex%20Optimization%20%28CO%29/Convex%20Optimization%20%28CO%29.md)
 ###### 👉 etc.
 whaaaaaat.
 #### Mathematics Subject Classification (MSC)
@@ -538,11 +538,11 @@ After we have defined various objects and notions, we usually make **mathematica
 
 ### Axiomatization of Mathematics & Axiomatic System ⭐
 > [!links]
-> ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) "formalization and formal system"
+> ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) "formalization and formal system"
 > 
-> ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-> - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+> ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md)
+> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md)
+> - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Axiomatic_system
 
@@ -554,7 +554,7 @@ A proof within an axiomatic system is a sequence of deductive steps that establi
 
 [数学](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6 "数学")上，一个**公理系统**（英语：axiomatic system，或称**公理化系统**，**公理体系**，**公理化体系**）是一个[公理](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理")的[集合](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88_\(%E6%95%B0%E5%AD%A6\) "集合 (数学)")，从中一些或全部公理可以一并用来逻辑地导出[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")。==一个[数学理论](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA "数学理论")由一个公理系统和所有它导出的定理组成。一个完整描述出来的公理系统是[形式系统](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F "形式系统")的一个特例==；但是通常完全形式化的努力仅带来在确定性上递减的收益，并让人更加难以阅读。所以，**公理系统的讨论通常只是半形式化的。一个形式化理论通常表示一个公理系统，例如在[模型论](https://zh.wikipedia.org/wiki/%E6%A8%A1%E5%9E%8B%E8%AE%BA "模型论")中表述的那样。一个形式化证明是一个证明在形式化系统中的表述。**
 
-**公理系统的性质** (↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md))
+**公理系统的性质** (↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md))
 - 一个公理系统称为[**自洽**](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%AE%B9%E6%80%A7 "形式系统相容性")（或称**相容**、**一致**、**协调**），如果它没有**矛盾**，也就是说没有从公理同时导出一个命题及其否定的能力。(Consistance)
 - 在一个公理系统中，一个公理被称为**独立**的，若它不是一个从系统的其它公理可以导出的定理。一个系统称为**独立**的，若它的每个公理都是独立的。(Independance)
 	- 虽然独立性不是一个系统的必要需求，自洽性却是必要的。
@@ -564,9 +564,9 @@ A proof within an axiomatic system is a sequence of deductive steps that establi
 ==很显然公理化方法在数学之外是有局限性的。例如，在[政治哲学](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6 "政治哲学")中，导致不可接受的结论的公理很可能被彻底拒绝；所以没有人真的认同上面的第一个版本。==
 #### Axiomatic System vs Formal System ⭐
 > [!links]
-> ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-> ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-> ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+> ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+> ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
+> ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
 
 #axiomatic_system #formal_system #formal_language #formal_logic #formal_semantics
 
@@ -592,7 +592,7 @@ A **(formal) semantics** is a structure /interpretation assigned to (formal) lan
 	- $\Gamma$ semantically entail $\varphi$: **every interpretation /evaluation /model** that makes all formulas in $\Gamma$ true also makes $\varphi$ true.
 	- It is about what we define as truth.
 
-This naturally introduces: (see "properties of (formal) axiomatic system" or ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md))
+This naturally introduces: (see "properties of (formal) axiomatic system" or ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md))
 - soundness: what we can syntactically proof are all semantically true;
 	- $\Gamma \vdash \varphi \implies \Gamma \models \varphi$
 - completeness: what are semantically true can all be syntactically proofed.
@@ -806,7 +806,7 @@ n := '-' | '-' n
 > [!Example]
 > Euclidean Geometry (欧氏几何) vs Non-euclidean Geometry
 > ↗ [Geometry](Geometry/Geometry.md)
-> ↗ [Euclidean (Elementary) Geometry](Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
+> ↗ [Euclidean (Elementary) Geometry](Geometry/Euclidean%20%28Elementary%29%20Geometry/Euclidean%20%28Elementary%29%20Geometry.md)
 > 
 > > 🔗 https://thzt.github.io/2018/01/14/semantics-1/
 > 
@@ -824,8 +824,8 @@ n := '-' | '-' n
 > 
 > 关于欧几里得第五公设，最终人们得到了三种常用的几何学，称为欧几里得几何，罗巴切夫斯基几何，以及黎曼几何。这些公理系统，对研究不同的数学对象起到了关键作用。
 ##### Formal System & Mathematical Logic
-↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 #### The Axiomatic Method in Mathematics
 > 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#The_axiomatic_method_in_mathematics
 
@@ -848,7 +848,7 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), **a
 > [!link]
 > ↗ [Philosophy & Its History](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 > 
-> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Axioms_and_postulates
 
@@ -875,7 +875,7 @@ From the time of Boole's work in the 1840s, in the [algebra of logic](https://e
 | 2024                                                                                                                                                                                    | [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao "Terence Tao")                                                         | Equational Theories Project[70](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-70)                     | A project to have a complete calibration of theories in [equational logic](https://en.wikipedia.org/wiki/Equational_logic "Equational logic") for a [magma](https://en.wikipedia.org/wiki/Magma_\(algebra\) "Magma (algebra)"), where the binary operation is used at most four times. A [partial order](https://en.wikipedia.org/wiki/Partial_order "Partial order") on the theories makes _T_≤_U_ when _T_ implies all the theorems implied by _U_. The purpose of the project was to determine all the cases of ≤, so that an accurate [Hasse diagram](https://en.wikipedia.org/wiki/Hasse_diagram "Hasse diagram") of the partial order can be drawn. [Proof assistant](https://en.wikipedia.org/wiki/Proof_assistant "Proof assistant") software was used in some cases. The project was completed in April 2025.[71](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-71)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 ##### Properties of (Formal) Axiomatic System
 > [!links]
-> ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+> ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Properties
 
@@ -889,7 +889,7 @@ An axiomatic system is called complete if for every statement, either itself or 
 > Applies for formal axiomatic system.
 
 > [!links]
-> ↗ [Formal System /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md#Gödel's%20Incompleteness%20Theorems%20⭐)
+> ↗ [Formal System /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md#Gödel's%20Incompleteness%20Theorems%20⭐)
 
 > 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Incompleteness
 
@@ -904,9 +904,9 @@ If the formal system is not [complete](https://en.wikipedia.org/wiki/Completene
 > 所以，在软件开发过程中，检查一个软件系统是否符合设计要求，所使用的方法就是对它进行测试，在这个软件系统之外进行证明。
 ##### Axioms and Models
 > [!links]
-> ↗ [Model Theory (模型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+> ↗ [Model Theory (模型论)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Model%20Theory%20%28模型论%29/Model%20Theory%20%28模型论%29.md)
 > ↗ [Mathematical Modeling & Abstraction](Mathematical%20Modeling%20&%20Abstraction.md)
-> ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+> ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 A model for an axiomatic system is a formal structure, which assigns meaning for the undefined terms presented in the system, in a manner that is correct with the relations defined in the system. If an axiom system has a model, the axioms are said to have been satisfied.[74] The existence of a model which satisfies an axiom system, proves the consistency of the system.[75]
 
@@ -918,12 +918,12 @@ Two models are said to be isomorphic if a one-to-one correspondence can be found
 ### Proof, Reason, and Computation
 #### Finding Proofs & Types of Proofs ⭐
 > [!links]
-> ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
-> ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md#Methodologies%20in%20Logic)
+> ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
 > 
-> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-> - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
-> - ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
+> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md)
+> - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
+> - ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
 
 > 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 ##### Proof by Construction (构造法)
@@ -946,10 +946,10 @@ The method can be extended to prove statements about more general [well-founded
 ==Despite its name, mathematical induction differs fundamentally from [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning "Inductive reasoning") as [used in philosophy](https://en.wikipedia.org/wiki/Problem_of_induction "Problem of induction")==, in which the examination of many cases results in a probable conclusion. The mathematical method examines infinitely many cases to prove a general statement, but it does so by a finite chain of [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") involving the [variable](https://en.wikipedia.org/wiki/Variable_\(mathematics\) "Variable (mathematics)") $n$, which can take infinitely many values. The result is a rigorous proof of the statement, not an assertion of its probability.
 ###### 📌 Well-Founded Induction
 > [!links]
-> ↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
-> - ↗ [Partial Order & Order Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
+> ↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
+> - ↗ [Partial Order & Order Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
 > 
-> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 
 > 🔗 https://thzt.github.io/2017/03/03/recursive-function-3/
 
@@ -977,7 +977,7 @@ The method can be extended to prove statements about more general [well-founded
 不知道是否很明显了，递归的步骤和归纳的步骤，简直是太像了，这一定不是偶然。在[The Little Prover](https://book.douban.com/subject/26429992/)一书中，为了证明递归函数是否全函数（total function），作者使用了测度（measure）的概念，这实际上定义了参数集上的一个良基关系。
 ###### Natural Number Induction
 > [!links]
-> ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+> ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
 
 > 🔗 https://thzt.github.io/2017/03/03/recursive-function-3/
 
@@ -995,7 +995,7 @@ The method can be extended to prove statements about more general [well-founded
 
 这似乎是很显然的事情，我们可以在一张无限长的纸带开头写上初始条件P(1)，接着根据递推条件，由P(1)我们可以证明P(2)成立，重复这种思想，我们可以由P(2)证明P(3)成立，如此不断的进行下去，最终，对于每个自然数n，我们都能证明P(n)成立。
 
-但是，这样并不算是一个有效的证明。要证明自然数归纳法的正确性，我们还需要补充一些集合论方面的知识：↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
+但是，这样并不算是一个有效的证明。要证明自然数归纳法的正确性，我们还需要补充一些集合论方面的知识：↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
 
 ---
 然而，在此之前，我们还是先来看自然数归纳法的一个例子吧。
@@ -1024,22 +1024,22 @@ fact n = n * fact (n-1)
 自然数归纳法还有另一种等价形式：如果要证明 $P(n)$ 对每一个自然数 $n$ 为真，只要证明对于任意自然数 $m$，如果当 $i < m$ 时 $P(i)$ 为真，那么 $P(m)$ 也为真。
 ###### Structure Induction
 ##### Proof by Deduction (演绎法) & Deductive Reasoning ⭐
-↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md)
 
-↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md) ✅
-- ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
+↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md) ✅
+- ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
 
-↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-	- ↗ [Classical Logic (Standard Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-		-  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
-		- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
-- ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+- ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+	- ↗ [Classical Logic (Standard Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+		-  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
+		- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
+- ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 ###### Syllogism and Natural Deduction
 > [!links]
-> ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md) ✅
-> ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
+> ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md) ✅
+> ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
 
 **Idea: Syllogism**
 
@@ -1077,23 +1077,23 @@ Conclusion $\mathrm{mortal}(\mathrm{sokrates})$
 \;\rightarrow E
 $$
 #### Proof /Reason via Logic & Formal Methods
-↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md) "Logic: Formal Methods, Proof, and Reasoning 🤔"
+↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md) "Logic: Formal Methods, Proof, and Reasoning 🤔"
 
 
 Automated Reasoning & Proof Assistance
-↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md) 
-↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
-- ↗ [Automated & Generic Theorem Provers](../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
+↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md) 
+↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+- ↗ [Generic & Automated Theorem Provers (ATP)](../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md)
 
 ↗ [Formal Verification & Analysis Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md) 
 - ↗ [LEAN](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
 
-↗ [Logic Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
-- ↗ [Prolog (Programmation en Logique)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
+↗ [Logic Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+- ↗ [Prolog (Programmation en Logique)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Prolog%20%28Programmation%20en%20Logique%29/Prolog%20%28Programmation%20en%20Logique%29.md)
 #### Proof as Program & Computation
-↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
 
 
 
