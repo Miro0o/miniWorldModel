@@ -89,3 +89,23 @@ test('recognizes mapped colon basenames without mistaking them for URI schemes',
 test('preserves escaped wiki alias delimiters inside tables', () => {
   assert.equal(fix('| [[CS143: Compilers\\|Course]] |').text, '| [[CS143 - Compilers\\|Course]] |');
 });
+
+
+test('normalizes encoded Markdown directory separators even when the decoded target exists', () => {
+  const text = '[CTL](CTLstar%20Family%2FCTLstar%20Family.md#Heading%2FKeep)';
+  const first = fix(text);
+  assert.equal(first.text, '[CTL](CTLstar%20Family/CTLstar%20Family.md#Heading%2FKeep)');
+  assert.equal(first.issues[0].category, 'encoded-separator');
+  assert.equal(first.edits.length, 1);
+  assert.equal(fix(first.text).edits.length, 0);
+  assert.equal(fix('[x](<CTLstar%20Family%2fCTLstar%20Family.md> "Title")').text, '[x](<CTLstar%20Family/CTLstar%20Family.md> "Title")');
+  assert.equal(fix('[ref]: CTLstar%20Family%2FCTLstar%20Family.md').text, '[ref]: CTLstar%20Family/CTLstar%20Family.md');
+});
+
+test('separator normalization leaves unresolved targets, literal percent names, wiki links and external URLs alone', () => {
+  const text = '[missing](Missing%2FNote.md) [[CTLstar Family%2FCTLstar Family]] [web](https://example.com/a%2Fb)';
+  assert.equal(fix(text).text, text);
+  const literalIndex = new VaultIndex(['Math/a%2Fb.md']);
+  const literal = '[literal](a%252Fb.md)';
+  assert.equal(repairText(literal, 'Math/Source.md', literalIndex, {}).text, literal);
+});

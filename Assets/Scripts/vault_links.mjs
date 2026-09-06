@@ -187,7 +187,13 @@ export function inspectLink(link, source, index, config, { repairStale = false }
   }
   // Do not alter drawing text without updating its compressed scene as well.
   // Embedded-file records are separate from the scene and can be repaired.
-  const replacement = newPath === decoded ? null : (link.kind === 'wiki' ? newPath : encode(newPath)) + fragment;
+  // Directory separators must stay literal in Markdown destinations. A decoded
+  // filesystem lookup alone hides encoded separators left by older converters.
+  const encodedSeparator = target && link.kind === 'markdown' && /%2f/i.test(rawPath);
+  if (encodedSeparator) category = 'encoded-separator';
+  const replacement = newPath !== decoded
+    ? (link.kind === 'wiki' ? newPath : encode(newPath)) + fragment
+    : encodedSeparator ? rawPath.replace(/%2f/gi, '/') + fragment : null;
   return { ...link, decoded, category, resolved, candidates, replacement };
 }
 
@@ -276,7 +282,7 @@ async function main() {
   const reportPath = value('--report');
   if (reportPath) await fs.writeFile(reportPath, JSON.stringify(report, null, 2) + '\n');
   console.log(JSON.stringify(args.includes('--json') ? report : report.summary, null, 2));
-  if (args.includes('--check-windows') && report.issues.some(i => i.category === 'windows-rename' && !i.drawingText)) process.exitCode = 1;
+  if (args.includes('--check-windows') && report.issues.some(i => ['windows-rename', 'encoded-separator'].includes(i.category) && !i.drawingText)) process.exitCode = 1;
   if (args.includes('--strict') && report.issues.length) process.exitCode = 1;
 }
 

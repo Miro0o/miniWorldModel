@@ -149,3 +149,20 @@ test('normalization retains Windows link fixes when main edits the same note', a
   await sync(f);
   assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[x](New/Target.md)\n\nmanual body\n\nmain last\n');
 });
+
+
+test('later main updates normalize existing encoded separators and preserve Windows edits', async t => {
+  const f = await fixture(t, { 'Note.md': '[LTL](Logic%2FLTL.md)\n\nbody\n\nlast\n', 'Logic/LTL.md': '# LTL\n' });
+  await write(f.target, 'Note.md', '[LTL](Logic%2FLTL.md)\n\nmanual body\n\nlast\n');
+  const manual = commit(f.target, 'manual body edit');
+  await write(f.source, 'Other.md', 'main update\n');
+  commit(f.source, 'trigger conversion');
+  await sync(f);
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[LTL](Logic/LTL.md)\n\nmanual body\n\nlast\n');
+  const generated = commit(f.target, 'generated encoding fix');
+  assert.equal(run(f.target, ['rev-parse', generated + '^']), manual);
+  await write(f.source, 'Note.md', '[LTL](Logic%2FLTL.md)\n\nbody\n\nmain last\n');
+  commit(f.source, 'subsequent main update');
+  await sync(f);
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[LTL](Logic/LTL.md)\n\nmanual body\n\nmain last\n');
+});
