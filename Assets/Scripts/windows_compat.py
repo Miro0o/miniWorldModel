@@ -17,7 +17,6 @@ import subprocess
 import sys
 import unicodedata
 from pathlib import Path
-from urllib.parse import quote, unquote
 
 
 INVALID_CHARS = set('<>:"\\|?*')
@@ -29,22 +28,6 @@ RESERVED_NAMES = {
     *(f"COM{i}" for i in range(1, 10)),
     *(f"LPT{i}" for i in range(1, 10)),
 }
-TEXT_SUFFIXES = {
-    ".canvas",
-    ".css",
-    ".csv",
-    ".excalidraw",
-    ".html",
-    ".js",
-    ".json",
-    ".md",
-    ".markdown",
-    ".svg",
-    ".ts",
-    ".txt",
-    ".yaml",
-    ".yml",
-}
 
 
 def run_git(repo: Path, *args: str, text: bool = True) -> str | bytes:
@@ -54,6 +37,7 @@ def run_git(repo: Path, *args: str, text: bool = True) -> str | bytes:
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
         text=text,
+        encoding="utf-8" if text else None,
     )
     return result.stdout
 
@@ -61,69 +45,6 @@ def run_git(repo: Path, *args: str, text: bool = True) -> str | bytes:
 def load_config(path: Path) -> dict:
     with path.open("r", encoding="utf-8") as f:
         return json.load(f)
-
-
-def replacement_pairs(config: dict) -> list[tuple[str, str]]:
-    pairs: list[tuple[str, str]] = []
-    for section in ("component_replacements", "name_replacements"):
-        for old, new in config.get(section, {}).items():
-            pairs.append((old, new))
-            old_stem, old_ext = os.path.splitext(old)
-            new_stem, new_ext = os.path.splitext(new)
-            if old_ext == ".md" and new_ext == ".md":
-                pairs.append((old_stem, new_stem))
-    return pairs
-
-
-def encoded_variants(value: str) -> set[str]:
-    return {
-        value,
-        value.replace(" ", "%20"),
-        quote(value, safe=""),
-        quote(value, safe="/"),
-        quote(value, safe="/()&,*"),
-        quote(value, safe="/()&,*:"),
-        quote(value, safe="/()&,*:?"),
-    }
-
-
-def content_replacements(config: dict) -> list[tuple[str, str]]:
-    replacements: list[tuple[str, str]] = []
-    seen: set[tuple[str, str]] = set()
-    raw_pairs: list[tuple[str, str]] = []
-    for old, new in config.get("component_replacements", {}).items():
-        # Component mappings must be rewritten as path components. Replacing a
-        # raw component everywhere is too broad for names such as `Treas.`,
-        # which can be a substring of the valid file name `Treas..md`.
-        raw_pairs.append((f"{old}/", f"{new}/"))
-    for old, new in config.get("name_replacements", {}).items():
-        raw_pairs.append((old, new))
-        old_stem, old_ext = os.path.splitext(old)
-        new_stem, new_ext = os.path.splitext(new)
-        if old_ext == ".md" and new_ext == ".md":
-            raw_pairs.append((old_stem, new_stem))
-
-    for old, new in raw_pairs:
-        for old_variant in encoded_variants(old):
-            for new_variant in encoded_variants(new):
-                # Prefer the corresponding encoding style when possible.
-                if (
-                    old_variant == old
-                    and new_variant != new
-                    or "%20" in old_variant
-                    and "%20" not in new_variant
-                    or "%" in old_variant
-                    and "%" not in new_variant
-                ):
-                    continue
-                pair = (old_variant, new_variant)
-                if pair not in seen:
-                    replacements.append(pair)
-                    seen.add(pair)
-                break
-    # Longest first prevents partial replacements from blocking full names.
-    replacements.sort(key=lambda pair: len(pair[0]), reverse=True)
-    return replacements
 
 
 def sanitize_component(component: str, config: dict) -> str:
@@ -145,28 +66,18 @@ def sanitize_component(component: str, config: dict) -> str:
     name = name.replace("*", "star")
     if query_like:
         name = name.replace("&", "_").replace("=", "-")
+    name = re.sub(r"[\\\x00-\x1f]", "", name)
     name = re.sub(r" {2,}", " ", name).rstrip(" .")
     if not name:
         name = "unnamed"
     stem = name.split(".")[0].upper()
     if stem in RESERVED_NAMES:
-        name = f"{name}_"
+        name = f"_{name}"
     return name
 
 
 def sanitize_path(path: str, config: dict) -> str:
     return "/".join(sanitize_component(part, config) for part in path.split("/"))
-
-
-def rewrite_text(data: bytes, config: dict) -> bytes:
-    try:
-        text = data.decode("utf-8")
-    except UnicodeDecodeError:
-        return data
-    rewritten = text
-    for old, new in content_replacements(config):
-        rewritten = rewritten.replace(old, new)
-    return rewritten.encode("utf-8")
 
 
 def ensure_parent(path: Path) -> None:
@@ -187,91 +98,36 @@ def remove_path(path: Path) -> None:
         parent = parent.parent
 
 
-def git_diff_entries(source: Path, base: str, head: str) -> list[tuple[str, str | None, str | None]]:
-    raw = run_git(source, "diff", "--name-status", "--find-renames", "-z", f"{base}..{head}", text=False)
-    if not isinstance(raw, bytes):
-        raise TypeError("expected bytes from git diff")
-    fields = raw.split(b"\0")
-    entries: list[tuple[str, str | None, str | None]] = []
-    i = 0
-    while i < len(fields) and fields[i]:
-        status = fields[i].decode("utf-8", "surrogateescape")
-        i += 1
-        if status.startswith("R") or status.startswith("C"):
-            old = fields[i].decode("utf-8", "surrogateescape")
-            new = fields[i + 1].decode("utf-8", "surrogateescape")
-            i += 2
-            entries.append((status[0], old, new))
-        else:
-            path = fields[i].decode("utf-8", "surrogateescape")
-            i += 1
-            entries.append((status[0], None, path))
-    return entries
-
-
-def git_show(source: Path, ref: str, path: str) -> bytes:
-    return subprocess.run(
-        ["git", "-C", str(source), "show", f"{ref}:{path}"],
-        check=True,
-        stdout=subprocess.PIPE,
-        stderr=subprocess.PIPE,
-    ).stdout
-
-
-def copy_from_source(source: Path, target: Path, ref: str, source_path: str, config: dict) -> Path:
-    dest_rel = sanitize_path(source_path, config)
-    dest = target / dest_rel
-    data = git_show(source, ref, source_path)
-    if Path(source_path).suffix.lower() in TEXT_SUFFIXES:
-        data = rewrite_text(data, config)
-    ensure_parent(dest)
-    dest.write_bytes(data)
-    return dest
-
-
-def sync_changed(source: Path, target: Path, base: str, head: str, config: dict) -> list[str]:
-    changed: list[str] = []
-    for status, old, new in git_diff_entries(source, base, head):
-        if old:
-            old_dest = target / sanitize_path(old, config)
-            remove_path(old_dest)
-            changed.append(f"remove {sanitize_path(old, config)}")
-        if status == "D":
-            if new is None:
-                continue
-            old_dest = target / sanitize_path(new, config)
-            remove_path(old_dest)
-            changed.append(f"remove {sanitize_path(new, config)}")
-            continue
-        if new is None:
-            continue
-        dest = copy_from_source(source, target, head, new, config)
-        changed.append(f"write {dest.relative_to(target).as_posix()}")
-    return changed
+def audit_links(root: Path, config: dict, *, write: bool = False) -> dict:
+    """Use the tested destination parser; never rewrite config, code, or prose."""
+    helper = Path(__file__).with_name("vault_links.mjs")
+    command = ["node", str(helper), "--target", str(root), "--json", "--repair-stale"]
+    if write:
+        command.append("--write")
+    result = subprocess.run(
+        command, input=json.dumps(config), check=True,
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+        text=True, encoding="utf-8",
+    )
+    return json.loads(result.stdout)
 
 
 def rewrite_all_text_files(root: Path, config: dict) -> list[str]:
-    changed: list[str] = []
-    for path in root.rglob("*"):
-        if ".git" in path.parts or not path.is_file() or path.suffix.lower() not in TEXT_SUFFIXES:
-            continue
-        data = path.read_bytes()
-        new_data = rewrite_text(data, config)
-        if new_data != data:
-            path.write_bytes(new_data)
-            changed.append(path.relative_to(root).as_posix())
-    return changed
+    report = audit_links(root, config, write=True)
+    return [change["file"] for change in report["changes"]]
 
 
 def full_sanitize(root: Path, config: dict) -> list[str]:
     changed: list[str] = []
-    paths = [p for p in root.rglob("*") if ".git" not in p.parts]
+    paths = [p for p in root.rglob("*") if not any(part.startswith(".") for part in p.relative_to(root).parts)]
     for path in sorted(paths, key=lambda p: len(p.parts), reverse=True):
         rel = path.relative_to(root).as_posix()
-        sanitized = sanitize_path(rel, config)
-        if sanitized == rel:
+        # Rename only this basename, bottom-up. Moving children into newly
+        # created final parent paths makes the later parent rename collide.
+        dest = path.with_name(sanitize_component(path.name, config))
+        sanitized = dest.relative_to(root).as_posix()
+        if dest == path:
             continue
-        dest = root / sanitized
         ensure_parent(dest)
         if dest.exists():
             raise RuntimeError(f"destination already exists: {sanitized}")
@@ -310,80 +166,27 @@ def verify_windows_paths(root: Path) -> list[str]:
 
 
 def verify_old_markdown_targets(root: Path, config: dict) -> list[str]:
-    old_components = set(config.get("component_replacements", {}).keys())
-    old_names = set(config.get("name_replacements", {}).keys())
-    old_name_stems = {
-        os.path.splitext(name)[0]
-        for name in old_names
-        if os.path.splitext(name)[1] == ".md"
-    }
-    link_re = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
-    hits: list[str] = []
-    for path in root.rglob("*.md"):
-        if ".git" in path.parts:
-            continue
-        try:
-            text = path.read_text(encoding="utf-8")
-        except UnicodeDecodeError:
-            continue
-        for line_no, line in enumerate(text.splitlines(), 1):
-            for match in link_re.finditer(line):
-                raw = match.group(1).strip()
-                if re.match(r"^[a-zA-Z][a-zA-Z0-9+.-]*:", raw) or raw.startswith("#"):
-                    continue
-                decoded = unquote(raw).split("#", 1)[0]
-                components = [component for component in decoded.split("/") if component]
-                for component in components:
-                    if component in old_components or component in old_names or component in old_name_stems:
-                        hits.append(f"{path.relative_to(root)}:{line_no}: {component}")
-                        break
-    return hits
-
-
-def read_state(target: Path, state_file: str) -> str | None:
-    path = target / state_file
-    if not path.exists():
-        return None
-    with path.open("r", encoding="utf-8") as f:
-        return json.load(f).get("last_synced_main")
-
-
-def write_state(target: Path, state_file: str, head: str, base: str) -> None:
-    path = target / state_file
-    ensure_parent(path)
-    with path.open("w", encoding="utf-8") as f:
-        json.dump({"last_synced_main": head, "previous_synced_main": base}, f, indent=2)
-        f.write("\n")
-
-
-def resolve_base(source: Path, target: Path, state_file: str, target_ref: str, head: str) -> str:
-    state = read_state(target, state_file)
-    if state:
-        try:
-            run_git(source, "cat-file", "-e", f"{state}^{{commit}}")
-            return state
-        except subprocess.CalledProcessError:
-            pass
-    return str(run_git(source, "merge-base", target_ref, head)).strip()
+    report = audit_links(root, config)
+    return [
+        f"{issue['file']}:{issue['line']}: {issue['decoded']}"
+        for issue in report["issues"]
+        if issue["category"] == "windows-rename" and not issue.get("drawingText")
+    ]
 
 
 def cmd_sync(args: argparse.Namespace) -> int:
-    source = args.source.resolve()
-    target = args.target.resolve()
-    config = load_config(args.config.resolve())
-    state_file = args.state_file or config.get("state_file", ".github/windows-sync-state.json")
-    head = args.head or str(run_git(source, "rev-parse", "HEAD")).strip()
-    base = args.base or resolve_base(source, target, state_file, args.target_ref, head)
-    if base == head:
-        print(f"Already synced to {head}")
-        return 0
-    print(f"Syncing main changes {base}..{head}")
-    changed = sync_changed(source, target, base, head, config)
-    changed.extend(f"rewrite {p}" for p in rewrite_all_text_files(target, config))
-    write_state(target, state_file, head, base)
-    for item in changed:
-        print(item)
-    return verify_or_report(target, config)
+    """Keep the legacy CLI while using the tested three-way synchronization."""
+    command = [
+        "node", str(Path(__file__).with_name("windows_sync.mjs")),
+        "--config", str(args.config.resolve()),
+        "--source", str(args.source.resolve()),
+        "--target", str(args.target.resolve()),
+    ]
+    for name in ("base", "head", "state_file"):
+        value = getattr(args, name, None)
+        if value:
+            command.extend(["--" + name.replace("_", "-"), value])
+    return subprocess.run(command, check=False).returncode
 
 
 def verify_or_report(root: Path, config: dict) -> int:

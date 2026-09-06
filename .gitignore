@@ -15,3 +15,7 @@ Assets/*
 # Information*Science*&*Computer*Science/.obsidian
 # Assets/Illustrations/U.S./NMAH-ET2014-41022.jpg
 /Information Science & Computer Science and Engineering/🗺 CS Overview/🤲🏼 Opportunities & Career Development/
+
+# Local audit reports, test fixtures, and release bundles
+/Assets/Reports/
+/Assets/Scripts/__pycache__/
