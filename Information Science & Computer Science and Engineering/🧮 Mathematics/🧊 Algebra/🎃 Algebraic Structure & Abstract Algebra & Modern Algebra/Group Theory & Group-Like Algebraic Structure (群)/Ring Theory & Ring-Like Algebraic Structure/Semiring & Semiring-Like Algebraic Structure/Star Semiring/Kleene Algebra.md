@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
-↗ [regex (Regular Expression)](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/📌%20regex%20(Regular%20Expression)/regex%20(Regular%20Expression).md)
+↗ [regex (Regular Expression)](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/📌%20regex%20(Regular%20Expression)/regex%20(Regular%20Expression).md)
 
 
 ### Other Resources

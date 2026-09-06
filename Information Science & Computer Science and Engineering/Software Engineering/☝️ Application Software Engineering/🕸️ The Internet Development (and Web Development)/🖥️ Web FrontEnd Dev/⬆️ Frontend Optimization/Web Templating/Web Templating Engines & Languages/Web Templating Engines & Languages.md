@@ -7,11 +7,11 @@
 ## Res
 ### Related Topics
 ↗ [Computer Languages & Programming Methodology](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-- ↗ [PHP](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/PHP/PHP.md)
-- ↗ [sed](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Configuration%20&%20Scripting%20Languages/sed.md)
-- ↗ [awk](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Configuration%20&%20Scripting%20Languages/awk.md)
+- ↗ [PHP](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/PHP/PHP.md)
+- ↗ [sed](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Configuration%20&%20Scripting%20Languages/sed.md)
+- ↗ [awk](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Configuration%20&%20Scripting%20Languages/awk.md)
 
-↗ [Configuration & Scripting Languages](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Configuration%20&%20Scripting%20Languages/Configuration%20&%20Scripting%20Languages.md)
+↗ [Configuration & Scripting Languages](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Configuration%20&%20Scripting%20Languages/Configuration%20&%20Scripting%20Languages.md)
 
 
 

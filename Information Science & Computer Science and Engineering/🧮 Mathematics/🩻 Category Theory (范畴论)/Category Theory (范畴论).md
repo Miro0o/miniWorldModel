@@ -22,7 +22,7 @@
 ↗ [Formal System, Formal Logic, and Its Semantics](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 ↗ [Programming Language & Formal Semantics](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
-↗ [Functional Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+↗ [Functional Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
 
 ↗ [Morpheme & Word](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/1️⃣%20English%20Grammar/Morpheme%20&%20Word/Morpheme%20&%20Word.md)
 
@@ -210,7 +210,10 @@ Let _C_ and _D_ be categories. The collection of all functors from _C_ to�
 Functors are often defined by [universal properties](https://en.wikipedia.org/wiki/Universal_property "Universal property"); examples are the [tensor product](https://en.wikipedia.org/wiki/Tensor_product "Tensor product"), the [direct sum](https://en.wikipedia.org/wiki/Direct_sum_of_modules "Direct sum of modules") and [direct product](https://en.wikipedia.org/wiki/Direct_product "Direct product") of groups or vector spaces, construction of free groups and modules, [direct](https://en.wikipedia.org/wiki/Direct_limit "Direct limit") and [inverse](https://en.wikipedia.org/wiki/Inverse_limit "Inverse limit") limits. The concepts of [limit and colimit](https://en.wikipedia.org/wiki/Limit_\(category_theory\) "Limit (category theory)") generalize several of the above.
 
 Universal constructions often give rise to pairs of [adjoint functors](https://en.wikipedia.org/wiki/Adjoint_functors "Adjoint functors").
-#### Endofunctor & Monad
+#### Endofunctor (自函子) & Monad (单子)
+> [!TIP]
+> Do not confuse monad (单子) and monoid (幺半群).
+
 > 🔗 https://thzt.github.io/2018/02/11/semantics-8/
 
 范畴到自身的函子，称为**自函子**（endofunctor）。
@@ -242,7 +245,7 @@ $$\mu_x : T^2x \to Tx, \quad \forall x \in X$$
 > All told, a monad in X is just a monoid in the category of endofunctors of X, with product x replaced by composition of endofunctors and unit set by the identity endofunctor.
 ##### e.g. Monad on Hask Category
 > [!links]
-> ↗ [Haskell](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
+> ↗ [Haskell](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
 
 > 🔗 https://thzt.github.io/2018/02/11/semantics-8/
 
@@ -283,7 +286,7 @@ m        >>= (\x -> k x >>= h) = (m >>= k) >>= h
 ```
 
 可以证明，这些 “Monad Law” 刚好使 `m`, `>>=` 和 `return` 构成了范畴论意义上的 Monad。
-#### Adjoint Functor
+#### Adjoint Functor (伴随函子)
 > [!links]
 > ↗ [Program Abstraction & Abstract Interpretation](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 

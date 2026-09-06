@@ -150,11 +150,11 @@ These answer: **how the problem domain is conceptualized and bounded**.
 6. Dependency and modularity techniques
 These answer: **how code is wired together internally**.
 
-|Time order|Term|What it is|Main idea|Best fit|Notes|
-|---|---|---|---|---|---|
-|Earlier as a principle|**IoC**|Inversion of Control|Control of object creation/wiring is moved outward|Medium and large applications/frameworks|A principle|
-|Later as concrete practice|**DI**|Dependency Injection|Dependencies are supplied rather than created internally|Testable, modular applications|Common implementation of IoC|
-|Later|**AOP**|Aspect-Oriented Programming|Separate cross-cutting concerns like logging, auth, transactions|Framework-heavy systems|More about cross-cutting behavior than core domain structure|
+| Time order                 | Term    | What it is                  | Main idea                                                        | Best fit                                 | Notes                                                        |
+| -------------------------- | ------- | --------------------------- | ---------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
+| Earlier as a principle     | **IoC** | Inversion of Control        | Control of object creation/wiring is moved outward               | Medium and large applications/frameworks | A principle                                                  |
+| Later as concrete practice | **DI**  | Dependency Injection        | Dependencies are supplied rather than created internally         | Testable, modular applications           | Common implementation of IoC                                 |
+| Later                      | **AOP** | Aspect-Oriented Programming | Separate cross-cutting concerns like logging, auth, transactions | Framework-heavy systems                  | More about cross-cutting behavior than core domain structure |
 
  Domain-centric architecture patterns
 - DDD

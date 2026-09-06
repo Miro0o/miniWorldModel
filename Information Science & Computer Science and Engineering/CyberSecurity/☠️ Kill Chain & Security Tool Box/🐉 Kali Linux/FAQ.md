@@ -5,7 +5,7 @@
 
 
 ## 👉 Kali Linux Setup
-#kali #qemu 
+#kali #qemu
 
 ### Host Kali on QEMU
 
@@ -23,32 +23,32 @@ Setup kali vm and ssh it from local.
 
 2. Implement kali (via emulator as qemu or vm manager like parallel, VMware or virt-manager)
 
-3. Enable cli-mode only. ( Optional, 👀 see [Troubleshooting](Troubleshooting.md#Boot kali on text mode (CLI only)) for more).
-   1. `sudo systemctl set-default multi-user.target` then reboot.
+3. Enable cli-mode only. ( Optional).
+   4. `sudo systemctl set-default multi-user.target` then reboot.
 
-4. Configure network. (Kali disables DHCP as default)
-   1. `ipconfig` look up NIC.
-   2. `dhclient eth0` using DHCP allocate an ip number to `eth0`.
-   3. or manually allocate IP number
+5. Configure network. (Kali disables DHCP as default)
+   6. `ipconfig` look up NIC.
+   7. `dhclient eth0` using DHCP allocate an ip number to `eth0`.
+   8. or manually allocate IP number
       1. `inonconfig` 
       2. `/etc/network/interfaces`
 
-5. Setup proxy (optional)
-   1. `/root/etc/bash.bashrc`
-   2. `/root/etc/apt.conf`
-   3. 
+9. Setup proxy (optional)
+   10. `/root/etc/bash.bashrc`
+   11. `/root/etc/apt.conf`
+   12. 
 
-6. Enable `ssh` connection. ( see ↗️ [SSH](../../🔑 CS_Core/🏎️ Networking/📌 Basics/0x02 Application Layer/Virtual Host Access/SSH/SSH.md) for details )
-   1. `netstat -lnt` look up open ports.
-   2. `vim /etc/ssh/sshd_config` edit sshd config. 
+13. Enable `ssh` connection. ( see ↗️ [SSH (Secure SHell)](../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Secure%20Communication/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md) for details )
+   14. `netstat -lnt` look up open ports.
+   15. `vim /etc/ssh/sshd_config` edit sshd config. 
       1. `PubkeyAuthentication yes`
       2. `PermitRootLogin yes`  (optional)
       3. other customized settings. (optional)
-   3. `service ssh start` start ssh service
-   4. `service ssh status` look up ssh service status
-   5. `update-rc.d ssh enable ` enable service boot start. 
+   16. `service ssh start` start ssh service
+   17. `service ssh status` look up ssh service status
+   18. `update-rc.d ssh enable ` enable service boot start. 
 
-7. Update Kali packages. (Kali use Debian packages system)
+19. Update Kali packages. (Kali use Debian packages system)
 ```shell
 # From CLI:
 echo deb http://http.kali.org/kali kali main contrib non-free >> /etc/apt/sources.list

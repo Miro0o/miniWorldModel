@@ -10,7 +10,7 @@
 ↗ [MathJax](../../🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20Browser%20End%20Libraries/JS%20Gadgets/MathJax.md)
 ↗ [Markdown Related Tools](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Docs%20Tools/Markdown%20Related%20Tools/Markdown%20Related%20Tools.md)
 
-↗ [Project Jupyter (Julia, Python, R)](../../GPL(General%20Purpose%20Languages)/🐍%20Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20(Julia,%20Python,%20R).md)
+↗ [Project Jupyter (Julia, Python, R)](../../GPL%20(General%20Purpose%20Languages)/🐍%20Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20(Julia,%20Python,%20R).md)
 ↗ [RMarkdown (.Rmd) & Quarto (.qmd)](RMarkdown%20(.Rmd)%20&%20Quarto%20(.qmd).md)
 ↗ [MkDocs](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/MkDocs.md)
 

@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Dot.Net-Based Languages](../../../GPL(General%20Purpose%20Languages)/🪟%20Dot.Net-Based%20Languages/Dot.Net-Based%20Languages.md)
-↗ [F Sharp](../../../GPL(General%20Purpose%20Languages)/🪟%20Dot.Net-Based%20Languages/F%20Sharp.md)
-↗ [Visual Basic (classic)](../../../GPL(General%20Purpose%20Languages)/🪟%20Dot.Net-Based%20Languages/Visual%20Basic%20(classic).md)
-↗ [C Sharp](../../../GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/C%20Sharp/C%20Sharp.md)
+↗ [Dot.Net-Based Languages](../../../GPL%20(General%20Purpose%20Languages)/🪟%20Dot.Net-Based%20Languages/Dot.Net-Based%20Languages.md)
+↗ [F Sharp](../../../GPL%20(General%20Purpose%20Languages)/🪟%20Dot.Net-Based%20Languages/F%20Sharp.md)
+↗ [Visual Basic (classic)](../../../GPL%20(General%20Purpose%20Languages)/🪟%20Dot.Net-Based%20Languages/Visual%20Basic%20(classic).md)
+↗ [C Sharp](../../../GPL%20(General%20Purpose%20Languages)/👔%20C-Based%20Languages/C%20Sharp/C%20Sharp.md)
 
 ↗ [Windows Dot.Net CLR Bytecode](../../../Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Windows%20Dot.Net%20CLR%20Bytecode/Windows%20Dot.Net%20CLR%20Bytecode.md)
 

@@ -15,7 +15,7 @@ https://dev.java
 
 
 ### Related Topics
-↗ [Java](../../../GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+↗ [Java](../../../GPL%20(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 ↗ [Java Virtual Machine (JVM)](Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
 
 

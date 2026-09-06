@@ -16,8 +16,8 @@
 
 ↗ [Metric Semantics (Denotational Semantics Based on Metric Space)](Metric%20Semantics%20(Denotational%20Semantics%20Based%20on%20Metric%20Space).md)
 
-↗ [Functional Programming Languages](../../../GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
-↗ [Haskell](../../../GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
+↗ [Functional Programming Languages](../../../GPL%20(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+↗ [Haskell](../../../GPL%20(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
 
 
 ### Other Resources

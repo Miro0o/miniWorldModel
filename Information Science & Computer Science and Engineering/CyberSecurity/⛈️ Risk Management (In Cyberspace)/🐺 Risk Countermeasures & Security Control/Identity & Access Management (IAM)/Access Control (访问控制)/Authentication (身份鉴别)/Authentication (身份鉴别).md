@@ -122,7 +122,7 @@ As the weakest level of authentication, only a single component from one of the 
 
 Multi-factor authentication involves two or more authentication factors (*something you know*, *something you have*, or *something you are*). Two-factor authentication is a special case of multi-factor authentication involving exactly two factors
 #### 2FA (2-Factors-Authentication)
-**2FA Example: Authentication Tokens** (↗ [JWT (Json Web Token)](../../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Frameworks/JWT%20(Json%20Web%20Token).md))
+**2FA Example: Authentication Tokens** (↗ [JWT (Json Web Token)](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Token%20Based%20Authentication/JWT%20(Json%20Web%20Token).md))
 - Authentication token: A device that generates secure second-factor codes
 	- Something the user owns
 	- Examples: RSA SecurID and Google Authenticator
@@ -148,7 +148,7 @@ Multi-factor authentication involves two or more authentication factors (*someth
 	- In a phishing attack, the security key generates a signature with the attacker’s website name, not the legitimate website name
 		- Impervious to relay attacks!
 ##### Subverting 2FA : Replay Attacks
-↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md)
+↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md)
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202024-10-22%20at%2010.37.10.png)
 ##### Subverting 2FA : Social Engineering
@@ -334,7 +334,7 @@ Data Origin Authentication (数据原发鉴别)
 - ↗ [Web Authentication Technologies & Frameworks](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
 	- ↗ [JWT (Json Web Token)](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Token%20Based%20Authentication/JWT%20(Json%20Web%20Token).md)
 	- ↗ [x-auth-token](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Token%20Based%20Authentication/x-auth-token.md)
-	- ↗ [SAML (Security Assertion Markup Language)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Security%20DSL/SAML%20(Security%20Assertion%20Markup%20Language).md)
+	- ↗ [SAML (Security Assertion Markup Language)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Security%20DSL/SAML%20(Security%20Assertion%20Markup%20Language).md)
 - ↗ [HTTP Authentication](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Authentication.md)
 - ↗ [HTTP Access Control (CORS)](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Access%20Control%20(CORS).md)
 

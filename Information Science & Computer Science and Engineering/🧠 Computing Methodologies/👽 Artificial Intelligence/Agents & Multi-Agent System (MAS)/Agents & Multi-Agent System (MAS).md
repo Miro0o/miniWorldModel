@@ -23,7 +23,7 @@
 ↗ [Agentic LLMs & LLM Agent Harness](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
 ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
 
-↗ [Agent Programming Languages & Agent-Oriented Programming (AOP)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20(AOP)/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20(AOP).md)
+↗ [Agent Programming Languages & Agent-Oriented Programming (AOP)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20(AOP)/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20(AOP).md)
 
 
 ### Other Resources

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Database Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
+↗ [Database Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
 
 
 ### Other Resources
@@ -19,18 +19,18 @@
 
 
 ## Data Models & Languages
-↗ [Database Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
+↗ [Database Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
 
 
 
 ## Data Modelings
 ### 1️⃣ Data Models & Data Modelings
 #### Object-Based Data Models
-↗ [Object-Based Data Model Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
+↗ [Object-Based Data Model Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
 
 
 #### Record-Based Data Models
-↗ [Record-Based Data Model Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
+↗ [Record-Based Data Model Languages](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
 
 
 #### 🧑🏿‍🏭 Physical Data Models (Physical Database Design)

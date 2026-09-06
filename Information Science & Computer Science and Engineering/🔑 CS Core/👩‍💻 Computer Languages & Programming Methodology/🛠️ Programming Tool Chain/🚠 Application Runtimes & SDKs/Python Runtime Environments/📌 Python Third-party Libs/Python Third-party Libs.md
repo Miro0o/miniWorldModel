@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [The Python Standard Library](../../../../GPL(General%20Purpose%20Languages)/🐍%20Python/🌷%20The%20Python%20Standard%20Library/The%20Python%20Standard%20Library.md)
+↗ [The Python Standard Library](../../../../GPL%20(General%20Purpose%20Languages)/🐍%20Python/🌷%20The%20Python%20Standard%20Library/The%20Python%20Standard%20Library.md)
 ↗ [Python Based ML Libraries](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/Python%20Based%20ML%20Libraries.md)
 
 

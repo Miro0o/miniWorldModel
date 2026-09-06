@@ -11,7 +11,7 @@ See [JDK 20 Documentation](https://www.oracle.com/pls/topic/lookup?ctx=javase20
 
 
 ### Related Topics
-↗ [JVM-Based Languages](../../../../GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/JVM-Based%20Languages.md)
+↗ [JVM-Based Languages](../../../../GPL%20(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/JVM-Based%20Languages.md)
 ↗ [JVM Security](../../../../../../CyberSecurity/System%20Security/Virtualization%20Security/JVM%20Security/JVM%20Security.md)
 
 ↗ [Bytecode](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Bytecode.md)

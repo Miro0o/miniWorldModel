@@ -1,4 +1,4 @@
-# Troubleshootings
+# Troubleshooting
 
 [TOC]
 

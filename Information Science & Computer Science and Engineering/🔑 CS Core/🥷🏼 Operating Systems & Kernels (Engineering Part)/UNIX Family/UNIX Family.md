@@ -13,7 +13,7 @@
 
 ↗ [Mini OS Kernels](../../../Software%20Engineering/👇%20System%20Software%20Engineering/🧑🏽‍🏫%20Mini%20OS%20Kernels/Mini%20OS%20Kernels.md)
 - ↗ [Xv6](../📟%20System%20Level%20Programming/🧑🏽‍🏫%20Mini%20OS%20Kernels/Xv6/Xv6.md)
-- ↗ [MINIX](../../../Software%20Engineering/👇%20System%20Software%20Engineering/🧑🏽‍🏫%20Mini%20OS%20Kernels/MINIX/MINIX.md)
+- ↗ [MINIX (mini-Unix)](../../../Software%20Engineering/👇%20System%20Software%20Engineering/🧑🏽‍🏫%20Mini%20OS%20Kernels/MINIX%20(mini-Unix)/MINIX%20(mini-Unix).md)
 
 
 ### Docs

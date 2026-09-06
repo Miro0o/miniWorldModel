@@ -22,7 +22,7 @@
 
 ↗ [Algorithm & Data Structure](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
-↗ [Database Languages](DSL(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
+↗ [Database Languages](DSL%20(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
 ↗ [HDL (Hardware Definition Languages)](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
 ↗ [Web Templating Engines & Languages](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Web%20Templating%20Engines%20&%20Languages.md)
 
@@ -383,27 +383,27 @@ It is divided as Logic, Functional, Database. In computer science the _declarat
 It can be termed as abstract model of computation. It would solve logical problems like puzzles, series etc. In logic programming we have a knowledge base which we know before and along with the question and knowledge base which is given to machine, it produces result. In normal programming languages, such concept of knowledge base is not available but while using the concept of artificial intelligence, machine learning we have some models like Perception model which is using the same mechanism.   
 In logical programming the main emphasize is on knowledge base and the problem. The execution of the program is very much like proof of mathematical statement, e.g., Prolog.
 
-↗ [Logic Programming Languages](GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+↗ [Logic Programming Languages](GPL%20(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 - 👉 [Lambda Calculus (λ-Calculus)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
-- 👉 [Prolog (Programmation en Logique)](GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
-- 👉 [Datalog (Data Logic)](GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Datalog%20(Data%20Logic)/Datalog%20(Data%20Logic).md)
+- 👉 [Prolog (Programmation en Logique)](GPL%20(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
+- 👉 [Datalog (Data Logic)](GPL%20(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Datalog%20(Data%20Logic)/Datalog%20(Data%20Logic).md)
 ##### 2. Functional Programming
 e.g.
-- 👉 [ECMAScript-Based Languages & JavaScript](GPL(General%20Purpose%20Languages)/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md): developed by Brendan Eich
-- 👉 [Haskell](GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
-- 👉 [Scala](GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/Scala/Scala.md): developed by Martin Odersky
+- 👉 [ECMAScript-Based Languages & JavaScript](GPL%20(General%20Purpose%20Languages)/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md): developed by Brendan Eich
+- 👉 [Haskell](GPL%20(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
+- 👉 [Scala](GPL%20(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/Scala/Scala.md): developed by Martin Odersky
 - 👉 **Erlang**: developed by Joe Armstrong, Robert Virding
-- ↗ [LISP-Based Languages](GPL(General%20Purpose%20Languages)/LISP-Based%20Languages/LISP-Based%20Languages.md)
-	- 👉 [Lisp](GPL(General%20Purpose%20Languages)/LISP-Based%20Languages/Lisp/Lisp.md): developed by John Mccarthy
+- ↗ [LISP-Based Languages](GPL%20(General%20Purpose%20Languages)/LISP-Based%20Languages/LISP-Based%20Languages.md)
+	- 👉 [Lisp](GPL%20(General%20Purpose%20Languages)/LISP-Based%20Languages/Lisp/Lisp.md): developed by John Mccarthy
 	- 👉 **ML**: developed by Robin Milner
-	- 👉 [Clojure](GPL(General%20Purpose%20Languages)/LISP-Based%20Languages/Clojure/Clojure.md): developed by Rich Hickey
+	- 👉 [Clojure](GPL%20(General%20Purpose%20Languages)/LISP-Based%20Languages/Clojure/Clojure.md): developed by Rich Hickey
 ##### 3. Database Processing Approach
 e.g.
-- ↗ [Database Languages](DSL(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
-	- ↗ [Record-Based Data Model Languages](DSL(Domain%20Specific%20Languages)/Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
-	- ↗ [Object-Based Data Model Languages](DSL(Domain%20Specific%20Languages)/Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
-	- ↗ [Query Languages (Data Query Languages, DQL)](DSL(Domain%20Specific%20Languages)/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
-		- ↗ [SQL (Structured Query Language)](DSL(Domain%20Specific%20Languages)/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
+- ↗ [Database Languages](DSL%20(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
+	- ↗ [Record-Based Data Model Languages](DSL%20(Domain%20Specific%20Languages)/Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
+	- ↗ [Object-Based Data Model Languages](DSL%20(Domain%20Specific%20Languages)/Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
+	- ↗ [Query Languages (Data Query Languages, DQL)](DSL%20(Domain%20Specific%20Languages)/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
+		- ↗ [SQL (Structured Query Language)](DSL%20(Domain%20Specific%20Languages)/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
 
 ```mysql
 CREATE DATABASE databaseAddress;
@@ -426,23 +426,23 @@ It is one of the oldest programming paradigm. It features close relation to mach
 > **Basic**: developed by John G Kemeny and Thomas E Kurtz
 ##### 1. Procedural Programming Paradigm
 e.g.
-- ↗ [C-Based Languages](GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/C-Based%20Languages.md)
-- ↗ [C & CPP](GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+- ↗ [C-Based Languages](GPL%20(General%20Purpose%20Languages)/👔%20C-Based%20Languages/C-Based%20Languages.md)
+- ↗ [C & CPP](GPL%20(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 	- 👉 **C**: developed by Dennis Ritchie and Ken Thompson
 	- 👉 **C++**: developed by Bjarne Stroustrup
-- ↗ [JVM-Based Languages](GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/JVM-Based%20Languages.md)
-	- 👉 [Java](GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
+- ↗ [JVM-Based Languages](GPL%20(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/JVM-Based%20Languages.md)
+	- 👉 [Java](GPL%20(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
 - 👉 **ColdFusion**: developed by J J Allaire
 - 👉 **Pascal**: developed by Niklaus Wirth
 ##### 2. Object Oriented Programming (OOP)
 e.g.
 - 👉 **Simula**: first OOP language
-- 👉 [Java](GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
+- 👉 [Java](GPL%20(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
 - 👉 **C++**: developed by Bjarne Stroustrup
-- 👉 [Objective-C](GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/Objective-C/Objective-C.md): designed by Brad Cox
-- 👉 [Dot.Net-Based Languages](GPL(General%20Purpose%20Languages)/🪟%20Dot.Net-Based%20Languages/Dot.Net-Based%20Languages.md): developed by Microsoft
-- 👉 [Python](GPL(General%20Purpose%20Languages)/🐍%20Python/Python.md): developed by Guido van Rossum
-- 👉 [Ruby](GPL(General%20Purpose%20Languages)/Ruby/Ruby.md): developed by Yukihiro Matsumoto
+- 👉 [Objective-C](GPL%20(General%20Purpose%20Languages)/👔%20C-Based%20Languages/Objective-C/Objective-C.md): designed by Brad Cox
+- 👉 [Dot.Net-Based Languages](GPL%20(General%20Purpose%20Languages)/🪟%20Dot.Net-Based%20Languages/Dot.Net-Based%20Languages.md): developed by Microsoft
+- 👉 [Python](GPL%20(General%20Purpose%20Languages)/🐍%20Python/Python.md): developed by Guido van Rossum
+- 👉 [Ruby](GPL%20(General%20Purpose%20Languages)/Ruby/Ruby.md): developed by Yukihiro Matsumoto
 - 👉 **Smalltalk**: developed by Alan Kay, Dan Ingalls, Adele Goldberg
 ##### 3. Parallel Processing Approach
 Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer. 
@@ -571,7 +571,7 @@ Programming in Java is largely based on building data types known as **reference
 
 
 > [!links]
-> ↗ [Java](GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+> ↗ [Java](GPL%20(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 > 🔗 https://algs4.cs.princeton.edu/12oop/
 
 - _**Abstract data types (ADT).**_ An _abstract data type_ is a data type whose internal representation is hidden from the client. (i.e. object as in OOP)
@@ -693,9 +693,9 @@ More about ADT and programming model:
 
 ### 3️⃣ Program in Practice: Data CRUD, Data Structure & Algorithm, and API Calling (Programmer's Perspective)
 > [!links]
-> ↗ [C & CPP](GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-> ↗ [Python](GPL(General%20Purpose%20Languages)/🐍%20Python/Python.md)
-> ↗ [Java](GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+> ↗ [C & CPP](GPL%20(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+> ↗ [Python](GPL%20(General%20Purpose%20Languages)/🐍%20Python/Python.md)
+> ↗ [Java](GPL%20(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 
 > [!links]
 > ↗ [Algorithm & Data Structure](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)

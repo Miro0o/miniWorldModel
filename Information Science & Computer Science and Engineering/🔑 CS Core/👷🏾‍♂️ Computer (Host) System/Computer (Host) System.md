@@ -173,7 +173,7 @@ Learning steps in CS:
 ##### System Software
 > [!quote]
 > ![|50](../../../Assets/Pics/Pasted%20image%2020260117151704.png)  ![|74](../../../Assets/Pics/Pasted%20image%2020260118170247.png)
-> ↗ [C & CPP](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+> ↗ [C & CPP](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 > 
 > ![|64](../../../Assets/Pics/Pasted%20image%2020260118170458.png) ![|50](../../../Assets/Pics/Pasted%20image%2020260117151318.png)
 > ↗ [UNIX Family](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/UNIX%20Family/UNIX%20Family.md)

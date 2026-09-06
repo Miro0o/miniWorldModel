@@ -19,7 +19,7 @@
 
 ## Data /Text Processing
 ### 👉 `ed` --> `sed`
-> ↗ [sed](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Configuration%20&%20Scripting%20Languages/sed.md)
+> ↗ [sed](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Configuration%20&%20Scripting%20Languages/sed.md)
 
 `sed` --  “stream editor” that builds on top of the old `ed` editor.
 
@@ -30,7 +30,7 @@
 
 
 ### 👉 `awk`
-> ↗ [awk](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Configuration%20&%20Scripting%20Languages/awk.md)
+> ↗ [awk](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Configuration%20&%20Scripting%20Languages/awk.md)
 
 To learn awk begin with:  [Idiomatic awk](https://safjan.com/feeds/all.rss.xml), 
 

@@ -242,7 +242,7 @@ Web development in future will be driven by advances in browser technology, Web 
 
 ↗ [Web Application Design Patterns](Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Design%20Patterns.md)
 ↗ [Documentation & Static Site Generator (SSG)](🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Documentation%20&%20Static%20Site%20Generator%20(SSG).md)
-↗ [Configuration & Scripting Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Configuration%20&%20Scripting%20Languages/Configuration%20&%20Scripting%20Languages.md)
+↗ [Configuration & Scripting Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Configuration%20&%20Scripting%20Languages/Configuration%20&%20Scripting%20Languages.md)
 
 ↗ [Database Systems](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
 ↗ [IDC & Data Center Networking](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
