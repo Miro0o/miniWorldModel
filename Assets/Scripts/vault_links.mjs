@@ -3,6 +3,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { sceneLinkEditor } from './excalidraw_links.mjs';
 
 const p = path.posix;
 const key = s => s.normalize('NFC').toLowerCase();
@@ -64,7 +65,8 @@ export function extractLinks(text) {
     let start = match.index + 2;
     while (/[ \t]/.test(masked[start] ?? '') && start < masked.length) start++;
     let end = start;
-    if (masked[start] === '<') {
+    const angle = masked[start] === '<';
+    if (angle) {
       start = ++end;
       while (end < masked.length && !/[>\r\n]/.test(masked[end])) end++;
       if (masked[end] !== '>') continue;
@@ -80,7 +82,7 @@ export function extractLinks(text) {
       }
       if (end >= masked.length || /[\r\n]/.test(masked[end])) continue;
     }
-    links.push({ start, end, raw: text.slice(start, end), kind: 'markdown' });
+    links.push({ start, end, raw: text.slice(start, end), kind: 'markdown', angle });
     re.lastIndex = end + 1;
   }
   // Reference-style Markdown destinations (including angle brackets and titles).
@@ -88,7 +90,7 @@ export function extractLinks(text) {
   while ((match = refs.exec(masked))) {
     const raw = match[1] ?? match[2];
     const start = match.index + match[0].lastIndexOf(raw);
-    links.push({ start, end: start + raw.length, raw, kind: 'markdown' });
+    links.push({ start, end: start + raw.length, raw, kind: 'markdown', angle: match[1] !== undefined });
   }
   const html = /<(?:img|a|image)\b[^>]*?\b(?:src|href|xlink:href)\s*=\s*(["'])(.*?)\1[^>]*>/gim;
   while ((match = html.exec(masked))) {
@@ -144,7 +146,12 @@ export function inspectLink(link, source, index, config, { repairStale = false }
   const hash = link.raw.indexOf('#');
   const rawPath = hash < 0 ? link.raw : link.raw.slice(0, hash);
   const fragment = hash < 0 ? '' : link.raw.slice(hash);
-  if (!rawPath) return null;
+  const unencodedWhitespace = link.kind === 'markdown' && !link.angle && /\s/.test(link.raw);
+  const encodingIssues = unencodedWhitespace ? ['unencoded-whitespace'] : [];
+  if (!rawPath) {
+    if (!unencodedWhitespace) return null;
+    return { ...link, decoded: '', category: 'unencoded-whitespace', resolved: source, candidates: [], encodingIssues, replacement: link.raw.replace(/\s/g, c => encodeURIComponent(c)) };
+  }
   const decoded = decode(rawPath.replace(/\\([()\[\]<>#|])/g, '$1').replaceAll('&amp;', '&'));
   // A mapped macOS basename such as "CS143: Compilers" is a local note,
   // although its leading colon also happens to satisfy URI-scheme syntax.
@@ -191,10 +198,14 @@ export function inspectLink(link, source, index, config, { repairStale = false }
   // filesystem lookup alone hides encoded separators left by older converters.
   const encodedSeparator = target && link.kind === 'markdown' && /%2f/i.test(rawPath);
   if (encodedSeparator) category = 'encoded-separator';
-  const replacement = newPath !== decoded
+  let replacement = newPath !== decoded
     ? (link.kind === 'wiki' ? newPath : encode(newPath)) + fragment
     : encodedSeparator ? rawPath.replace(/%2f/gi, '/') + fragment : null;
-  return { ...link, decoded, category, resolved, candidates, replacement };
+  if (resolved && unencodedWhitespace) {
+    if (category === 'resolved') category = 'unencoded-whitespace';
+    replacement = (replacement ?? link.raw).replace(/\s/g, c => encodeURIComponent(c));
+  }
+  return { ...link, decoded, category, resolved, candidates, replacement, encodingIssues };
 }
 
 export function repairText(text, source, index, config, options = {}) {
@@ -202,6 +213,7 @@ export function repairText(text, source, index, config, options = {}) {
   const edits = [];
   let links = 0;
   const drawing = /\.excalidraw\.md$/i.test(source);
+  const sceneEditor = drawing ? sceneLinkEditor(text) : null;
   const embeddedStart = text.search(/^## Embedded [Ff]iles\s*$/m);
   const embeddedEnd = embeddedStart < 0 ? -1 : text.indexOf('\n#', embeddedStart + 1);
   for (const link of extractLinks(text)) {
@@ -210,15 +222,19 @@ export function repairText(text, source, index, config, options = {}) {
     links++;
     if (result.category !== 'resolved') {
       result.line = text.slice(0, link.start).split('\n').length;
-      if (drawing && !(embeddedStart >= 0 && link.start > embeddedStart && (embeddedEnd < 0 || link.start < embeddedEnd))) {
+      if (drawing && !sceneEditor?.canEdit(link) && !(embeddedStart >= 0 && link.start > embeddedStart && (embeddedEnd < 0 || link.start < embeddedEnd))) {
         result.replacement = null;
         result.drawingText = true;
       }
       issues.push(result);
-      if (result.replacement) edits.push(result);
+      if (result.replacement) {
+        if (sceneEditor?.canEdit(link)) sceneEditor.edit(link, result.replacement);
+        edits.push(result);
+      }
     }
   }
   for (const edit of [...edits].reverse()) text = text.slice(0, edit.start) + edit.replacement + text.slice(edit.end);
+  if (sceneEditor) text = sceneEditor.finish(text);
   return { text, links, issues, edits };
 }
 
@@ -237,7 +253,7 @@ async function walk(root, prefix = '') {
 export async function audit(root, config, options = {}) {
   const files = await walk(root);
   const index = new VaultIndex(files);
-  const result = { summary: { files: files.length, notes: 0, links: 0, issues: 0, repaired: 0, changedFiles: 0, byCategory: {} }, issues: [], changes: [], limitations: ['File destinations only; heading/block existence is not checked.', 'Compressed Excalidraw scenes are not decoded; drawing text requires separate review.'], longPaths: files.filter(f => path.join(root, f).length >= 260) };
+  const result = { summary: { files: files.length, notes: 0, links: 0, issues: 0, repaired: 0, changedFiles: 0, byCategory: {} }, issues: [], changes: [], limitations: ['File destinations only; heading/block existence is not checked.', 'Excalidraw Element Links are repaired only when their Markdown and scene records match; free drawing text is not edited.'], longPaths: files.filter(f => path.join(root, f).length >= 260) };
   for (let i = 0; i < files.length; i += 64) {
     const batch = files.slice(i, i + 64).filter(f => note(f) && !f.startsWith('Assets/Scripts/'));
     await Promise.all(batch.map(async file => {
@@ -282,7 +298,7 @@ async function main() {
   const reportPath = value('--report');
   if (reportPath) await fs.writeFile(reportPath, JSON.stringify(report, null, 2) + '\n');
   console.log(JSON.stringify(args.includes('--json') ? report : report.summary, null, 2));
-  if (args.includes('--check-windows') && report.issues.some(i => ['windows-rename', 'encoded-separator'].includes(i.category) && !i.drawingText)) process.exitCode = 1;
+  if (args.includes('--check-windows') && report.issues.some(i => ['windows-rename', 'encoded-separator', 'unencoded-whitespace'].includes(i.category) && !i.drawingText)) process.exitCode = 1;
   if (args.includes('--strict') && report.issues.length) process.exitCode = 1;
 }
 
