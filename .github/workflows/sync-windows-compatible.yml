@@ -41,11 +41,21 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+      - name: Set up link parser runtime
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Test link repair
+        run: node --test main/Assets/Scripts/test_vault_links.mjs main/Assets/Scripts/test_windows_sync.mjs
+
+      - name: Test conversion integration
+        run: python3 -m unittest discover -s main/Assets/Scripts -p 'test_windows_compat.py'
+
       - name: Sync changed files from main
         run: >
-          python3 main/Assets/Scripts/windows_compat.py
+          node main/Assets/Scripts/windows_sync.mjs
           --config main/.github/windows-path-map.json
-          sync
           --source main
           --target windows-compatible
 
@@ -62,4 +72,6 @@ jobs:
 
       - name: Push generated branch
         working-directory: windows-compatible
-        run: git push origin HEAD:windows-compatible-paths
+        run: |
+          # A concurrent manual push must reject this push, never be overwritten.
+          git push origin HEAD:windows-compatible-paths
