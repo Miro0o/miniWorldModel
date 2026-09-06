@@ -8,7 +8,7 @@
 
 
 
-![Screenshot 2022-11-22 at 2.08.08 PM](../../../../../../Assets/Pics/Screenshot 2022-11-22 at 2.08.08 PM.png)
+![Screenshot 2022-11-22 at 2.08.08 PM](../../../../../../Assets/Pics/Screenshot%202022-11-22%20at%202.08.08%20PM.png)
 
 
 

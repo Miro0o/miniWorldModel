@@ -23,7 +23,7 @@ Setup kali vm and ssh it from local.
 
 2. Implement kali (via emulator as qemu or vm manager like parallel, VMware or virt-manager)
 
-3. Enable cli-mode only. ( Optional, 👀 see [Troubleshooting](Troubleshooting.md#Boot kali on text mode (CLI only)) for more).
+3. Enable cli-mode only. ( Optional, 👀 see [Troubleshooting](Troubleshooting.md#Boot%20kali%20on%20text%20mode%20(CLI%20only)) for more).
    1. `sudo systemctl set-default multi-user.target` then reboot.
 
 4. Configure network. (Kali disables DHCP as default)

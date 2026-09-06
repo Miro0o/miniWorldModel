@@ -1,4 +1,5 @@
 import test from 'node:test';
+import LZString from './vendor/lz-string.mjs';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import os from 'node:os';
@@ -148,4 +149,54 @@ test('normalization retains Windows link fixes when main edits the same note', a
   commit(f.source, 'main content change');
   await sync(f);
   assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[x](New/Target.md)\n\nmanual body\n\nmain last\n');
+});
+
+
+test('later main updates normalize existing encoded separators and preserve Windows edits', async t => {
+  const f = await fixture(t, { 'Note.md': '[LTL](Logic%2FLTL.md)\n\nbody\n\nlast\n', 'Logic/LTL.md': '# LTL\n' });
+  await write(f.target, 'Note.md', '[LTL](Logic%2FLTL.md)\n\nmanual body\n\nlast\n');
+  const manual = commit(f.target, 'manual body edit');
+  await write(f.source, 'Other.md', 'main update\n');
+  commit(f.source, 'trigger conversion');
+  await sync(f);
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[LTL](Logic/LTL.md)\n\nmanual body\n\nlast\n');
+  const generated = commit(f.target, 'generated encoding fix');
+  assert.equal(run(f.target, ['rev-parse', generated + '^']), manual);
+  await write(f.source, 'Note.md', '[LTL](Logic%2FLTL.md)\n\nbody\n\nmain last\n');
+  commit(f.source, 'subsequent main update');
+  await sync(f);
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[LTL](Logic/LTL.md)\n\nmanual body\n\nmain last\n');
+});
+
+
+test('normalizes whitespace in file and heading destinations without losing a Windows edit', async t => {
+  const f = await fixture(t, { 'Note.md': '[target](My Target.md#Some heading)\n\nbody\n\nlast\n', 'My Target.md': '# Some heading\n' });
+  await write(f.target, 'Note.md', '[target](My Target.md#Some heading)\n\nmanual body\n\nlast\n');
+  commit(f.target, 'Windows edit');
+  await write(f.source, 'Note.md', '[target](My Target.md#Some heading)\n\nbody\n\nmain last\n');
+  commit(f.source, 'main edit');
+  await sync(f);
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[target](My%20Target.md#Some%20heading)\n\nmanual body\n\nmain last\n');
+});
+
+test('two main updates preserve a manually edited drawing while repairing both link records', async t => {
+  const drawing = x => {
+    const scene = { type: 'excalidraw', elements: [{ id: 'element1', x, y: 7, text: 'Keep label', link: '[[Old/Unique|Label]]' }], appState: {}, files: {} };
+    return '## Element Links\nelement1: [[Old/Unique|Label]]\n## Drawing\n```compressed-json\n' + LZString.compressToBase64(JSON.stringify(scene)) + '\n```\n';
+  };
+  const f = await fixture(t, { 'Map.excalidraw.md': drawing(1), 'New/Unique.md': '# Unique\n', 'Note.md': 'original\n' });
+  await write(f.target, 'Map.excalidraw.md', drawing(42));
+  const manual = commit(f.target, 'manual drawing position');
+  for (const number of [1, 2]) {
+    await write(f.source, 'Note.md', 'main update ' + number + '\n');
+    commit(f.source, 'main update ' + number);
+    await sync(f);
+    const text = await fs.readFile(path.join(f.target, 'Map.excalidraw.md'), 'utf8');
+    assert.ok(text.includes('element1: [[New/Unique|Label]]'));
+    const encoded = text.match(/```compressed-json\n([\s\S]*?)\n```/)[1];
+    const scene = JSON.parse(LZString.decompressFromBase64(encoded.replace(/\s/g, '')));
+    assert.deepEqual(scene.elements[0], { id: 'element1', x: 42, y: 7, text: 'Keep label', link: '[[New/Unique|Label]]' });
+    const generated = commit(f.target, 'generated update ' + number);
+    assert.equal(run(f.target, ['merge-base', manual, generated]), manual);
+  }
 });

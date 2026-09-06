@@ -18,12 +18,12 @@
 
 ```sh
 # 审计：输出分类统计，不修改笔记
-node Assets/Scripts/vault_links.mjs --target . --repair-stale --report vault-links.json
+node Assets/Scripts/vault_links.mjs --target . --repair-stale --report Assets/Reports/vault-links.json
 
-# 修复能确定目标的 Windows 改名与旧目录引用
+# 修复能确定目标的 Windows 改名、编码问题与旧目录引用
 node Assets/Scripts/vault_links.mjs --target . --repair-stale --write
 
-# 检查是否仍有可定位到现有文件的 Windows 改名遗漏
+# 检查是否仍有可定位目标的 Windows 改名或编码遗漏
 node Assets/Scripts/vault_links.mjs --target . --check-windows
 
 # 回归测试
@@ -31,9 +31,9 @@ node --test Assets/Scripts/test_vault_links.mjs
 node --test Assets/Scripts/test_windows_sync.mjs
 ```
 
-省略 `--repair-stale` 时只修复能解析到现有文件的 Windows 改名目标。`--write` 是写入开关；不提供时只审计。`--strict` 会在有任何未解析目标时返回非零状态；本仓库有未公开内容，因此日常同步不使用该选项。
+省略 `--repair-stale` 时仍会修复能确认目标的 Windows 改名、Markdown 中的 `%2F` 目录分隔符及未编码空白。合法尖括号目标和 wiki 链接中的空格保持原样；原有百分号编码不重复编码。报告会为目标缺失或有歧义的链接附加编码问题标记，但不会猜测目标。`--write` 是写入开关；不提供时只审计。`--strict` 会在有任何未解析目标时返回非零状态；本仓库有未公开内容，因此日常同步不使用该选项。
 
-修复仅替换链接的目标，保留显示文字、锚点、块引用、别名、图片尺寸和原换行符。旧路径仅在文件名唯一，或者完整尾部目录能唯一匹配现有文件时修复。多目标歧义和不存在的目标保留原文。隐藏配置目录、脚本和 `Assets/Reports` 下的诊断输出不参与内容替换。
+修复仅替换链接的目标，保留显示文字、锚点内容、块引用、别名、图片尺寸和原换行符；必要时编码锚点中的空白。旧路径仅在文件名唯一，或者完整尾部目录能唯一匹配现有文件时修复。多目标歧义和不存在的目标保留原文。隐藏配置目录、脚本和 `Assets/Reports` 下的诊断输出不参与内容替换。
 
 ## 自动同步必须在 main 中更新
 
@@ -45,6 +45,8 @@ node --test Assets/Scripts/test_windows_sync.mjs
 - `.github/workflows/sync-windows-compatible.yml`
 - `Assets/Scripts/windows_compat.py`
 - `Assets/Scripts/vault_links.mjs`
+- `Assets/Scripts/excalidraw_links.mjs`
+- `Assets/Scripts/vendor/lz-string.mjs` 及其许可证
 - `Assets/Scripts/windows_sync.mjs`
 - `Assets/Scripts/test_vault_links.mjs`
 - `Assets/Scripts/test_windows_sync.mjs`
@@ -63,6 +65,8 @@ node Assets/Scripts/windows_sync.mjs --source /path/to/main --target /path/to/wi
 
 ## 检查范围
 
-支持笔记中的 Markdown、wiki、引用式 Markdown 与 HTML 链接，以及 Excalidraw 的独立附件记录。检查的是文件目标，不验证标题或块 ID 是否存在。压缩的 Excalidraw 场景没有解码，图中的文字链接不会被单独修改，以免与场景数据不一致。报告中的这些条目需使用 Excalidraw 核对。
+支持笔记中的 Markdown、wiki、引用式 Markdown 与 HTML 链接，以及 Excalidraw 的独立附件记录。检查文件目标及链接编码，不验证标题或块 ID 是否存在；因此文件目标检查通过不代表标题跳转一定有效。
 
-本次验证是文件级静态检查，没有在 Obsidian 图形界面中逐个点击链接。Obsidian 对 Markdown 目标要求 URL 编码，参见 [官方内部链接说明](https://obsidian.md/help/links)。
+Excalidraw 的 `Element Links` 仅在元素 ID 唯一且文本记录与 JSON / 压缩场景中的链接完全一致时自动修复。修复同时写回两份链接，场景的坐标、文字及其他属性不变。压缩库随脚本提供，采用 MIT 许可证，无需安装 npm 包。自由绘图文字、场景损坏或记录不一致时保留原文，并在报告中标记需人工核对。
+
+命令行检查不能替代 Obsidian 中的逐项点击验证。Obsidian 对 Markdown 目标要求 URL 编码，参见 [官方内部链接说明](https://obsidian.md/help/links)。

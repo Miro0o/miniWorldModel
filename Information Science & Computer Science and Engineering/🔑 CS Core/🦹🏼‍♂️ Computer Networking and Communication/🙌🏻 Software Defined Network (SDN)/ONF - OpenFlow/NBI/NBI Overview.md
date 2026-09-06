@@ -12,7 +12,7 @@
 
 
 
-![Screenshot 2022-11-22 at 2.12.58 PM](../../../../../../Assets/Pics/Screenshot 2022-11-22 at 2.12.58 PM.png)
+![Screenshot 2022-11-22 at 2.12.58 PM](../../../../../../Assets/Pics/Screenshot%202022-11-22%20at%202.12.58%20PM.png)
 
 ## Field Leaders
 
@@ -34,7 +34,7 @@
 
 ## 🤩 Intent-based NBI
 
-![Screenshot 2022-11-22 at 2.17.05 PM](../../../../../../Assets/Pics/Screenshot 2022-11-22 at 2.17.05 PM.png)
+![Screenshot 2022-11-22 at 2.17.05 PM](../../../../../../Assets/Pics/Screenshot%202022-11-22%20at%202.17.05%20PM.png)
 
 
 

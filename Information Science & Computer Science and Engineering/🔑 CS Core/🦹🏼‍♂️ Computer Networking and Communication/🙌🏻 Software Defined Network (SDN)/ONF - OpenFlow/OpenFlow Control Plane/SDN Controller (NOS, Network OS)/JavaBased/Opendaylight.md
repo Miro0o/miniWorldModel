@@ -47,7 +47,7 @@ I start mininet on QEMU VM instance, while ODL running on the host.
 
 ODL uses Karaf as its UI (for what i understand). User use ssh in karaf to login ODL. 
 
-➡️ So instead of using `./bin/karaf` or `./bin/client`, one can also use `ssh -p 8101 -i ./etc/host.key karaf@localhost` to login **an already started karaf.** 8101 is the default port of ODL karaf. This charmfully bypassed the [login issue](#👉 Karaf using localhost ssh config instead of its auto-generated ssh private key logining) i encounterd when using `./bin/client`. 
+➡️ So instead of using `./bin/karaf` or `./bin/client`, one can also use `ssh -p 8101 -i ./etc/host.key karaf@localhost` to login **an already started karaf.** 8101 is the default port of ODL karaf. This charmfully bypassed the [login issue](#👉%20Karaf%20using%20localhost%20ssh%20config%20instead%20of%20its%20auto-generated%20ssh%20private%20key%20logining) i encounterd when using `./bin/client`. 
 
 ➡️ To solve the file transmision problem, i set up a web server on host and use wget form guest to download file. 
 

@@ -20,8 +20,8 @@
 - ↗ [Classical Logic (Standard Formal Logic)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
 - ↗ [Temporal Logic (时态逻辑)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Temporal%20Logic%20(时态逻辑).md)
 	- ↗ [Computation-Tree Logic (CTL*) Family](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Computation-Tree%20Logic%20%28CTLstar%29%20Family.md)
-		- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family%2FLinear%20Temporal%20Logic%20(LTL).md)
-		- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family%2FBranching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+		- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Linear%20Temporal%20Logic%20(LTL).md)
+		- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
 - ↗ [Data Structure in Logic Formulas](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
 	- ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md)
 
@@ -377,12 +377,12 @@ These models are used to analyze multi-agent systems where multiple independent 
 ↗ [Modal Logic (模态逻辑)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Modal%20Logic%20(模态逻辑).md)
 - ↗ [Dynamic Logic (DL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Dynamic%20Logic%20(DL)/Dynamic%20Logic%20(DL).md)
 - ↗ [Computation-Tree Logic (CTL*) Family](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Computation-Tree%20Logic%20%28CTLstar%29%20Family.md)
-	- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family%2FLinear%20Temporal%20Logic%20(LTL).md)
-	- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family%2FBranching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+	- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Linear%20Temporal%20Logic%20(LTL).md)
+	- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
 #### Semantics of Property Language over Transition System
 ↗ [Computation-Tree Logic (CTL*) Family](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Computation-Tree%20Logic%20%28CTLstar%29%20Family.md)
-- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family%2FLinear%20Temporal%20Logic%20(LTL).md)
-- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family%2FBranching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Linear%20Temporal%20Logic%20(LTL).md)
+- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
 
 We define the satisfaction set of a formula as the set of states that satisfy the formula
 $$sat(ϕ) = {s ∣ s ⊧ ϕ}$$
@@ -439,16 +439,16 @@ Regular Properties
 - ↗ [Dynamic Logic (DL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Dynamic%20Logic%20(DL)/Dynamic%20Logic%20(DL).md)
 - ↗ [Epistemic (Modal) Logic](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Epistemic%20(Modal)%20Logic/Epistemic%20(Modal)%20Logic.md)
 
-↗ [MC Algorithms For CTLstar](MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family%2FMC%20Algorithms%20For%20CTLstar.md)
-↗ [MC Algorithms For CTL](MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family%2FMC%20Algorithms%20For%20CTL.md)
-↗ [MC Algorithm For LTL](MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family%2FMC%20Algorithm%20For%20LTL.md)
+↗ [MC Algorithms For CTLstar](MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family/MC%20Algorithms%20For%20CTLstar.md)
+↗ [MC Algorithms For CTL](MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family/MC%20Algorithms%20For%20CTL.md)
+↗ [MC Algorithm For LTL](MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family/MC%20Algorithm%20For%20LTL.md)
 
 
 ### Probabilistic Model Checking & Algorithms
 ↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 ↗ [Markov Process & Markov Chain (MC)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20%28MC%29/Markov%20Process%20&%20Markov%20Chain%20%28MC%29.md)
 
-↗ [MC Algorithms For PCTL](MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family%2FMC%20Algorithms%20For%20PCTL.md)
+↗ [MC Algorithms For PCTL](MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family/MC%20Algorithms%20For%20PCTL.md)
 
 
 ### Statistical Model Checking & Algorithms

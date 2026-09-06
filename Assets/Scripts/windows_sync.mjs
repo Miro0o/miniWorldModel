@@ -147,7 +147,7 @@ export async function sync({ source, target, config, stateFile = STATE, head: re
   }
   const report = await audit(target, config, { write: true, repairStale: true });
   const remaining = await audit(target, config);
-  if (remaining.issues.some(i => i.category === 'windows-rename' && !i.drawingText)) throw new Error('Converted links failed verification; sync state was not advanced');
+  if (remaining.issues.some(i => ['windows-rename', 'encoded-separator', 'unencoded-whitespace'].includes(i.category) && !i.drawingText)) throw new Error('Converted links failed verification; sync state was not advanced');
   if (base !== head) await fs.writeFile(destination(target, stateFile), JSON.stringify({ last_synced_main: head, previous_synced_main: base }, null, 2) + '\n');
   return { sourceBase: base, sourceHead: head, windowsBaseline: baseline, windowsParent: targetHead, mergedFiles: plans.length, repairedLinks: report.summary.repaired };
 }
