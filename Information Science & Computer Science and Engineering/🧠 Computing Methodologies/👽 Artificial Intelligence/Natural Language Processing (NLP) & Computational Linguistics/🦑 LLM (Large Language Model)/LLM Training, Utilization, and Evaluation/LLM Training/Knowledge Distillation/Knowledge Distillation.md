@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Transfer Learning](../../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Transfer%20Learning/Transfer%20Learning.md)
+↗ [Transfer Learning](../../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Transfer%20Learning/Transfer%20Learning.md)
 
 
 ### Other Resources

@@ -116,6 +116,8 @@ https://aicyberchallenge.com/
 
 ## Intro
 ### LLM For Security 
+↗ [LLM & Software Engineering and Security](../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Software%20Engineering%20and%20Security.md)
+↗ [LLM-Software-Security-Research-Dossier-2026](../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/Dossiers/LLM-Software-Security-Research-Dossier-2026/LLM-Software-Security-Research-Dossier-2026.md)
 
 
 ### Security For LLM

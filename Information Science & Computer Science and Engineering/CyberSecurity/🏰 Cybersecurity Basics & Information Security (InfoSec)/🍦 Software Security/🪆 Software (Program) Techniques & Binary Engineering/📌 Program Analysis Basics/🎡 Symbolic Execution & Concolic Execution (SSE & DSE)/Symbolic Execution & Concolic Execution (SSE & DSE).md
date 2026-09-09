@@ -402,7 +402,7 @@ Another big problem is memory aliasing and arrays. Since we can only access the 
 
 
 
-## Concolic Execution (Dynamic Symbolic Execution) & DSE
+## Concolic Execution & DSE (Dynamic Symbolic Execution)
 > [!links]
 > ↗ [Fuzzing (Concrete Execution)](../👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
 > ↗ [(Formal) Model Checking](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
@@ -442,7 +442,6 @@ Interestingly, we actually know that running $conclic(P,i')$ will produce a pr
 One big limitation of the dynamic techniques we have looked at so far is speed. Ideally, we would get all the information we needed while running the program instead of having to implement our own interpreter.
 
 The way to get around this is by doing code instrumentation. Code instrumentation injects small instructions inside the code to track and trace what is happening.
-
 
 > Using jvm2json
 > Currently we do not support any straight forward ways to do bytecode instrumentation in this course.

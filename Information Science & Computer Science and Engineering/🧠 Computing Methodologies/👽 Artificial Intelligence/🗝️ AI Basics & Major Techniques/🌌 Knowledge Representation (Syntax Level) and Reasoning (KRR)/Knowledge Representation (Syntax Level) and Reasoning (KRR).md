@@ -79,7 +79,7 @@ A knowledge-based agent can be built simply by TELLing it what it needs to know.
 
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 
-↗ [Logic Programs & Symbolic AI](🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
+↗ [Symbolic AI & Logic Programs](🦴%20Symbolic%20AI%20&%20Logic%20Programs/Symbolic%20AI%20&%20Logic%20Programs.md)
 
 ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
 
@@ -124,7 +124,7 @@ Section 10.1 introduces the idea of a general ontology, which organizes everythi
 
 ### Types of Knowledge Representations
 #### Deterministic Representation 
-↗ [Logic Programs & Symbolic AI](🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
+↗ [Symbolic AI & Logic Programs](🦴%20Symbolic%20AI%20&%20Logic%20Programs/Symbolic%20AI%20&%20Logic%20Programs.md)
 
 ↗ [Decision Trees (CART)](Trees,%20Forests,%20Bagging,%20and%20Boosting/Decision%20Trees%20(CART)/Decision%20Trees%20(CART).md)
 ↗ [Rule-Based Systems](Rule-Based%20Systems/Rule-Based%20Systems.md)
@@ -132,7 +132,7 @@ Section 10.1 introduces the idea of a general ontology, which organizes everythi
 ↗ [Kernel Machines](Kernel%20Machines/Kernel%20Machines.md)
 #### Probabilistic Representation
 ↗ [Probabilistic Graphical Models](Graphical%20Models/Probabilistic%20Graphical%20Models/Probabilistic%20Graphical%20Models.md)
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md)
 
 
 ### Ontological Engineering
@@ -165,7 +165,7 @@ Section 10.1 introduces the idea of a general ontology, which organizes everythi
 
 ## Knowledge in Learning
 ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md) "knowledge in learning"
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md)
 
 ↗ [AI Embodiment & World Model (WM)](../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 

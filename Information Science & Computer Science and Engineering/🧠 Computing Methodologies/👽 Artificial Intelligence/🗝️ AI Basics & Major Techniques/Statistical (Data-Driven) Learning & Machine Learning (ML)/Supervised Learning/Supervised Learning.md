@@ -46,8 +46,8 @@ A second type of supervised learning is the prediction of **continuous outcomes*
 - ↗ [Trees, Forests, Bagging, and Boosting](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Trees,%20Forests,%20Bagging,%20and%20Boosting/Trees,%20Forests,%20Bagging,%20and%20Boosting.md)
 	- ↗ [Decision Trees (CART)](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Trees,%20Forests,%20Bagging,%20and%20Boosting/Decision%20Trees%20(CART)/Decision%20Trees%20(CART).md)
 - ↗ [Kernel Machines](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Kernel%20Machines/Kernel%20Machines.md)
-- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-	- ↗ [Neural Network Models](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+- ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md)
+	- ↗ [Neural Network Models](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 - etc.
 
 

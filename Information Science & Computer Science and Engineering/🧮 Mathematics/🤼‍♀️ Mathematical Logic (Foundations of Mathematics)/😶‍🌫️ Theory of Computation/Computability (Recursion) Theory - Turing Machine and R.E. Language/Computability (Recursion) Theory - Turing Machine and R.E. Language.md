@@ -57,7 +57,7 @@ https://thzt.github.io/2017/02/24/recursive-function-1/
 
 ## Intro
 > [!links]
-> ↗ [The Development History of AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md) "turing test"
+> ↗ [The Development History of AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/The%20Development%20History%20of%20AI.md) "turing test"
 > ↗ [Mathematics](../../../Mathematics.md) "proof by induction /well-founded induction"
 
 ![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
@@ -310,7 +310,7 @@ $H(y_0, y_0)$ 不能为真也不能为假，矛盾。
 #### Intelligence & Turing Test
 ↗ [Universe, Self-Awareness, and Intelligence](../../../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 ↗ [Artificial Intelligence](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-- ↗ [The Development History of AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
+- ↗ [The Development History of AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/The%20Development%20History%20of%20AI.md)
 - ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 	- ↗ [LLM (Large Language Model)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 - [AI4X, AGI (Artificial General Intelligence) & AIGC](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)

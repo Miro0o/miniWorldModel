@@ -17,8 +17,10 @@
 ↗ [Algebra](../🧊%20Algebra/Algebra.md)
 ↗ [Geometry](../Geometry/Geometry.md)
 
+↗ [Combinatorial Optimization](../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Combinatorial%20Optimization.md)
+
 ↗ [Systematic & Combinatorial Search (Classical Search)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
-↗ [Combinatorics Problems](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Combinatorics%20Problems/Combinatorics%20Problems.md)
+↗ [Programming for Combinatorics Problems](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20for%20Combinatorics%20Problems/Programming%20for%20Combinatorics%20Problems.md)
 
 
 ### Learning Resources
