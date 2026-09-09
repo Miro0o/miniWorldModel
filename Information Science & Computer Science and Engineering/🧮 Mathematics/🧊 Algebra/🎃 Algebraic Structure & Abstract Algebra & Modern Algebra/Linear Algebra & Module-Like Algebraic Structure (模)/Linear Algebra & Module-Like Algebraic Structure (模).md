@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Function & Mapping of Set](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 
-↗ [Linear Algebra Problems](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Linear%20Algebra%20Problems/Linear%20Algebra%20Problems.md)
+↗ [Linear Algebra Problems](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20for%20Algebra%20Problems/Linear%20Algebra%20Problems/Linear%20Algebra%20Problems.md)
 
 ↗ [Group Theory & Group-Like Algebraic Structure (群)](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群).md)
 - ↗ [Abelian Groups](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Abelian%20Groups/Abelian%20Groups.md)

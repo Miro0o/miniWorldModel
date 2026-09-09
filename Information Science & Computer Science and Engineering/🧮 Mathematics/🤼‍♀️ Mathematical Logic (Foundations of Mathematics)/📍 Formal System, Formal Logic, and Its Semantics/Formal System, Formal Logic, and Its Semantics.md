@@ -23,7 +23,7 @@
 ↗ [Type Theory (类型论)](🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 
 ↗ [LISP-Based Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/LISP-Based%20Languages/LISP-Based%20Languages.md)
-↗ [Expert System (ES)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Expert%20System%20(ES)/Expert%20System%20(ES).md)
+↗ [Expert System (ES)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Symbolic%20AI%20&%20Logic%20Programs/Expert%20System%20(ES)/Expert%20System%20(ES).md)
 
 ↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 - ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
@@ -1063,7 +1063,7 @@ In the study of Computer Science, we learn both those mathematical logics and co
 ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
 
 ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
-- ↗ [Logic Programs & Symbolic AI](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
+- ↗ [Symbolic AI & Logic Programs](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Symbolic%20AI%20&%20Logic%20Programs/Symbolic%20AI%20&%20Logic%20Programs.md)
 
 ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
 

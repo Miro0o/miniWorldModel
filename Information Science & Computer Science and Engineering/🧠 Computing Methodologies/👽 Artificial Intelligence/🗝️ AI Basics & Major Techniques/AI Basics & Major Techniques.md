@@ -14,7 +14,7 @@
 	- ↗ [Causal Inference in Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Causal%20Inference%20in%20Statistics/Causal%20Inference%20in%20Statistics.md)
 ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
 
-↗️ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+↗️ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md)
 ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
 
 
@@ -42,6 +42,7 @@
 ## Intro
 > [!links]
 > ↗ [Artificial Intelligence](../Artificial%20Intelligence.md) "AI Without Self-Awareness: Agent vs Environment (Narrow AI) ⭐"
+> ↗ [The Development History of AI](../The%20Development%20History%20of%20AI.md)
 
 ![CS_and_Intelligence.excalidraw | 800](../../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 
@@ -78,8 +79,8 @@ Layer 2 includes function representation mechanisms:
 	- Probabilistic programs
 - Parametric / differentiable
 	- Neural networks 🔥
-		- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-		- ↗ [Neural Network Models](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+		- ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md)
+		- ↗ [Neural Network Models](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 	- Kernel machines
 All of these can be embedded into **any Layer-1 paradigm**.
 
@@ -102,7 +103,7 @@ All of these can be embedded into **any Layer-1 paradigm**.
 			- ↗ [Semi-supervised Learning](Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Supervised%20Learning/🥝%20Semi-supervised%20Learning/Semi-supervised%20Learning.md)
 		- ↗ [Unsupervised Learning](Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Unsupervised%20Learning/Unsupervised%20Learning.md)
 		- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
-	- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md) 🔥
+	- ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md) 🔥
 - hybrid
 
 ---
@@ -144,7 +145,7 @@ Examples:
 - Programs
 
 Layer 2 is about **form**, not meaning.
-#### Connections of Model Representations and Machine Learning Paradigms
+#### Model Representations vs (Machine) Learning Paradigms
 #knowledge_representation #machine_learning #supervised_learning #reinforcement_learning #unsupervised_learning
 
 > 🤖 GPT 5.0
@@ -236,7 +237,7 @@ Example 6: Prolog system
 - Facts + rules + inference
 **Layer 1:** Logic-based 
 **Layer 2:** Logic program
-#### Connections of Model Representations and Deep Learning
+#### Model Representations vs Deep Learning
 #knowledge_representation  #deep_learning 
 
 > 🤖 GPT 5.0

@@ -20,7 +20,7 @@
 ↗ [Development(History) of Operating Systems](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Development(History)%20of%20Operating%20Systems.md)
 ↗ [Development (History) of Firewall](../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Firewall%20&%20Network%20Filters/📌%20Firewall%20Basics/Development%20(History)%20of%20Firewall.md)
 
-↗ [The Development History of AI](👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
+↗ [The Development History of AI](👽%20Artificial%20Intelligence/The%20Development%20History%20of%20AI.md)
 
 ↗ [Quantum Computing (and Communication)](Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
 

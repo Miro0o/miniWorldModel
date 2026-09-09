@@ -11,7 +11,7 @@
 ↗ [Problem Solving & Search-Based Methods](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
 ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
 - ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md)
 
 ↗ [PDDL (Planning Domain Definition Language)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Modeling%20(Specification)%20Languages/Planning%20Modeling/PDDL%20(Planning%20Domain%20Definition%20Language).md)
 

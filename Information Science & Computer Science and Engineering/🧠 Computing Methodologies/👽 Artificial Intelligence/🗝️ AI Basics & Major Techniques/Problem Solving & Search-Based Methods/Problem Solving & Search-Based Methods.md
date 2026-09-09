@@ -14,7 +14,7 @@
 - ↗ [Basic Searching](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Basic%20Searching/Basic%20Searching.md)
 - ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)
 
-↗ [Numerical Search](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Numerical%20Methods/Numerical%20Search.md)
+↗ [Numerical Search](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20for%20Numerical%20Methods/Numerical%20Search.md)
 
 ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
 - ↗ [Combinatorics (Combinatorial Mathematics)](../../../../🧮%20Mathematics/Combinatorics%20(Combinatorial%20Mathematics)/Combinatorics%20(Combinatorial%20Mathematics).md)
@@ -83,7 +83,7 @@ If you want an even cleaner academic phrasing
 ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
 
 ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md)
 ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 - ↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 ↗ [Computer Vision (CV)](../../Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md)

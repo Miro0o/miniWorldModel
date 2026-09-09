@@ -8,6 +8,13 @@
 🏠 http://torch.ch
 
 
+### Related Topics
+↗ [PyTorch](../../⭐️%20Python%20Based%20ML%20Libraries/📌%20PyTorch/PyTorch.md)
+
+
+### Other Resources
+
+
 
 ## Intro
 Torch is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first. It is easy to use and efficient, thanks to an easy and fast scripting language, LuaJIT, and an underlying C/CUDA implementation.

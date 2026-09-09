@@ -15,7 +15,7 @@
 ↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 ↗ [Math History & Development](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
-↗ [The Development History of AI](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
+↗ [The Development History of AI](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/The%20Development%20History%20of%20AI.md)
 
 ↗ [Western Philosophy & Its History](Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/Western%20Philosophy%20&%20Its%20History.md)
 ↗ [Chinese Philosophy & Its History](Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Chinese%20Philosophy%20&%20Its%20History.md)

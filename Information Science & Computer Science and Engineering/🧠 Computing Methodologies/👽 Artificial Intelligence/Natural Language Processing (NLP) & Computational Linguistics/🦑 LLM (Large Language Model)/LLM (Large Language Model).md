@@ -16,10 +16,10 @@
 ↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 
 ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-- ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
-↗ [(Deep) Generative Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/(Deep)%20Generative%20Models.md) 🤔
-- ↗ [Autoregressive (AR) Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/Autoregressive%20(AR)%20Models/Autoregressive%20(AR)%20Models.md)
+↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md)
+- ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [(Deep) Generative Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Probabilistic%20Modeling%20Distinction/🪽%20(Deep)%20Generative%20Models/(Deep)%20Generative%20Models.md) 🤔
+- ↗ [Autoregressive (AR) Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Probabilistic%20Modeling%20Distinction/🪽%20(Deep)%20Generative%20Models/Autoregressive%20(AR)%20Models/Autoregressive%20(AR)%20Models.md)
 
 LLM & Academics 🧑‍🎓
 - ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
@@ -410,11 +410,11 @@ Estimating AI productivity gains from Claude conversations
 
 ### LLM Backgrounds
 #### 📜 The Development History of AI, NLP, and LLM
-↗ [The Development History of AI](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+↗ [The Development History of AI](../../The%20Development%20History%20of%20AI.md)
+↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md)
 ↗ [Natural Language Processing (NLP) & Computational Linguistics](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 
-↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
 <small>
@@ -428,18 +428,18 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 ### LLM Modeling & Architecture ⭐
 > [!links]
 > ↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
-> ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png)
 <small><a>https://poloclub.github.io/transformer-explainer/</a></small>
 
-↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 - Tokenization
 - Attention
 - Probability
 
-↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RWKV%20(Receptance%20Weighted%20Key%20Value)/RWKV%20(Receptance%20Weighted%20Key%20Value).md)
-↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/Mamba.md)
+↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RWKV%20(Receptance%20Weighted%20Key%20Value)/RWKV%20(Receptance%20Weighted%20Key%20Value).md)
+↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/Mamba.md)
 
 
 ### LLM Training, Utilization, and Evaluation
