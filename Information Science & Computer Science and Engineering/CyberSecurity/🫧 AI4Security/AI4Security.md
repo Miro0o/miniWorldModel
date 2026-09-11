@@ -7,6 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+↗ [Trust-worthy AI & LLM Safety and Security](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
+
 ↗ [Awesome AI (Tools)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 
 ↗ [AI4SE](../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)

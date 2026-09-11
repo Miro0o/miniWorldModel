@@ -403,7 +403,7 @@ case jvm.Ifz(condition=con, target=target):
 
 "Unbounded static abstraction" is a concept in program analysis, referring to the challenge of creating a finite, static model of a program that can handle potentially infinite, or "unbounded," data, such as memory from the heap. Unlike static memory, which has a fixed size, heap memory can grow unpredictably, and standard analysis techniques struggle to represent it with a finite abstraction. Static analysis must therefore use approximation techniques (abstraction here) to model this unbounded behavior while remaining sound and terminating.
 #### Fixed-Point Axiom
-↗ [Function & Mapping of Set](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+↗ [Set Mapping & Function](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
 ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
 #### The Widening Operator (The Interval Abstraction as An Example)
 > Please first check below "👉 Interval Abstraction -- Unbounded Analysis"
