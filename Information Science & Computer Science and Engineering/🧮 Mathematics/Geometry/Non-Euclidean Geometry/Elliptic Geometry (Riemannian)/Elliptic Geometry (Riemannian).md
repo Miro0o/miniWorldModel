@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [ECC (Elliptic-Curve Cryptography) Based](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/📌%20Asymmetric%20Cipher%20(Public-Key%20Cryptography)/ECC%20(Elliptic-Curve%20Cryptography)%20Based/ECC%20(Elliptic-Curve%20Cryptography)%20Based.md)
+↗ [ECC (Elliptic-Curve Cryptography) Based](../../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/📌%20Asymmetric%20Cipher%20(Public-Key%20Cryptography)/ECC%20(Elliptic-Curve%20Cryptography)%20Based/ECC%20(Elliptic-Curve%20Cryptography)%20Based.md)
 
 
 ### Other Resources

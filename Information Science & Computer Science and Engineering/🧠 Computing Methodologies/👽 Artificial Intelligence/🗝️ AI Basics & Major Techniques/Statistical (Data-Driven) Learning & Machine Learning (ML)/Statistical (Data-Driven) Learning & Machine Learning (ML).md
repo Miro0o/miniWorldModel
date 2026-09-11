@@ -488,7 +488,7 @@ Suggested Notation for Machine Learning
 ↗ [Information Theory](../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
-↗ [Topology](../../../../🧮%20Mathematics/Topology/Topology.md)
+↗ [Topology](../../../../🧮%20Mathematics/Geometry/🎽%20Topology/Topology.md)
 
 
 ### 1️⃣ Data Preparation (Collection, Assessment, and Management)

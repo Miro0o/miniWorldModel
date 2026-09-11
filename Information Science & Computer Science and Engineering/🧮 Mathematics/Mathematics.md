@@ -312,8 +312,8 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 - ↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
 	- ↗ [Partial Order & Order Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
-↗ [Topology](Topology/Topology.md)
-- ↗ [Topology Structure](Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
+↗ [Topology](Geometry/🎽%20Topology/Topology.md)
+- ↗ [Topology Structure](Geometry/🎽%20Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
@@ -323,7 +323,7 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 ###### 👉 Space（空间）
 ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 ↗ [Measures (Measure Theory)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
-↗ [Topology](Topology/Topology.md)
+↗ [Topology](Geometry/🎽%20Topology/Topology.md)
 ↗ [Geometry](Geometry/Geometry.md)
 - ↗ [Euclidean (Elementary) Geometry](Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
 - ↗ [Elliptic Geometry (Riemannian)](Geometry/Non-Euclidean%20Geometry/Elliptic%20Geometry%20(Riemannian)/Elliptic%20Geometry%20(Riemannian).md)
@@ -538,7 +538,7 @@ After we have defined various objects and notions, we usually make **mathematica
 
 ### Axiomatization of Mathematics & Axiomatic System ⭐
 > [!links]
-> ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) "formalization and formal system"
+> ↗ [Formal System, Formal Semantics, and Formal Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) "formalization and formal system"
 > 
 > ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 > ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
@@ -554,7 +554,7 @@ A proof within an axiomatic system is a sequence of deductive steps that establi
 
 [数学](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6 "数学")上，一个**公理系统**（英语：axiomatic system，或称**公理化系统**，**公理体系**，**公理化体系**）是一个[公理](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理")的[集合](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88_\(%E6%95%B0%E5%AD%A6\) "集合 (数学)")，从中一些或全部公理可以一并用来逻辑地导出[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")。==一个[数学理论](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA "数学理论")由一个公理系统和所有它导出的定理组成。一个完整描述出来的公理系统是[形式系统](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F "形式系统")的一个特例==；但是通常完全形式化的努力仅带来在确定性上递减的收益，并让人更加难以阅读。所以，**公理系统的讨论通常只是半形式化的。一个形式化理论通常表示一个公理系统，例如在[模型论](https://zh.wikipedia.org/wiki/%E6%A8%A1%E5%9E%8B%E8%AE%BA "模型论")中表述的那样。一个形式化证明是一个证明在形式化系统中的表述。**
 
-**公理系统的性质** (↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md))
+**公理系统的性质** (↗ [Formal System, Formal Semantics, and Formal Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md))
 - 一个公理系统称为[**自洽**](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%AE%B9%E6%80%A7 "形式系统相容性")（或称**相容**、**一致**、**协调**），如果它没有**矛盾**，也就是说没有从公理同时导出一个命题及其否定的能力。(Consistance)
 - 在一个公理系统中，一个公理被称为**独立**的，若它不是一个从系统的其它公理可以导出的定理。一个系统称为**独立**的，若它的每个公理都是独立的。(Independance)
 	- 虽然独立性不是一个系统的必要需求，自洽性却是必要的。
@@ -564,7 +564,7 @@ A proof within an axiomatic system is a sequence of deductive steps that establi
 ==很显然公理化方法在数学之外是有局限性的。例如，在[政治哲学](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6 "政治哲学")中，导致不可接受的结论的公理很可能被彻底拒绝；所以没有人真的认同上面的第一个版本。==
 #### Axiomatic System vs Formal System ⭐
 > [!links]
-> ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+> ↗ [Formal System, Formal Semantics, and Formal Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 > ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 > ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 
@@ -592,7 +592,7 @@ A **(formal) semantics** is a structure /interpretation assigned to (formal) lan
 	- $\Gamma$ semantically entail $\varphi$: **every interpretation /evaluation /model** that makes all formulas in $\Gamma$ true also makes $\varphi$ true.
 	- It is about what we define as truth.
 
-This naturally introduces: (see "properties of (formal) axiomatic system" or ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md))
+This naturally introduces: (see "properties of (formal) axiomatic system" or ↗ [Formal System, Formal Semantics, and Formal Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md))
 - soundness: what we can syntactically proof are all semantically true;
 	- $\Gamma \vdash \varphi \implies \Gamma \models \varphi$
 - completeness: what are semantically true can all be syntactically proofed.
@@ -825,7 +825,7 @@ n := '-' | '-' n
 > 关于欧几里得第五公设，最终人们得到了三种常用的几何学，称为欧几里得几何，罗巴切夫斯基几何，以及黎曼几何。这些公理系统，对研究不同的数学对象起到了关键作用。
 ##### Formal System & Mathematical Logic
 ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Formal System, Formal Semantics, and Formal Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 #### The Axiomatic Method in Mathematics
 > 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#The_axiomatic_method_in_mathematics
 
@@ -848,7 +848,7 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), **a
 > [!link]
 > ↗ [Philosophy & Its History](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 > 
-> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+> ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20(PL)%20-%20(零阶)%20命题逻辑.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Axioms_and_postulates
 
@@ -875,7 +875,7 @@ From the time of Boole's work in the 1840s, in the [algebra of logic](https://e
 | 2024                                                                                                                                                                                    | [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao "Terence Tao")                                                         | Equational Theories Project[70](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-70)                     | A project to have a complete calibration of theories in [equational logic](https://en.wikipedia.org/wiki/Equational_logic "Equational logic") for a [magma](https://en.wikipedia.org/wiki/Magma_\(algebra\) "Magma (algebra)"), where the binary operation is used at most four times. A [partial order](https://en.wikipedia.org/wiki/Partial_order "Partial order") on the theories makes _T_≤_U_ when _T_ implies all the theorems implied by _U_. The purpose of the project was to determine all the cases of ≤, so that an accurate [Hasse diagram](https://en.wikipedia.org/wiki/Hasse_diagram "Hasse diagram") of the partial order can be drawn. [Proof assistant](https://en.wikipedia.org/wiki/Proof_assistant "Proof assistant") software was used in some cases. The project was completed in April 2025.[71](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-71)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 ##### Properties of (Formal) Axiomatic System
 > [!links]
-> ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+> ↗ [Formal System, Formal Semantics, and Formal Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Properties
 
@@ -889,7 +889,7 @@ An axiomatic system is called complete if for every statement, either itself or 
 > Applies for formal axiomatic system.
 
 > [!links]
-> ↗ [Formal System /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md#Gödel's%20Incompleteness%20Theorems%20⭐)
+> ↗ [Formal System /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md#Gödel's%20Incompleteness%20Theorems%20⭐)
 
 > 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Incompleteness
 
@@ -1031,15 +1031,15 @@ fact n = n * fact (n-1)
 - ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-	- ↗ [Classical Logic (Standard Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-		-  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
-		- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
+- ↗ [Formal System, Formal Semantics, and Formal Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
+	- ↗ [Classical Logic (Standard Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
+		-  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20(PL)%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
+		- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
 - ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 ###### Syllogism and Natural Deduction
 > [!links]
 > ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md) ✅
-> ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
+> ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20(PL)%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
 
 **Idea: Syllogism**
 
@@ -1077,7 +1077,7 @@ Conclusion $\mathrm{mortal}(\mathrm{sokrates})$
 \;\rightarrow E
 $$
 #### Proof /Reason via Logic & Formal Methods
-↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Formal System, Formal Semantics, and Formal Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md) "Logic: Formal Methods, Proof, and Reasoning 🤔"
 
 
@@ -1142,6 +1142,11 @@ The **Millennium Prize Problems** are seven well-known complex mathematical pr
 The Clay Mathematics Institute officially designated the title **Millennium Problem** for the seven unsolved mathematical problems, the [Birch and Swinnerton-Dyer conjecture](https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture "Birch and Swinnerton-Dyer conjecture"), [Hodge conjecture](https://en.wikipedia.org/wiki/Hodge_conjecture "Hodge conjecture"), [Navier–Stokes existence and smoothness](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness "Navier–Stokes existence and smoothness"), [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem "P versus NP problem"), [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis "Riemann hypothesis"), [Yang–Mills existence and mass gap](https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap "Yang–Mills existence and mass gap"), and the [Poincaré conjecture](https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture "Poincaré conjecture") at the Millennium Meeting held on May 24, 2000. Thus, on the official website of the Clay Mathematics Institute, these seven problems are officially called the **Millennium Problems**.
 
 As of 2026, the only Millennium Prize problem to have been solved is the Poincaré conjecture. The Clay Institute awarded the monetary prize to Russian mathematician [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman "Grigori Perelman") in 2010. However, he declined the award because it was not also offered to [Richard S. Hamilton](https://en.wikipedia.org/wiki/Richard_S._Hamilton "Richard S. Hamilton"), upon whose work Perelman built.
+#### Using AI Solves The Millennium Prize Problems?
+[On the Navier–Stokes Millennium Prize Problem | OpenAI](https://openai.com/index/navier-stokes-solution/)
+
+[Tristan Buckmaster](https://cims.nyu.edu/~tristanb/)
+- [statement](https://cims.nyu.edu/~tristanb/statement.pdf)
 
 
 

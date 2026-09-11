@@ -15,6 +15,11 @@
 
 ↗ [Distributed Computing & Systems](../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 
+↗ [Data Warehouse & Beyonds](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Warehouse%20&%20Beyonds.md)
+
+
+### Other Resources
+
 
 
 ## Intro

@@ -9,7 +9,7 @@
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 - ↗ [Differential Calculus & Derivative of Function](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 
-↗ [Topology](../../Topology/Topology.md)
+↗ [Topology](../🎽%20Topology/Topology.md)
 
 
 ### Learning Resources

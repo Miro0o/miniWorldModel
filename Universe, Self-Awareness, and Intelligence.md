@@ -426,7 +426,7 @@ tbd.
 更具体地，普遍联系指出了信息的运动就是信息间的相互联系。在不同的语境下，人们通常对信息的运动（或信息间的相互联系，它们是同义词）按照特征进行分类，并给予不同的名称：
 - 信息科学领域中的“计算”：
 	- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-	- ↗ [Lambda Calculus (λ-Calculus)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+	- ↗ [Lambda Calculus (λ-Calculus)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 	- ↗ [Computation as Programs - Computer Program Semantics & Models](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 - 深度学习中的"神经网络"模型：
 	- ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md)
@@ -434,7 +434,7 @@ tbd.
 	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 	- ↗ [Mathematics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 		- ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-		- ↗ [Formal System, Formal Logic, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+		- ↗ [Formal System, Formal Semantics, and Formal Logic](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 - 佛教思想中的“缘起”：
 	- ↗ [Buddhism (Buddha Dharma)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
 	- https://zh.wikipedia.org/zh-cn/%E7%B7%A3%E8%B5%B7%E5%81%88
@@ -744,22 +744,42 @@ tbd.
 自我意识/主体性的发展与成熟
 - 在两个维度中进行：知识（思），实践（做）--->「世界观与方法论」
 - 在三个场景中进行：自我，社会（家庭，社区，聚落/农村/城市，国家，民族），自然
-	- 一个人（自我），一群人（他我），没有人（无我）
+	- 分别代表：一个人（自我），一群人（他我），没有人（无我）
 - 在若干阶段中进行：童年，少年，青年，中年，老年
 ###### 与生俱来的天性
 自我意识对自我的思考（对自我进行思考而获得的自我意识）
 - 自私（自我，生存）
+	- 共情，爱，与无私
 - 好奇（我与宇宙的关系）
+	- 思考能力
+	- 学习能力
 - 繁衍
+	- 性的欲望
 ###### 社会能力及习得
 自我意识对非我（社会与自然）的思考（对非我进行思考而获得的自我意识）
+- 欺骗能力
+	- 自我意识开始觉醒
+	- 自我意识与社会规则的冲突
 - 社会能力
-	- 辨认自我与非我（自然，社会中的其他个体，社会作为一个整体（不同的文化），等等）的关系
+	- 辨认自我与非我的关系
+		- 自我与自然
+		- 自我与本社会文化
+			- 中的其他个体
+			- 社会作为一个整体
+		- 自我与其他社会文化
+			- 中的其他个体
+			- 社会作为一个整体
+		- 等等
 	- 调节自我对「自我与非我」的关系的认识
 		- 融入社会
-- 欺骗能力
+		- 认识自然
 - 经济能力，即同时具有资源获取、资源使用的能力；经济独立。
 	- 资源获取：即获取生产和发展的资源
+		- 资源竞争
+			- 一个生活在社会中的人，其存在的过程就是发展的过程，就是产生欲望-满足欲望的过程。在欲望驱使下，人产生一系列行为去实现自己的欲望。
+			- 欲望不断被满足，于是不断有新的欲望产生。欲望的无限性。
+				- 这种欲望逐渐强烈，以至于人逐渐为了达到目的而越来越放弃所谓的社会道德，越来越愿意采取激进的手段（但这不意味着总是需要采取激进的手段。这意味着在普通手段无法达到目标或达到目标的条件不及预期，人越来越愿意采取激进手段）。这个就是个体的底层逻辑。把这种个体，放在一个社会系统中。在总体资源有限，个体欲望无限的条件下，人的此种底层逻辑便逐渐涌现。于是，社会竞争的不断演变的过程，就是社会中每个个体在此种底层逻辑的不同发展阶段的总和。
+			- 欲望不断被满足，但是没有新的欲望产生。人
 	- 资源使用就是对未来资源分配的规划，要考虑个人欲望、个人能力、外界资源三种因素。
 #### 信息 -> 符号和语言 -> 思考与计算
 ↗ [Information Theory](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
@@ -903,7 +923,7 @@ tbd.
 ↗ [Philosophy of Language](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
 ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Formal System, Formal Logic, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+- ↗ [Formal System, Formal Semantics, and Formal Logic](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 
 ↗ [Natural Language Processing (NLP) & Computational Linguistics /Language, Thought, and Understanding](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#Language,%20Thought,%20and%20Understanding)
 ↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
@@ -1573,7 +1593,7 @@ The following outline provides an overview of and topical guide to academic disc
 > ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 > 
 > ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> ↗ [Formal System, Formal Logic, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+> ↗ [Formal System, Formal Semantics, and Formal Logic](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 ###### Empirical Study 🆚 Science
 > [!links]
 > ↗ [Science & Application](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Science%20&%20Application.md)

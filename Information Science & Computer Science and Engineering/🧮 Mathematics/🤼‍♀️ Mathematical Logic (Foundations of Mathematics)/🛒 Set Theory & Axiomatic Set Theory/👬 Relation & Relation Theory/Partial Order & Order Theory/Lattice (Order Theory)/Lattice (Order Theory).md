@@ -199,7 +199,7 @@ Every lattice can be embedded into a bounded lattice by adding a greatest and a 
 
 ## Least Fixed-point Theorem (of Lattice Function)
 > [!link]
-> ↗ [Function & Mapping of Set](../../../Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+> ↗ [Set Mapping & Function](../../../Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
 > 
 > 🔗 [Fixed-point property - Wikipedia](https://en.wikipedia.org/wiki/Fixed-point_property)
 > 🔗 [Ascending chain condition - Wikipedia](https://en.wikipedia.org/wiki/Ascending_chain_condition)
@@ -214,7 +214,7 @@ Every lattice can be embedded into a bounded lattice by adding a greatest and a 
 
 ### Least Fixed-point Theorem ⭐
 > [!links]
-> ↗ [Function & Mapping of Set](../../../Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md) "fixed point & recursion"
+> ↗ [Set Mapping & Function](../../../Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md) "fixed point & recursion"
 
 > 🔗 https://blog.wohin.me/posts/nju-program-analysis-05/
 

@@ -16,14 +16,15 @@
 ↗ [Programming Language Processing & Program Execution](../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 - ↗ [Compilation Phase](../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
 
-↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
-↗ [Computer Networking and Communication](../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-↗ [Computer Storage & Database Systems](../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
-↗ [Computer Implementations, Teardown & Repairs](../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
-
 ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 
+↗ [Computer Networking and Communication](../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+↗ [Computer Storage & Database Systems](../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
+- ↗ [Datacenter](../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20(HPS)/Datacenter.md)
+↗ [Computer Implementations, Teardown & Repairs](../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
+
 ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+↗ [Data Warehouse & Beyonds](../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Warehouse%20&%20Beyonds.md)
 
 ↗ [IoT /Embedded System](../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
 - ↗ [Single-Board Computer (SBC)](../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
@@ -91,6 +92,19 @@ Curious exactly what happens when you run a program on your computer? Read this 
 - [TechPowerUp Review Database](https://www.techpowerup.com/reviewdb/)
 	- Search for reviews and tests in our vast and expansive database of PC hardware reviews from the tech sphere. This database contains reviews from reputed technology websites, and lets you find reviews based on user popularity.
 - [Upcoming Hardware Launches](https://www.techpowerup.com/review/future-hardware-releases/)
+
+
+https://www.microsoft.com/en-us/research/wp-content/uploads/2019/09/Hints-and-Principles-v1-full.pdf
+Hints and Principles for Computer System Design
+Butler Lampson | November 1, 2020
+- This new long version of my 1983 paper suggests the goals you might have for your system—Simple, Timely, Efficient, Adaptable, Dependable, Yummy (STEADY)—and techniques forachieving them—Approximate, Incremental, Divide & Conquer (AID). It also gives some princi-ples for system design that are more than just hints, and many examples of how to apply the ideas.
+
+https://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf
+The Datacenter as a Computer -- An Introduction to the Design of Warehouse-Scale Machines
+Luiz André Barroso, Jimmy Clidaras, Urs Hölzle
+
+
+### Other Resources
 
 
 

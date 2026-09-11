@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Function & Mapping of Set](../../Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+↗ [Set Mapping & Function](../../Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
 
 
 ### Other Resources
