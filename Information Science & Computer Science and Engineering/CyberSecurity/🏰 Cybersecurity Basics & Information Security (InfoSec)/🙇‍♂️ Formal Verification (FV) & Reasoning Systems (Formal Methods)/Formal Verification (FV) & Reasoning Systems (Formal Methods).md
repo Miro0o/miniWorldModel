@@ -85,11 +85,8 @@ Tools and Sources
 
 
 https://community.wvu.edu/~krsubramani/courses/backupcourses/dm2Spr2013/coursetext/CalcofComp.pdf#
-The Calculus of ComputationDecision Procedures with Applications to Verification
+The Calculus of Computation Decision Procedures with Applications to Verification
 Aaron R. Bradley · Zohar Manna
-
-https://courses.compute.dtu.dk/02245/
-02245 - Program Verification
 
 
 ### Other Resources
@@ -109,71 +106,186 @@ https://courses.compute.dtu.dk/02245/
 > 
 > ↗ [Matching & Assignment Problems](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Matching%20&%20Assignment%20Problems/Matching%20&%20Assignment%20Problems.md)
 
-> [!TIP]
-> Verification 🆚 Validation
-> ↗ [ICT System Reliability (Correctness) & Verification](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 
-> 📖 Principles of Model Checking, Christel Baier and Joost-Pieter Katoen
+### Formal System and Formal Logic
+> [!links]
+> ↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+> 
+> ↗ [Mathematics](../../../🧮%20Mathematics/Mathematics.md) "Proofing, Reasoning, and Computing"
+> - ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> - ↗ [Formal System, Formal Semantics, and Formal Logic](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) ⭐
+> - ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md) ⭐
+> 
+> ↗ [Symbolic AI & Logic Programs](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Symbolic%20AI%20&%20Logic%20Programs/Symbolic%20AI%20&%20Logic%20Programs.md)
 
-In software and hardware design of complex systems, more time and efforts are spent on verification than on construction. Techniques are sought to reduce and ease the verification efforts while increasing their coverage. Formal methods oﬀer a large potential to obtain an early integration of verification in the design process, to provide more effective verification techniques, and to reduce the verification time.
+> [!Summary]
+> ↗ [Formal System, Formal Semantics, and Formal Logic](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) ⭐
+>
+> A **formal language** is a precisely defined collection of **symbols** and **rules (grammar /syntax)** for combining those symbols into valid **expressions**.
+> - Formal language = Alphabets + Formal syntax
+>
+> A **formal system** goes one step further. It uses a formal language and adds rules (deductive reasoning) that allow us to **derive one expression from other expressions**.
+> - Formal system = 
+> 	- Formal language + (Formal) Proof system, or
+> 	- Formal language + Starting statements /formula (expressed in defined formal language) + Deductive rules (Formal rules)
+> - Syntactic entailment:
+> 	- $\Gamma \vdash \varphi$
+> 	- $\Gamma$ syntactically entail $\varphi$: there **exists a formal proof** of $\varphi$ from $Γ$ , or, by applying deduction rules mechanically, we can infer $\varphi$ given $\Gamma$.
+> 	- It is about what we can proof, given starting statement and inference rules.
+> **Axiomatic system** =
+> - Same as formal system, but not necessarily formal language based.
+> - Language + Axioms (as starting statements) + Deductive rules (Theorems can be deductive rules)
+>
+> A **(formal) semantics** is a structure /interpretation assigned to (formal) language.
+> - $\text{Formal Language} \overset{\text{interpretation}}{\longrightarrow} \text{Meaning / Truth}$
+> - Semantic entailment:
+> 	- $\Gamma \models \varphi$
+> 	- $\Gamma$ semantically entail $\varphi$: **every interpretation /evaluation /model** that makes all formulas in $\Gamma$ true also makes $\varphi$ true.
+> 	- It is about what we define as truth.
+>
+> This naturally introduces: (see "properties of formal /logic system")
+> - soundness: what we can syntactically proof are all semantically true;
+> 	- $\Gamma \vdash \varphi \implies \Gamma \models \varphi$
+> - completeness: what are semantically true can all be syntactically proofed.
+> 	- $\Gamma \models \varphi \implies \Gamma \vdash \varphi$
+>
+> To conclude:
+>
+> ```tikz
+> \usepackage{amsmath,amssymb}
+> \usetikzlibrary{calc}
+> \begin{document}
+> \begin{tikzpicture}[
+>   scale=0.90, transform shape,
+>   font=\small,
+>   mainbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+>                   minimum width=4.25cm, minimum height=6.55cm, align=center},
+>   consequence/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+>                       minimum width=3.10cm, minimum height=1.25cm, align=center},
+>   logicbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+>                    minimum height=1.05cm, align=center},
+>   arr/.style={->, >=stealth, line width=.6pt},
+>   relation/.style={->, >=stealth, line width=.55pt},
+>   linklabel/.style={font=\scriptsize, inner sep=0pt},
+>   smallnote/.style={font=\scriptsize, align=center}
+> ]
+>
+> % =========================
+> % Added logic layer (outside the original four-box structure)
+> % =========================
+> \node[logicbox, minimum width=4.25cm] (ordinarylogic) at (0,4.95)
+>   {\textbf{Ordinary logic}\\[-1pt]{\scriptsize informal / natural-language reasoning}};
+>
+> \node[logicbox, minimum width=8.95cm] (formallogic) at (11.875,4.95)
+>   {\textbf{Formal logic}\\[-1pt]{\scriptsize formal study of inference and logical consequence}};
+>
+> \draw[arr] (ordinarylogic.east) -- (formallogic.west)
+>   node[midway,above=2.2pt,linklabel] {formalize};
+>
+> % =========================
+> % Original four-column structure — preserved
+> % =========================
+> \node[mainbox] (ordinary) at (0,0) {};
+> \node[mainbox] (axiomatic) at (4.75,0) {};
+> \node[mainbox] (formal) at (9.50,0) {};
+> \node[mainbox] (semantic) at (14.25,0) {};
+>
+> % Titles
+> \node[font=\bfseries\large, align=center, text width=3.7cm] at (0,2.45)
+>   {Ordinary\\mathematical\\activity};
+> \node[font=\bfseries\large, align=center, text width=3.7cm] at (4.75,2.45)
+>   {Axiomatic\\presentation};
+> \node[font=\bfseries\large, align=center, text width=3.7cm] at (9.50,2.55)
+>   {Formal system};
+> \node[font=\bfseries, align=center] at (9.50,2.12)
+>   {syntactic side};
+> \node[font=\bfseries\large, align=center, text width=3.7cm] at (14.25,2.45)
+>   {Model-theoretic\\semantics};
+>
+> % Top row content
+> \node[align=center, text width=3.55cm] (mathlang) at (0,.75)
+>   {Mathematical\\language\\[-1pt]{\scriptsize natural / semi-formal}};
+> \node[align=center, text width=3.55cm] (specified) at (4.75,.75)
+>   {Specified language\\and primitive notions};
+> \node[align=center, text width=3.55cm] (flang) at (9.50,.75)
+>   {Formal language $\mathcal L$};
+> \node[align=center, text width=3.55cm] (models) at (14.25,.75)
+>   {Structures /\\interpretations};
+>
+> % Bottom row content
+> \node[align=center, text width=3.55cm] (reason) at (0,-1.55)
+>   {Reasoning and proof\\[-1pt]{\scriptsize ordinary practice}};
+> \node[align=center, text width=3.55cm] (axioms) at (4.75,-1.55)
+>   {Axioms and accepted\\proof methods};
+> \node[align=center, text width=3.55cm] (calculus) at (9.50,-1.55)
+>   {Formal calculus $S$\\[-1pt]{\scriptsize axioms $+$ inference rules}};
+> \node[align=center, text width=3.55cm] (sat) at (14.25,-1.55)
+>   {Satisfaction relation\\[-1pt]$\mathcal M \models \varphi$};
+>
+> % Original vertical arrows
+> \draw[arr] (mathlang.south) -- (reason.north);
+> \draw[arr] (specified.south) -- (axioms.north);
+> \draw[arr] (flang.south) -- (calculus.north);
+> \draw[arr] (models.south) -- (sat.north);
+>
+> % Original horizontal arrows and labels — restored exactly
+> \draw[arr] (mathlang.east) -- (specified.west)
+>   node[midway,above=2.2pt,linklabel] {systematize};
+> \draw[arr] (reason.east) -- (axioms.west)
+>   node[midway,above=2.2pt,linklabel] {axiomatize};
+> \draw[arr] (specified.east) -- (flang.west)
+>   node[midway,above=2.2pt,linklabel] {formalize};
+> \draw[arr] (axioms.east) -- (calculus.west)
+>   node[midway,above=2.2pt,linklabel] {formalize};
+> \draw[arr] (flang.east) -- (models.west)
+>   node[midway,above=2.2pt,linklabel] {interpret};
+>
+> % =========================
+> % Added relation of logic layer to original diagram
+> % =========================
+> % Ordinary logic informs ordinary mathematical reasoning.
+> \draw[relation,dashed] (ordinarylogic.south) -- ($(ordinary.north)+(0,0.02)$)
+>   node[midway,font=\scriptsize,align=center,text width=2.25cm] {used in mathematical reasoning};
+>
+> % Formal logic spans the proof-theoretic and semantic sides.
+> \draw[gray!70, line width=.55pt] (7.26,3.62) -- (16.49,3.62);
+> \draw[gray!70, line width=.55pt] (7.26,3.62) -- (7.26,3.45);
+> \draw[gray!70, line width=.55pt] (16.49,3.62) -- (16.49,3.45);
+> \node[smallnote, fill=white, inner sep=1pt] at (11.875,3.62)
+>   {proof-theoretic / syntactic side \quad + \quad model-theoretic / semantic side};
+> \draw[relation] (formallogic.south) -- (11.875,3.82);
+>
+> % =========================
+> % Original consequence boxes
+> % =========================
+> \node[consequence] (syncon) at (9.50,-4.33)
+>   {$\Gamma \vdash_{S} \varphi$\\[-1pt]{\scriptsize syntactic consequence}};
+> \node[consequence] (semcon) at (14.25,-4.33)
+>   {$\Gamma \models \varphi$\\[-1pt]{\scriptsize semantic consequence}};
+> \draw[arr] (formal.south) -- (syncon.north);
+> \draw[arr] (semantic.south) -- (semcon.north);
+>
+> % =========================
+> % Added soundness / completeness bridges
+> % Restored to the earlier lower-bridge layout; formulas sit with the arrows.
+> % =========================
+> \draw[arr] (syncon.south) -- (9.50,-5.60) -- (14.25,-5.60) -- (semcon.south);
+> \node[font=\scriptsize,above=2.2pt] at (11.875,-5.60)
+>   {soundness: $\Gamma\vdash_S\varphi \Rightarrow \Gamma\models\varphi$};
+>
+> \draw[arr] (semcon.south) -- (14.25,-6.36) -- (9.50,-6.36) -- (syncon.south);
+> \node[font=\scriptsize,above=2.2pt] at (11.875,-6.36)
+>   {completeness: $\Gamma\models\varphi \Rightarrow \Gamma\vdash_S\varphi$};
+>
+> \node[smallnote] at (11.875,-6.96)
+>   {if both hold: $\Gamma\vdash_S\varphi \iff \Gamma\models\varphi$};
+>
+> \end{tikzpicture}
+> \end{document}
+> ```
 
-Let us first briefly discuss the role of formal methods. **To put it in a nutshell, formal methods can be considered as “the applied mathematics for modeling and analyzing ICT systems”.** Their aim is to establish system correctness with mathematical rigor. Their great potential has led to an increasing use by engineers of formal methods for the verification of complex software and hardware systems. Besides, formal methods are one of the “highly recommended” verification techniques for software development of safety-critical systems according to, e.g., the best practices standard of the IEC (International Electrotechnical Commission) and standards of the ESA (European Space Agency). 
 
-> 🔗 https://en.wikipedia.org/wiki/Formal_verification
-
-==In the context of [hardware](https://en.wikipedia.org/wiki/Computer_hardware "Computer hardware") and [software](https://en.wikipedia.org/wiki/Software "Software") systems, **formal verification** is the act of [proving](https://en.wikipedia.org/wiki/Mathematical_proof "Mathematical proof") or disproving the [correctness](https://en.wikipedia.org/wiki/Correctness_\(computer_science\) "Correctness (computer science)") of a system with respect to a certain [formal specification](https://en.wikipedia.org/wiki/Formal_specification "Formal specification") or property, using [formal methods](https://en.wikipedia.org/wiki/Formal_methods "Formal methods") of [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics").== Formal verification is a key incentive for [formal specification](https://en.wikipedia.org/wiki/Formal_specification "Formal specification") of systems, and is at the core of [formal methods](https://en.wikipedia.org/wiki/Formal_methods "Formal methods"). It represents an important dimension of [analysis and verification](https://en.wikipedia.org/wiki/Electronic_design_automation#Analysis_and_verification "Electronic design automation") in [electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation "Electronic design automation") and is one approach to [software verification](https://en.wikipedia.org/wiki/Software_verification "Software verification"). The use of formal verification enables the highest [Evaluation Assurance Level](https://en.wikipedia.org/wiki/Evaluation_Assurance_Level "Evaluation Assurance Level") ([EAL7](https://en.wikipedia.org/wiki/EAL7 "EAL7")) in the framework of [common criteria](https://en.wikipedia.org/wiki/Common_criteria "Common criteria") for [computer security](https://en.wikipedia.org/wiki/Computer_security "Computer security") certification.
-
-Formal verification can be helpful in proving the correctness of systems such as: [cryptographic protocols](https://en.wikipedia.org/wiki/Cryptographic_protocol "Cryptographic protocol"), [combinational circuits](https://en.wikipedia.org/wiki/Combinational_logic "Combinational logic"), [digital circuits](https://en.wikipedia.org/wiki/Digital_circuit "Digital circuit") with internal memory, and software expressed as [source code](https://en.wikipedia.org/wiki/Source_code "Source code") in a [programming language](https://en.wikipedia.org/wiki/Programming_language "Programming language"). Prominent examples of verified software systems include the [CompCert](https://en.wikipedia.org/wiki/CompCert "CompCert") verified [C](https://en.wikipedia.org/wiki/C_programming_language "C programming language") [compiler](https://en.wikipedia.org/wiki/Compiler "Compiler") and the [seL4](https://en.wikipedia.org/wiki/L4_microkernel_family#High_assurance:_seL4 "L4 microkernel family") high-assurance [operating system kernel](https://en.wikipedia.org/wiki/Kernel_\(operating_system\) "Kernel (operating system)").
-
-The verification of these systems is done by ensuring the existence of a [formal proof](https://en.wikipedia.org/wiki/Formal_proof "Formal proof") of a [mathematical model](https://en.wikipedia.org/wiki/Mathematical_model "Mathematical model") of the system. Examples of mathematical objects used to model systems are: [finite-state machines](https://en.wikipedia.org/wiki/Finite-state_machine "Finite-state machine"), [labelled transition systems](https://en.wikipedia.org/wiki/Labelled_transition_system "Labelled transition system"), [Horn clauses](https://en.wikipedia.org/wiki/Horn_clause "Horn clause"), [Petri nets](https://en.wikipedia.org/wiki/Petri_net "Petri net"), [vector addition systems](https://en.wikipedia.org/wiki/Vector_addition_system "Vector addition system"), [timed automata](https://en.wikipedia.org/wiki/Timed_automaton "Timed automaton"), [hybrid automata](https://en.wikipedia.org/wiki/Hybrid_automata "Hybrid automata"), [process algebra](https://en.wikipedia.org/wiki/Process_algebra "Process algebra"), formal semantics of programming languages such as [operational semantics](https://en.wikipedia.org/wiki/Operational_semantics "Operational semantics"), [denotational semantics](https://en.wikipedia.org/wiki/Denotational_semantics "Denotational semantics"), [axiomatic semantics](https://en.wikipedia.org/wiki/Axiomatic_semantics "Axiomatic semantics") and [Hoare logic](https://en.wikipedia.org/wiki/Hoare_logic "Hoare logic").
-
-> 🤖 GPT 5.6 Sol
-
-Formal methods are mathematically rigorous techniques for the **specification, analysis, and verification** of software and hardware systems. ==Their central idea is to transform questions about the ***semantic behavior*** of a system into precisely defined mathematical objects that can be analyzed through ***syntactical manipulation***, such as symbolic computation or mechanical deduction.==
-
-Let $M$ denote a formal model of a system and let $\varphi$ denote a desired property. Verification can then be formulated as the semantic question
-$$
-M \models \varphi,
-$$
-where $\models$ denotes **semantic satisfaction**: whether the behavior represented by $M$ satisfies the meaning of $\varphi$.
-
-Formal methods represent both $M$ and $\varphi$ using a formal syntax and then apply mathematically justified algorithms or deduction rules. In deductive verification, for example, one may establish
-$$
-\Gamma \vdash \varphi,
-$$
-where $\vdash$ denotes **syntactic derivability**. The relation between syntactic deduction and semantic truth is captured by *soundness*:
-$$
-\Gamma \vdash \varphi
-\quad\Longrightarrow\quad
-\Gamma \models \varphi.
-$$
-
-Thus, the general methodology can be summarized as:
-
-```mermaid
-flowchart LR
-    A[Semantic problem]
-    -->|Formalization| B[Formal model and specification]
-    -->|Mechanical reasoning| C[Proof / analysis]
-    -->|Sound interpretation| D[Semantic guarantee]
-````
-
-Conceptually,
-
-$$  
-\text{semantic problem}  
-\longrightarrow  
-\text{formalization}  
-\longrightarrow  
-\text{syntactic/symbolic reasoning}  
-\longrightarrow  
-\text{semantic conclusion}.  
-$$
-
-Typical techniques include **theorem proving, model checking, SAT/SMT solving, abstract interpretation, and program verification**. Importantly, formal methods establish properties of the _formal model_. Therefore, a mathematically correct proof does not by itself guarantee that the specification faithfully captures the intended real-world behavior.
-
-
-### Verification System
+### Formal Verification System
 #### Proof Verification / Computational Verification
 > [!links]
 > ↗ [Complexity-Theoretic Verification](Complexity-Theoretic%20Verification/Complexity-Theoretic%20Verification.md)
@@ -291,11 +403,11 @@ Properties
 ├── Universality
 └── Post-quantum security
 ```
-#### System Verification / Formal Methods
+#### Formal Methods & Formal System Verification 🤔
 > [!links]
 > ↗ [ICT System Reliability (Correctness) & Verification](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 > ↗ [Hardware (Digital Circuits) Verification](Hardware%20(Digital%20Circuits)%20Verification/Hardware%20(Digital%20Circuits)%20Verification.md)
-> ↗ [Software (Program) Verification](Software%20(Program)%20Verification/Software%20(Program)%20Verification.md)
+> ↗ [Program (Formal) Verification](Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
 > 
 > ↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
 
@@ -318,183 +430,238 @@ Properties
 > - Software engineering
 > - Hardware design
 
+> [!TIP]
+> Verification 🆚 Validation
+> ↗ [ICT System Reliability (Correctness) & Verification](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 
-### Formal System and Formal Logic
-> [!links]
-> ↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-> 
-> ↗ [Mathematics](../../../🧮%20Mathematics/Mathematics.md) "Proofing, Reasoning, and Computing"
-> - ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> - ↗ [Formal System, Formal Semantics, and Formal Logic](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) ⭐
-> - ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
-> 
-> ↗ [Symbolic AI & Logic Programs](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Symbolic%20AI%20&%20Logic%20Programs/Symbolic%20AI%20&%20Logic%20Programs.md)
+> 📖 Principles of Model Checking, Christel Baier and Joost-Pieter Katoen
 
-A **formal language** is a precisely defined collection of **symbols** and **rules (grammar /syntax)** for combining those symbols into valid **expressions**.
-- Formal language = Alphabets + Formal syntax
+In software and hardware design of complex systems, more time and efforts are spent on verification than on construction. Techniques are sought to reduce and ease the verification efforts while increasing their coverage. Formal methods oﬀer a large potential to obtain an early integration of verification in the design process, to provide more effective verification techniques, and to reduce the verification time.
 
-A **formal system** goes one step further. It uses a formal language and adds rules (deductive reasoning) that allow us to **derive one expression from other expressions**.
-- Formal system = 
-	- Formal language + (Formal) Proof system, or
-	- Formal language + Starting statements /formula (expressed in defined formal language) + Deductive rules (Formal rules)
-- Syntactic entailment:
-	- $\Gamma \vdash \varphi$
-	- $\Gamma$ syntactically entail $\varphi$: there **exists a formal proof** of $\varphi$ from $Γ$ , or, by applying deduction rules mechanically, we can infer $\varphi$ given $\Gamma$.
-	- It is about what we can proof, given starting statement and inference rules.
-**Axiomatic system** =
-- Same as formal system, but not necessarily formal language based.
-- Language + Axioms (as starting statements) + Deductive rules (Theorems can be deductive rules)
+Let us first briefly discuss the role of formal methods. **To put it in a nutshell, formal methods can be considered as “the applied mathematics for modeling and analyzing ICT systems”.** Their aim is to establish system correctness with mathematical rigor. Their great potential has led to an increasing use by engineers of formal methods for the verification of complex software and hardware systems. Besides, formal methods are one of the “highly recommended” verification techniques for software development of safety-critical systems according to, e.g., the best practices standard of the IEC (International Electrotechnical Commission) and standards of the ESA (European Space Agency). 
 
-A **(formal) semantics** is a structure /interpretation assigned to (formal) language.
-- $\text{Formal Language} \xrightarrow{interpretation} \text{​Meaning / Truth}$ 
-- Semantic entailment:
-	- $\Gamma \models \varphi$
-	- $\Gamma$ semantically entail $\varphi$: **every interpretation /evaluation /model** that makes all formulas in $\Gamma$ true also makes $\varphi$ true.
-	- It is about what we define as truth.
+> 🔗 https://en.wikipedia.org/wiki/Formal_verification
 
-This naturally introduces: (see "properties of formal /logic system")
-- soundness: what we can syntactically proof are all semantically true;
-	- $\Gamma \vdash \varphi \implies \Gamma \models \varphi$
-- completeness: what are semantically true can all be syntactically proofed.
-	- $\Gamma \models \varphi \implies \Gamma \vdash \varphi$
+==In the context of [hardware](https://en.wikipedia.org/wiki/Computer_hardware "Computer hardware") and [software](https://en.wikipedia.org/wiki/Software "Software") systems, **formal verification** is the act of [proving](https://en.wikipedia.org/wiki/Mathematical_proof "Mathematical proof") or disproving the [correctness](https://en.wikipedia.org/wiki/Correctness_\(computer_science\) "Correctness (computer science)") of a system with respect to a certain [formal specification](https://en.wikipedia.org/wiki/Formal_specification "Formal specification") or property, using [formal methods](https://en.wikipedia.org/wiki/Formal_methods "Formal methods") of [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics").== Formal verification is a key incentive for [formal specification](https://en.wikipedia.org/wiki/Formal_specification "Formal specification") of systems, and is at the core of [formal methods](https://en.wikipedia.org/wiki/Formal_methods "Formal methods"). It represents an important dimension of [analysis and verification](https://en.wikipedia.org/wiki/Electronic_design_automation#Analysis_and_verification "Electronic design automation") in [electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation "Electronic design automation") and is one approach to [software verification](https://en.wikipedia.org/wiki/Software_verification "Software verification"). The use of formal verification enables the highest [Evaluation Assurance Level](https://en.wikipedia.org/wiki/Evaluation_Assurance_Level "Evaluation Assurance Level") ([EAL7](https://en.wikipedia.org/wiki/EAL7 "EAL7")) in the framework of [common criteria](https://en.wikipedia.org/wiki/Common_criteria "Common criteria") for [computer security](https://en.wikipedia.org/wiki/Computer_security "Computer security") certification.
 
-To conclude:
+Formal verification can be helpful in proving the correctness of systems such as: [cryptographic protocols](https://en.wikipedia.org/wiki/Cryptographic_protocol "Cryptographic protocol"), [combinational circuits](https://en.wikipedia.org/wiki/Combinational_logic "Combinational logic"), [digital circuits](https://en.wikipedia.org/wiki/Digital_circuit "Digital circuit") with internal memory, and software expressed as [source code](https://en.wikipedia.org/wiki/Source_code "Source code") in a [programming language](https://en.wikipedia.org/wiki/Programming_language "Programming language"). Prominent examples of verified software systems include the [CompCert](https://en.wikipedia.org/wiki/CompCert "CompCert") verified [C](https://en.wikipedia.org/wiki/C_programming_language "C programming language") [compiler](https://en.wikipedia.org/wiki/Compiler "Compiler") and the [seL4](https://en.wikipedia.org/wiki/L4_microkernel_family#High_assurance:_seL4 "L4 microkernel family") high-assurance [operating system kernel](https://en.wikipedia.org/wiki/Kernel_\(operating_system\) "Kernel (operating system)").
+
+The verification of these systems is done by ensuring the existence of a [formal proof](https://en.wikipedia.org/wiki/Formal_proof "Formal proof") of a [mathematical model](https://en.wikipedia.org/wiki/Mathematical_model "Mathematical model") of the system. Examples of mathematical objects used to model systems are: [finite-state machines](https://en.wikipedia.org/wiki/Finite-state_machine "Finite-state machine"), [labelled transition systems](https://en.wikipedia.org/wiki/Labelled_transition_system "Labelled transition system"), [Horn clauses](https://en.wikipedia.org/wiki/Horn_clause "Horn clause"), [Petri nets](https://en.wikipedia.org/wiki/Petri_net "Petri net"), [vector addition systems](https://en.wikipedia.org/wiki/Vector_addition_system "Vector addition system"), [timed automata](https://en.wikipedia.org/wiki/Timed_automaton "Timed automaton"), [hybrid automata](https://en.wikipedia.org/wiki/Hybrid_automata "Hybrid automata"), [process algebra](https://en.wikipedia.org/wiki/Process_algebra "Process algebra"), formal semantics of programming languages such as [operational semantics](https://en.wikipedia.org/wiki/Operational_semantics "Operational semantics"), [denotational semantics](https://en.wikipedia.org/wiki/Denotational_semantics "Denotational semantics"), [axiomatic semantics](https://en.wikipedia.org/wiki/Axiomatic_semantics "Axiomatic semantics") and [Hoare logic](https://en.wikipedia.org/wiki/Hoare_logic "Hoare logic").
+
+> 🤖 GPT 5.6 Sol
+
+Formal methods are mathematically rigorous techniques for the **specification, analysis, and verification** of software and hardware systems. ==Their central idea is to transform questions about the ***semantic behavior*** of a system into precisely defined mathematical objects that can be analyzed through ***syntactical manipulation***, such as symbolic computation or mechanical deduction.==
+
+Let $M$ denote a formal model of a system and let $\varphi$ denote a desired property. Verification can then be formulated as the semantic question
+$$
+M \models \varphi,
+$$
+where $\models$ denotes **semantic satisfaction**: whether the behavior represented by $M$ satisfies the meaning of $\varphi$.
+
+Formal methods represent both $M$ and $\varphi$ using a formal syntax and then apply mathematically justified algorithms or deduction rules. In deductive verification, for example, one may establish
+$$
+\Gamma \vdash \varphi,
+$$
+where $\vdash$ denotes **syntactic derivability**. The relation between syntactic deduction and semantic truth is captured by *soundness*:
+$$
+\Gamma \vdash \varphi
+\quad\Longrightarrow\quad
+\Gamma \models \varphi.
+$$
+
+Thus, the general methodology can be summarized as:
+```mermaid
+flowchart LR
+    A[Semantic problem]
+    -->|Formalization| B[Formal model and specification]
+    -->|Mechanical reasoning| C[Proof / analysis]
+    -->|Sound interpretation| D[Semantic guarantee]
+````
+
+Conceptually,
+$$  
+\text{semantic problem} 
+\longrightarrow
+\text{formalization}
+\longrightarrow
+\text{syntactic/symbolic reasoning}
+\longrightarrow
+\text{semantic conclusion}.
+$$
+
+Typical techniques include **theorem proving, model checking, SAT/SMT solving, abstract interpretation, and program verification**. Importantly, formal methods establish properties of the _formal model (specification)_ . Therefore, a mathematically correct proof does not by itself guarantee that the specification faithfully captures the intended real-world behavior.
+
+![](../../../../Assets/Pics/Screenshot%202026-09-11%20at%2018.14.02.png)
+<small><a>https://www.cse.cuhk.edu.hk/~pick/csci5690/</a> CSCI5690: Automated Reasoning about Software Systems</small>
+
+A common theme: from program to formulas
 
 ```tikz
-\usepackage{amsmath,amssymb}
-\usetikzlibrary{calc}
 \begin{document}
+\definecolor{panel}{RGB}{32,34,38}
+\definecolor{paneltwo}{RGB}{42,44,49}
+\definecolor{border}{RGB}{115,118,125}
+\definecolor{textmain}{RGB}{235,235,232}
+\definecolor{textmuted}{RGB}{170,172,176}
+\definecolor{accent}{RGB}{184,154,92}
+\definecolor{accentdark}{RGB}{62,54,39}
+
 \begin{tikzpicture}[
-  scale=0.90, transform shape,
-  font=\small,
-  mainbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
-                  minimum width=4.25cm, minimum height=6.55cm, align=center},
-  consequence/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
-                      minimum width=3.10cm, minimum height=1.25cm, align=center},
-  logicbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
-                   minimum height=1.05cm, align=center},
-  arr/.style={->, >=stealth, line width=.6pt},
-  relation/.style={->, >=stealth, line width=.55pt},
-  linklabel/.style={font=\scriptsize, inner sep=0pt},
-  smallnote/.style={font=\scriptsize, align=center}
+    >=latex,
+    font=\small,
+    text=textmain,
+
+    box/.style={
+        draw=border,
+        fill=panel,
+        text=textmain,
+        rounded corners,
+        align=center,
+        minimum height=1.6cm,
+        minimum width=2.9cm,
+        line width=0.7pt
+    },
+
+    process/.style={
+        draw=accent,
+        fill=accentdark,
+        text=textmain,
+        rounded corners,
+        align=center,
+        minimum height=2cm,
+        minimum width=3.1cm,
+        line width=1pt
+    },
+
+    note/.style={
+        draw=border,
+        fill=paneltwo,
+        text=textmain,
+        rounded corners,
+        align=left,
+        inner sep=7pt,
+        text width=4.2cm,
+        line width=0.6pt
+    }
 ]
 
-% =========================
-% Added logic layer (outside the original four-box structure)
-% =========================
-\node[logicbox, minimum width=4.25cm] (ordinarylogic) at (0,4.95)
-  {\textbf{Ordinary logic}\\[-1pt]{\scriptsize informal / natural-language reasoning}};
+% ---------------------------------------------------------
+% Main pipeline
+% ---------------------------------------------------------
 
-\node[logicbox, minimum width=8.95cm] (formallogic) at (11.875,4.95)
-  {\textbf{Formal logic}\\[-1pt]{\scriptsize formal study of inference and logical consequence}};
+\node[box] (program) at (0,0) {
+    \textbf{Program}\\
+    +\\
+    \textbf{Specification}\\[2mm]
+    preconditions\\
+    postconditions\\
+    invariants
+};
 
-\draw[arr] (ordinarylogic.east) -- (formallogic.west)
-  node[midway,above=2.2pt,linklabel] {formalize};
+\node[process] (vcgen) at (4.2,0) {
+    \textbf{Verification}\\
+    \textbf{Condition Generator}\\[2mm]
+    Program reasoning\\
+    $\rightarrow$ logical formulas
+};
 
-% =========================
-% Original four-column structure — preserved
-% =========================
-\node[mainbox] (ordinary) at (0,0) {};
-\node[mainbox] (axiomatic) at (4.75,0) {};
-\node[mainbox] (formal) at (9.50,0) {};
-\node[mainbox] (semantic) at (14.25,0) {};
+\node[box] (vc) at (8.4,0) {
+    \textbf{Verification}\\
+    \textbf{Conditions}\\[2mm]
+    Proof obligations\\
+    expressed in logic
+};
 
-% Titles
-\node[font=\bfseries\large, align=center, text width=3.7cm] at (0,2.45)
-  {Ordinary\\mathematical\\activity};
-\node[font=\bfseries\large, align=center, text width=3.7cm] at (4.75,2.45)
-  {Axiomatic\\presentation};
-\node[font=\bfseries\large, align=center, text width=3.7cm] at (9.50,2.55)
-  {Formal system};
-\node[font=\bfseries, align=center] at (9.50,2.12)
-  {syntactic side};
-\node[font=\bfseries\large, align=center, text width=3.7cm] at (14.25,2.45)
-  {Model-theoretic\\semantics};
+\node[process] (solver) at (12.6,0) {
+    \textbf{Theorem Prover}\\
+    /\\
+    \textbf{SMT Solver}\\[2mm]
+    Attempts to prove\\
+    each condition
+};
 
-% Top row content
-\node[align=center, text width=3.55cm] (mathlang) at (0,.75)
-  {Mathematical\\language\\[-1pt]{\scriptsize natural / semi-formal}};
-\node[align=center, text width=3.55cm] (specified) at (4.75,.75)
-  {Specified language\\and primitive notions};
-\node[align=center, text width=3.55cm] (flang) at (9.50,.75)
-  {Formal language $\mathcal L$};
-\node[align=center, text width=3.55cm] (models) at (14.25,.75)
-  {Structures /\\interpretations};
+\node[box] (result) at (16.8,0) {
+    \textbf{Verification Result}\\[2mm]
+    proved\\
+    or\\
+    counterexample
+};
 
-% Bottom row content
-\node[align=center, text width=3.55cm] (reason) at (0,-1.55)
-  {Reasoning and proof\\[-1pt]{\scriptsize ordinary practice}};
-\node[align=center, text width=3.55cm] (axioms) at (4.75,-1.55)
-  {Axioms and accepted\\proof methods};
-\node[align=center, text width=3.55cm] (calculus) at (9.50,-1.55)
-  {Formal calculus $S$\\[-1pt]{\scriptsize axioms $+$ inference rules}};
-\node[align=center, text width=3.55cm] (sat) at (14.25,-1.55)
-  {Satisfaction relation\\[-1pt]$\mathcal M \models \varphi$};
 
-% Original vertical arrows
-\draw[arr] (mathlang.south) -- (reason.north);
-\draw[arr] (specified.south) -- (axioms.north);
-\draw[arr] (flang.south) -- (calculus.north);
-\draw[arr] (models.south) -- (sat.north);
+% ---------------------------------------------------------
+% Main arrows
+% ---------------------------------------------------------
 
-% Original horizontal arrows and labels — restored exactly
-\draw[arr] (mathlang.east) -- (specified.west)
-  node[midway,above=2.2pt,linklabel] {systematize};
-\draw[arr] (reason.east) -- (axioms.west)
-  node[midway,above=2.2pt,linklabel] {axiomatize};
-\draw[arr] (specified.east) -- (flang.west)
-  node[midway,above=2.2pt,linklabel] {formalize};
-\draw[arr] (axioms.east) -- (calculus.west)
-  node[midway,above=2.2pt,linklabel] {formalize};
-\draw[arr] (flang.east) -- (models.west)
-  node[midway,above=2.2pt,linklabel] {interpret};
+\draw[->, line width=1pt, draw=textmuted]
+    (program) -- (vcgen);
 
-% =========================
-% Added relation of logic layer to original diagram
-% =========================
-% Ordinary logic informs ordinary mathematical reasoning.
-\draw[relation,dashed] (ordinarylogic.south) -- ($(ordinary.north)+(0,0.02)$)
-  node[midway,font=\scriptsize,align=center,text width=2.25cm] {used in mathematical reasoning};
+\draw[->, line width=1pt, draw=textmuted]
+    (vcgen) -- (vc);
 
-% Formal logic spans the proof-theoretic and semantic sides.
-\draw[gray!70, line width=.55pt] (7.26,3.62) -- (16.49,3.62);
-\draw[gray!70, line width=.55pt] (7.26,3.62) -- (7.26,3.45);
-\draw[gray!70, line width=.55pt] (16.49,3.62) -- (16.49,3.45);
-\node[smallnote, fill=white, inner sep=1pt] at (11.875,3.62)
-  {proof-theoretic / syntactic side \quad + \quad model-theoretic / semantic side};
-\draw[relation] (formallogic.south) -- (11.875,3.82);
+\draw[->, line width=1pt, draw=textmuted]
+    (vc) -- (solver);
 
-% =========================
-% Original consequence boxes
-% =========================
-\node[consequence] (syncon) at (9.50,-4.33)
-  {$\Gamma \vdash_{S} \varphi$\\[-1pt]{\scriptsize syntactic consequence}};
-\node[consequence] (semcon) at (14.25,-4.33)
-  {$\Gamma \models \varphi$\\[-1pt]{\scriptsize semantic consequence}};
-\draw[arr] (formal.south) -- (syncon.north);
-\draw[arr] (semantic.south) -- (semcon.north);
+\draw[->, line width=1pt, draw=textmuted]
+    (solver) -- (result);
 
-% =========================
-% Added soundness / completeness bridges
-% Restored to the earlier lower-bridge layout; formulas sit with the arrows.
-% =========================
-\draw[arr] (syncon.south) -- (9.50,-5.60) -- (14.25,-5.60) -- (semcon.south);
-\node[font=\scriptsize,above=2.2pt] at (11.875,-5.60)
-  {soundness: $\Gamma\vdash_S\varphi \Rightarrow \Gamma\models\varphi$};
 
-\draw[arr] (semcon.south) -- (14.25,-6.36) -- (9.50,-6.36) -- (syncon.south);
-\node[font=\scriptsize,above=2.2pt] at (11.875,-6.36)
-  {completeness: $\Gamma\models\varphi \Rightarrow \Gamma\vdash_S\varphi$};
+% ---------------------------------------------------------
+% Verification-condition explanation
+% ---------------------------------------------------------
 
-\node[smallnote] at (11.875,-6.96)
-  {if both hold: $\Gamma\vdash_S\varphi \iff \Gamma\models\varphi$};
+\node[note] (logicnote) at (8.4,3.5) {
+    \textbf{Logical formulas}\\[2mm]
+
+    Verification conditions may involve:
+
+    $\bullet$ propositional logic\\
+    $\bullet$ first-order logic\\
+    $\bullet$ arithmetic\\
+    $\bullet$ arrays\\
+    $\bullet$ bit-vectors
+};
+
+\draw[dashed, ->, draw=border]
+    (logicnote) -- (vc);
+
+
+% ---------------------------------------------------------
+% SMT explanation
+% ---------------------------------------------------------
+
+\node[note] (smtnote) at (12.6,-3.6) {
+    \textbf{Example: Z3}\\[2mm]
+
+    SMT = Satisfiability Modulo Theories.
+
+    Typical theories include:
+
+    $\bullet$ integers and reals\\
+    $\bullet$ arrays\\
+    $\bullet$ bit-vectors\\
+    $\bullet$ equality\\
+    $\bullet$ uninterpreted functions
+};
+
+\draw[dashed, ->, draw=border]
+    (smtnote) -- (solver);
+
+
+% ---------------------------------------------------------
+% Conceptual labels
+% ---------------------------------------------------------
+
+\node[text=textmuted] at (4.2,-1.7)
+    {\footnotesize Program $\rightarrow$ Logic};
+
+\node[text=textmuted] at (12.6,1.7)
+    {\footnotesize Logic $\rightarrow$ Proof};
 
 \end{tikzpicture}
 \end{document}
 ```
 
-
-### Formal Methods, Symbolic Methods, Constraint Solving, Search & AI Planning, and Mathematical Optimization
+##### Formal Methods, Symbolic Methods, Constraint Solving, Search & AI Planning, and Mathematical Optimization
 > [!links]
 > ↗ [Problem Solving & Search-Based Methods](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
 > ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
@@ -540,7 +707,7 @@ https://zhuanlan.zhihu.com/p/675592367
 	4. Part IV：混合执行
 	5. Part V：执行生成测试
 	6. Part VI：选择符号执行
-2. 2、约束求解
+2. 约束求解
 	1. Part I：前言
 	2. Part II：约束求解
 	3. Part III：约束求解问题

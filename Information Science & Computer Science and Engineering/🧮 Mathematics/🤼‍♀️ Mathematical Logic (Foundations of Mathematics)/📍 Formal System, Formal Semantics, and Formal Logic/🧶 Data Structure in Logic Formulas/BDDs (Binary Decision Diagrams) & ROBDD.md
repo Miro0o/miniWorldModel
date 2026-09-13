@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## Intro
 > 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
@@ -29,4 +32,3 @@ A path from the root node to the 1-terminal represents a (possibly partial) vari
 
 ## Ref
 [Binary Decision Diagrams: An Algorithmic Basis for Symbolic Model Checking -- Randal E. Bryant1]: https://www.cs.cmu.edu/~bryant/pubdir/hmc-bdd18.pdf
-

@@ -289,6 +289,42 @@ $$A::=t1≐t2∣Rt1⋅⋅⋅tn∣¬A∣A∧B∣A∨B∣A→B∣A↔B∣∀xA∣�
 > ↗ [BNF (Backus–Naur Form)](Formal%20Syntax%20Notations/BNF%20(Backus–Naur%20Form).md)
 > ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20(PL)%20-%20(零阶)%20命题逻辑.md)
 
+> 🤖 Google AI Search
+
+A **normal form** in logic is ==a standardized, restricted way of writing a logical expression so its structure, truth conditions, and logical properties are easy to analyze and compare==
+
+> [!quote]
+> https://en.wikipedia.org/wiki/Normal_form
+>  
+> **Normal form** may refer to:
+> - [Normal form (databases)](https://en.wikipedia.org/wiki/Database_normalization#Normal_forms "Database normalization")
+> - [Normal form (game theory)](https://en.wikipedia.org/wiki/Normal-form_game "Normal-form game")
+> - [Canonical form](https://en.wikipedia.org/wiki/Canonical_form "Canonical form")
+> - [Normal form (dynamical systems)](https://en.wikipedia.org/wiki/Normal_form_\(dynamical_systems\) "Normal form (dynamical systems)")
+> - [Hesse normal form](https://en.wikipedia.org/wiki/Hesse_normal_form "Hesse normal form")
+> - [Normal form in music](https://en.wikipedia.org/wiki/Set_\(music\)#Non-serial "Set (music)")
+> - [Jordan normal form](https://en.wikipedia.org/wiki/Jordan_normal_form "Jordan normal form")
+> 
+> in formal language theory:
+> - [Chomsky normal form](https://en.wikipedia.org/wiki/Chomsky_normal_form "Chomsky normal form")
+> - [Greibach normal form](https://en.wikipedia.org/wiki/Greibach_normal_form "Greibach normal form")
+> - [Kuroda normal form](https://en.wikipedia.org/wiki/Kuroda_normal_form "Kuroda normal form")
+> - [Normal form (abstract rewriting)](https://en.wikipedia.org/wiki/Normal_form_\(abstract_rewriting\) "Normal form (abstract rewriting)"), an element of a rewrite system which cannot be further rewritten
+> 
+> in logic:
+> - [Normal form (natural deduction)](https://en.wikipedia.org/wiki/Normal_form_\(natural_deduction\) "Normal form (natural deduction)")
+> - [Algebraic normal form](https://en.wikipedia.org/wiki/Algebraic_normal_form "Algebraic normal form")
+> - [Canonical normal form](https://en.wikipedia.org/wiki/Canonical_normal_form "Canonical normal form")
+> - [Clausal normal form](https://en.wikipedia.org/wiki/Clausal_normal_form "Clausal normal form")
+> - [Conjunctive normal form](https://en.wikipedia.org/wiki/Conjunctive_normal_form "Conjunctive normal form")
+> - [Disjunctive normal form](https://en.wikipedia.org/wiki/Disjunctive_normal_form "Disjunctive normal form")
+> - [Negation normal form](https://en.wikipedia.org/wiki/Negation_normal_form "Negation normal form")
+> - [Prenex normal form](https://en.wikipedia.org/wiki/Prenex_normal_form "Prenex normal form")
+> - [Skolem normal form](https://en.wikipedia.org/wiki/Skolem_normal_form "Skolem normal form")
+> 
+> in lambda calculus:
+> - [Beta normal form](https://en.wikipedia.org/wiki/Beta_normal_form "Beta normal form")
+
 
 ### Sequent (序贯): Antecedent + Succedent
 > 🔗 https://thzt.github.io/2018/01/30/semantics-4/

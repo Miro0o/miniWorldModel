@@ -281,6 +281,8 @@ Also in ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](.
 > - This is a _relation between sentences and proofs_, not a proposition that can be true or false _inside_ the logic.
 > - You _can_ say informally that `A ⊢ B` is _true_ if there exists a syntactic proof of B from A, and _false_ if not—but that is a statement **outside** the logic, in the meta-theory.
 > 
+> > Where "$\Gamma \vdash \Delta$" as a whole is a **sequent** as in **sequent calculus**.
+> 
 > $A\models B$ (semantic entailment)
 > - It is about what we define as truth.
 > - Same as `A ⊢ B`, it is **not a formula of the object language**.  It is a **meta-logical statement** about semantics, meaning "In every valuation (or model) where A is true, B is also true."
@@ -691,6 +693,7 @@ Non-Classical Logics
 
 ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md) ⭐
+- ↗ [BNF (Backus–Naur Form)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20Notations/BNF%20(Backus–Naur%20Form).md)
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 - ↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
@@ -1016,10 +1019,9 @@ Informally, a soundness theorem for a deductive system expresses that all provab
 [Gödel's first incompleteness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorem "Gödel's incompleteness theorem") shows that for languages sufficient for doing a certain amount of arithmetic, there can be no consistent and effective deductive system that is complete with respect to the intended interpretation of the symbolism of that language. Thus, not all sound deductive systems are complete in this special sense of completeness, in which the class of models (up to [isomorphism](https://en.wikipedia.org/wiki/Isomorphism "Isomorphism")) is restricted to the intended one. The original completeness proof applies to _all_ classical models, not some special proper subclass of intended ones.
 #### Soundy & Soundiness
 ↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
-#### Gödel's Incompleteness Theorems ⭐
-> [!TIP]
-> Applies for formal axiomatic system.
- 
+
+
+### Gödel's Theorem
 > [!links]
 > ↗ [Mathematics / Axiomatization of Mathematics & Axiomatic System ⭐](../../Mathematics.md#Axiomatization%20of%20Mathematics%20&%20Axiomatic%20System%20⭐)
 > ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
@@ -1027,6 +1029,23 @@ Informally, a soundness theorem for a deductive system expresses that all provab
 > - ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
 > 
 > ↗ [Church–Turing Thesis (Computability Thesis)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
+#### Gödel's Completeness Theorem
+> 🔗 https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem
+
+**Gödel's completeness theorem** is a fundamental theorem in [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") that establishes a correspondence between [semantic](https://en.wikipedia.org/wiki/Semantics "Semantics") truth and syntactic [provability](https://en.wikipedia.org/wiki/Formal_proof "Formal proof") in [first-order logic](https://en.wikipedia.org/wiki/First-order_logic "First-order logic").
+
+#### Gödel's (Two) Incompleteness Theorems ⭐
+> [!TIP]
+> Applies for formal axiomatic system.
+
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+
+**不完全性与协调性不可证**
+是不是任意一个公理系统都是可靠且完全的呢？可惜并不是如此。[哥德尔](https://zh.wikipedia.org/wiki/%E5%BA%93%E5%B0%94%E7%89%B9%C2%B7%E5%93%A5%E5%BE%B7%E5%B0%94)在1931年给出了两个定理，终结了人们的幻想，分别称为哥德尔不完全性定理^[就是Gödel’s First Incompleteness Theorem，第一不完备性定理]，和哥德尔协调性定理^[就是Gödel’s Second Incompleteness Theorem，第二不完备性定理]。他指出，
+- 如果$\Gamma$是一个有穷，并包含初等算术$\Pi$的形式理论，那么$\Gamma$是一个不完全的形式理论。
+- 如果形式理论Γ包含初等算术$\Pi$，那么$\Pi$的协调性不能在$\Gamma$中被证明。
+
+> 所以，在软件开发过程中，检查一个软件系统是否符合设计要求，所使用的方法就是对它进行测试，在这个软件系统之外进行证明。
 
 > 🔗 https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
 
@@ -1049,15 +1068,6 @@ Employing a [diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagon
 - 任何逻辑自洽的[形式系統](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%B5%B1 "形式系統")，只要蕴涵[皮亚诺算术公理](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9A%E8%AF%BA%E5%85%AC%E7%90%86 "皮亚诺公理")，它就不能用于[证明](https://zh.wikipedia.org/wiki/%E8%AF%81%E6%98%8E%E8%AE%BA "证明论")其本身的[自洽](https://zh.wikipedia.org/wiki/%E8%87%AA%E6%B4%BD "自洽")性。
 
 哥德尔不完备定理破坏了[希尔伯特计划](https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9%E8%AE%A1%E5%88%92 "希尔伯特计划")的[哲学](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6 "哲学")企图。[大卫·希尔伯特](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9 "大卫·希尔伯特")提出，像[实分析](https://zh.wikipedia.org/wiki/%E5%AE%9E%E5%88%86%E6%9E%90 "实分析")那样较为复杂的体系的相容性，可以用较为简单的体系中的手段来证明。最终，全部数学的相容性都可以归结为基本算术的相容性。但哥德尔的第二条定理证明了基本算术的相容性不能在自身内部证明，因此当然就不能用来证明比它更强的系统的相容性了。
-
-> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
-
-**不完全性与协调性不可证**
-是不是任意一个公理系统都是可靠且完全的呢？可惜并不是如此。[哥德尔](https://zh.wikipedia.org/wiki/%E5%BA%93%E5%B0%94%E7%89%B9%C2%B7%E5%93%A5%E5%BE%B7%E5%B0%94)在1931年给出了两个定理，终结了人们的幻想，分别称为哥德尔不完全性定理，和哥德尔协调性定理。他指出，
-- 如果$\Gamma$是一个有穷，并包含初等算术$\Pi$的形式理论，那么$\Gamma$是一个不完全的形式理论。
-- 如果形式理论Γ包含初等算术$\Pi$，那么$\Pi$的协调性不能在$\Gamma$中被证明。
-
-> 所以，在软件开发过程中，检查一个软件系统是否符合设计要求，所使用的方法就是对它进行测试，在这个软件系统之外进行证明。
 
 
 
