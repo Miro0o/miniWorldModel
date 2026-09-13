@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Function & Mapping of Set](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+↗ [Set Mapping & Function](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
 
@@ -72,7 +72,7 @@ These theories are usually studied in the context of [real](https://en.wikipedi
 
 ### Set, Sequence, Function
 #### 1️⃣ Set Theory | Mapping | Function (集合，映射，函数)
-↗ [Set Theory & Axiomatic Set Theory](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+↗ [Set Theory & Axiomatic Set Theory](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 
 
 ---
@@ -243,21 +243,21 @@ These theories are usually studied in the context of [real](https://en.wikipedi
 	- 和差化积公式
 #### 2️⃣ Number Sequence (数列)
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-↗ [Natural Number & Peano Axioms](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+↗ [Natural Number & Peano Axioms](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
 ↗ [Number Sequence](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md)
 #### 3️⃣ Limits of Functions & Continuity of Functions (函数极限和连续函数)
-↗ [Set Theory /Function](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+↗ [Set Theory /Function](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
 ↗ [Limits & Continuity of Functions](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Limits%20&%20Continuity%20of%20Functions.md)
 
 
 ### ⭐ One Variable Differential Calculus (一元微分学)
 #### 4️⃣ Derivative｜Differential Calculus (导数，微分)
 ↗ [Differential Calculus & Derivative of Function](Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
-↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative%20of%20Function/Derivative%20Equation%20(DE).md)
+↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative%20of%20Function/Derivative%20Equation%20%28DE%29.md)
 ##### 5️⃣ Mean Value Theorem (Lagrange Theorem)
 ↗ [Mean Value Theorems](Differential%20Calculus%20&%20Derivative%20of%20Function/Mean%20Value%20Theorems.md)
 #### 6️⃣ Derivative Equation (DE, 微分方程)
-↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative%20of%20Function/Derivative%20Equation%20(DE).md)
+↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative%20of%20Function/Derivative%20Equation%20%28DE%29.md)
 ### ⭐ One Variable Integral Calculus（一元积分学）
 #### 7️⃣ Indefinite Integral (不定积分)
 ↗ [Indefinite Integral](Integral%20of%20Function/Indefinite%20Integral.md)
@@ -268,15 +268,15 @@ These theories are usually studied in the context of [real](https://en.wikipedi
 
 
 ### 🔟 Series & Infinite Series (数项级数与无穷级数)
-↗ [Series (级数)](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Series%20(级数).md)
+↗ [Series (级数)](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20%28级数%29/Series%20%28级数%29.md)
 #### 1️⃣1️⃣ Function Series and Power Series (函数项级数，幂级数 - 泰勒级数)
-↗ [Taylor Series & Taylor Expansion](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Power%20Series/Taylor%20Series%20&%20Taylor%20Expansion.md)
+↗ [Taylor Series & Taylor Expansion](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20%28级数%29/Power%20Series/Taylor%20Series%20&%20Taylor%20Expansion.md)
 #### 1️⃣7️⃣ Fouriers Seires & Fouriers Transformation (三角级数 - 傅立叶级数)
-↗ [Fouriers Seires & Fouriers Transformation (FT)](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Trigonometric%20Series/Fouriers%20Seires%20&%20Fouriers%20Transformation%20(FT).md)
+↗ [Fouriers Seires & Fouriers Transformation (FT)](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20%28级数%29/Trigonometric%20Series/Fouriers%20Seires%20&%20Fouriers%20Transformation%20%28FT%29.md)
 
 
 ### 1️⃣2️⃣  (欧氏空间上的连续和极限)
-↗ [Euclidean (Elementary) Geometry](../Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
+↗ [Euclidean (Elementary) Geometry](../Geometry/Euclidean%20%28Elementary%29%20Geometry/Euclidean%20%28Elementary%29%20Geometry.md)
 
 
 ### ⭐ 1️⃣3️⃣ Multivariable Differential Calculus (多元微分学)

@@ -6,14 +6,16 @@
 
 ## Res
 ### Related Topics
-↗ [0x06 Data Link Layer](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
-↗ [Link Layer (Tier-2) Switch](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/Link%20Layer%20(Tier-2)%20Switch.md)
-↗ [Network Virtualization (NV)](../Network%20Virtualization%20(NV)/Network%20Virtualization%20(NV).md)
+↗ [0x06 Data Link Layer](../📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
+↗ [Link Layer (Tier-2) Switch](../📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20%28Switched%20Network%29%20Basics/Link%20Layer%20Network%20Devices/Link%20Layer%20%28Tier-2%29%20Switch.md)
+↗ [Network Virtualization (NV)](../Network%20Virtualization%20%28NV%29/Network%20Virtualization%20%28NV%29.md)
 
 ↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
-↗ [Cloud Operating System & Platform (System Level Engineering)](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering).md)
-↗ [Software Defined Network (SDN)](../🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
-↗ [Datacenter](../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20(HPS)/Datacenter.md)
+↗ [Cloud Operating System & Platform (System Level Engineering)](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20%28System%20Level%20Engineering%29/Cloud%20Operating%20System%20&%20Platform%20%28System%20Level%20Engineering%29.md)
+↗ [Software Defined Network (SDN)](../🙌🏻%20Software%20Defined%20Network%20%28SDN%29/Software%20Defined%20Network%20%28SDN%29.md)
+
+↗ [Datacenter](../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20%28HPS%29/Datacenter.md)
+↗ [Data Warehouse & Beyonds](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Warehouse%20&%20Beyonds.md)
 
 
 ### Learning Resources

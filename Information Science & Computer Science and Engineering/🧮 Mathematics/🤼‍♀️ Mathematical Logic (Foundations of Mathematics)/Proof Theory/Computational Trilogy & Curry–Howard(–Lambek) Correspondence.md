@@ -13,12 +13,12 @@
 ↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](../Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
-- ↗ [Formal System, Formal Logic, and Its Semantics](../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+- ↗ [Formal System, Formal Semantics, and Formal Logic](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 ↗ [Logic Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
-- ↗ [Lambda Calculus (λ-Calculus)](../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+- ↗ [Lambda Calculus (λ-Calculus)](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 
 ↗ [Category Theory (范畴论)](../../🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
-↗ [Type Theory (类型论)](../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
+↗ [Type Theory (类型论)](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
 
 ↗ [Formal Verification & Analysis Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
 - ↗ [LEAN](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
@@ -55,7 +55,7 @@ are but three different perspectives on a single underlying phenomenon at the [
 
 ## Intro
 > [!links]
-> ↗ [Formal System, Formal Logic, and Its Semantics](../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+> ↗ [Formal System, Formal Semantics, and Formal Logic](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -203,9 +203,9 @@ It is a generalization of a syntactic [analogy](https://en.wikipedia.org/wiki/A
 > 本文介绍了Curry-Howard-Lambek correspondance，它将本来毫无关系的三个学科联系在了一起，类型理论与程序和计算相关，逻辑学与证明（论）相关，范畴论与模型（论）和代数学相关。
 #### Type Theory + Formal Logics: Curry-Howard (CH) Correspondence
 > [!links]
-> ↗ [Lambda Calculus (λ-Calculus)](../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
-> ↗ [Formal System, Formal Logic, and Its Semantics](../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
+> ↗ [Lambda Calculus (λ-Calculus)](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+> ↗ [Formal System, Formal Semantics, and Formal Logic](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
+> ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20%28PL%29%20-%20%28零阶%29%20命题逻辑.md)
 
 > 🔗 https://thzt.github.io/2018/02/23/semantics-10/
 

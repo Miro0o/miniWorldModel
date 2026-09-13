@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
-↗ [Programming Language & Formal Semantics](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Programming Language & Formal Semantics](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
 
 ### Learning Resources
@@ -23,10 +23,10 @@ This entry verifies a number of worklist algorithms for exploring sets of reacha
 
 ## Intro
 ### Program Semantics & Program Interpretation
-↗ [Programming Language & Formal Semantics](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Programming Language & Formal Semantics](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md) (program semantics, abstraction, and interpretation)
 
-↗ [(Formal) Model Checking](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [(Formal) Model Checking](../../../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 - transition systems
 - semantics of transition systems:
 	- execution and traces
@@ -77,14 +77,14 @@ Abstract interpretation was formalized by the French computer scientist working 
 > [!links]
 > Prerequisite or background knowledge 🤔
 > ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md) 
-> ↗ [Group Theory & Group-Like Algebraic Structure (群)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群).md)
-> ↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格).md)
+> ↗ [Group Theory & Group-Like Algebraic Structure (群)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29.md)
+> ↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29.md)
 > ![Screenshot 2023-01-05 at 2.42.36 PM](../../../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%202.42.36%20PM.png)
 > <small>【群环域串讲】 <a>https://www.bilibili.com/video/BV1L84y1k7Yc/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</a></small>
 
 
-↗ [Partial Order & Order Theory](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
-↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+↗ [Partial Order & Order Theory](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
+↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
 
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.3
@@ -102,14 +102,14 @@ We can use Hasse Diagram to draw a lattice:
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-10-11%20at%2012.42.08.png)
 The reason why they are called latices is that they can be drawn using Hasse digrams which gives these nice structures, which looks like a wooden lattice.
 ##### Monotonicity & Fixed Point Axiom
-↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
 ##### May /Must Analysis: A Lattice View
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.24.34.png)
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.24.53.png)
 #### Galois Connection & Safe-Approximation ⭐
 > [!links]
-> ↗ [Galois Theory](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Galois%20Theory.md)
-> ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+> ↗ [Galois Theory](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Galois%20Theory.md)
+> ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
 
 > 🔗 [Galois connection - Wikipedia](https://en.wikipedia.org/wiki/Galois_connection)
 
@@ -137,7 +137,7 @@ The first two rules give us confidence that whatever abstraction we choose, we *
 ##### Adjunction and Testing
 > [!links]
 > ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-> ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md) "adjunct functor"
+> ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md) "adjunct functor"
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3
 
@@ -185,7 +185,7 @@ In practice, Galois connections allows us to map our infinite domain of may or m
 
 > ==Once we leave the concrete domain and enter the abstract domain, the analysis done here (abstraction domain) is what we call the "abstract interpretation"==, as oppose to "program interpretation", which happens at the concrete domain where you interpret a program using different semantics.
 
-Let's assume we are building a **may analysis**. Since we want to over-approximate our $\text{step}()$ function, (recall ↗ [SCA (Static Code Analysis) & SAST /BSA in Formal Definition](../SCA%20(Static%20Code%20Analysis)%20&%20SAST.md#BSA%20in%20Formal%20Definition)) we therefore introduce an abstract domain $(A, \sqsubseteq_A)$ that has an abstract stepping function $\text{step}_A()$.  We assume the Galois connection $(2^{\text{Trace}}, \subseteq) \leftrightarrow^{\alpha}_{\gamma} (A, \sqsubseteq_A)$.  We can use this new abstract stepping function to define a **bounded static analysis** of depth $n$:  $\text{BSA}_A^n = \text{step}_A^n$. We define $\text{step}_A^n$ recursively: 
+Let's assume we are building a **may analysis**. Since we want to over-approximate our $\text{step}()$ function, (recall ↗ [SCA (Static Code Analysis) & SAST /BSA in Formal Definition](../SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md#BSA%20in%20Formal%20Definition)) we therefore introduce an abstract domain $(A, \sqsubseteq_A)$ that has an abstract stepping function $\text{step}_A()$.  We assume the Galois connection $(2^{\text{Trace}}, \subseteq) \leftrightarrow^{\alpha}_{\gamma} (A, \sqsubseteq_A)$.  We can use this new abstract stepping function to define a **bounded static analysis** of depth $n$:  $\text{BSA}_A^n = \text{step}_A^n$. We define $\text{step}_A^n$ recursively: 
 $$\begin{aligned}
 & \text{step}_A^0 = \alpha(I_P) \\
 & \text{step}_A^n = \text{step}_A(\text{step}_A^{n-1}) \sqcup_A \text{step}_A^{n-1}
@@ -403,8 +403,8 @@ case jvm.Ifz(condition=con, target=target):
 
 "Unbounded static abstraction" is a concept in program analysis, referring to the challenge of creating a finite, static model of a program that can handle potentially infinite, or "unbounded," data, such as memory from the heap. Unlike static memory, which has a fixed size, heap memory can grow unpredictably, and standard analysis techniques struggle to represent it with a finite abstraction. Static analysis must therefore use approximation techniques (abstraction here) to model this unbounded behavior while remaining sound and terminating.
 #### Fixed-Point Axiom
-↗ [Function & Mapping of Set](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
-↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+↗ [Set Mapping & Function](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
+↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
 #### The Widening Operator (The Interval Abstraction as An Example)
 > Please first check below "👉 Interval Abstraction -- Unbounded Analysis"
 >  
@@ -511,7 +511,7 @@ The correct order to do this computation is in [reverse post-order](https://en.
 
 ### Context Sensitive Analysis & Support For Procedure Calls
 > [!links]
-> ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+> ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Procedure%20%28Function%29%20Call%20&%20Runtime%20Memory%20Layout.md)
 > ↗ [Interprocedural Analysis](../Data%20Flow%20Analysis/📲%20Inter-procedural%20Analysis/Interprocedural%20Analysis.md)
 > ↗ [Context-Sensitive Pointer Analysis](../Memory%20&%20Heap%20Analysis/Pointer%20Analysis%20&%20Alias%20Analysis/Context-Sensitive%20Pointer%20Analysis.md)
 
@@ -712,7 +712,7 @@ We can see that there exists a **Galois connection** between our concrete intege
 ##### Inter-Procedure Sign Analysis
 #### 👉 Interval Abstraction (Integer Abstraction) -- Unbounded Analysis
 > [!links]
-> ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md) "Fixed Point"
+> ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md) "Fixed Point"
 ##### Same-Procedure Interval Analysis
 > 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:interval-abstraction
 

@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [ICT System Reliability (Correctness) & Verification](../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20%28Correctness%29%20&%20Verification.md)
+↗ [Program (Formal) Verification](../Program%20%28Formal%29%20Verification/Program%20%28Formal%29%20Verification.md)
 
 
 ### Other Resources

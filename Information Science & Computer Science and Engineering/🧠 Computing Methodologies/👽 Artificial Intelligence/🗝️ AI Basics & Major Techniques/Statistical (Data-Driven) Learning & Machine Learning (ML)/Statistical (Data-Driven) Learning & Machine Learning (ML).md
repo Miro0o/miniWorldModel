@@ -219,7 +219,28 @@ From a theoretical viewpoint, [probably approximately correct learning](https:/
 ↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
 
 ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
-#### Machine Learning, Statistical Learning, Neural Network & Deep Learning, and AI?
+#### Machine Learning Taxonomy
+1. by learning paradigms: (see below sections)
+	1. supervised learning
+	2. un-supervised learning
+	3. reinforcement learning
+2. by learned models:
+	1. parametric
+	2. nonparametric
+3. by learned model /probabilistic distribution
+	1. discriminative models
+	2. generative models
+	3. explanation
+		1. ![|400](../../../../../Assets/Pics/Screenshot%202026-09-10%20at%2000.31.30.png)
+		2. ![|400](../../../../../Assets/Pics/Screenshot%202026-09-10%20at%2000.32.13.png)
+		3. ![|400](../../../../../Assets/Pics/Screenshot%202026-09-10%20at%2000.34.07.png)
+4. by task /input data paradigms:
+	1. sequence modeling (e.g. NLP)![](../../../../../Assets/Pics/Screenshot%202026-09-10%20at%2000.27.59.png)
+	2. grid /spatial modeling (e.g. CV)
+	3. graph /network modeling (e.g. GNN)
+	4. tabular & structured modeling (e.g. XGBoost)
+	5. multimodal modeling
+#### Statistical Learning & Machine Learning, Neural Network & Deep Learning, and AI?
 #machine_learning #statistical_learning #neural_networks #deep_learning #AI
 
 [统计学和机器学习到底有什么区别？]: https://www.jiqizhixin.com/articles/2019-04-24-16
@@ -267,7 +288,7 @@ From a theoretical viewpoint, [probably approximately correct learning](https:/
 
 
 
-## Machine Learning (ML) -- Learning From Examples
+## Machine Learning (ML): Learning From Examples
 > [!quote]
 > 🤖 GPT-5.0
 > Machine learning can be seen as the problem of building models that optimally compress data while preserving the information needed to make accurate predictions.
@@ -283,7 +304,7 @@ An agent is **learning** if it improves its performance after making observation
 Why would we want a machine to learn? Why not just program it the right way to begin with? There are two main reasons. First, the designers cannot anticipate all possible future situations. For example, a robot designed to navigate mazes must learn the layout of each new maze it encounters; a program for predicting stock market prices must learn to adapt when conditions change from boom to bust. Second, sometimes the designers have no idea how to program a solution themselves. Most people are good at recognizing the faces of family members, but they do it subconsciously, so even the best programmers don’t know how to program a computer to accomplish that task, except by using machine learning algorithms.
 
 
-### Forms of Learning 🤔
+### Forms (Paradigm) of Learning 🤔
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
 > Chapter 19
@@ -346,11 +367,11 @@ Key idea: Learn hidden structure or representations.
 - Goal: learn a **policy** that maximizes long-term reward
 Key idea: Learn by trial and error through interaction.
 #### Neural Networks and Deep Learning
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods.md)
-- ↗ [Neural Network Models](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
-	- ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/CNN%20%28Convolutional%20Neural%20Network%29.md)
-	- ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/RNN%20%28Recurrent%20Neural%20Network%29.md)
-	- ↗ [Transformers](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
+- ↗ [Neural Network Models](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+	- ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/CNN%20%28Convolutional%20Neural%20Network%29.md)
+	- ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/RNN%20%28Recurrent%20Neural%20Network%29.md)
+	- ↗ [Transformers](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 Deep learning
 - Not a learning paradigm by itself
@@ -371,7 +392,7 @@ Key idea: Learn representations and decision functions jointly using deep networ
 > MIT Press, March 2022.
 
 ↗ [Semi-supervised Learning](Supervised%20Learning/🥝%20Semi-supervised%20Learning/Semi-supervised%20Learning.md)
-↗ [Transfer Learning](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Transfer%20Learning/Transfer%20Learning.md)
+↗ [Transfer Learning](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Transfer%20Learning/Transfer%20Learning.md)
 active learning
 meta-learning
 zero-shot /few-shot learning
@@ -467,11 +488,11 @@ Suggested Notation for Machine Learning
 ↗ [Information Theory](../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
-↗ [Topology](../../../../🧮%20Mathematics/Topology/Topology.md)
+↗ [Topology](../../../../🧮%20Mathematics/Geometry/🎽%20Topology/Topology.md)
 
 
 ### 1️⃣ Data Preparation (Collection, Assessment, and Management)
-↗ [Dataset Preparation](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
+↗ [Dataset Preparation](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
 
 ↗ [LLM Training Datasets](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/LLM%20Training%20Datasets/LLM%20Training%20Datasets.md)
 
@@ -485,13 +506,13 @@ Suggested Notation for Machine Learning
 > 	- ↗ [ML Regression Algorithms](Supervised%20Learning/ML%20Regression%20Algorithms.md)
 > - ↗ [Unsupervised Learning](Unsupervised%20Learning/Unsupervised%20Learning.md)
 > 
-> [Neural Network Models](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
-> - ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/CNN%20%28Convolutional%20Neural%20Network%29.md)
-> - ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/RNN%20%28Recurrent%20Neural%20Network%29.md)
-> 	- ↗ [LSTM (Long-Short Term Memories)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/LSTM%20%28Long-Short%20Term%20Memories%29/LSTM%20%28Long-Short%20Term%20Memories%29.md)
-> - ↗ [GNN (Graph Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/GNN%20%28Graph%20Neural%20Network%29/GNN%20%28Graph%20Neural%20Network%29.md)
-> - ↗ [GAN (Generative Adversarial Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🪽%20%28Deep%29%20Generative%20Models/GAN%20%28Generative%20Adversarial%20Network%29/GAN%20%28Generative%20Adversarial%20Network%29.md)
-> - ↗ [Transformers](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> [Neural Network Models](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+> - ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/CNN%20%28Convolutional%20Neural%20Network%29.md)
+> - ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/RNN%20%28Recurrent%20Neural%20Network%29.md)
+> 	- ↗ [LSTM (Long-Short Term Memories)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/LSTM%20%28Long-Short%20Term%20Memories%29/LSTM%20%28Long-Short%20Term%20Memories%29.md)
+> - ↗ [GNN (Graph Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/GNN%20%28Graph%20Neural%20Network%29/GNN%20%28Graph%20Neural%20Network%29.md)
+> - ↗ [GAN (Generative Adversarial Network)](Probabilistic%20Modeling%20Distinction/🪽%20%28Deep%29%20Generative%20Models/GAN%20%28Generative%20Adversarial%20Network%29/GAN%20%28Generative%20Adversarial%20Network%29.md)
+> - ↗ [Transformers](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -519,19 +540,26 @@ What if we don’t have enough data to make all three of these data sets? We can
 In Figure 19.1 (page 672) we saw a linear function underfit the data set, and a high-degree polynomial overfit the data. We can think of the task of finding a good hypothesis as two subtasks: **model selection**^[Although the name “model selection” is in common use, a better name would have been “model class selection” or “hypothesis space selection.” The word “model” has been used in the literature to refer to three different levels of specificity: a broad hypothesis space (like “polynomials”), a hypothesis space with hyperparameters filled in (like “degree-2 polynomials”), and a specific hypothesis with all parameters filled in (like $5x2 + 3x−2$).] chooses a good hypothesis space, and **optimization** (also called **training**) finds the best hypothesis within that space.
 
 Part of model selection is qualitative and subjective: we might select polynomials rather than decision trees based on something that we know about the problem. And part is quantitative and empirical: within the class of polynomials, we might select $Degree= 2$, because that value performs best on the validation data set.
-#### 2️⃣ Model Selection
+#### 2️⃣ Model Architecture & Design
+##### Parametric Models & Nonparametric Models
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 19.7
+##### Base Models & Ensemble Models
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 19.8
 
-#### From Error Rates to Loss
-
-#### Regularization
-
-
+So far we have looked at learning methods in which a single hypothesis is used to make predictions. The idea of ensemble learning is to select a collection, or ensemble, of hypotheses, $h_1,h_2,...,h_n$, and combine their predictions by averaging, voting, or by another level of machine learning. We call the individual hypotheses **base models** and their combination an **ensemble model**.
 #### 3️⃣ Model Training & Optimization
 (Neural Networks /Deep Learning training approaches. Classical ML can be found as well.)
 
-↗ [Model Training (Classical ML & NN)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Training%20%28Classical%20ML%20&%20NN%29.md)
-- ↗ [Model Tuning & Hyperparameter Optimization (HPO)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29.md)
-↗ [Process Monitoring](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/4️⃣%20Process%20Monitoring/Process%20Monitoring.md)
+↗ [Model Training (Classical ML & NN)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Training%20%28Classical%20ML%20&%20NN%29.md)
+- ↗ [Model Tuning & Hyperparameter Optimization (HPO)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29.md)
+	- ↗ [Objective & Cost & Loss Functions](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Objective%20&%20Cost%20&%20Loss%20Functions.md)
+	- ↗ [Optimizers](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Optimizers.md)
+	- ↗ [Regularizers & Dropouts](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Regularizers%20&%20Dropouts.md)
+↗ [Process Monitoring](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/4️⃣%20Process%20Monitoring/Process%20Monitoring.md)
 
 ↗ [LLM Training, Utilization, and Evaluation](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
 - ↗ [Pre-Training](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Pre-Training.md)
@@ -542,21 +570,9 @@ Part of model selection is qualitative and subjective: we might select polynomia
 
 Model Evaluation & Metrics
 
-#### Parametric Models & Nonparametric Models
-> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
-> RUSSELL & NORVIG
-> Chapter 19.7
-
-#### Base Models & Ensemble Models
-> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
-> RUSSELL & NORVIG
-> Chapter 19.8
-
-So far we have looked at learning methods in which a single hypothesis is used to make predictions. The idea of ensemble learning is to select a collection, or ensemble, of hypotheses, $h_1,h_2,...,h_n$, and combine their predictions by averaging, voting, or by another level of machine learning. We call the individual hypotheses **base models** and their combination an **ensemble model**.
-
 
 ### 4️⃣ Model Deployments & Applications (Operation, Monitoring, and Maintenance)
-↗ [Deployment & Application](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning%20Methods/5️⃣%20Deployment%20&%20Application/Deployment%20&%20Application.md)
+↗ [Deployment & Application](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/5️⃣%20Deployment%20&%20Application/Deployment%20&%20Application.md)
 
 ↗ [LLM Infrastructure (Deployment & Inference)](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
 ↗ [LLM Applications & LLM-Driven Automation](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
@@ -605,7 +621,7 @@ Chapter 19 defined pure inductive learning as a process of finding a hypothesis 
 ### Inductive Logic Programming (ILP)
 > [!links]
 > ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
-> ↗ [Logic Programs & Symbolic AI](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
+> ↗ [Symbolic AI & Logic Programs](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🦴%20Symbolic%20AI%20&%20Logic%20Programs/Symbolic%20AI%20&%20Logic%20Programs.md)
 
 
 

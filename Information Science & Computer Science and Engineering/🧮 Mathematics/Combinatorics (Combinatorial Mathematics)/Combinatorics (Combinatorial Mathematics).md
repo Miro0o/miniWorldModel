@@ -6,19 +6,21 @@
 
 ## Res
 ### Related Topics
-↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../Discrete%20Mathematics%20&%20TCS%20%28Theoretical%20Computer%20Science%29.md)
 
 ↗ [Number Theory](../💯%20Number%20Theory/Number%20Theory.md)
 - ↗ [Elementary Number Theory](../💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
 
-↗ [Relation & Relation Theory](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
-- ↗ [Lattice (Order Theory)](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+↗ [Relation & Relation Theory](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
+- ↗ [Lattice (Order Theory)](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
 
 ↗ [Algebra](../🧊%20Algebra/Algebra.md)
 ↗ [Geometry](../Geometry/Geometry.md)
 
+↗ [Combinatorial Optimization](../🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Discrete%20Optimization/Combinatorial%20Optimization/Combinatorial%20Optimization.md)
+
 ↗ [Systematic & Combinatorial Search (Classical Search)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29.md)
-↗ [Combinatorics Problems](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Combinatorics%20Problems/Combinatorics%20Problems.md)
+↗ [Programming for Combinatorics Problems](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20for%20Combinatorics%20Problems/Programming%20for%20Combinatorics%20Problems.md)
 
 
 ### Learning Resources

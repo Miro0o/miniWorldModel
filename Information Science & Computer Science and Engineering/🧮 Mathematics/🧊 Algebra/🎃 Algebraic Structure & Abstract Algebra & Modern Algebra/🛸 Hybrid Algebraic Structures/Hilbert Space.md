@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Banach Space](Banach%20Space.md)
-↗ [Metric Spaces](../../../Topology/Point-set%20(General)%20Topology/Metric%20Spaces.md)
+↗ [Metric Spaces](../../../Geometry/🎽%20Topology/Point-set%20%28General%29%20Topology/Metric%20Spaces.md)
 
 
 ### Other Resources

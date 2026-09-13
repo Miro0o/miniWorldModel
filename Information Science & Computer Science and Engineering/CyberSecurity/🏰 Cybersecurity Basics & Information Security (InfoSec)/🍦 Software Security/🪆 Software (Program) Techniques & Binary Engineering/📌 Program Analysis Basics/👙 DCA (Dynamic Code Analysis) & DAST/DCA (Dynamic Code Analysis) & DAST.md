@@ -6,32 +6,32 @@
 
 ## Res
 ### Related Topics
-↗ [Semantic Analysis](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
-↗ [Programming Language & Formal Semantics](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Semantic Analysis](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
+↗ [Programming Language & Formal Semantics](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
-↗ [Software Quality Assurance (SQA)](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
-↗ [Software Testing](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
-- ↗ [Fuzzing (Concrete Execution)](Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
-- ↗ [LLM & Fuzzing](../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md)
-↗ [(Formal) Model Checking](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [Software Quality Assurance (SQA)](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/Software%20Quality%20Assurance%20%28SQA%29.md)
+↗ [Software Testing](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/🧪%20Software%20Testing/Software%20Testing.md)
+- ↗ [Fuzzing (Concrete Execution)](Fuzzing%20%28Concrete%20Execution%29/Fuzzing%20%28Concrete%20Execution%29.md)
+- ↗ [LLM & Fuzzing](../../../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md)
+↗ [(Formal) Model Checking](../../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 ↗ [Debuggers & Disassemblers & Decompilers](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Debuggers%20&%20Disassemblers%20&%20Decompilers.md)
-- ↗ [gdb (GNU DeBugger)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md)
-- ↗ [OllyDbg (OD)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Disassemblers%20&%20Decompilers/OllyDbg%20(OD).md)
+- ↗ [gdb (GNU DeBugger)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/🐐%20GCC%20%28The%20GNU%20Compiler%20Collection%29/gdb%20%28GNU%20DeBugger%29/gdb%20%28GNU%20DeBugger%29.md)
+- ↗ [OllyDbg (OD)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Disassemblers%20&%20Decompilers/OllyDbg%20%28OD%29.md)
 
-↗ [Dynamics Code Analysis Tools (DCAT)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Dynamics%20Code%20Analysis%20Tools%20(DCAT).md)
-↗ [📌 Computer Profiling & System Visibility](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/📌%20Computer%20Profiling%20&%20System%20Visibility.md)
+↗ [Dynamics Code Analysis Tools (DCAT)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29.md)
+↗ [📌 Computer Profiling & System Visibility](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/Linux%20Free%20Software%20&%20OSS%20%28Open%20Source%20Software%29/Host%20Management/📌%20Computer%20Profiling%20&%20System%20Visibility.md)
 
-↗ [Operating System & OS Kernel (Theory Part)](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
-- ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
-	- ↗ [Address Space & Memory Layout](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
-- ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
-- ↗ [Kernel Debugging](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Kernel%20Debugging.md)
-↗ [Computer Memory & Storage](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
+↗ [Operating System & OS Kernel (Theory Part)](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29.md)
+- ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29.md)
+	- ↗ [Address Space & Memory Layout](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/Address%20Space%20&%20Memory%20Layout.md)
+- ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29.md)
+- ↗ [Kernel Debugging](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/🦺%20Operating%20System%20Basics/Kernel%20Debugging.md)
+↗ [Computer Memory & Storage](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
 
 ↗ [Programming Language Processing & Program Execution](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-- ↗ [Program Execution (Runtime)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
-- ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+- ↗ [Program Execution (Runtime)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Program%20Execution%20%28Runtime%29.md)
+- ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Procedure%20%28Function%29%20Call%20&%20Runtime%20Memory%20Layout.md)
 ↗ [Software Runtime Security](../../../../../System%20Security/🏃%20Software%20Runtime%20Security/Software%20Runtime%20Security.md)
 ↗ [Cloud-Native System Runtime Security](../../../../../System%20Security/Cloud%20Security/🩳%20Cloud-Native%20System%20Runtime%20Security/Cloud-Native%20System%20Runtime%20Security.md)
 
@@ -62,18 +62,18 @@ It might seem obvious that we can learn about a program by running it, but it is
 
 ### Program Semantics & Transition System
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
-↗ [Programming Language & Formal Semantics](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-↗ [Models of Computation & Abstract Machines](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md#(Symbolic)%20Transition%20System%20⭐)
+↗ [Programming Language & Formal Semantics](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Models of Computation & Abstract Machines](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md#(Symbolic)%20Transition%20System%20⭐)
 
 
 ### Phases of Dynamic Analysis (in Formal Definition)
-> ↗ [(Formal) Model Checking](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [(Formal) Model Checking](../../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html
 
 Dynamic analysis consists of three phases, [Trace Selection (§1.1)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-selection), [Trace Abstraction and Prediction (§1.3)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-prediction), and [Trace Analysis (§1.2)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-analysis).
 #### 1️⃣ Trace Selection
-> ↗ [(Formal) Model Checking /1️⃣ System Modeling](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
+> ↗ [(Formal) Model Checking /1️⃣ System Modeling](../../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md#1️⃣%20System%20Modeling)
 
 First, recall the definition of a Transition System from [Transition System and Traces (§2.4)](https://courses.compute.dtu.dk/02242/topics/semantics.html#sec:trace-semantics). A program $P$ can be described as a triplet $⟨𝐒𝐭𝐚𝐭𝐞_P,\delta_P,I_P⟩$, were $\delta_P$ is the transition function and $I_P$ is the set of initial states.
 
@@ -82,9 +82,9 @@ If the program is deterministic, there is only one trace per input state. If the
 
 Selecting the initial state or even executing the program is not trivial in practice (see [Running the Program (§2)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:running-the-program)).
 #### 2️⃣ Trace Abstraction and Prediction & Program Properties
-> ↗ [(Formal) Model Checking /2️⃣ Properties and Property Specialization](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#2️⃣%20Properties%20and%20Property%20Specialization)
->↗ [Temporal Logic (时态逻辑)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Temporal%20Logic%20(时态逻辑).md)
->- ↗  [Computation-Tree Logic (CTL*) Family](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Computation-Tree%20Logic%20%28CTLstar%29%20Family.md)
+> ↗ [(Formal) Model Checking /2️⃣ Properties and Property Specialization](../../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md#2️⃣%20Properties%20and%20Property%20Specialization)
+>↗ [Temporal Logic (时态逻辑)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Temporal%20Logic%20%28时态逻辑%29.md)
+>- ↗  [Computation-Tree Logic (CTL*) Family](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Computation-Tree%20Logic%20%28CTLstar%29%20Family.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-analysis
 
@@ -99,7 +99,7 @@ Now that we have a trace, we can make several deductions about behaviors of the 
 Any question we can answer correctly for one trace can be turned into a _may analysis_ for the full program. If we find a trace that ends in a failure, the program might fail. If the we find a trace where opened resource is not closed, we know that program may not close all resources in the program. So, essentially for any property $X$ we can find in one trace, we can build an may analysis which can detect it: $$\exists\sigma\in I_p, \tau\in 𝐒𝐞𝐥𝐞𝐜𝐭(P,\sigma).𝚃𝙰_X(\tau)\impliesℒ_X(P)$$
 Actually, if we can increase the precision of the analysis by running the program multiple times. And, in the limit (assuming that we could run all traces) a dynamic analysis precisely captures any property. $$\forall\sigma\in I_p, \tau\in 𝐒𝐞𝐥𝐞𝐜𝐭(P,\sigma).𝚃𝙰_X(\tau)\impliesℒ_X(P)$$
 #### 3️⃣ Trace Analysis
-> ↗ [(Formal) Model Checking /3️⃣ Models Analysis & Improvement](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#3️⃣%20Models%20Analysis%20&%20Improvement)
+> ↗ [(Formal) Model Checking /3️⃣ Models Analysis & Improvement](../../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md#3️⃣%20Models%20Analysis%20&%20Improvement)
 > ↗ [Runtime Verification](Runtime%20Verification/Runtime%20Verification.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-prediction
@@ -129,8 +129,8 @@ It might seem obvious, that we can learn things about the program by running it,
 
 
 ## Software Testing
-↗ [Software Testing](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
-↗ [Types of Software Testing](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Types%20of%20Software%20Testing/Types%20of%20Software%20Testing.md)
+↗ [Software Testing](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Types of Software Testing](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/🧪%20Software%20Testing/Types%20of%20Software%20Testing/Types%20of%20Software%20Testing.md)
 
 
 ### Functional Testing
@@ -140,7 +140,7 @@ It might seem obvious, that we can learn things about the program by running it,
 #### DAST (Dynamic Application Security Testing)
 
 #### Fuzz Testing
-↗ [Fuzzing (Concrete Execution)](Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
+↗ [Fuzzing (Concrete Execution)](Fuzzing%20%28Concrete%20Execution%29/Fuzzing%20%28Concrete%20Execution%29.md)
 
 
 

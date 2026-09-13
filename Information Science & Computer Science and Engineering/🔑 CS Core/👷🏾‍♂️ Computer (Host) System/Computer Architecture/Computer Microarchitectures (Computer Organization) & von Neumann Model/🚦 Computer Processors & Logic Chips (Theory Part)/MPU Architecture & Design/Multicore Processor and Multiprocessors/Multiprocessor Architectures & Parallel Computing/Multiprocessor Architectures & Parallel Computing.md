@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Computer Architecture and Flynn's Taxonomy](../../../../../📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20Architecture%20and%20Flynn's%20Taxonomy.md)
-↗ [ILP (Instruction Level Parallelism)](../../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/ILP%20(Instruction%20Level%20Parallelism)/ILP%20(Instruction%20Level%20Parallelism).md)
+↗ [ILP (Instruction Level Parallelism)](../../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/ILP%20%28Instruction%20Level%20Parallelism%29/ILP%20%28Instruction%20Level%20Parallelism%29.md)
 ↗ [Parallel Computing & Programming](../../../../../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing%20&%20Programming/Parallel%20Computing%20&%20Programming.md)
 
 
@@ -26,7 +26,7 @@ The engineering implementation to parallel computing or parallel processing can 
 
 🌻 🌻 Very often, designing parallel programs to maximumally utilize the parallel designed hardware is the most difficult part in achieving parallel processing. Hence it's why even when parallel processing architectures is getting more and more complicated it is still not a common standard in daily lives to parallel compute: there are not efficient enough programs to support that set of hardwares.
 
-> 💡 For more of parallelism at system software level, go to ↗ [Operating System Design (OS Kernel Design) & Kernel Architecture](../../../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Operating%20System%20Design%20(OS%20Kernel%20Design)%20&%20Kernel%20Architecture/Operating%20System%20Design%20(OS%20Kernel%20Design)%20&%20Kernel%20Architecture.md)
+> 💡 For more of parallelism at system software level, go to ↗ [Operating System Design (OS Kernel Design) & Kernel Architecture](../../../../../../Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/🦺%20Operating%20System%20Basics/Operating%20System%20Design%20%28OS%20Kernel%20Design%29%20&%20Kernel%20Architecture/Operating%20System%20Design%20%28OS%20Kernel%20Design%29%20&%20Kernel%20Architecture.md)
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202024-03-17%20at%204.49.59%20PM.png)
 <small>https://en.wikipedia.org/wiki/Parallel_computing</small>
@@ -61,7 +61,7 @@ As an example, consider the case where a part of the system that initially consu
 
 
 ### 1️⃣ Superscalar and VLIW
-↗ [VLIW (Very Long Instruction Word)](../../../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/VLIW%20(Very%20Long%20Instruction%20Word)/VLIW%20(Very%20Long%20Instruction%20Word).md)
+↗ [VLIW (Very Long Instruction Word)](../../../../../Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/VLIW%20%28Very%20Long%20Instruction%20Word%29/VLIW%20%28Very%20Long%20Instruction%20Word%29.md)
 
 
 ### 2️⃣ Vector Processors
@@ -72,11 +72,11 @@ As an example, consider the case where a part of the system that initially consu
 
 
 ### 4️⃣ Symmetric Multiprocessing /Shared Memory Multiprocessors (SMP)
-↗ [Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)](Symmetric%20Multiprocessing%20&%20Shared%20Memory%20Multiprocessors%20(SMP)/Symmetric%20Multiprocessing%20&%20Shared%20Memory%20Multiprocessors%20(SMP).md)
+↗ [Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)](Symmetric%20Multiprocessing%20&%20Shared%20Memory%20Multiprocessors%20%28SMP%29/Symmetric%20Multiprocessing%20&%20Shared%20Memory%20Multiprocessors%20%28SMP%29.md)
 
 
 ### Asymmetric Multiprocessing (AMP)
-↗ [Asymmetric Multiprocessing (AMP)](Asymmetric%20Multiprocessing%20(AMP).md)
+↗ [Asymmetric Multiprocessing (AMP)](Asymmetric%20Multiprocessing%20%28AMP%29.md)
 
 
 ### 💦 Alternative Parallel Processing Approaches
@@ -85,8 +85,8 @@ As an example, consider the case where a part of the system that initially consu
 #### Dataflow Computing
 ↗ [Dataflow Computing](📌%20Parallel%20Computing%20Alternative%20Modelings/Dataflow%20Computing.md)
 #### Neural Network
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-↗ [Neural Networks (In Parallel Computing)](📌%20Parallel%20Computing%20Alternative%20Modelings/Neural%20Networks%20(In%20Parallel%20Computing).md)
+↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
+↗ [Neural Networks (In Parallel Computing)](📌%20Parallel%20Computing%20Alternative%20Modelings/Neural%20Networks%20%28In%20Parallel%20Computing%29.md)
 #### Systolic Arrays
 ↗ [Systolic Arrays](📌%20Parallel%20Computing%20Alternative%20Modelings/Systolic%20Arrays.md)
 

@@ -6,20 +6,20 @@
 
 ## Res
 ### Related Topics
-↗ [Classical Logic (Standard Formal Logic)](../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+↗ [Classical Logic (Standard Formal Logic)](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+- ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20%28PL%29%20-%20%28零阶%29%20命题逻辑.md)
+- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20%28Standard%20Formal%20Logic%29/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-- ↗ [Group Theory & Group-Like Algebraic Structure (群)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群).md)
-- ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
-- ↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格).md)
+- ↗ [Group Theory & Group-Like Algebraic Structure (群)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29.md)
+- ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29.md)
+- ↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29.md)
 
-↗ [Topology](../../Topology/Topology.md)
-- ↗ [Topology Structure](../../Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
-- ↗ [Metric Spaces](../../Topology/Point-set%20(General)%20Topology/Metric%20Spaces.md)
+↗ [Topology](../../Geometry/🎽%20Topology/Topology.md)
+- ↗ [Topology Structure](../../Geometry/🎽%20Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
+- ↗ [Metric Spaces](../../Geometry/🎽%20Topology/Point-set%20%28General%29%20Topology/Metric%20Spaces.md)
 
-↗ [Category Theory (范畴论)](../../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+↗ [Category Theory (范畴论)](../../🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
 
 
 ### Learning Resources
@@ -65,12 +65,12 @@ Kenneth Kunen
 
 
 ## Natural Set & Field Construction and Extension
-↗ [Number Sets & Field Construction (Completion) and Extension](Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
+↗ [Number Sets & Field Construction (Completion) and Extension](Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension.md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-↗ [Group Theory & Group-Like Algebraic Structure (群)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群).md)
+↗ [Group Theory & Group-Like Algebraic Structure (群)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29.md)
 
-↗ [Formal System, Formal Logic, and Its Semantics](../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Formal System, Formal Semantics, and Formal Logic](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 - Formal system & Gödel's Incompleteness Theorems
 
 
@@ -79,13 +79,13 @@ Kenneth Kunen
 ↗ [Relation & Relation Theory](👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
 - ↗ [Equivalence Relation](👬%20Relation%20&%20Relation%20Theory/Equivalence%20Relation.md)
 - ↗ [Partial Order & Order Theory](👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
-	- ↗ [Lattice (Order Theory)](👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+	- ↗ [Lattice (Order Theory)](👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
 
 
 
 ## Function
-↗ [Function & Mapping of Set](Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
-↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+↗ [Set Mapping & Function](Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
+↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
 
 
 

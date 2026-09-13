@@ -9,16 +9,16 @@
 ↗ [Cryptology & Secure Communication](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 - ↗ [Cryptography](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
 - ↗ [Key Management](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev%28Sec%29Ops%20%28Application%20Level%20Engineering%29/🛬%20Continuous%20Delivery/Provisioning/Key%20Management/Key%20Management.md)
-	- ↗ [Key Distribution (one-to-many)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/🚛%20Key%20Distribution%20(one-to-many)/Key%20Distribution%20(one-to-many).md)
-	- ↗ [Key Agreement, Transport, and Exchange (one-to-one)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one).md)
+	- ↗ [Key Distribution (one-to-many)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/🚛%20Key%20Distribution%20%28one-to-many%29/Key%20Distribution%20%28one-to-many%29.md)
+	- ↗ [Key Agreement, Transport, and Exchange (one-to-one)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29/Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29.md)
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
-↗ [Formal System, Formal Logic, and Its Semantics](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Formal System, Formal Semantics, and Formal Logic](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 
-↗ [Security Protocols & Cryptographic Verification](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
-↗ [Zero-Knowledge Proof (ZKP)](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
+↗ [Security Protocols & Cryptographic Verification](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+↗ [Zero-Knowledge Proof (ZKP)](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20%28ZKP%29/Zero-Knowledge%20Proof%20%28ZKP%29.md)
 
-↗ [Interactive Proofs (IP) & Interactive Polynomial-Time Verification](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Complexity-Theoretic%20Verification/Interactive%20Proofs%20(IP)%20&%20Interactive%20Polynomial-Time%20Verification.md)
+↗ [Interactive Proofs (IP) & Interactive Polynomial-Time Verification](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Complexity-Theoretic%20Verification/Interactive%20Proofs%20%28IP%29%20&%20Interactive%20Polynomial-Time%20Verification.md)
 
 
 ### Other Resources
@@ -33,11 +33,11 @@
 
 ### Proof of Knowledge
 > [!links]
-> ↗ [Security Protocols & Cryptographic Verification](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
-> ↗ [Proof of Knowledge (PoK)](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Proof%20of%20Knowledge%20(PoK)/Proof%20of%20Knowledge%20(PoK).md)
+> ↗ [Security Protocols & Cryptographic Verification](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+> ↗ [Proof of Knowledge (PoK)](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Proof%20of%20Knowledge%20%28PoK%29/Proof%20of%20Knowledge%20%28PoK%29.md)
 > 
-> ↗ [Zero-Knowledge Proof (ZKP)](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
-> ↗ [Sigma Protocols (Commit–Challenge–Response)](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Interactive%20ZK%20Proofs/Sigma%20Protocols%20(Commit–Challenge–Response)/Sigma%20Protocols%20(Commit–Challenge–Response).md)
+> ↗ [Zero-Knowledge Proof (ZKP)](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20%28ZKP%29/Zero-Knowledge%20Proof%20%28ZKP%29.md)
+> ↗ [Sigma Protocols (Commit–Challenge–Response)](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20%28ZKP%29/Interactive%20ZK%20Proofs/Sigma%20Protocols%20%28Commit–Challenge–Response%29/Sigma%20Protocols%20%28Commit–Challenge–Response%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Proof_of_knowledge
 
@@ -56,7 +56,7 @@ A proof of knowledge for relation $R$ with knowledge error $\kappa$ is a two par
 - 要求验证者有声称者的有效公钥
 - 声称者有仅由自己知道和使用的秘密签名私钥
 
-↗ [Asymmetric Cipher (Public-Key Cryptography)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/📌%20Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Asymmetric%20Cipher%20(Public-Key%20Cryptography).md)
+↗ [Asymmetric Cipher (Public-Key Cryptography)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/📌%20Asymmetric%20Cipher%20%28Public-Key%20Cryptography%29/Asymmetric%20Cipher%20%28Public-Key%20Cryptography%29.md)
 
 
 ### 👉 Certification Based Authentication (基于证书)
@@ -119,7 +119,7 @@ Token-based authentication is a process in which users identify with unique toke
 - 在该机制中，待鉴别的实体通过表明它拥有某个秘密鉴别密钥来证实其身份。可由该实体以其秘密密钥和特定数据作输入，使用密码校验函数获得密码校验值来达到。
 - 声称者和验证者共享秘密鉴别密钥，应仅为该两个实体所知，以及他们的信任方。
 
-↗ [Message Digest (Hash Function) Based Message Authentication](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication.md)
+↗ [Message Digest (Hash Function) Based Message Authentication](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20%28报文鉴别，消息鉴别%29/Message%20Digest%20%28Hash%20Function%29%20Based%20Message%20Authentication/Message%20Digest%20%28Hash%20Function%29%20Based%20Message%20Authentication.md)
 
 
 ### One-direction Authentication

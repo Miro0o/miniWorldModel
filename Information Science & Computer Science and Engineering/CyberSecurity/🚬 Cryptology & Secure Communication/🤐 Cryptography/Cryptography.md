@@ -11,13 +11,13 @@ Cryptography is a sub-category of Cryptology:
 
 ↗ [Number Theory](../../../🧮%20Mathematics/💯%20Number%20Theory/Number%20Theory.md)
 ↗ [Elementary Number Theory](../../../🧮%20Mathematics/💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
-↗ [Number Theory Problems](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Number%20Theory%20Problems.md)
-↗ [Computationally Hard Problems](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
+↗ [Number Theory Problems](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20for%20Algebra%20Problems/Number%20Theory%20Problems/Number%20Theory%20Problems.md)
+↗ [Computationally Hard Problems](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
 
 ↗ [Decentralized Fiance & Cryptocurrency](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Decentralized%20Fiance%20&%20Cryptocurrency.md)
-↗ [OpenSSL Project](../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20(&%20Session)%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/SSL%20&%20TLS%20Implementations/OpenSSL%20Project/OpenSSL%20Project.md)
+↗ [OpenSSL Project](../../Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20%28&%20Session%29%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/SSL%20&%20TLS%20Implementations/OpenSSL%20Project/OpenSSL%20Project.md)
 
-↗ [Security Protocols & Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+↗ [Security Protocols & Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
 
 
 ### Learning Resources
@@ -175,7 +175,7 @@ Other applications include:
 
 ### 🧮 Mathematical Foundations of Cryptography: Number Theory
 ↗ [Elementary Number Theory](../../../🧮%20Mathematics/💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
-↗ [Number Theory Problems](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Number%20Theory%20Problems.md)
+↗ [Number Theory Problems](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20for%20Algebra%20Problems/Number%20Theory%20Problems/Number%20Theory%20Problems.md)
 
 
 
@@ -218,7 +218,7 @@ Classic cryptography, by modern standards, is not strictly cryptography; it is m
 > 📄 New Directions in Cryptography, W.Diffie, M.Hellman
 
 > [!links]
-> ↗ [Diffie-Hellman Based Key Exchange](../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Exchange%20Algorithms%20&%20Protocols/Diffie-Hellman%20Based%20Key%20Exchange.md)
+> ↗ [Diffie-Hellman Based Key Exchange](../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20%28one-to-one%29/Key%20Exchange%20Algorithms%20&%20Protocols/Diffie-Hellman%20Based%20Key%20Exchange.md)
 > ↗️ [Modern Cryptography](Modern%20Cryptography/Modern%20Cryptography.md)
 #### Symmetric Key Cryptography
 It is an encryption system where the sender and receiver of a message use a single common key to encrypt and decrypt messages. Symmetric Key Systems are faster and simpler but the problem is that the sender and receiver have to somehow exchange the key in a secure manner. The most popular symmetric key cryptography system is Data Encryption System(DES).
@@ -242,7 +242,7 @@ Digital Signature is an implementation of asymmetric cryptography.
 
 
 ### 4️⃣ Quantum Cryptography
-> ↗ [Quantum Cryptography & Post-Quantum Cryptography (PQ)](Quantum%20Cryptography%20&%20Post-Quantum%20Cryptography%20(PQ)/Quantum%20Cryptography%20&%20Post-Quantum%20Cryptography%20(PQ).md)
+> ↗ [Quantum Cryptography & Post-Quantum Cryptography (PQ)](Quantum%20Cryptography%20&%20Post-Quantum%20Cryptography%20%28PQ%29/Quantum%20Cryptography%20&%20Post-Quantum%20Cryptography%20%28PQ%29.md)
 
 
 

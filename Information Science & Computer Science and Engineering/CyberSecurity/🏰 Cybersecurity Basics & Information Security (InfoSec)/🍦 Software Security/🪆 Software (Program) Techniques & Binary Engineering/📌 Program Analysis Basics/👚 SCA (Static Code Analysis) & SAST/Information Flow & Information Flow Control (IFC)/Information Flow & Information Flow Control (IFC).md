@@ -11,13 +11,13 @@
 ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
 
 ↗ [Cryptology & Secure Communication](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
-↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../../../Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md)
-↗ [Security Protocols & Cryptographic Verification](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
-↗ [Zero-Knowledge Proof (ZKP)](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
+↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../../../Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29.md)
+↗ [Security Protocols & Cryptographic Verification](../../../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+↗ [Zero-Knowledge Proof (ZKP)](../../../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20%28ZKP%29/Zero-Knowledge%20Proof%20%28ZKP%29.md)
 
-↗ [Access Control (访问控制)](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
+↗ [Access Control (访问控制)](../../../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Access%20Control%20%28访问控制%29.md)
 
-↗ [Network Traffic Analysis](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
+↗ [Network Traffic Analysis](../../../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
 
 
 ### Other Resources
@@ -330,10 +330,10 @@ broadcast(l); // l is low security
 
 ### Security Properties of Information
 > [!links]
-> ↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../../../Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md) "🛡️ InfoSec Objectives"
+> ↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../../../Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29.md) "🛡️ InfoSec Objectives"
 > ↗ [Cryptology & Secure Communication](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md) "Objective of Cryptology /Secure Communication & Cryptographic Properties ⭐ "
 > 
-> ↗ [Core Cryptographic Properties Threats & Countermeasures](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+> ↗ [Core Cryptographic Properties Threats & Countermeasures](../../../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 
 > 🔗 https://blog.wohin.me/posts/nju-program-analysis-13/
 
@@ -348,7 +348,7 @@ broadcast(l); // l is low security
 
 ### Explicit Flows and Side (Covert) Channels
 > [!links]
-> ↗ [Side-Channel Attack (SCA)](../../../../../🪖%20Hardware%20Security/Hardware%20Threats%20&%20Attacks/Side-Channel%20Attack%20(SCA)/Side-Channel%20Attack%20(SCA).md)
+> ↗ [Side-Channel Attack (SCA)](../../../../../🪖%20Hardware%20Security/Hardware%20Threats%20&%20Attacks/Side-Channel%20Attack%20%28SCA%29/Side-Channel%20Attack%20%28SCA%29.md)
 
 > 🔗 https://blog.wohin.me/posts/nju-program-analysis-13/
 
@@ -483,9 +483,9 @@ if (secret) {
 
 ## 🎯 Semantic Foundations /Information Flow Policies
 > [!links]
-> ↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../../../Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md)
-> ↗ [Core Cryptographic Properties Threats & Countermeasures](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
-> ↗ [Other Cryptographic Properties Threats & Countermeasures](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Other%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+> ↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../../../Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29.md)
+> ↗ [Core Cryptographic Properties Threats & Countermeasures](../../../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+> ↗ [Other Cryptographic Properties Threats & Countermeasures](../../../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Other%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 
 
 ### Observational Equivalence
@@ -515,7 +515,7 @@ Non-interference is a policy that enforces that an attacker should not be able t
 ### 2️⃣ Relaxations of Noninterference
 #### Information Declassification ⭐
 > [!links]
-> ↗ [Authentication (身份鉴别)](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md) "authentication factors"
+> ↗ [Authentication (身份鉴别)](../../../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Authentication%20%28身份鉴别%29/Authentication%20%28身份鉴别%29.md) "authentication factors"
 
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification
 
@@ -570,11 +570,11 @@ A _when_ declassification policy regulates when the information can be release
 
 ### Semantic Models 🤔
 ↗ [Mathematical Modeling & Abstraction](../../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
-↗ [Models of Computation & Abstract Machines](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+↗ [Models of Computation & Abstract Machines](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
 ↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
-↗ [(Formal) Model Checking](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [(Formal) Model Checking](../../../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 - Trace semantics  
 - Bisimulation  
@@ -611,8 +611,8 @@ A _when_ declassification policy regulates when the information can be release
 
 ### Denning's Approach (High & Low Label) & Lattice Model 
 > [!links]
-> ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
-> ↗ [Lattice Model](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/MAC%20(Mandatory%20Access%20Control)/MAC%20Hybrid%20Policy%20Models/Lattice%20Model.md)
+> ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
+> ↗ [Lattice Model](../../../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/📌%20Access%20Control%20Models/MAC%20%28Mandatory%20Access%20Control%29/MAC%20Hybrid%20Policy%20Models/Lattice%20Model.md)
 
 > 📄 Denning, Dorothy E., and Peter J. Denning. "Certification of programs for secure information flow." _Communications of the ACM_ 20.7 (1977): 504-513.
 #### Basic Idea
@@ -642,10 +642,10 @@ We can enforce this idea via language-based enforcement. (see below)
 > ↗ [Partial Order & Order Theory](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
 > ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
 > 
-> ↗ [Access Control (访问控制)](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
-> ↗ [Access Control Models](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/Access%20Control%20Models.md)
-> - ↗ [MAC (Mandatory Access Control)](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/MAC%20(Mandatory%20Access%20Control)/MAC%20(Mandatory%20Access%20Control).md)
-> - ↗ [LBAC (Lattice-Based Access Control)](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/LBAC%20(Lattice-Based%20Access%20Control)/LBAC%20(Lattice-Based%20Access%20Control).md)
+> ↗ [Access Control (访问控制)](../../../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Access%20Control%20%28访问控制%29.md)
+> ↗ [Access Control Models](../../../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/📌%20Access%20Control%20Models/Access%20Control%20Models.md)
+> - ↗ [MAC (Mandatory Access Control)](../../../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/📌%20Access%20Control%20Models/MAC%20%28Mandatory%20Access%20Control%29/MAC%20%28Mandatory%20Access%20Control%29.md)
+> - ↗ [LBAC (Lattice-Based Access Control)](../../../../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/📌%20Access%20Control%20Models/LBAC%20%28Lattice-Based%20Access%20Control%29/LBAC%20%28Lattice-Based%20Access%20Control%29.md)
 
 > [!Example] Confidentiality and Integrity in One Go?
 > (Continuing from examples in "Volpano-Smith-Irvine")
@@ -667,7 +667,7 @@ A **security policy framework** is a 4-tuple $(S, \sqsubseteq, \sqcup, \sqcap)$ 
 	*  for all $s_1, s_2 \in S$:
 		* $s_1 \sqsubseteq s_1 \sqcup s_2 \text{ and } s_2 \sqsubseteq s_1 \sqcup s_2$
 		* $s_1 \sqcap s_2 \sqsubseteq s_1 \text{ and } s_1 \sqcap s_2 \sqsubseteq s_2$
-	* (This condition is basically saying: the Poset $(S, \sqsubseteq)$ is a lattice. Recall the definition of ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md))
+	* (This condition is basically saying: the Poset $(S, \sqsubseteq)$ is a lattice. Recall the definition of ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md))
 
 > [!Example] Confidentiality and Integrity in One Go
 > 
@@ -937,7 +937,7 @@ A prominent way to enforce information flow policies in a program is through a 
 ### Static Enforcement
 #### Language-Based IFC
 > [!links]
-> ↗ [Context-Free Languages (CFL) & Push-Down Automata (PDA)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Free%20Languages%20(CFL)%20&%20Push-Down%20Automata%20(PDA).md)
+> ↗ [Context-Free Languages (CFL) & Push-Down Automata (PDA)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Context-Free%20Languages%20%28CFL%29%20&%20Push-Down%20Automata%20%28PDA%29.md)
 
 A **language-based approach**:
 - We define the syntax of a small programming language using a context-free grammar.
@@ -1060,9 +1060,9 @@ Rules
 where $p$ was declared with as input $\text{var}_{in}$ and output $\text{var}_{out}$.
 #### Type-System-Based IFC
 > [!links]
-> ↗ [Type Theory (类型论)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+> ↗ [Type Theory (类型论)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
 > ↗ [Type Analysis](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
-> ↗ [PL Static Syntactic Analysis & Type System](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
+> ↗ [PL Static Syntactic Analysis & Type System](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Security_type_system
 
@@ -1168,7 +1168,7 @@ Information Flow/Noninterference guarantees that the intruder does not learn any
 - ... not like secrecy in OFMC
 - ... a bit like guessable secrecy in OFMC
 - ... close to α-β-privacy! 
-	- ↗ [Cryptographic Protocols Modeling & Verification /α-β Privacy](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md#α-β%20Privacy)
+	- ↗ [Cryptographic Protocols Modeling & Verification /α-β Privacy](../../../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md#α-β%20Privacy)
 
 > [!TIP] Theorem (Non-Interference instantiated for $T \sqsubseteq U$)
 > * Suppose a program $c$ satisfies information flow policy $\gamma$:

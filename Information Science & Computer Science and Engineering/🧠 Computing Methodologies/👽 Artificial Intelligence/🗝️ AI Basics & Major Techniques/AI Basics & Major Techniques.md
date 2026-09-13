@@ -8,14 +8,14 @@
 ### Related Topics
 ↗ [Information Theory](../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗️ [Possibilities & Statistics](../🔑 CS_Core/🧮 Math for CS/Possibilities & Statistics/Possibilities & Statistics.md)
-- ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
-- ↗ [Bayesian Statistics & Statistical Analysis](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
-	- ↗ [Variational Inference](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Variational%20Inference/Variational%20Inference.md)
-	- ↗ [Causal Inference in Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Causal%20Inference%20in%20Statistics/Causal%20Inference%20in%20Statistics.md)
-↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+- ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process.md)
+- ↗ [Bayesian Statistics & Statistical Analysis](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
+	- ↗ [Variational Inference](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20%28Analysis%29%20&%20Statistical%20Inference/Variational%20Inference/Variational%20Inference.md)
+	- ↗ [Causal Inference in Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20%28Analysis%29%20&%20Statistical%20Inference/Causal%20Inference%20in%20Statistics/Causal%20Inference%20in%20Statistics.md)
+↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making.md)
 
-↗️ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
+↗️ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
+↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
 
 
 ### Learning Resource
@@ -42,6 +42,7 @@
 ## Intro
 > [!links]
 > ↗ [Artificial Intelligence](../Artificial%20Intelligence.md) "AI Without Self-Awareness: Agent vs Environment (Narrow AI) ⭐"
+> ↗ [The Development History of AI](../The%20Development%20History%20of%20AI.md)
 
 ![CS_and_Intelligence.excalidraw | 800](../../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 
@@ -50,7 +51,7 @@
 
 ### The Layering Perspective in AI Technologies
 > [!links]
-> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
 > ↗ [Artificial Intelligence /Agent Types & AI Task Types](../Artificial%20Intelligence.md#Agent%20Types%20&%20AI%20Task%20Types)
 
 > 🤖 GPT 5.0
@@ -60,10 +61,10 @@ Think in **layers**:
 
 **Layer 1 — Representation / reasoning paradigm** -- Semantic role of memory and reasoning
 It comes from **classical AI / agent models** (often inspired by Russell & Norvig), and it is about **how an agent decides what action to take**, not _how it learns_.
-- ↗ [Reflex-Based Models](🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Reflex-Based%20Models.md)
-- ↗ [State-Based Models](🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/State-Based%20Models.md)
-- ↗ [Variables-Based Models](🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Variables-Based%20Models.md)
-- ↗ [Logic-Based Models](🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Logic-Based%20Models.md)
+- ↗ [Reflex-Based Models](🌠%20Agent%20Decision%20Models%20%28Semantic%20Level%29/Reflex-Based%20Models.md)
+- ↗ [State-Based Models](🌠%20Agent%20Decision%20Models%20%28Semantic%20Level%29/State-Based%20Models.md)
+- ↗ [Variables-Based Models](🌠%20Agent%20Decision%20Models%20%28Semantic%20Level%29/Variables-Based%20Models.md)
+- ↗ [Logic-Based Models](🌠%20Agent%20Decision%20Models%20%28Semantic%20Level%29/Logic-Based%20Models.md)
 
 **Layer 2 — Model / implementation tools** -- Concrete representation of the mapping. (syntax level)
 Layer 2 includes function representation mechanisms:
@@ -78,8 +79,8 @@ Layer 2 includes function representation mechanisms:
 	- Probabilistic programs
 - Parametric / differentiable
 	- Neural networks 🔥
-		- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-		- ↗ [Neural Network Models](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+		- ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
+		- ↗ [Neural Network Models](🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 	- Kernel machines
 All of these can be embedded into **any Layer-1 paradigm**.
 
@@ -89,20 +90,20 @@ All of these can be embedded into **any Layer-1 paradigm**.
 
 - hard-coded (search based)
 	- ↗ [Problem Solving & Search-Based Methods](Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
-		- ↗ [Systematic & Combinatorial Search (Classical Search)](Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
-			- ↗ [Uninformed Search](Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Uninformed%20Search/Uninformed%20Search.md)
-			- ↗ [Informed (Heuristic) Search](Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Informed%20(Heuristic)%20Search/Informed%20(Heuristic)%20Search.md)
+		- ↗ [Systematic & Combinatorial Search (Classical Search)](Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29.md)
+			- ↗ [Uninformed Search](Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Uninformed%20Search/Uninformed%20Search.md)
+			- ↗ [Informed (Heuristic) Search](Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Informed%20%28Heuristic%29%20Search/Informed%20%28Heuristic%29%20Search.md)
 		- ↗ [Local Search](Problem%20Solving%20&%20Search-Based%20Methods/Local%20Search/Local%20Search.md)
 		- ↗ [Sampling-Based and Probabilistic Search](Problem%20Solving%20&%20Search-Based%20Methods/Sampling-Based%20and%20Probabilistic%20Search/Sampling-Based%20and%20Probabilistic%20Search.md)
 		- ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
 		- ↗ [Games & Search in Multi-Agents Environment](Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
 - machine learning (learn based) 🔥
-	- ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
-		- ↗ [Supervised Learning](Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Supervised%20Learning/Supervised%20Learning.md)
-			- ↗ [Semi-supervised Learning](Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Supervised%20Learning/🥝%20Semi-supervised%20Learning/Semi-supervised%20Learning.md)
-		- ↗ [Unsupervised Learning](Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Unsupervised%20Learning/Unsupervised%20Learning.md)
-		- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
-	- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md) 🔥
+	- ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
+		- ↗ [Supervised Learning](Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Supervised%20Learning/Supervised%20Learning.md)
+			- ↗ [Semi-supervised Learning](Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Supervised%20Learning/🥝%20Semi-supervised%20Learning/Semi-supervised%20Learning.md)
+		- ↗ [Unsupervised Learning](Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Unsupervised%20Learning/Unsupervised%20Learning.md)
+		- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making.md)
+	- ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md) 🔥
 - hybrid
 
 ---
@@ -144,7 +145,7 @@ Examples:
 - Programs
 
 Layer 2 is about **form**, not meaning.
-#### Connections of Model Representations and Machine Learning Paradigms
+#### Model Representations vs (Machine) Learning Paradigms
 #knowledge_representation #machine_learning #supervised_learning #reinforcement_learning #unsupervised_learning
 
 > 🤖 GPT 5.0
@@ -236,7 +237,7 @@ Example 6: Prolog system
 - Facts + rules + inference
 **Layer 1:** Logic-based 
 **Layer 2:** Logic program
-#### Connections of Model Representations and Deep Learning
+#### Model Representations vs Deep Learning
 #knowledge_representation  #deep_learning 
 
 > 🤖 GPT 5.0

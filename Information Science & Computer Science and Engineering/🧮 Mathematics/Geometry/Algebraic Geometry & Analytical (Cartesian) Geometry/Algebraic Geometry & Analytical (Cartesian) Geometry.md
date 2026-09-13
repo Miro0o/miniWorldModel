@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
 
 
 ### Other Resources
@@ -17,7 +17,6 @@
 ## Intro
 ### Algebraic Geometry
 > 🔗 https://zh.wikipedia.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95
-
 
 代数几何（英語：algebraic geometry）是数学的一个分支，经典代数几何研究多项式方程的零点。现代代数几何将抽象代数，尤其是交换代数，同几何学的语言和问题结合起来。
 

@@ -13,26 +13,26 @@
 
 ↗ [Information Theory](../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 
-↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-- ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
-↗ [(Deep) Generative Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/(Deep)%20Generative%20Models.md) 🤔
-- ↗ [Autoregressive (AR) Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/Autoregressive%20(AR)%20Models/Autoregressive%20(AR)%20Models.md)
+↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
+↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
+- ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [(Deep) Generative Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Probabilistic%20Modeling%20Distinction/🪽%20%28Deep%29%20Generative%20Models/%28Deep%29%20Generative%20Models.md) 🤔
+- ↗ [Autoregressive (AR) Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Probabilistic%20Modeling%20Distinction/🪽%20%28Deep%29%20Generative%20Models/Autoregressive%20%28AR%29%20Models/Autoregressive%20%28AR%29%20Models.md)
 
 LLM & Academics 🧑‍🎓
-- ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
-- ↗ [LLM & Fuzzing](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md)
-- ↗ [LLM & Software Engineering and Security](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Software%20Engineering%20and%20Security.md)
+- ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
+- ↗ [LLM & Fuzzing](../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md)
+- ↗ [LLM & Software Engineering and Security](../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Software%20Engineering%20and%20Security.md)
 ↗ [LLM For Security](../../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
 
 ↗ [AI4SE](../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 - ↗ [Agentic AI Workflow Dev](../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
 - ↗ [LangChain & LangGraph](../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Agents%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
 
-↗ [Artificial Intelligence Related Venues and People](../../../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)
-↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI.md)
+↗ [Artificial Intelligence Related Venues and People](../../../../Academics%20🎓%20%28In%20CS%29/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)
+↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI.md)
 
 ↗ [Artificial Intelligence Industry and Companies](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Artificial%20Intelligence%20Industry%20and%20Companies/Artificial%20Intelligence%20Industry%20and%20Companies.md)
 
@@ -109,7 +109,7 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-age
 We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of contexts, using our circuit tracing methodology.
 #### Tutorials & Books & Courses ⭐
 > [!links]
-> ↗ [LLM (Large Language Model)](LLM%20(Large%20Language%20Model).md)
+> ↗ [LLM (Large Language Model)](LLM%20%28Large%20Language%20Model%29.md)
 
 https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B/roadmap/
 近几年大语言模型成为大热的方向，也和笔者博士期间的课题非常相关。这篇路线图旨在分享笔者在熟悉和深入深度生成模型这一领域过程中学习和参考的各类课程资料，方便相关领域的从业者或者对生成模型的底层原理感兴趣的朋友共同学习。由于笔者科研之余时间有限，很多课程的实验并未完成，等后续有时间完成之后会在该目录下一一添加。
@@ -403,18 +403,18 @@ Estimating AI productivity gains from Claude conversations
 > - [Language Model Pretraining](https://cameronrwolfe.substack.com/i/136638774/language-model-pretraining): language models are pretrained over a massive, unlabeled textual corpus. 
 > - [Language Model Inference](https://cameronrwolfe.substack.com/i/136638774/autoregressive-inference-process): language models can be used to generate coherent sequences of text via autoregressive next token prediction.
 
-↗ [Natural Language Processing (NLP) /Intro](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#Intro)
+↗ [Natural Language Processing (NLP) /Intro](../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md#Intro)
 
 ![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
 
 
 ### LLM Backgrounds
 #### 📜 The Development History of AI, NLP, and LLM
-↗ [The Development History of AI](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-↗ [Natural Language Processing (NLP) & Computational Linguistics](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+↗ [The Development History of AI](../../The%20Development%20History%20of%20AI.md)
+↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md)
 
-↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
 <small>
@@ -428,18 +428,18 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 ### LLM Modeling & Architecture ⭐
 > [!links]
 > ↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
-> ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png)
 <small><a>https://poloclub.github.io/transformer-explainer/</a></small>
 
-↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 - Tokenization
 - Attention
 - Probability
 
-↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RWKV%20(Receptance%20Weighted%20Key%20Value)/RWKV%20(Receptance%20Weighted%20Key%20Value).md)
-↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/Mamba.md)
+↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/RWKV%20%28Receptance%20Weighted%20Key%20Value%29/RWKV%20%28Receptance%20Weighted%20Key%20Value%29.md)
+↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/SSM%20%28State-Space%20Model%29/Mamba.md)
 
 
 ### LLM Training, Utilization, and Evaluation
@@ -448,18 +448,18 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 	- ↗ [Tokenization Techniques & Tokenizers](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
 - ↗ [Post-Training & Fine Tuning](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
 	- ↗ [Instruction Tuning](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/Instruction%20Tuning.md)
-		- ↗ [SFT (Supervised Fine Tuning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/SFT%20(Supervised%20Fine%20Tuning)/SFT%20(Supervised%20Fine%20Tuning).md)
+		- ↗ [SFT (Supervised Fine Tuning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/SFT%20%28Supervised%20Fine%20Tuning%29/SFT%20%28Supervised%20Fine%20Tuning%29.md)
 	- ↗ [LLM Adaptation & Alignment Tuning](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
-		- ↗ [RLFT (Reinforcement Learning Fine Tuning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
-	- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
-		- ↗ [LLM and RL](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/LLM%20and%20RL.md)
+		- ↗ [RLFT (Reinforcement Learning Fine Tuning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20%28Reinforcement%20Learning%20Fine%20Tuning%29/RLFT%20%28Reinforcement%20Learning%20Fine%20Tuning%29.md)
+	- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making.md)
+		- ↗ [LLM and RL](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making/LLM%20and%20RL.md)
 - ↗ [LLM Utilization & Prompt, Context, and Harness Engineering](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md) (In-Context Learning)
-	- ↗ [CoT (Chain-of-Thought)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/CoT%20(Chain-of-Thought).md)
-	- ↗ [RAG (Retrieval Augmented Generation)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/RAG%20(Retrieval%20Augmented%20Generation).md)
-	- ↗ [Context Engineering & ICL (In-Context Learning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/Context%20Engineering%20&%20ICL%20(In-Context%20Learning).md)
+	- ↗ [CoT (Chain-of-Thought)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/CoT%20%28Chain-of-Thought%29.md)
+	- ↗ [RAG (Retrieval Augmented Generation)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/RAG%20%28Retrieval%20Augmented%20Generation%29.md)
+	- ↗ [Context Engineering & ICL (In-Context Learning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/Context%20Engineering%20&%20ICL%20%28In-Context%20Learning%29.md)
 #### LLM Reasoning & Large Reasoning Models (LRM) 🤔
 > [!links]
-> ↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20(Reasoning%20Language%20Model)%20&%20LRM%20(Large%20Reasoning%20Model).md)
+> ↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20%28Reasoning%20Language%20Model%29%20&%20LRM%20%28Large%20Reasoning%20Model%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Reasoning_model
 
@@ -471,8 +471,8 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 
 
 ### LLM Infrastructure & Deployment
-↗ [LLM Infrastructure (Deployment & Inference)](LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
-↗ [AI (Data) Infrastructure & Techniques Stack](../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
+↗ [LLM Infrastructure (Deployment & Inference)](LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
+↗ [AI (Data) Infrastructure & Techniques Stack](../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack.md)
 
 
 ### LLM Applications & LLM-Driven Automation
@@ -480,10 +480,10 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 
 Agentic LLM and LLM OS
 - ↗ [Agentic LLMs & LLM Agent Harness](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
-- ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
+- ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS/AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS.md)
 
 Artificial General Intelligence?
-- ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
+- ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC.md)
 
 
 

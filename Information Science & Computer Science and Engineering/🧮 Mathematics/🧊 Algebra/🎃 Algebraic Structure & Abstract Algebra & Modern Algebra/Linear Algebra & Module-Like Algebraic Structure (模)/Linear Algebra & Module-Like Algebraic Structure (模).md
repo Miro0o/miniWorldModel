@@ -6,13 +6,14 @@
 
 ## Res
 ### Related Topics
-↗ [Function & Mapping of Set](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+↗ [Set Mapping & Function](../../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
+↗ [Geometry](../../../Geometry/Geometry.md)
 
-↗ [Linear Algebra Problems](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Linear%20Algebra%20Problems/Linear%20Algebra%20Problems.md)
+↗ [Linear Algebra Problems](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20for%20Algebra%20Problems/Linear%20Algebra%20Problems/Linear%20Algebra%20Problems.md)
 
-↗ [Group Theory & Group-Like Algebraic Structure (群)](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群).md)
-- ↗ [Abelian Groups](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Abelian%20Groups/Abelian%20Groups.md)
-- ↗ [Ring Theory & Ring-Like Algebraic Structure](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
+↗ [Group Theory & Group-Like Algebraic Structure (群)](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29.md)
+- ↗ [Abelian Groups](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Abelian%20Groups/Abelian%20Groups.md)
+- ↗ [Ring Theory & Ring-Like Algebraic Structure](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
 
 ↗ [Hybrid Algebraic Structures](../🛸%20Hybrid%20Algebraic%20Structures/Hybrid%20Algebraic%20Structures.md)
 - ↗ [Normed Vector Space](../🛸%20Hybrid%20Algebraic%20Structures/Normed%20Vector%20Space.md)
@@ -81,8 +82,8 @@ Linear algebra is also used in most sciences and fields of [engineering](https:
 
 ### Module
 > [!links]
-> ↗ [Vector & Vector Space (Linear Space)](Vector%20&%20Vector%20Space%20(Linear%20Space)/Vector%20&%20Vector%20Space%20(Linear%20Space).md)
-> ↗ [Abelian Groups](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Abelian%20Groups/Abelian%20Groups.md)
+> ↗ [Vector & Vector Space (Linear Space)](Vector%20&%20Vector%20Space%20%28Linear%20Space%29/Vector%20&%20Vector%20Space%20%28Linear%20Space%29.md)
+> ↗ [Abelian Groups](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20%28群%29/Abelian%20Groups/Abelian%20Groups.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Module_(mathematics)
 
