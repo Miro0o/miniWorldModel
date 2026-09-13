@@ -884,12 +884,12 @@ Four important properties of an axiom system are consistency, relative consisten
 In an axiomatic system, an axiom is called independent if it cannot be proven or disproven from other axioms in the system. A system is called independent if each of its underlying axioms is independent.[72] Unlike consistency, in many cases independence is not a necessary requirement for a functioning axiomatic system — though it is usually sought after to minimize the number of axioms in the system.
 
 An axiomatic system is called complete if for every statement, either itself or its negation is derivable from the system's axioms, i.e. every statement can be proven true or false by using the axioms.[72][73] However, note that in some cases it may be undecidable if a statement can be proven or not.
-###### Incompleteness & Gödel's Incompleteness Theorems ⭐
+###### Incompleteness & Gödel's  Theorems ⭐
+> [!links]
+> ↗ [Formal System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) "Gödel's Incompleteness Theorems"
+
 > [!TIP]
 > Applies for formal axiomatic system.
-
-> [!links]
-> ↗ [Formal System /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md#Gödel's%20Incompleteness%20Theorems%20⭐)
 
 > 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Incompleteness
 

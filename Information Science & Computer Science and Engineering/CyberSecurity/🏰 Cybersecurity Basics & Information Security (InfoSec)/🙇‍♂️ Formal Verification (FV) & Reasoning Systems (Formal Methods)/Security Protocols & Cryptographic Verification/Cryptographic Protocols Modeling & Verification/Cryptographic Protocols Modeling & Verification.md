@@ -1654,7 +1654,7 @@ guess good cryptographic keys), but one can do a few things to mitigate the risk
 
 ## 2️⃣ Automated Verification of Security Protocols
 > [!links]
-> ↗ [Software (Program) Verification](../../Software%20(Program)%20Verification/Software%20(Program)%20Verification.md)
+> ↗ [Program (Formal) Verification](../../Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
 > ↗ [(Formal) Model Checking](../../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
 
