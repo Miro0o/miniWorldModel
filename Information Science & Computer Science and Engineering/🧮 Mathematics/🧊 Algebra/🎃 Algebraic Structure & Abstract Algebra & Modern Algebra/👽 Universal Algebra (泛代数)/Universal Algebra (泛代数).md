@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Mathematical Logic (Foundations of Mathematics)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-↗ [Formal System, Formal Logic, and Its Semantics](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](../../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+↗ [Formal System, Formal Semantics, and Formal Logic](../../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 
 
 ### Other Resources
@@ -63,7 +63,7 @@ One advantage of this restriction is that the structures studied in universal al
 ### Motivation & Applications
 > [!links]
 > ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
-> ↗ [Constraint Satisfaction Problems (CSPs)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+> ↗ [Constraint Satisfaction Problems (CSPs)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20%28CSPs%29.md)
 
 In addition to its unifying approach, universal algebra also gives deep theorems and important examples and counterexamples. It provides a useful framework for those who intend to start the study of new classes of algebras. It can enable the use of methods invented for some particular classes of algebras to other classes of algebras, by recasting the methods in terms of universal algebra (if possible), and then interpreting these as applied to other classes. It has also provided conceptual clarification; as J.D.H. Smith puts it, _"What looks messy and complicated in a particular framework may turn out to be simple and obvious in the proper general one."_
 
@@ -75,8 +75,8 @@ The 1956 paper by Higgins referenced below has been well followed up for its fra
 
 ## Generalization
 > [!links]
-> ↗ [Category Theory (范畴论)](../../../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
-> ↗ [Model Theory (模型论)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+> ↗ [Category Theory (范畴论)](../../../🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
+> ↗ [Model Theory (模型论)](../../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Model%20Theory%20%28模型论%29/Model%20Theory%20%28模型论%29.md)
 > operad theory
 > partial algebra
 
@@ -86,13 +86,13 @@ The 1956 paper by Higgins referenced below has been well followed up for its fra
 
 ## Σ-Algebra (Sigma-Algebra) & Signature Structure
 > [!links]
-> ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> ↗ [Formal System, Formal Logic, and Its Semantics](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+> ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+> ↗ [Formal System, Formal Semantics, and Formal Logic](../../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 > 
-> ↗ [Model Theory (模型论)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+> ↗ [Model Theory (模型论)](../../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Model%20Theory%20%28模型论%29/Model%20Theory%20%28模型论%29.md)
 
 > [!TIP]
-> Not to be confused with ↗ [σ-Algebra (sigma Algebra)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(sigma%20Algebra)/σ-Algebra%20(sigma%20Algebra).md)
+> Not to be confused with ↗ [σ-Algebra (sigma Algebra)](../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/σ-Algebra%20%28sigma%20Algebra%29/σ-Algebra%20%28sigma%20Algebra%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Signature_(logic)
 

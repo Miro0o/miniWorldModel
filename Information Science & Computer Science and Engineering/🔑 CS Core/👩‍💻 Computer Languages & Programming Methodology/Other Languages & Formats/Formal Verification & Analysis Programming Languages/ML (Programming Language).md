@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29/Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29.md)
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/📌%20Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29/Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29.md)
 
 ↗ [CakeML Project](../../GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/CakeML%20Project/CakeML%20Project.md)
 ↗ [Standard ML (SML)](../../GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Standard%20ML%20%28SML%29/Standard%20ML%20%28SML%29.md)

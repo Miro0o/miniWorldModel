@@ -10,8 +10,8 @@
 ↗ [World's Science & Technology History](../📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
 
 ↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
-↗ [Mathematical Logic (Foundations of Mathematics)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-↗ [Formal System, Formal Logic, and Its Semantics](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+↗ [Formal System, Formal Semantics, and Formal Logic](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20%28Theoretical%20Computer%20Science%29.md)
 
@@ -46,8 +46,8 @@ I. Langmuir, M. Planck, M. Skłodowska-Curie, H.A. Lorentz, A. Einstein, P. Lang
 Branches of science:
 - Formal Science
 	- ↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
-	- ↗ [Mathematical Logic (Foundations of Mathematics)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-	- ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+	- ↗ [Mathematical Logic (Foundations of Mathematics)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+	- ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20%28Theoretical%20Computer%20Science%29.md)
 - Natural Science
 	- ↗ [Natural Science & Engineering and Technology](Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 - Social Science

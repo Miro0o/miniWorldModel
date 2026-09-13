@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20%28Theoretical%20Computer%20Science%29.md)
 
 ↗ [Information, Data, Number and Math in Digital Systems](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
-- ↗ [(Text) Data Representations & Storage in Computer](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
+- ↗ [(Text) Data Representations & Storage in Computer](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/%28Text%29%20Data%20Representations%20&%20Storage%20in%20Computer.md)
 - ↗ [Encodings](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
 
@@ -30,6 +30,7 @@ https://oi-wiki.org/math/
 
 
 ## Intro
+
 
 
 ## Ref

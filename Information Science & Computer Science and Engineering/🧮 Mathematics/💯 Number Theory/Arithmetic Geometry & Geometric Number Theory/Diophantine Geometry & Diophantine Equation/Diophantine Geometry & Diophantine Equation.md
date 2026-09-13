@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Diophantine Equations (不定方程)](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/📌%20Fundamentals/Diophantine%20Equations%20(不定方程).md)
+↗ [Diophantine Equations (不定方程)](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20for%20Algebra%20Problems/📌%20Fundamentals/Diophantine%20Equations%20%28不定方程%29.md)
 
 
 ### Other Resources

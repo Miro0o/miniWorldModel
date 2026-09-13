@@ -752,7 +752,7 @@ Thus, $\beta$ does not allow the intruder to rule out any model of $\alpha$.
 
 ### Secure Implementation & Typing 🤔
 > [!links]
-> ↗ [Type Theory (类型论)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
+> ↗ [Type Theory (类型论)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
 > ↗ [Type Analysis](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
 > ↗ [Type Confusion](../../../../System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Stack%20Attack/Type%20Confusion.md)
 
@@ -1654,7 +1654,7 @@ guess good cryptographic keys), but one can do a few things to mitigate the risk
 
 ## 2️⃣ Automated Verification of Security Protocols
 > [!links]
-> ↗ [Software (Program) Verification](../../Software%20%28Program%29%20Verification/Software%20%28Program%29%20Verification.md)
+> ↗ [Program (Formal) Verification](../../Program%20%28Formal%29%20Verification/Program%20%28Formal%29%20Verification.md)
 > ↗ [(Formal) Model Checking](../../🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 

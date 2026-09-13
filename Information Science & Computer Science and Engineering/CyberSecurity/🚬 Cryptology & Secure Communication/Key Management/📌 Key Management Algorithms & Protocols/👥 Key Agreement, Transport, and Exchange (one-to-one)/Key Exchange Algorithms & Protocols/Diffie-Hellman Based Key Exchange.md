@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Discrete Logarithm](../../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Discrete%20Logarithm/Discrete%20Logarithm.md)
-↗ [ElGamal](../../../../🤐%20Cryptography/Modern%20Cryptography/📌%20Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Modular%20Exponentiation%20Based/ElGamal/ElGamal.md)
+↗ [Discrete Logarithm](../../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20for%20Algebra%20Problems/Number%20Theory%20Problems/Discrete%20Logarithm/Discrete%20Logarithm.md)
+↗ [ElGamal](../../../../🤐%20Cryptography/Modern%20Cryptography/📌%20Asymmetric%20Cipher%20%28Public-Key%20Cryptography%29/Modular%20Exponentiation%20Based/ElGamal/ElGamal.md)
 
 
 ### Other Resources

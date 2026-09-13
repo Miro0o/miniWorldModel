@@ -6,19 +6,19 @@
 
 ## Res
 ### Related Topics
-↗ [AI (Data) Infrastructure & Techniques Stack](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
-- ↗ [Foundation Models & Development & SDKs](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/Foundation%20Models%20&%20Development%20&%20SDKs.md)
-- ↗ [Model Monitoring & Observability](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/Model%20Monitoring%20&%20Observability/Model%20Monitoring%20&%20Observability.md)
-- ↗ [Model Web Demo & Web Deployment](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/Model%20Web%20Demo%20&%20Web%20Deployment/Model%20Web%20Demo%20&%20Web%20Deployment.md)
+↗ [AI (Data) Infrastructure & Techniques Stack](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack.md)
+- ↗ [Foundation Models & Development & SDKs](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/Foundation%20Models%20&%20Development%20&%20SDKs.md)
+- ↗ [Model Monitoring & Observability](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/Model%20Monitoring%20&%20Observability/Model%20Monitoring%20&%20Observability.md)
+- ↗ [Model Web Demo & Web Deployment](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/Model%20Web%20Demo%20&%20Web%20Deployment/Model%20Web%20Demo%20&%20Web%20Deployment.md)
 
-↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
-↗ [Attention in Transformer & Efficient Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Attention%20in%20Transformer%20&%20Efficient%20Implementation.md)
+↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Attention in Transformer & Efficient Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Attention%20in%20Transformer%20&%20Efficient%20Implementation.md)
 
 ↗ [AI4SE](../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 - ↗ [Agentic AI Workflow Dev](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
 - ↗ [AI API Call & AI Gateway](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20API%20Call%20&%20AI%20Gateway.md)
 
-↗ [AI on Cloud](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20on%20Cloud/AI%20on%20Cloud.md)
+↗ [AI on Cloud](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/AI%20on%20Cloud/AI%20on%20Cloud.md)
 
 ↗ [vLLM](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
 ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
@@ -47,14 +47,90 @@ Orca: A Distributed Serving System for Transformer-Based Generative Models
 
 
 ### Other Resources
+https://github.com/henryhxu/CSCI5540
+CSCI5540 Machine Learning Systems, Fall 2026
+- This graduate course will introduce you to the key concepts and the state-of-the-art in large-scale software systems for LLMs and agents, and encourage you to think about either building new tools or how to apply existing ones in various domains.
+- The format of this course is heavily borrowed from Prof. Mosharaf Chowdhury's [CSE 585](https://github.com/mosharaf/cse585/tree/f26) from U. Michigan with his consent.
 
+This is an evolving list and subject to changes due to the breakneck pace of agentic and generative AI innovations.
+
+| Date       | Readings                                                                                                                                                                                                                  | Presenter                                                                  | Summary | Reviewer |
+| :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------- | :------ | :------- |
+| **Sep 7**  | **Introduction (Cloud, systems, and transformers)**                                                                                                                                                                       | [Henry](https://github.com/henryhxu/CSCI5540/blob/main/lectures/lec1.pptx) |         |          |
+|            | [Hints and Principles for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/09/Hints-and-Principles-v1-full.pdf) (Required)                                                        |                                                                            |         |          |
+|            | [The Datacenter as a Computer](https://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2)                                                                                                          |                                                                            |         |          |
+|            | [Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production AI Clusters at Alibaba](https://www.usenix.org/conference/osdi26/presentation/li-suyi)                                                  |                                                                            |         |          |
+| **Sep 14** | **No Class: Find Project Groups**                                                                                                                                                                                         |                                                                            |         |          |
+|            | [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) (Required)                                                                                                                                     |                                                                            |         |          |
+|            | [How to Give a Bad Talk](https://www.cs.ucf.edu/courses/cop4910/fall2004/BadTalk.pdf) (Required)                                                                                                                          |                                                                            |         |          |
+|            | _**Chapter 1. Systems for LLMs**_                                                                                                                                                                                         |                                                                            |         |          |
+| **Sep 21** | **Pre-training: DP, TP, PP**                                                                                                                                                                                              |                                                                            |         |          |
+|            | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required)                                                                              |                                                                            |         |          |
+|            | [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://dl.acm.org/doi/10.5555/3433701.3433727) (Required)                                                                                         |                                                                            |         |          |
+|            | [PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://dl.acm.org/doi/10.14778/3611540.3611569)                                                                                                       |                                                                            |         |          |
+|            | [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://proceedings.neurips.cc/paper/2019/hash/093f65e080a295f8076b1c5722a46aa2-Abstract.html)                                            |                                                                            |         |          |
+| **Sep 28** | **Pre-training: EP, SP, compiler, memory**                                                                                                                                                                                |                                                                            |         |          |
+|            | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required)                                                    |                                                                            |         |          |
+|            | [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://arxiv.org/abs/2309.14509) (Required)                                                                  |                                                                            |         |          |
+|            | [BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training](https://arxiv.org/pdf/2605.25451) (Required)                                                                                      |                                                                            |         |          |
+|            | [RingAttention with Blockwise Transformers for Near-Infinite Context](https://openreview.net/forum?id=WsRHpHH4s0)                                                                                                         |                                                                            |         |          |
+|            | [AutoSP: Unlocking Long-Context LLM Training Via Compiler-Based Sequence Parallelism](https://openreview.net/forum?id=0fgsHvmBBI)                                                                                         |                                                                            |         |          |
+|            | [MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production](https://dl.acm.org/doi/10.1145/3767295.3803587)                                                                      |                                                                            |         |          |
+| **Oct 5**  | **Inference: Disaggregation and Memory**                                                                                                                                                                                  |                                                                            |         |          |
+|            | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) (Required)                                                                                           |                                                                            |         |          |
+|            | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) (Required)                                                                          |                                                                            |         |          |
+|            | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu)                                                                                    |                                                                            |         |          |
+|            | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal)                                                                                   |                                                                            |         |          |
+| **Oct 12** | **Inference: KV Cache and Speculation**                                                                                                                                                                                   |                                                                            |         |          |
+|            | [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/abs/2407.00079)                                                                                                                |                                                                            |         |          |
+|            | [EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test](https://arxiv.org/abs/2503.01840)                                                                                            |                                                                            |         |          |
+|            | [VeriCache: Turning Lossy KV Cache into Lossless LLM Inference](https://arxiv.org/abs/2605.17613)                                                                                                                         |                                                                            |         |          |
+|            | [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036)                                                                                                                                |                                                                            |         |          |
+|            | _**Chapter 2: Systems for Agents**_                                                                                                                                                                                       |                                                                            |         |          |
+| **Oct 19** | **Post-training: Basics**                                                                                                                                                                                                 |                                                                            |         |          |
+|            | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required)                                                                                                          |                                                                            |         |          |
+|            | [Optimizing RLHF Training for Large Language Models with Stage Fusion](https://www.usenix.org/conference/nsdi25/presentation/zhong) (Required)                                                                            |                                                                            |         |          |
+|            | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)                                                                                                    |                                                                            |         |          |
+|            | [Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library](https://arxiv.org/abs/2506.06122)                                                                          |                                                                            |         |          |
+| **Oct 26** | **Post-training: Async and Disaggregation**                                                                                                                                                                               |                                                                            |         |          |
+|            | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/33c00862bfa29ac72ecf630a41e19352-Abstract-Conference.html) (Required) |                                                                            |         |          |
+|            | [StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation](https://arxiv.org/abs/2504.15930) (Required)                                                                            |                                                                            |         |          |
+|            | [Dynamic Compute and Network Orchestration for Disaggregated RL](https://dl.acm.org/doi/10.1145/3789240.3829124)                                                                                                          |                                                                            |         |          |
+|            | [ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents](https://arxiv.org/abs/2603.18815)                                                                                                            |                                                                            |         |          |
+| **Nov 2**  | **Agents as a New Workload**                                                                                                                                                                                              |                                                                            |         |          |
+|            | [The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective](https://arxiv.org/abs/2506.04301) (Required)                                                          |                                                                            |         |          |
+|            | [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657) (Required)                                                                                                                                       |                                                                            |         |          |
+|            | [Towards Understanding, Analyzing, and Optimizing Agentic AI Execution: A CPU-Centric Perspective](https://arxiv.org/abs/2511.00739)                                                                                      |                                                                            |         |          |
+|            | [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)                                                                                                           |                                                                            |         |          |
+| **Nov 9**  | **Agent Serving and Sandbox**                                                                                                                                                                                             |                                                                            |         |          |
+|            | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required)                                                                |                                                                            |         |          |
+|            | [FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap](https://openreview.net/forum?id=m14PPUfgEc) (Required)                                                                                  |                                                                            |         |          |
+|            | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278)                                                                                                      |                                                                            |         |          |
+|            | [Pie: A Programmable Serving System for Emerging LLM Applications](https://dl.acm.org/doi/10.1145/3731569.3764814)                                                                                                        |                                                                            |         |          |
+| **Nov 16** | **Agent Applications in the Real World**                                                                                                                                                                                  |                                                                            |         |          |
+|            | [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868) (Required)                                                                                    |                                                                            |         |          |
+|            | [R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization](https://arxiv.org/abs/2505.15155) (Required)                                                                             |                                                                            |         |          |
+|            | [Measuring Agents in Production](https://arxiv.org/abs/2512.04123)                                                                                                                                                        |                                                                            |         |          |
+|            | [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://arxiv.org/abs/2404.15155)                                                                                                               |                                                                            |         |          |
+|            | _**Chapter 3: Infrastructures and Operations**_                                                                                                                                                                           |                                                                            |         |          |
+| **Nov 23** | **Kernels and Networks**                                                                                                                                                                                                  |                                                                            |         |          |
+|            | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) (Required)                                                                                                |                                                                            |         |          |
+|            | [Alibaba HPN: A Data Center Network for Large Language Model Training](https://dl.acm.org/doi/10.1145/3651890.3672265) (Required)                                                                                         |                                                                            |         |          |
+|            | [FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling](https://arxiv.org/abs/2603.05451)                                                                                           |                                                                            |         |          |
+|            | [Connecting 100K+ GPUs: Building the Communication Stack for Large-Scale LLM Training](https://dl.acm.org/doi/10.1145/3789240.3829152)                                                                                    |                                                                            |         |          |
+| **Nov 30** | **Reliability and Simulation**                                                                                                                                                                                            |                                                                            |         |          |
+|            | [Robust LLM Training Infrastructure at ByteDance](https://arxiv.org/abs/2509.16293) (Required)                                                                                                                            |                                                                            |         |          |
+|            | [Frontier: Towards Comprehensive and Accurate LLM Inference Simulation](https://arxiv.org/abs/2605.21312) (Required)                                                                                                      |                                                                            |         |          |
+|            | [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints](https://dl.acm.org/doi/10.1145/3600006.3613145)                                                                                        |                                                                            |         |          |
+|            | [Mycroft: Tracing Dependencies in Collective Communication Towards Reliable LLM Training](https://dl.acm.org/doi/10.1145/3731569.3764848)                                                                                 |                                                                            |         |          |
+|            | [SimAI: Unifying Architecture Design and Performance Tuning for Large-Scale Large Language Model Training with Scalability and Precision](https://www.usenix.org/conference/nsdi25/presentation/wang-xizheng-simai)       |                                                                            |         |          |
 
 
 ## Intro
 ### Deploy LLM on Different Levels - Desktop and Production
-> To explain these two deployments, take the comparison of ollama and vLLM for example (generated by Gemini 2.5 Flash):
-
 #vLLM #ollama #LLM #software_deployment
+
+> To explain these two deployments, take the comparison of ollama and vLLM for example (generated by Gemini 2.5 Flash):
 
 While both Ollama and vLLM are tools for LLM inference (running a model), their **design goals** and **primary use cases** are fundamentally different:
 
@@ -67,20 +143,14 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 | **Hardware Focus**     | Consumer-grade hardware (CPU and GPU) and Apple Silicon.                                                      | High-end, dedicated GPUs (like NVIDIA A100s/H100s).                                                          |
 | **User Experience**    | Simple CLI and API, minimal setup. **Beginner-friendly.**                                                     | More complex setup, focused on advanced configuration for production needs. **Engineer-focused.**            |
 | **Model Scope**        | Curated model library that are pre-packaged.                                                                  | Works with a wide range of models from the Hugging Face ecosystem.                                           |
-
-
-
-## LLM Desktop Deployment
+#### LLM Desktop Deployment
 ↗ [ollama](LLM%20Desktop%20Deployment/ollama.md)
 ↗ [GPT4All](LLM%20Desktop%20Deployment/GPT4All.md)
 ↗ [LM Studio](LLM%20Desktop%20Deployment/LM%20Studio.md)
 ↗ [Jan.AI](LLM%20Desktop%20Deployment/Jan.AI.md)
-
-
-
-## LLM High-Performance Deployment & Inference Services Providers
-### LLM High-Performance Inference /Serving Engines
-> Reference: [llm-inference-solutions](https://github.com/mani-kantap/llm-inference-solutions)
+#### LLM High-Performance Deployment & Inference Services Providers
+##### LLM High-Performance Inference /Serving Engines
+> 🔗 Reference: [llm-inference-solutions](https://github.com/mani-kantap/llm-inference-solutions)
 
 - [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
@@ -129,9 +199,7 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 - [GPUStack](https://github.com/gpustack/gpustack) - An open-source GPU cluster manager for running LLMs
 - [MNN-LLM](https://github.com/alibaba/MNN) -- A Device-Inference framework, including LLM Inference on device(Mobile Phone/PC/IOT)
 - [CAMEL](https://www.camel-ai.org/) - First LLM Multi-agent framework.
-
-
-### LLM Inference Services Providers & API 🤔
+##### LLM Inference Services Providers & API 🤔
 ↗ [AI API Call & AI Gateway](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20API%20Call%20&%20AI%20Gateway.md)
 
 
@@ -140,6 +208,15 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 > [!links]
 > ↗ [vLLM](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
 > ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
+>
+> ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> ↗ [Attention in Transformer & Efficient Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Attention%20in%20Transformer%20&%20Efficient%20Implementation.md)
+
+
+### Pre-Filling
+
+
+### Decoding
 
 
 

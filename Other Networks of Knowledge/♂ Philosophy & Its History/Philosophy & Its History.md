@@ -15,11 +15,11 @@
 ↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 ↗ [Math History & Development](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
-↗ [The Development History of AI](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
+↗ [The Development History of AI](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/The%20Development%20History%20of%20AI.md)
 
 ↗ [Western Philosophy & Its History](Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/Western%20Philosophy%20&%20Its%20History.md)
 ↗ [Chinese Philosophy & Its History](Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Chinese%20Philosophy%20&%20Its%20History.md)
-- ↗ [中国共产党思想体系](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+- ↗ [中国共产党思想体系](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20%28Communist%20Party%20of%20China%29/中国共产党思想体系/中国共产党思想体系.md)
 
 ↗ [Marxism & Communism](Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
@@ -91,7 +91,7 @@ Philosophers use a great variety of methods to arrive at philosophical knowledge
 
 ### Concepts of Philosophy
 > [!link]
-> ↗ [Philosophy of Philosophy (Metaphilosophy, 元哲学)](Contemporary%20Philosophy/Philosophy%20of%20Philosophy%20(Metaphilosophy,%20元哲学)/Philosophy%20of%20Philosophy%20(Metaphilosophy,%20元哲学).md)
+> ↗ [Philosophy of Philosophy (Metaphilosophy, 元哲学)](Contemporary%20Philosophy/Philosophy%20of%20Philosophy%20%28Metaphilosophy,%20元哲学%29/Philosophy%20of%20Philosophy%20%28Metaphilosophy,%20元哲学%29.md)
 > ↗ [Western Philosophy & Its History](Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/Western%20Philosophy%20&%20Its%20History.md)
 
 > [!quote ] Bertrand Russell, History of western philosophy, **Introduction** :
@@ -128,7 +128,7 @@ An early approach found in ancient Greek and Roman philosophy is that philosophy
 ### First Principles
 > [!links]
 > ↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
-> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+> ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20%28PL%29%20-%20%28零阶%29%20命题逻辑.md)
 
 > 🔗 https://en.wikipedia.org/wiki/First_principle
 
@@ -181,18 +181,18 @@ The quintessentially quantum mechanical uncertainty principle comes in many form
 #### Logic and Reasoning
 > [!Links]
 > ↗ [Philosophy of Language](Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
-> ↗ [Logic (and Critical Thinking)](Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+> ↗ [Logic (and Critical Thinking)](Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md)
 > 
 > ↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
-> ↗ [Mathematical Logic (Foundations of Mathematics)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> ↗ [Formal System, Formal Logic, and Its Semantics](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+> ↗ [Mathematical Logic (Foundations of Mathematics)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+> ↗ [Formal System, Formal Semantics, and Formal Logic](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 > 
-> ↗ [Proof Theory](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-> ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+> ↗ [Proof Theory](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md)
+> ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
 > 
-> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
-> ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
-> ↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20(Reasoning%20Language%20Model)%20&%20LRM%20(Large%20Reasoning%20Model).md)
+> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
+> ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20%28Decision%20Making%29.md)
+> ↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20%28Reasoning%20Language%20Model%29%20&%20LRM%20%28Large%20Reasoning%20Model%29.md)
 
 #### Sensibility
 
@@ -217,7 +217,7 @@ The topic of causality remains a staple in [contemporary philosophy](https://en
 > ↗ [Philosophy of Science](Contemporary%20Philosophy/Philosophy%20of%20Science/Philosophy%20of%20Science.md)
 > 
 > ↗ [Arts & Humanities](../Arts%20&%20Humanities/Arts%20&%20Humanities.md)
-> ↗ [Philosophy of Arts (Aesthetics)](Contemporary%20Philosophy/💟%20Philosophy%20of%20Arts%20(Aesthetics)/Philosophy%20of%20Arts%20(Aesthetics).md)
+> ↗ [Philosophy of Arts (Aesthetics)](Contemporary%20Philosophy/💟%20Philosophy%20of%20Arts%20%28Aesthetics%29/Philosophy%20of%20Arts%20%28Aesthetics%29.md)
 
 
 ### Philosopher or Ph.D. ?
@@ -259,20 +259,20 @@ Central topics in [Chinese philosophy](https://en.wikipedia.org/wiki/Chinese_ph
 ↗ [Chinese Philosophy & Its History](Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Chinese%20Philosophy%20&%20Its%20History.md)
 - ↗ [Taoism（道德家思想）](Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Taoism（道德家思想）.md)
 
-↗ [Buddhism (Buddha Dharma)](Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
+↗ [Buddhism (Buddha Dharma)](Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20%28Buddha%20Dharma%29/Buddhism%20%28Buddha%20Dharma%29.md)
 
-↗ [Logic (and Critical Thinking)](Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+↗ [Logic (and Critical Thinking)](Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md)
 
 ↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
-↗ [Mathematical Logic (Foundations of Mathematics)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+↗ [Mathematical Logic (Foundations of Mathematics)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
 
 ↗ [Physical Science](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physical%20Science.md)
 ↗ [Physics](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
 - ↗ [Quantum Mechanics](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Quantum%20Mechanics/Quantum%20Mechanics.md)
 
 ↗ [Artificial Intelligence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
-↗ [AI Embodiment & World Model (WM)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
+↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC.md)
+↗ [AI Embodiment & World Model (WM)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20%28WM%29/AI%20Embodiment%20&%20World%20Model%20%28WM%29.md)
 
 
 

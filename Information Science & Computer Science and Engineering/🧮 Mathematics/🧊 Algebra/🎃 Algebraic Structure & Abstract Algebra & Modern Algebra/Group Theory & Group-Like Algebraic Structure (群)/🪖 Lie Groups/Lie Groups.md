@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Differential Topology](../../../../Topology/Differential%20Topology/Differential%20Topology.md)
+↗ [Differential Topology](../../../../Geometry/🎽%20Topology/Differential%20Topology/Differential%20Topology.md)
 
-↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
-↗ [Differential Equation (DE)](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Differential%20Equation%20(DE)/Differential%20Equation%20(DE).md)
+↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
+↗ [Differential Equation (DE)](../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/🤯%20Advanced%20Analysis/Differential%20Equation%20%28DE%29/Differential%20Equation%20%28DE%29.md)
 
 
 ### Other Resources

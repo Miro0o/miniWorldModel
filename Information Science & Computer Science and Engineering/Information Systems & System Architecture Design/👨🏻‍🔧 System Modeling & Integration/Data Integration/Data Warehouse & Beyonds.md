@@ -7,9 +7,14 @@
 ## Res
 ### Related Topics
 ↗ [Database Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Database%20Design.md)
-↗ [Physical Database Design (Physical Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
+↗ [Physical Database Design (Physical Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20%28Physical%20Modeling%29/Physical%20Database%20Design%20%28Physical%20Modeling%29.md)
 
 ↗ [Data Analysis & Automation](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
+
+↗ [Datacenter](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20%28HPS%29/Datacenter.md)
+↗ [IDC & Data Center Networking](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20%28HPN%29%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
+
+↗ [Computer (Host) System](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20%28Host%29%20System.md)
 
 
 ### Other Resources
@@ -19,8 +24,8 @@
 ## Intro
 > [!Links]
 > ↗ [Database Systems](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
-> ↗ [Physical Database Design (Physical Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
-> ↗ [Business Intelligence (BI)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Business%20Intelligence%20(BI)/Business%20Intelligence%20(BI).md)
+> ↗ [Physical Database Design (Physical Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20%28Physical%20Modeling%29/Physical%20Database%20Design%20%28Physical%20Modeling%29.md)
+> ↗ [Business Intelligence (BI)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20%28DBAP%29%20&%20Services/Business%20Intelligence%20%28BI%29/Business%20Intelligence%20%28BI%29.md)
 
 > [!Quote]
 > “A Data Warehouse is a subject-oriented, integrated, time-varying, non-volatile collection of data that is used primarily in organizational decision making”
@@ -194,7 +199,7 @@ Measures
 - ![|200](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2020.47.34.png)
 #### 2️⃣ Normalized Approach (3NF)
 > [!Links]
-> ↗ [Normalization](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Normalization/Normalization.md)
+> ↗ [Normalization](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20%28Data%20Modeling%29/Record-Based%20Data%20Models/Relational%20%28Data%29%20Models/Normalization/Normalization.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Data_warehouse#Normalized_approach
 
@@ -216,8 +221,8 @@ In _Information-Driven Business_, [Robert Hillard](https://en.wikipedia.org/w/
 
 ### Conceptual Design
 > [!links]
-> ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
-> ↗ [ER & EER & ERD (Entity-Relationship Diagram)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ER%20&%20EER%20&%20ERD%20(Entity-Relationship%20Diagram).md)
+> ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20%28Conceptual%20Modeling%29/Conceptual%20Database%20Design%20%28Conceptual%20Modeling%29.md)
+> ↗ [ER & EER & ERD (Entity-Relationship Diagram)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Modeling%20%28Specification%29%20Languages/Data%20Modeling%20Languages/ER%20&%20EER%20&%20ERD%20%28Entity-Relationship%20Diagram%29.md)
 
 Conceptual modeling
 - A data warehouse is obtained by integrating and materializing several data sources
@@ -243,7 +248,7 @@ Conceptual modeling
 
 ### Logical Design
 > [!links]
-> ↗ [Logical Database Design (Data Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
+> ↗ [Logical Database Design (Data Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20%28Data%20Modeling%29/Logical%20Database%20Design%20%28Data%20Modeling%29.md)
 
 Logical models
 - ROLAP: relies on a relational database
@@ -308,7 +313,7 @@ Snowflake schema
 
 ### Physical Design
 > [!links]
-> ↗ [Physical Database Design (Physical Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
+> ↗ [Physical Database Design (Physical Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20%28Physical%20Modeling%29/Physical%20Database%20Design%20%28Physical%20Modeling%29.md)
 
 Physical models
 - Row-oriented: data are stored by row (tuple)

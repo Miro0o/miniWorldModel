@@ -32,7 +32,7 @@ A second type of supervised learning is the prediction of **continuous outcomes*
 > 💡 The emphases here is **continuous outcomes**, which means the input might still be discrete while the outcome required is continuous. 
 
 ↗ [ML Regression Algorithms](ML%20Regression%20Algorithms.md)
-↗ [Regression (Correlation) Analysis](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Regression%20(Correlation)%20Analysis/Regression%20(Correlation)%20Analysis.md)
+↗ [Regression (Correlation) Analysis](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20%28Data%29%20Analyzing%20Methods%20&%20Statistical%20Model/Regression%20%28Correlation%29%20Analysis/Regression%20%28Correlation%29%20Analysis.md)
 
 
 ### Components in Supervised Training
@@ -42,12 +42,12 @@ A second type of supervised learning is the prediction of **continuous outcomes*
 ### Types of Supervised Models
 ![Screenshot 2023-01-29 at 12.51.59 AM](../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.51.59%20AM.png)
 
-↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
-- ↗ [Trees, Forests, Bagging, and Boosting](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Trees,%20Forests,%20Bagging,%20and%20Boosting/Trees,%20Forests,%20Bagging,%20and%20Boosting.md)
-	- ↗ [Decision Trees (CART)](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Trees,%20Forests,%20Bagging,%20and%20Boosting/Decision%20Trees%20(CART)/Decision%20Trees%20(CART).md)
-- ↗ [Kernel Machines](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Kernel%20Machines/Kernel%20Machines.md)
-- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-	- ↗ [Neural Network Models](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
+- ↗ [Trees, Forests, Bagging, and Boosting](../../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Trees,%20Forests,%20Bagging,%20and%20Boosting/Trees,%20Forests,%20Bagging,%20and%20Boosting.md)
+	- ↗ [Decision Trees (CART)](../../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Trees,%20Forests,%20Bagging,%20and%20Boosting/Decision%20Trees%20%28CART%29/Decision%20Trees%20%28CART%29.md)
+- ↗ [Kernel Machines](../../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Kernel%20Machines/Kernel%20Machines.md)
+- ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
+	- ↗ [Neural Network Models](../../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 - etc.
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Function & Mapping of Set](../../Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+↗ [Set Mapping & Function](../../Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
 
 
 ### Other Resources
@@ -197,7 +197,7 @@ An extension of a given partial order to a total order is called a [linear exte
 2. 如果一个poset有lub或glb，它一定是唯一的。这一点可以借助偏序关系的antisymmetry特点证明。
 #### Lattice (格) ⭐
 > [!links]
-> ↗ [Lattice (Order Theory)](Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+> ↗ [Lattice (Order Theory)](Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.3
 

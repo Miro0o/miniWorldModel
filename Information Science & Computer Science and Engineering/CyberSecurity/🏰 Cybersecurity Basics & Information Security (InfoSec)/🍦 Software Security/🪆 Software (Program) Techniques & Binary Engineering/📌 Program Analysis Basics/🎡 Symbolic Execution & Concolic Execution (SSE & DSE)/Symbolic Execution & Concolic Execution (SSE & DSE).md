@@ -57,8 +57,8 @@ https://jfmc.github.io/z3-play/
 ### Satisfiability Problem & SMT Solving 
 > [!links]
 > For satisfiability problem:
-> ↗ [Formal System, Formal Logic, and Its Semantics](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
-> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20%28零阶%29%20命题逻辑.md)
+> ↗ [Formal System, Formal Semantics, and Formal Logic](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
+> ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20%28PL%29%20-%20%28零阶%29%20命题逻辑.md)
 > ↗ [(Formal) Model Checking](../../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
 
 > [!links]
@@ -402,7 +402,7 @@ Another big problem is memory aliasing and arrays. Since we can only access the 
 
 
 
-## Concolic Execution (Dynamic Symbolic Execution) & DSE
+## Concolic Execution & DSE (Dynamic Symbolic Execution)
 > [!links]
 > ↗ [Fuzzing (Concrete Execution)](../👙%20DCA%20%28Dynamic%20Code%20Analysis%29%20&%20DAST/Fuzzing%20%28Concrete%20Execution%29/Fuzzing%20%28Concrete%20Execution%29.md)
 > ↗ [(Formal) Model Checking](../../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
@@ -442,7 +442,6 @@ Interestingly, we actually know that running $conclic(P,i')$ will produce a pr
 One big limitation of the dynamic techniques we have looked at so far is speed. Ideally, we would get all the information we needed while running the program instead of having to implement our own interpreter.
 
 The way to get around this is by doing code instrumentation. Code instrumentation injects small instructions inside the code to track and trace what is happening.
-
 
 > Using jvm2json
 > Currently we do not support any straight forward ways to do bytecode instrumentation in this course.

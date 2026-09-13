@@ -6,14 +6,14 @@
 
 ## Res
 ### Related Topics
-↗ [Universal Algebra (泛代数)](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20(泛代数)/Universal%20Algebra%20(泛代数).md)
+↗ [Universal Algebra (泛代数)](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20%28泛代数%29/Universal%20Algebra%20%28泛代数%29.md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-- ↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格).md)
+- ↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29.md)
 
-↗ [Combinatorics (Combinatorial Mathematics)](../../../../../Combinatorics%20(Combinatorial%20Mathematics)/Combinatorics%20(Combinatorial%20Mathematics).md)
+↗ [Combinatorics (Combinatorial Mathematics)](../../../../../Combinatorics%20%28Combinatorial%20Mathematics%29/Combinatorics%20%28Combinatorial%20Mathematics%29.md)
 
-↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 
 
 ### Other Resources
@@ -32,7 +32,7 @@ https://thzt.github.io/2017/02/24/recursive-function-1/
 
 ## Intro
 > [!Links]
-> ↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格).md)
+> ↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29.md)
 
 > 🔗 https://zh.wikipedia.org/zh-hans/%E6%A0%BC_(%E6%95%B0%E5%AD%A6)
 
@@ -124,7 +124,7 @@ If a subset $S$ of a partially ordered set $P$ is also an (upward) [directe
 	- 很容易证明，乘积格也是格，完全格构成的乘积格也是完全格。
 
 > [!Example]
-> ↗ [Information Flow & Information Flow Control (IFC)](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Information%20Flow%20&%20Information%20Flow%20Control%20(IFC)/Information%20Flow%20&%20Information%20Flow%20Control%20(IFC).md)
+> ↗ [Information Flow & Information Flow Control (IFC)](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/Information%20Flow%20&%20Information%20Flow%20Control%20%28IFC%29/Information%20Flow%20&%20Information%20Flow%20Control%20%28IFC%29.md)
 > 
 > ![](../../../../../../../Assets/Pics/Screenshot%202025-10-09%20at%2023.07.33.png)
 > <small>现在，我们再次回到数据流分析上，定义一个基于格的数据流分析框架(D,L,F)：其中D指的是数据流的方向，包括前向和后向；L指的是由值域V和一个meet或join操作符构成的格；F指的是从V到V的一系列transfer functions。<br> 实际上，数据流分析可以视作在格上不断迭代应用transfer functions和meet/join操作。<br> <a>https://blog.wohin.me/posts/nju-program-analysis-05/</a></small>
@@ -175,11 +175,11 @@ Every lattice can be embedded into a bounded lattice by adding a greatest and a 
 
 
 ### Connection to Other Algebraic Structures
-↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格).md)
+↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29.md)
 
 
 ### Morphism of Lattice
-↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格).md)
+↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20%28格%29.md)
 
 
 ### Properties of Lattices 🤔
@@ -199,7 +199,7 @@ Every lattice can be embedded into a bounded lattice by adding a greatest and a 
 
 ## Least Fixed-point Theorem (of Lattice Function)
 > [!link]
-> ↗ [Function & Mapping of Set](../../../Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+> ↗ [Set Mapping & Function](../../../Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
 > 
 > 🔗 [Fixed-point property - Wikipedia](https://en.wikipedia.org/wiki/Fixed-point_property)
 > 🔗 [Ascending chain condition - Wikipedia](https://en.wikipedia.org/wiki/Ascending_chain_condition)
@@ -214,7 +214,7 @@ Every lattice can be embedded into a bounded lattice by adding a greatest and a 
 
 ### Least Fixed-point Theorem ⭐
 > [!links]
-> ↗ [Function & Mapping of Set](../../../Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md) "fixed point & recursion"
+> ↗ [Set Mapping & Function](../../../Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md) "fixed point & recursion"
 
 > 🔗 https://blog.wohin.me/posts/nju-program-analysis-05/
 

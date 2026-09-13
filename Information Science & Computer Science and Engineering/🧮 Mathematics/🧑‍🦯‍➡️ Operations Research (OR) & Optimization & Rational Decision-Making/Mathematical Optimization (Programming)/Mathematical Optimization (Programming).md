@@ -13,7 +13,7 @@
 
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
 - ↗ [Differential Geometry & Differential Manifold](../../Geometry/Differential%20Geometry%20&%20Differential%20Manifold/Differential%20Geometry%20&%20Differential%20Manifold.md)
-↗ [Topology](../../Topology/Topology.md)
+↗ [Topology](../../Geometry/🎽%20Topology/Topology.md)
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
 ↗ [Formal Verification & Analysis Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
