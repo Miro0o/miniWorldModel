@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Computer Graphics Programming](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
-↗ [Video Games Development](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Video%20Games%20Development/Video%20Games%20Development.md)
+↗ [Digital & Video Games Development](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Digital%20&%20Video%20Games%20Development/Digital%20&%20Video%20Games%20Development.md)
 
 
 

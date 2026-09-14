@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Video Games Development](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Video%20Games%20Development/Video%20Games%20Development.md)
+↗ [Digital & Video Games Development](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Digital%20&%20Video%20Games%20Development/Digital%20&%20Video%20Games%20Development.md)
 
 ↗ [Media Processing & GUI SDK](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/Media%20Processing%20&%20GUI%20SDK.md)
 - ↗ [Graphics Rendering Frameworks (2D & 3D)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/🖼️%20Graphics%20Rendering%20Frameworks%20(2D%20&%203D)/Graphics%20Rendering%20Frameworks%20(2D%20&%203D).md)
@@ -73,7 +73,7 @@ An **electronic game** is a [game](https://en.wikipedia.org/wiki/Game "Game")
 ## Game Development and Computer Graphics
 ↗ [Computer Graphics (CG)](../../../🧠%20Computing%20Methodologies/Computer%20Graphics%20(CG)/Computer%20Graphics%20(CG).md)
 ↗ [Computer Graphics Programming](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
-↗ [Video Games Development](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Video%20Games%20Development/Video%20Games%20Development.md)
+↗ [Digital & Video Games Development](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Digital%20&%20Video%20Games%20Development/Digital%20&%20Video%20Games%20Development.md)
 
 
 
