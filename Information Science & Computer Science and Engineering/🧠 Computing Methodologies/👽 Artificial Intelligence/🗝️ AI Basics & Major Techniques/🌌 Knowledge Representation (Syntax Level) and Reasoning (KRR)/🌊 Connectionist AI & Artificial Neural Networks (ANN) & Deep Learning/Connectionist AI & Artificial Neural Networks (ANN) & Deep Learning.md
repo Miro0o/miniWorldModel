@@ -307,6 +307,10 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > [!links]
 > ↗ [Model Training (Classical ML & NN)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Training%20(Classical%20ML%20&%20NN).md)
 > ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
+> 
+> ![](../../../../../../Assets/Pics/Pasted%20image%2020260809132349.png)
+> <small>Example training process for neural networks supervised learning. <br> <a>https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa</a></small>
+> 
 > ↗ [Model Validation](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Validation/Model%20Validation.md)
 
 > [!TIP]

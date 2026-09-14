@@ -47,6 +47,8 @@ Neural networks | 3Blue1Brown
 
 
 ## Intro
+![](../../../../../../../Assets/Pics/Pasted%20image%2020260809132349.png)
+<small>Example training process for neural networks supervised learning. <br> <a>https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa</a></small>
 
 
 

@@ -20,7 +20,11 @@
 
 ↗ [Semiconductor Industry & Companies](../../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/🏖️%20Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
+↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part).md)
 ↗ [国产芯片](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/国产芯片.md)
+↗ [Intel Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Intel%20Chips.md)
+↗ [AMD Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/AMD%20Chips.md)
+↗ [Apple Chips (M Series & A Series)](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Apple%20Chips%20(M%20Series%20&%20A%20Series).md)
 
 
 ### Learning Resources
@@ -43,6 +47,9 @@ Curious exactly what happens when you run a program on your computer? Read this 
 - [Ch. 5 Paging](https://cpu.land/the-translator-in-your-computer)
 - [Ch. 6 Fork-Exec](https://cpu.land/lets-talk-about-forks-and-cows)
 - [Ch. 7 Epilogue](https://cpu.land/epilogue)
+
+
+### Other Resources
 
 
 

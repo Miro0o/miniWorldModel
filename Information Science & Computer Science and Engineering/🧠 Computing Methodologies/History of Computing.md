@@ -24,6 +24,8 @@
 
 ↗ [Quantum Computing (and Communication)](Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
 
+↗ [Digital & Video Games Development](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Digital%20&%20Video%20Games%20Development/Digital%20&%20Video%20Games%20Development.md) "Digital /Computer Games History"
+
 
 ### Other Resources
 - [History of computing hardware](https://en.wikipedia.org/wiki/History_of_computing_hardware "History of computing hardware")
