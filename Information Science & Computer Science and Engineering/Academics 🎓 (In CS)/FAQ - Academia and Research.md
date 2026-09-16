@@ -6,12 +6,15 @@
 
 ## Res
 ### Related Topics
-> ↗ [International Opportunities](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
-> ↗ [(CS) Master & PhD Guide - Preparation & Application](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
-> ↗ [International Master & PhD Programmes](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
-> 
-> ↗ [(CS) Academics Roadmap & Tool Chain](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
-> ↗ [Academic Writing (in English) & Research Paper Writing Skills](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Academic%20Writing%20(in%20English)%20&%20Research%20Paper%20Writing%20Skills.md)
+↗ [International Opportunities](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
+↗ [(CS) Master & PhD Guide - Preparation & Application](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
+↗ [International Master & PhD Programmes](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
+
+↗ [(CS) Academics Roadmap & Tool Chain](🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain.md)
+↗ [Academic Writing (in English) & Research Paper Writing Skills](🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/Academic%20Writing%20%28in%20English%29%20&%20Research%20Paper%20Writing%20Skills.md)
+
+
+### Other Resources
 
 
 

@@ -1,4 +1,4 @@
-# Proximal Methods
+# Proximal Gradient Methods
 
 [TOC]
 

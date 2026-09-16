@@ -6,26 +6,29 @@
 
 ## Res
 ### Related Topics
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
 
 ↗ [Embedded Hardwares & Chips](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
 - Computing Units & Chips & Boards
-	- ↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
-		- ↗ [Google TPU (Tensor Processing Unit)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Full-Customized%20ASIC/Google%20TPU%20(Tensor%20Processing%20Unit)/Google%20TPU%20(Tensor%20Processing%20Unit).md)
-		- ↗ [NPU (Network Processing Unit)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
-		- ↗ [LPU (Language Processing Unit)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Full-Customized%20ASIC/LPU%20(Language%20Processing%20Unit)/LPU%20(Language%20Processing%20Unit).md)
-	- ↗ [Configurable Processors (PLDs, Programmable Logic Devices)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices)/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices).md)
-		- ↗ [FPGA (Field Programmable Gates Arrays)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices)/FPGA%20(Field%20Programmable%20Gates%20Arrays).md)
-	- ↗ [Standardized Processors (off-the-shelf)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/Standardized%20Processors%20(off-the-shelf).md)
-		- ↗ [Microcontrollers (MCU, 单片机)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU,%20单片机)/Microcontrollers%20(MCU,%20单片机).md)
+	- ↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/ASIC%20%28Application-Specific%20Integrated%20Circuit%29.md)
+		- ↗ [Google TPU (Tensor Processing Unit)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/Full-Customized%20ASIC/Google%20TPU%20%28Tensor%20Processing%20Unit%29/Google%20TPU%20%28Tensor%20Processing%20Unit%29.md)
+		- ↗ [NPU (Network Processing Unit)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/Semi-Customized%20ASIC/NPU%20%28Network%20Processing%20Unit%29/NPU%20%28Network%20Processing%20Unit%29.md)
+		- ↗ [LPU (Language Processing Unit)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/Full-Customized%20ASIC/LPU%20%28Language%20Processing%20Unit%29/LPU%20%28Language%20Processing%20Unit%29.md)
+	- ↗ [Configurable Processors (PLDs, Programmable Logic Devices)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Configurable%20Processors%20%28PLDs,%20Programmable%20Logic%20Devices%29/Configurable%20Processors%20%28PLDs,%20Programmable%20Logic%20Devices%29.md)
+		- ↗ [FPGA (Field Programmable Gates Arrays)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Configurable%20Processors%20%28PLDs,%20Programmable%20Logic%20Devices%29/FPGA%20%28Field%20Programmable%20Gates%20Arrays%29.md)
+	- ↗ [Standardized Processors (off-the-shelf)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20%28off-the-shelf%29/Standardized%20Processors%20%28off-the-shelf%29.md)
+		- ↗ [Microcontrollers (MCU, 单片机)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20%28off-the-shelf%29/📌%20Microcontrollers%20%28MCU,%20单片机%29/Microcontrollers%20%28MCU,%20单片机%29.md)
 - IO Units & Sensors
 	- etc.
 
 ↗ [Hardware Acceleration](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Hardware%20Acceleration.md)
 
-↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part).md)
+↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29.md)
+↗ [国产芯片](../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/国产芯片.md)
+↗ [Intel Chips](../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/Intel%20Chips.md)
+↗ [AMD Chips](../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/AMD%20Chips.md)
 
-↗ [Systems on Chip (SoC)](../Systems%20on%20Chip%20(SoC).md)
+↗ [Systems on Chip (SoC)](../Systems%20on%20Chip%20%28SoC%29.md)
 
 
 ### Other Resources
@@ -34,13 +37,13 @@
 
 ## Intro
 > [!TIP]
-> 💡 The design of a microprocessor (or simple processor) heavily relies on the ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md) and ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md).
+> 💡 The design of a microprocessor (or simple processor) heavily relies on the ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md) and ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../../Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model.md).
 > 
 > This article gives an overview of some essentials of a microprocessor.
 > 
 > Though it varies on different computer architectures, the main microprocessor architectures are CPU (a general purpose processors unit), GPU, DSP, or the latest SoC (System on a Chip).
 > 
-> Other processors at ↗ [Computer Processors & Logic Chips (Theory Part)](../Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part).md)
+> Other processors at ↗ [Computer Processors & Logic Chips (Theory Part)](../Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29.md)
 
 
 ### Microprocessor & Microprocessor Units
@@ -59,15 +62,15 @@
 > - **Microprocessor (CPU):** Designed for **General Purpose** work (running Windows, opening Word, checking email).
 > - **GPU:** Designed for **Specific** work (calculating the color of millions of pixels at once).
 #### Main CPU
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-↗ [CPU (Central Processing Unit)](🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
+↗ [CPU (Central Processing Unit)](🧠%20CPU%20%28Central%20Processing%20Unit%29/CPU%20%28Central%20Processing%20Unit%29.md)
 #### Accelerators / Coprocessors
 > [!links]
-> ↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
-> ↗ [Configurable Processors (PLDs, Programmable Logic Devices)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices)/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices).md)
-> ↗ [Standardized Processors (off-the-shelf)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/Standardized%20Processors%20(off-the-shelf).md)
+> ↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/ASIC%20%28Application-Specific%20Integrated%20Circuit%29.md)
+> ↗ [Configurable Processors (PLDs, Programmable Logic Devices)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Configurable%20Processors%20%28PLDs,%20Programmable%20Logic%20Devices%29/Configurable%20Processors%20%28PLDs,%20Programmable%20Logic%20Devices%29.md)
+> ↗ [Standardized Processors (off-the-shelf)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20%28off-the-shelf%29/Standardized%20Processors%20%28off-the-shelf%29.md)
 ##### GPU (Graphics Processing Unit)
-↗ [GPU (Graphics Processing Unit)](Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
+↗ [GPU (Graphics Processing Unit)](Accelerators%20%28Coprocessors%29/GPU%20%28Graphics%20Processing%20Unit%29/GPU%20%28Graphics%20Processing%20Unit%29.md)
 ##### TPU (Tensor Processing Unit)
 > [!quote]
 > 🔗 https://www.kaggle.com/general/221800
@@ -79,7 +82,7 @@
 > https://iq.opengenus.org/cpu-vs-gpu-vs-tpu/
 > https://www.quora.com/What-is-the-difference-between-GPUs-CPUs-and-TPUs
 ##### DSP (Digital Signal Processor)
-↗ [DSP (Digital Signal Processor)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/DSP%20(Digital%20Signal%20Processor)/DSP%20(Digital%20Signal%20Processor).md)
+↗ [DSP (Digital Signal Processor)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/Semi-Customized%20ASIC/DSP%20%28Digital%20Signal%20Processor%29/DSP%20%28Digital%20Signal%20Processor%29.md)
 
 A **digital signal processor** (**DSP**) is a specialized microprocessor chip, with its architecture optimized for the operational needs of [digital signal processing](https://en.wikipedia.org/wiki/Digital_signal_processing "Digital signal processing").
 
@@ -87,14 +90,14 @@ DSPs are fabricated on [MOS integrated circuit](https://en.wikipedia.org/wiki
 
 DSPs are widely used in [audio signal processing](https://en.wikipedia.org/wiki/Audio_signal_processing "Audio signal processing"), [telecommunications](https://en.wikipedia.org/wiki/Telecommunications "Telecommunications"), [digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing "Digital image processing"), [radar](https://en.wikipedia.org/wiki/Radar "Radar"), [sonar](https://en.wikipedia.org/wiki/Sonar "Sonar")and [speech recognition](https://en.wikipedia.org/wiki/Speech_recognition "Speech recognition") systems, and in common [consumer electronic](https://en.wikipedia.org/wiki/Consumer_electronic "Consumer electronic") devices such as [mobile phones](https://en.wikipedia.org/wiki/Mobile_phones "Mobile phones"), [disk drives](https://en.wikipedia.org/wiki/Disk_drives "Disk drives") and [high-definition television](https://en.wikipedia.org/wiki/High-definition_television "High-definition television") (HDTV) products.
 ##### More..
-↗ [DPU (Data Processing Unit)](Accelerators%20(Coprocessors)/DPU%20(Data%20Processing%20Unit)/DPU%20(Data%20Processing%20Unit).md)
-↗ [Apple Neural Engine](Accelerators%20(Coprocessors)/Apple%20Neural%20Engine.md)
+↗ [DPU (Data Processing Unit)](Accelerators%20%28Coprocessors%29/DPU%20%28Data%20Processing%20Unit%29/DPU%20%28Data%20Processing%20Unit%29.md)
+↗ [Apple Neural Engine](Accelerators%20%28Coprocessors%29/Apple%20Neural%20Engine.md)
 
-↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
-↗ [Configurable Processors (PLDs, Programmable Logic Devices)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices)/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices).md)
-↗ [Standardized Processors (off-the-shelf)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/Standardized%20Processors%20(off-the-shelf).md)
+↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/ASIC%20%28Application-Specific%20Integrated%20Circuit%29.md)
+↗ [Configurable Processors (PLDs, Programmable Logic Devices)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Configurable%20Processors%20%28PLDs,%20Programmable%20Logic%20Devices%29/Configurable%20Processors%20%28PLDs,%20Programmable%20Logic%20Devices%29.md)
+↗ [Standardized Processors (off-the-shelf)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20%28off-the-shelf%29/Standardized%20Processors%20%28off-the-shelf%29.md)
 #### The Mix of Microprocessors and SoCs
-↗ [Systems on Chip (SoC)](../Systems%20on%20Chip%20(SoC).md)
+↗ [Systems on Chip (SoC)](../Systems%20on%20Chip%20%28SoC%29.md)
 
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020260117003203.png)
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020260117003337.png)
@@ -110,8 +113,8 @@ table-id-UsDPYe
 
 > 🔗 [Comparision of ISAs](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
-↗ [Development History of ISA](../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Development%20History%20of%20ISA.md)
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+↗ [Development History of ISA](../../../Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/📌%20ISA%20Basics/Development%20History%20of%20ISA.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
 
 
 

@@ -7,41 +7,48 @@
 ## Res
 ### Other Notes Containing Tools & Productive Software
 ↗ [🤯 Awesome List](../../🗺%20CS%20Overview/🤯%20Awesome%20List.md)
-↗ [📌 Awesome Open Source CLI Software](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
+↗ [📌 Awesome Open Source CLI Software](../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/Linux%20Free%20Software%20&%20OSS%20%28Open%20Source%20Software%29/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 ↗ [Galleries & Awesome SE](../../Software%20Engineering/Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
 
-↗ [Shell & Terminals (Console)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
-- ↗ [Linux Free Software & FLOSS & FOSS](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20FLOSS%20&%20FOSS.md)
-- ↗ [macOS CLI Software](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md)
+↗ [Shell & Terminals (Console)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/🐚%20Shell%20&%20Terminals%20%28Console%29/Shell%20&%20Terminals%20%28Console%29.md)
+- ↗ [Linux Free Software & FLOSS & FOSS](../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/Linux%20Free%20Software%20&%20OSS%20%28Open%20Source%20Software%29/Linux%20Free%20Software%20&%20FLOSS%20&%20FOSS.md)
+- ↗ [macOS CLI Software](../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Apple%20Operating%20Systems/macOS%20%28Derived%20From%20UNIX%20Family%29/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md)
 
-↗ [LLM Applications & LLM-Driven Automation](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
-- ↗ [Agentic LLMs & LLM Agent Harness](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
-↗ [Awesome AI (Tools)](🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
+↗ [LLM Applications & LLM-Driven Automation](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
+- ↗ [Agentic LLMs & LLM Agent Harness](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
+↗ [Awesome AI (Tools)](🕶️%20Awesome%20AI%20%28Tools%29/Awesome%20AI%20%28Tools%29.md)
 - ↗ [AI4SE](../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 - ↗ [AI4Security](../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
-- ↗ [AIoT (AI for IoT) & Edge AI](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenarios%20&%20Embedded%20Systems/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI.md)
+- ↗ [AIoT (AI for IoT) & Edge AI](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenarios%20&%20Embedded%20Systems/AIoT%20%28AI%20for%20IoT%29%20&%20Edge%20AI/AIoT%20%28AI%20for%20IoT%29%20&%20Edge%20AI.md)
 
 ↗ [Programming Tool Chain](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Programming%20Tool%20Chain.md)
 - ↗ [Text Editors](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Text%20Editors/Text%20Editors.md)
-↗ [CASE (Computer-Aided Software Engineering) Tools](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
-- ↗ [IDE (Integrated Development Environment)](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/IDE%20(Integrated%20Development%20Environment)/IDE%20(Integrated%20Development%20Environment).md)
-↗ [Streaming Applications & Implementations](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Video%20&%20Streaming%20Service/📌%20Streaming%20Applications%20&%20Implementations/Streaming%20Applications%20&%20Implementations.md)
+↗ [CASE (Computer-Aided Software Engineering) Tools](../../Software%20Engineering/CASE%20%28Computer-Aided%20Software%20Engineering%29%20Tools/CASE%20%28Computer-Aided%20Software%20Engineering%29%20Tools.md)
+- ↗ [IDE (Integrated Development Environment)](../../Software%20Engineering/CASE%20%28Computer-Aided%20Software%20Engineering%29%20Tools/Lower%20CASE%20Tools/IDE%20%28Integrated%20Development%20Environment%29/IDE%20%28Integrated%20Development%20Environment%29.md)
+
+↗ [Application Software Engineering](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
+- ↗ [Streaming Applications & Implementations](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Video%20&%20Streaming%20Service/📌%20Streaming%20Applications%20&%20Implementations/Streaming%20Applications%20&%20Implementations.md)
 
 ↗ [Kill Chain & Security Tool Box](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
 - ↗ [Kali Tools](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🐉%20Kali%20Linux/🤺%20Kali%20Tools/Kali%20Tools.md)
-↗ [Anonymous Network & Host](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Network%20&%20Host/Anonymous%20Network%20&%20Host.md)
+↗ [Security Programming & Security Product Development](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/Security%20Programming%20&%20Security%20Product%20Development/Security%20Programming%20&%20Security%20Product%20Development.md)
+↗ [Anonymous Network & Host](../../CyberSecurity/Network%20%28&%20Communication%29%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Network%20&%20Host/Anonymous%20Network%20&%20Host.md)
 
 ↗ [Data Analysis & Automation](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
 
 ↗ [Mathematical Tools & Scientific Computing](../../🧮%20Mathematics/Computational%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
+↗ [Optimization Software & Solver Implementation](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/💐%20Optimization%20Software%20&%20Solver%20Implementation/Optimization%20Software%20&%20Solver%20Implementation.md)
 
 ↗ [实用工具箱](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/实用工具箱.md)
-↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20%28WMF%29.md)
 
-↗ [(CS) Academics Roadmap & Tool Chain](../../Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
- - ↗ [Bib-Management](../../Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
+↗ [(CS) Academics Roadmap & Tool Chain](../../Academics%20🎓%20%28In%20CS%29/🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain.md)
+ - ↗ [Bib-Management](../../Academics%20🎓%20%28In%20CS%29/🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
 
 ↗ [My Investment & Tool-lists](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/📋%20My%20Investment%20&%20Tool-lists/My%20Investment%20&%20Tool-lists.md)
+
+
+### Other Resources
 
 
 
