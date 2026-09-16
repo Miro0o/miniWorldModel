@@ -307,6 +307,10 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > [!links]
 > ↗ [Model Training (Classical ML & NN)](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Training%20%28Classical%20ML%20&%20NN%29.md)
 > ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29.md)
+> 
+> ![](../../../../../../Assets/Pics/Pasted%20image%2020260809132349.png)
+> <small>Example training process for neural networks supervised learning. <br> <a>https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa</a></small>
+> 
 > ↗ [Model Validation](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Validation/Model%20Validation.md)
 
 > [!TIP]
@@ -325,7 +329,7 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
 #### Loss Function
 > [!links]
-> ↗ [Objective & Cost & Loss Functions](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Objective%20&%20Cost%20&%20Loss%20Functions.md)
+> ↗ [Objective & Cost & Loss Functions](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Optimizers/Objective%20&%20Cost%20&%20Loss%20Functions.md)
 
 A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
 #### Gradient Descent & Optimization
@@ -333,7 +337,7 @@ A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $
 > ↗ [Differential Calculus & Derivative of Function](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 > 
 > ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29.md)
-> ↗ [Optimizers](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Optimizers.md)
+> ↗ [Optimizers](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Optimizers/Optimizers.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Gradient_descent
 
@@ -434,6 +438,8 @@ RAW DATA
 | **Weight Normalization (WeightNorm)**     | 2016 | $w=g\frac{v}{\lVert v\rVert_2}$                            | Individual weight vectors               | Reparameterizes a weight vector into a magnitude $g$ and direction $v/\lVert v\rVert_2$ | Decouples weight magnitude from direction; does not depend on batch statistics                          | Not always as effective as activation normalization; adds reparameterization complexity             | Neural networks, recurrent models, generative models      |
 | **Spectral Normalization (SpectralNorm)** | 2018 | $\bar{W}=\frac{W}{\sigma_{\max}(W)}$                       | Weight matrices                         | Divides a weight matrix by its largest singular value                                   | Controls operator norm and helps constrain Lipschitz behavior; effective for stabilizing discriminators | Estimating the largest singular value adds computation; commonly approximated using power iteration | GAN discriminators, stability-sensitive neural networks   |
 | **Weight Standardization (WS)**           | 2019 | $\hat{W}_{i}=\frac{W_i-\mu_W}{\sqrt{\sigma_W^2+\epsilon}}$ | Weights, commonly convolutional filters | Standardizes weights to approximately zero mean and unit variance before convolution    | Can improve optimization; works well with GroupNorm in small-batch settings                             | Additional computation; benefits depend on architecture and accompanying normalization              | CNNs, micro-batch training, GroupNorm-based architectures |
+#### Learning Rate (LR) Schedule
+
 #### Regularization & Dropouts
 ↗ [Regularizers & Dropouts](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Regularizers%20&%20Dropouts.md)
 

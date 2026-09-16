@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [(CS) Academics Roadmap & Tool Chain](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
-- ↗ [Bib-Management](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
+↗ [(CS) Academics Roadmap & Tool Chain](🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain.md)
+- ↗ [Bib-Management](🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
 
 ↗ [International Opportunities](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
 - ↗ [(CS) Master & PhD Guide - Preparation & Application](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
@@ -32,19 +32,6 @@ CSSCI，中文社会科学引文索引
 
 https://www.nature.com/nature-index/institution-outputs/generate/all/global/all
 Nature Index
-
-
-### Others
-https://hoochanlon.github.io/hamulete/
-https://github.com/hoochanlon/hamulete/tree/master
-🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
-(This repo has been cloned to local!🥰 -- notes from miro)
-
-
-https://github.com/context-labs/aella-data-explorer
-Interactive visualization and exploration of scientific papers from the Aella open science dataset.
-This project is a collaboration between [Inference.net](https://inference.net/) and [LAION](https://laion.ai/). LAION curated the original dataset which is about ~100m scrapped scientific and research articles and Inference.net fine-tuned a custom model to extract structured summaries from the articles. This repo contains a visual explorer for a small subset of the extracted dataset.
-View the live explorer at [https://aella.inference.net](https://aella.inference.net/).
 
 
 ### 😈 Beyond Academics...
@@ -80,6 +67,25 @@ AI
 - [Deadlines – AI Conference Call For Paper Deadlines](http://aideadlines.org/?sub=ML,CV,NLP,RO,SP,DM,AP,KR,HCI,IRSM,MISC)
 
 
+### Other Resource
+https://hoochanlon.github.io/hamulete/
+https://github.com/hoochanlon/hamulete/tree/master
+🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+(This repo has been cloned to local!🥰 -- notes from miro)
+
+
+https://github.com/context-labs/aella-data-explorer
+Interactive visualization and exploration of scientific papers from the Aella open science dataset.
+This project is a collaboration between [Inference.net](https://inference.net/) and [LAION](https://laion.ai/). LAION curated the original dataset which is about ~100m scrapped scientific and research articles and Inference.net fine-tuned a custom model to extract structured summaries from the articles. This repo contains a visual explorer for a small subset of the extracted dataset.
+View the live explorer at [https://aella.inference.net](https://aella.inference.net/).
+
+
+https://www.cuhk.edu.hk/clear/rs/academic_research.pdf
+“Academic” Research at University
+Karen Kwok, Junior Research Assistant, Centre for Learning Enhancement And Research (CLEAR)
+The Chinese University of Hong Kong
+
+
 
 ## Intro
 ↗ [Universe, Self-Awareness, and Intelligence](../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
@@ -89,8 +95,9 @@ AI
 
 
 
+
 ## Research Methodology
-↗ [(CS) Academics Roadmap & Tool Chain](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
+↗ [(CS) Academics Roadmap & Tool Chain](🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 
 
 
@@ -101,7 +108,7 @@ AI
 
 ## 📈 Bibliometrics
 > [!Links]
-> ↗ [Bib-Management](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
+> ↗ [Bib-Management](🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
 
 ![how_research_is_done.excalidraw|1000](../../Assets/Illustrations/Academics/how_research_is_done.excalidraw.md)
 
@@ -584,7 +591,7 @@ ACM CCS 2012
 
 
 
-## CS History: People & Institutions
+## CS Academic History: People & Institutions
 > [!links]
 > ↗ [History of Computing](../🧠%20Computing%20Methodologies/History%20of%20Computing.md)
 > ↗ [History of Information Systems & Security Systems](../CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)

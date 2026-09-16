@@ -46,6 +46,9 @@ Deep Generative Modeling © 2022 1st edition
 
 ↗ [GAN (Generative Adversarial Network)](GAN%20%28Generative%20Adversarial%20Network%29/GAN%20%28Generative%20Adversarial%20Network%29.md)
 
+![](../../../../../../../Assets/Pics/Pasted%20image%2020260913164152.png)
+<small>Overview of different types of generative models. <br> <a>https://lilianweng.github.io/posts/2021-07-11-diffusion-models/</a></small>
+
 
 
 ## Ref

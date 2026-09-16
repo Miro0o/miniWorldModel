@@ -6,21 +6,25 @@
 
 ## Res
 ### Related Topics
-↗ [Internal Bus (On-Chip Bus)](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Internal%20Bus%20(On-Chip%20Bus)/Internal%20Bus%20(On-Chip%20Bus).md)
-↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [Internal Bus (On-Chip Bus)](../../../Computer%20Bus%20%28Datapath%29%20&%20Interfaces%20&%20Protocols/Internal%20Bus%20%28On-Chip%20Bus%29/Internal%20Bus%20%28On-Chip%20Bus%29.md)
+↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../../../Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29.md)
 
-↗ [Microcontrollers (MCU, 单片机)](../../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU,%20单片机)/Microcontrollers%20(MCU,%20单片机).md)
-↗ [Systems on Chip (SoC)](../../Systems%20on%20Chip%20(SoC).md)
+↗ [Microcontrollers (MCU, 单片机)](../../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20%28off-the-shelf%29/📌%20Microcontrollers%20%28MCU,%20单片机%29/Microcontrollers%20%28MCU,%20单片机%29.md)
+↗ [Systems on Chip (SoC)](../../Systems%20on%20Chip%20%28SoC%29.md)
 
-↗ [ASM (Assembly Languages)](../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ASM%20(Assembly%20Languages).md)
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+↗ [ASM (Assembly Languages)](../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/ASM%20%28Assembly%20Languages%29.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
 
-↗ [Instruction Execution](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
-↗ [Memory Access & Addressing](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [Instruction Execution](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Instruction%20Execution.md)
+↗ [Memory Access & Addressing](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 ↗ [Semiconductor Industry & Companies](../../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/🏖️%20Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
-↗ [国产芯片](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/国产芯片.md)
+↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29.md)
+↗ [国产芯片](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/国产芯片.md)
+↗ [Intel Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/Intel%20Chips.md)
+↗ [AMD Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/AMD%20Chips.md)
+↗ [Apple Chips (M Series & A Series)](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/Apple%20Chips%20%28M%20Series%20&%20A%20Series%29.md)
 
 
 ### Learning Resources
@@ -45,6 +49,9 @@ Curious exactly what happens when you run a program on your computer? Read this 
 - [Ch. 7 Epilogue](https://cpu.land/epilogue)
 
 
+### Other Resources
+
+
 
 ## Intro
 The central processing unit (CPU), or simply processor, is the engine that interprets (or executes) instructions stored in main memory. At its core is a word-size storage device (or register) called the program counter (PC). At any point in time, the PC points at (contains the address of) some machine-language instruction in main memory.2
@@ -58,7 +65,7 @@ The term "**microprocessor**" refers to a single implemented processor and, very
 
 ### CPU in a von Neumann Model
 > [!links]
-> ↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols.md)
+> ↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../../Computer%20Bus%20%28Datapath%29%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20%28Datapath%29%20&%20Interfaces%20&%20Protocols.md)
 > ↗ [Computer Memory & Storage](../../../Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
 
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
@@ -81,11 +88,11 @@ Similarly:
 > [!links]
 > ↗ [Computer Architecture](../../../../Computer%20Architecture.md) "microarchitecture =? organization =? CPU =? CPU core"
 > 
-> ↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part).md)
-> - ↗ [Intel Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Intel%20Chips.md)
-> - ↗ [Nvidia Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Nvidia%20Chips.md)
-> - ↗ [AMD Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/AMD%20Chips.md)
-> - ↗ [Apple Chips (M Series & A Series)](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Apple%20Chips%20(M%20Series%20&%20A%20Series).md)
+> ↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29.md)
+> - ↗ [Intel Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/Intel%20Chips.md)
+> - ↗ [Nvidia Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/Nvidia%20Chips.md)
+> - ↗ [AMD Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/AMD%20Chips.md)
+> - ↗ [Apple Chips (M Series & A Series)](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/Apple%20Chips%20%28M%20Series%20&%20A%20Series%29.md)
 
 > [!TIP]
 > 🔗 [List of Intel processors](https://en.wikipedia.org/wiki/List_of_Intel_processors)
@@ -111,14 +118,14 @@ Similarly:
 > 🔗 [List of AMD CPU microarchitectures](https://en.wikipedia.org/wiki/List_of_AMD_CPU_microarchitectures)
 
 1. Datapath
-	1. For other bus look at ↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols.md)
+	1. For other bus look at ↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../../Computer%20Bus%20%28Datapath%29%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20%28Datapath%29%20&%20Interfaces%20&%20Protocols.md)
 2. Control Unit
 	1. a module responsible for sequencing operations and making sure the correct data are where they need to be at the correct time.
-	2. As in ↗ [Control Unit](📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/Control%20Unit.md) for more.
+	2. As in ↗ [Control Unit](📌%20Inside%20CPU%20Core%20%28Core%20Microarchitecture%29/Control%20Unit.md) for more.
 3. Arithmetic Unit
-	1. ↗ [ALU (Arithmetic Logic Unit)](📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/ALU%20(Arithmetic%20Logic%20Unit).md)
+	1. ↗ [ALU (Arithmetic Logic Unit)](📌%20Inside%20CPU%20Core%20%28Core%20Microarchitecture%29/ALU%20%28Arithmetic%20Logic%20Unit%29.md)
 4. Register
-	1. ↗ [Register](📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/Register.md)
+	1. ↗ [Register](📌%20Inside%20CPU%20Core%20%28Core%20Microarchitecture%29/Register.md)
 
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020260115201409.png)
 <small>Intel 80286 microarchitecture <br> <a>https://en.wikipedia.org/wiki/Intel_80286</a></small>
@@ -127,16 +134,16 @@ Similarly:
 <small>Intel Raptor Cove CPU core microarchitecture <br> <a>https://en.wikipedia.org/wiki/Golden_Cove#Raptor_Cove</a></small>
 #### CPU Infrastructure (Uncore / Data Fabric)
 > [!links]
-> ↗ [MCU (Memory Controller Unit) & IMC (Integrated Memory Controller)](Outside%20CPU%20Core%20(Interconnect%20Topology)/MCU%20(Memory%20Controller%20Unit)%20&%20IMC%20(Integrated%20Memory%20Controller).md)
-> ↗ [LLC (Last Level Cache) - L3 (L4)](Outside%20CPU%20Core%20(Interconnect%20Topology)/LLC%20(Last%20Level%20Cache)%20-%20L3%20(L4).md)
-> ↗ [Internal Bus (On-Chip Bus)](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Internal%20Bus%20(On-Chip%20Bus)/Internal%20Bus%20(On-Chip%20Bus).md)
+> ↗ [MCU (Memory Controller Unit) & IMC (Integrated Memory Controller)](Outside%20CPU%20Core%20%28Interconnect%20Topology%29/MCU%20%28Memory%20Controller%20Unit%29%20&%20IMC%20%28Integrated%20Memory%20Controller%29.md)
+> ↗ [LLC (Last Level Cache) - L3 (L4)](Outside%20CPU%20Core%20%28Interconnect%20Topology%29/LLC%20%28Last%20Level%20Cache%29%20-%20L3%20%28L4%29.md)
+> ↗ [Internal Bus (On-Chip Bus)](../../../Computer%20Bus%20%28Datapath%29%20&%20Interfaces%20&%20Protocols/Internal%20Bus%20%28On-Chip%20Bus%29/Internal%20Bus%20%28On-Chip%20Bus%29.md)
 > 
-> ↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
-> - ↗ [NPU (Network Processing Unit)](../../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
-> - ↗ [Apple Neural Engine](../Accelerators%20(Coprocessors)/Apple%20Neural%20Engine.md)
+> ↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/ASIC%20%28Application-Specific%20Integrated%20Circuit%29.md)
+> - ↗ [NPU (Network Processing Unit)](../../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/Semi-Customized%20ASIC/NPU%20%28Network%20Processing%20Unit%29/NPU%20%28Network%20Processing%20Unit%29.md)
+> - ↗ [Apple Neural Engine](../Accelerators%20%28Coprocessors%29/Apple%20Neural%20Engine.md)
 >
-> ↗ [GPU (Graphics Processing Unit)](../Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
-> ↗ [Systems on Chip (SoC)](../../Systems%20on%20Chip%20(SoC).md)
+> ↗ [GPU (Graphics Processing Unit)](../Accelerators%20%28Coprocessors%29/GPU%20%28Graphics%20Processing%20Unit%29/GPU%20%28Graphics%20Processing%20Unit%29.md)
+> ↗ [Systems on Chip (SoC)](../../Systems%20on%20Chip%20%28SoC%29.md)
 
 > 🤖 Gemini 3.0 pro 
 > https://gemini.google.com/share/ebedeb833ded
@@ -191,8 +198,8 @@ Instead of printing the whole city on one piece of silicon (Monolithic), they st
 
 ### Word Length & Addressing Space
 > [!links]
-> ↗ [Memory Access & Addressing](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
-> ↗ [Address Space & Memory Layout](../../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
+> ↗ [Memory Access & Addressing](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+> ↗ [Address Space & Memory Layout](../../../../../Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/Address%20Space%20&%20Memory%20Layout.md)
 
 > 📖 《汇编语言》 王爽
 
@@ -211,13 +218,13 @@ Instead of printing the whole city on one piece of silicon (Monolithic), they st
 ## Instruction Execution
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
 
-> Detailed info at ↗ [Instruction Execution](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+> Detailed info at ↗ [Instruction Execution](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Instruction%20Execution.md)
 
 
 ### The Separation of Instruction and Data
-↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-↗ [Memory Access & Addressing](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
+↗ [Memory Access & Addressing](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 This is decided by the nature of turing machine and von neumann architecture.
 
@@ -227,8 +234,8 @@ This is decided by the nature of turing machine and von neumann architecture.
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
 
-More at ↗ [Processor /Interrupts](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
-or ↗ [ASM /Interrupts](../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
+More at ↗ [Processor /Interrupts](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Interrupts%20%28Software%20&%20Hardware%29.md)
+or ↗ [ASM /Interrupts](../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
 
 
 
@@ -239,7 +246,7 @@ or ↗ [ASM /Interrupts](../../../../../../👩‍💻%20Computer%20Languages%20
 >
 >However, certain buses also have their own clocks. **Bus clocks** are one of them. Bus clocks are usually slower than CPU clocks, causing bottleneck problems.
 >
->↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols.md)
+>↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../../Computer%20Bus%20%28Datapath%29%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20%28Datapath%29%20&%20Interfaces%20&%20Protocols.md)
 #### CPU Clock Basics
 #### 📈 Minimal Clock Cycle Time
 Most machines are synchronous: There is a master clock signal, which ticks (changing from 0 to 1 to 0 and so on) at regular intervals. Registers must wait for the clock to tick before new data can be loaded. 

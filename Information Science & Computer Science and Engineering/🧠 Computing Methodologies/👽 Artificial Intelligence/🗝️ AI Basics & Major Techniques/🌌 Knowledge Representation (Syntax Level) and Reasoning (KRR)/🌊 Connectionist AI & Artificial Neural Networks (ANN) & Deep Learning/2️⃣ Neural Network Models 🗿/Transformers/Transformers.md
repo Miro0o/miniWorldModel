@@ -37,8 +37,24 @@ CS324 - Large Language Model | Stanford
 
 ### Other Resources
 https://faichou.com/posts/a-transformer-walkthrough/
-From Embedding to Attention: A Transformer Walkthrough
+🤔 From Embedding to Attention: A Transformer Walkthrough
 February 11, 2026 / 28 min read
+```md
+"请将你好翻译成英文"
+  ↓ Tokenizer (BPE)
+[token1, token2, ..., token9]
+  ↓ Embedding Matrix lookup
+[X1, X2, ..., X9]          shape: (9, 4096)
+  ↓ Transformer Layer 1~32（Prefill，全量计算）
+每层：LayerNorm → Attention(+残差) → LayerNorm → FFN(+残差)
+  ↓ 最后一层输出 Z9
+  ↓ LM Head (= Embedding Matrix^T)
+logits: (128000,)
+  ↓ softmax → 概率采样
+"Hello"
+  ↓ Decode 阶段，逐 token 生成，利用 KV Cache
+...
+```
 
 
 
@@ -62,7 +78,7 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 
 
 ### Attention
-↗ [Attention in Transformer & Efficient Implementation](Attention%20in%20Transformer%20&%20Efficient%20Implementation.md)
+↗ [Attention & Efficient Operator Implementation](Attention%20&%20Efficient%20Operator%20Implementation.md)
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png)
 <small><a>https://poloclub.github.io/transformer-explainer/</a></small>
@@ -293,7 +309,7 @@ https://sebastianraschka.com/llm-architecture-gallery/
 ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
 
 #### Attention Redesign
-↗ [Attention in Transformer & Efficient Implementation](Attention%20in%20Transformer%20&%20Efficient%20Implementation.md)
+↗ [Attention & Efficient Operator Implementation](Attention%20&%20Efficient%20Operator%20Implementation.md)
 
 #### Retrieve-Based Model
 ↗ [Retrieve-Based Architecture](Retrieve-Based%20Architecture/Retrieve-Based%20Architecture.md)

@@ -15,7 +15,7 @@
 ↗ [(Deep) Generative Models](../../Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Probabilistic%20Modeling%20Distinction/🪽%20%28Deep%29%20Generative%20Models/%28Deep%29%20Generative%20Models.md)
 
 ↗ [Transformers](../../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
-↗ [Attention in Transformer & Efficient Implementation](../../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Attention%20in%20Transformer%20&%20Efficient%20Implementation.md)
+↗ [Attention & Efficient Operator Implementation](../../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Attention%20&%20Efficient%20Operator%20Implementation.md)
 
 
 ### Papers

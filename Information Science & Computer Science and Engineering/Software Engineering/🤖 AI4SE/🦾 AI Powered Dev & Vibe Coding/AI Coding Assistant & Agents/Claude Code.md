@@ -9,12 +9,14 @@
 
 
 ### Related Topics
-↗ [Anthropic Claude](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Anthropic%20Claude.md)
-↗ [AI Agent Assistants (General Purpose) & LLM OS](../../AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
+↗ [Anthropic Claude](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Anthropic%20Claude.md)
+↗ [AI Agent Assistants (General Purpose) & LLM OS](../../AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS/AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS.md)
 
 
 ### Other Resources
 Liu, J.; Zhao, X.; Shang, X.; Shen, Z. Dive into Claude Code: The Design Space of Today’s and Future AI Agent Systems. arXiv April 14, 2026. [https://doi.org/10.48550/arXiv.2604.14228](https://doi.org/10.48550/arXiv.2604.14228).
+
+https://claudefa.st/
 
 
 

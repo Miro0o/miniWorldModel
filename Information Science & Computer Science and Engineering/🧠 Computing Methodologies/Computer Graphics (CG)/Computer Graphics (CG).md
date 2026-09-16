@@ -6,22 +6,22 @@
 
 ## Res
 ### Related Topics
-↗ [Computer Vision (CV)](../👽%20Artificial%20Intelligence/Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md)
-↗ [GPU (Graphics Processing Unit)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
+↗ [Computer Vision (CV)](../👽%20Artificial%20Intelligence/Computer%20Vision%20%28CV%29/Computer%20Vision%20%28CV%29.md)
+↗ [GPU (Graphics Processing Unit)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Accelerators%20%28Coprocessors%29/GPU%20%28Graphics%20Processing%20Unit%29/GPU%20%28Graphics%20Processing%20Unit%29.md)
 
 ↗ [Computer Graphics Programming](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
 ↗ [Media Processing & GUI SDK](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/Media%20Processing%20&%20GUI%20SDK.md)
-↗ [Graphics Formats & Standards](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Graphics%20Formats%20&%20Standards/Graphics%20Formats%20&%20Standards.md)
+↗ [Graphics Formats & Standards](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20%28Coder-Decoder%29/Graphics%20Formats%20&%20Standards/Graphics%20Formats%20&%20Standards.md)
 
 ↗ [Electronic Games](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Electronic%20Games/Electronic%20Games.md)
-↗ [Video Games Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Video%20Games%20Development/Video%20Games%20Development.md)
+↗ [Digital & Video Games Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Digital%20&%20Video%20Games%20Development/Digital%20&%20Video%20Games%20Development.md)
 
 
 
 ## Intro
 > [!TIP]
 > Computer Graphics (CG: generating graphics
-> ↗ [Computer Vision (CV)](../👽%20Artificial%20Intelligence/Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md): understanding graphics
+> ↗ [Computer Vision (CV)](../👽%20Artificial%20Intelligence/Computer%20Vision%20%28CV%29/Computer%20Vision%20%28CV%29.md): understanding graphics
 
 
 
