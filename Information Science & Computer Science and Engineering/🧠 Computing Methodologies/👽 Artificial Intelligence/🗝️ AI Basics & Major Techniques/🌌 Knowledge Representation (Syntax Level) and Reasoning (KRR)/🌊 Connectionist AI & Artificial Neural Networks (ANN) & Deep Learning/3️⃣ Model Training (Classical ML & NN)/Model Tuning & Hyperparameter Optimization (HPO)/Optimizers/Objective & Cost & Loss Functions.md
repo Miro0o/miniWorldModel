@@ -6,7 +6,6 @@
 
 ## Res
 ### Related Topics
-↗ [Optimizers](Optimizers.md)
 ↗ [Regularizers & Dropouts](Regularizers%20&%20Dropouts.md)
 
 

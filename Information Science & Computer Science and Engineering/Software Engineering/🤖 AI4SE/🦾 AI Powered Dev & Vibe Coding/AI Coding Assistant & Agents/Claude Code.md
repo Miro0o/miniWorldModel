@@ -16,6 +16,8 @@
 ### Other Resources
 Liu, J.; Zhao, X.; Shang, X.; Shen, Z. Dive into Claude Code: The Design Space of Today’s and Future AI Agent Systems. arXiv April 14, 2026. [https://doi.org/10.48550/arXiv.2604.14228](https://doi.org/10.48550/arXiv.2604.14228).
 
+https://claudefa.st/
+
 
 
 ## Intro

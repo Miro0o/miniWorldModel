@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Mathematical Modeling & Abstraction](../../Mathematical%20Modeling%20&%20Abstraction.md)
+↗ [Models of Computation & Abstract Machines](../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 ↗ [Decision Science](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Decision%20Science/Decision%20Science.md)
 
 ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
@@ -45,19 +46,6 @@ Nicolas Boumal
 
 
 https://enpocourses.github.io/enpo811203/optimization-intro/
-neos， apmonitor， pyomo，jump，
-
-**JuMP.jl**
-
-**NEOS** 如果你想尝试不同的求解器，包括一些商业的求解器，你可以使用[NEOS-Server](https://neos-server.org/neos/)。他们提供了不同格式输入，并且还提供api调用。就是要求不能滥用。
-
-**APMonitor和Gekko**
-
-**GalacticOptim.jl**
-
-**pyomo**
-
-**OpenMDAO**
 
 
 ### Other Resources
@@ -70,6 +58,259 @@ neos， apmonitor， pyomo，jump，
 **Mathematical optimization** (alternatively spelled _optimisation_) or **mathematical programming** is the selection of a best element, with regard to some criteria, from some set of available alternatives. It is generally divided into two subfields: [discrete optimization](https://en.wikipedia.org/wiki/Discrete_optimization "Discrete optimization") and [continuous optimization](https://en.wikipedia.org/wiki/Continuous_optimization "Continuous optimization"). Optimization problems arise in all quantitative disciplines from [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science") and [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering") to [operations research](https://en.wikipedia.org/wiki/Operations_research "Operations research") and [economics](https://en.wikipedia.org/wiki/Economics "Economics"), and the development of solution methods has been of interest in [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") for centuries.
 
 In the more general approach, an [optimization problem](https://en.wikipedia.org/wiki/Optimization_problem "Optimization problem") consists of [maximizing or minimizing](https://en.wikipedia.org/wiki/Maxima_and_minima "Maxima and minima") a [real function](https://en.wikipedia.org/wiki/Function_of_a_real_variable "Function of a real variable") by systematically choosing [input](https://en.wikipedia.org/wiki/Argument_of_a_function "Argument of a function") values from within an allowed set and computing the [value](https://en.wikipedia.org/wiki/Value_\(mathematics\) "Value (mathematics)") of the function. The generalization of optimization theory and techniques to other formulations constitutes a large area of [applied mathematics](https://en.wikipedia.org/wiki/Applied_mathematics "Applied mathematics").
+
+
+### Taxonomy of Optimization Methods
+```tikz
+\usetikzlibrary{positioning,arrows.meta}
+
+\begin{document}
+
+% Neutral gray chosen to remain readable
+% on both light and dark Obsidian themes.
+\definecolor{textmain}{HTML}{7A8290}
+
+\definecolor{blueA}{HTML}{4E9CEB}
+\definecolor{greenA}{HTML}{36A875}
+\definecolor{amberA}{HTML}{D99A16}
+\definecolor{redA}{HTML}{DD6666}
+\definecolor{violetA}{HTML}{9270D8}
+\definecolor{cyanA}{HTML}{269EAA}
+\definecolor{orangeA}{HTML}{DD7D35}
+
+\begin{tikzpicture}[
+    font=\sffamily,
+    text=textmain,
+
+    center/.style={
+        rounded corners=8pt,
+        draw=blueA,
+        line width=1.5pt,
+        text=textmain,
+        text width=3.2cm,
+        minimum height=1.8cm,
+        align=center,
+        inner sep=8pt,
+        font=\sffamily\bfseries\large
+    },
+
+    tax/.style={
+        rounded corners=6pt,
+        text=textmain,
+        text width=4.6cm,
+        align=left,
+        inner sep=9pt,
+        line width=1.1pt,
+        font=\sffamily\small
+    },
+
+    conn/.style={
+        line width=1.4pt
+    }
+]
+
+
+% =================================================
+% CENTER
+% =================================================
+
+\node[center] (C) at (0,0)
+{
+Optimization\\
+Algorithms\\[-1mm]
+{\small Taxonomy}
+};
+
+
+% =================================================
+% LEFT
+% =================================================
+
+\node[
+    tax,
+    draw=blueA
+] (var) at (-6.5,4.8)
+{
+{\color{blueA}\textbf{1. Variable type}}\\[2mm]
+$\bullet$ Continuous\\
+$\bullet$ Discrete / Integer\\
+$\bullet$ Mixed
+};
+
+
+\node[
+    tax,
+    draw=greenA
+] (deriv) at (-6.5,1.7)
+{
+{\color{greenA}\textbf{2. Derivative information}}\\[2mm]
+$\bullet$ Derivative-free (0th order)\\
+$\bullet$ First-order: gradient\\
+$\bullet$ Second-order: curvature
+};
+
+
+\node[
+    tax,
+    draw=amberA
+] (scope) at (-6.5,-1.7)
+{
+{\color{amberA}\textbf{3. Search scope}}\\[2mm]
+$\bullet$ Local optimization\\
+$\bullet$ Global optimization
+};
+
+
+\node[
+    tax,
+    draw=redA
+] (rand) at (-6.5,-4.8)
+{
+{\color{redA}\textbf{4. Randomness}}\\[2mm]
+$\bullet$ Deterministic\\
+$\bullet$ Stochastic
+};
+
+
+% =================================================
+% RIGHT
+% =================================================
+
+\node[
+    tax,
+    draw=violetA
+] (cons) at (6.5,4.8)
+{
+{\color{violetA}\textbf{5. Constraints}}\\[2mm]
+$\bullet$ Unconstrained\\
+$\bullet$ Constrained\\
+\hspace{4mm} equality / inequality / bounds
+};
+
+
+\node[
+    tax,
+    draw=greenA
+] (struct) at (6.5,1.7)
+{
+{\color{greenA}\textbf{6. Problem structure}}\\[2mm]
+$\bullet$ Linear / Quadratic / Nonlinear\\
+$\bullet$ Convex / Nonconvex\\
+$\bullet$ Smooth / Nonsmooth\\
+$\bullet$ Combinatorial
+};
+
+
+\node[
+    tax,
+    draw=cyanA
+] (access) at (6.5,-1.7)
+{
+{\color{cyanA}\textbf{7. Model \& evaluation}}\\[2mm]
+$\bullet$ White-box / Black-box\\
+$\bullet$ Cheap / Expensive evaluation\\
+$\bullet$ Exact / Noisy evaluation
+};
+
+
+\node[
+    tax,
+    draw=orangeA
+] (solution) at (6.5,-4.8)
+{
+{\color{orangeA}\textbf{8. Solution / setting}}\\[2mm]
+$\bullet$ Exact vs Heuristic\\
+$\bullet$ Single vs Multi-objective\\
+$\bullet$ Single-point vs Population-based\\
+$\bullet$ Static vs Online / Dynamic
+};
+
+
+% =================================================
+% CONNECTIONS
+% =================================================
+
+% Left
+\draw[conn, blueA]
+(C.west) to[out=155,in=0] (var.east);
+
+\draw[conn, greenA]
+(C.west) to[out=175,in=0] (deriv.east);
+
+\draw[conn, amberA]
+(C.west) to[out=185,in=0] (scope.east);
+
+\draw[conn, redA]
+(C.west) to[out=205,in=0] (rand.east);
+
+
+% Right
+\draw[conn, violetA]
+(C.east) to[out=25,in=180] (cons.west);
+
+\draw[conn, greenA]
+(C.east) to[out=5,in=180] (struct.west);
+
+\draw[conn, cyanA]
+(C.east) to[out=-5,in=180] (access.west);
+
+\draw[conn, orangeA]
+(C.east) to[out=-25,in=180] (solution.west);
+
+
+% =================================================
+% KEY IDEA
+% =================================================
+
+\node[
+    rounded corners=6pt,
+    draw=textmain,
+    line width=0.8pt,
+    text=textmain,
+    text width=7.7cm,
+    align=center,
+    inner sep=8pt,
+    font=\sffamily\footnotesize
+] at (0,-7.0)
+{
+\textbf{Key idea:}
+An algorithm can belong to several categories simultaneously.\\[1mm]
+For example:
+{\color{blueA}\textbf{Adam}}
+= continuous + first-order + stochastic + local.
+};
+
+
+\end{tikzpicture}
+
+\end{document}
+```
+<small>Generated by GPT 6.0</small>
+#### By Optimization Variable Types
+
+
+#### By Derivative Information of Objective Function 🤔
+> [!links]
+> ↗ [Numerical Optimization](🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/Numerical%20Optimization.md)
+> ↗ [First-Order & Gradient Methods](🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md)
+
+**Zero-order methods (derivative-free)** — only function evaluations
+- Random search, grid search, coordinate descent, Evolutionary / population methods, Bayesian optimization
+- Use when gradients are unavailable, noisy, or the objective is a black box.
+**First-order methods** — uses gradients
+- Gradient descent, SGD, momentum, Nesterov, Adam/RMSProp/AdaGrad
+- Use for large-scale ML: cheap per step, scales to millions of parameters.
+**Second-order methods** — uses curvature (Hessian or approximations)
+- Newton's method, trust-region methods, Quasi-Newton: BFGS, L-BFGS. Natural gradient
+- Fewer iterations, but each is more expensive; ideal for small-to-medium smooth problems.
+#### By Constraints
+
+#### By Search Scope
+
+#### By Problem Structures
+**Convex / structured programming** — exploits problem structure
+- Linear programming (simplex, interior-point), quadratic programming
+- If your problem is convex, these give global optima with guarantees.
 
 
 ### Formal Methods, Symbolic Methods, Constraint Solving, Search & AI Planning, and Mathematical Optimization ⭐

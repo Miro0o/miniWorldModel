@@ -1,4 +1,4 @@
-# Attention in Transformer & Efficient Implementation
+# Attention & Efficient Operator Implementation
 
 [TOC]
 
@@ -114,7 +114,7 @@ Inspired by ideas about [attention in humans](https://en.wikipedia.org/wiki/Att
 | 2019+       | [Hopfield networks](https://en.wikipedia.org/wiki/Hopfield_network "Hopfield network") were reinterpreted as associative memory-based attention systems,[27](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-ramsauer2021-27) and [vision transformers](https://en.wikipedia.org/wiki/Vision_transformer "Vision transformer") (ViTs) achieved competitive results in image classification.[28](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-dosovitskiy2021-28)<br><br>Transformers were adopted across scientific domains, including [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold "AlphaFold") for protein folding,[29](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-alphafold-29) CLIP for vision-language pretraining,[30](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-clip-30) and attention-based dense segmentation models like CCNet[31](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-ccnet-31) and DANet.[32](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-danet-32) |
 
 
-### Standard Scaled Dot-Product Attention (Attention is All You Need)
+### Standard Scaled Dot-Product Attention (SDPA) (Attention is All You Need)
 > 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Standard_scaled_dot-product_attention
 
 > 🔗 https://en.wikipedia.org/wiki/Transformer_(deep_learning)#Scaled_dot-product_attention

@@ -9,12 +9,11 @@
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 ↗ [Differential Calculus & Derivative of Function](../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 
-↗ [Mathematical Optimization (Programming)](../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-- ↗ [First-Order & Gradient Methods](../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md)
-	- ↗ [Stochastic Gradient Methods](../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/Stochastic%20Gradient%20Methods/Stochastic%20Gradient%20Methods.md)
-	- ↗ [Stochastic Gradient Descent (SGD)](../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/Stochastic%20Gradient%20Methods/Stochastic%20Gradient%20Descent%20(SGD).md)
-
-↗ [Objective & Cost & Loss Functions](Objective%20&%20Cost%20&%20Loss%20Functions.md)
+↗ [Mathematical Optimization (Programming)](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+- ↗ [First-Order & Gradient Methods](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md)
+	- ↗ [Stochastic Gradient Methods](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/Stochastic%20Gradient%20Methods/Stochastic%20Gradient%20Methods.md)
+	- ↗ [Stochastic Gradient Descent (SGD)](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/Stochastic%20Gradient%20Methods/Stochastic%20Gradient%20Descent%20(SGD).md)
+↗ [Optimization Software & Solver Implementation](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/💐%20Optimization%20Software%20&%20Solver%20Implementation/Optimization%20Software%20&%20Solver%20Implementation.md)
 
 
 ### Other Resources
@@ -162,7 +161,6 @@ Notation: $\theta_t$ denotes parameters, $g_t$ a full or stochastic gradient, $\
 [Bottou, Curtis & Nocedal (2018), *Optimization Methods for Large-Scale Machine Learning*]: https://arxiv.org/abs/1606.04838
 [Schmidt et al. (2021), *Descending through a Crowded Valley—Benchmarking Deep Learning Optimizers*]: https://arxiv.org/abs/2007.01547
 [Wen et al. (2025), *Fantastic Pretraining Optimizers and Where to Find Them*]: https://arxiv.org/abs/2509.02046
-
 
 
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-05-14%20at%205.14.36%20PM.png)
