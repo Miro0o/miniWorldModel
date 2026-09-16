@@ -1,4 +1,4 @@
-# Algebraic Modeling Languages
+# Proximal Gradient Methods
 
 [TOC]
 

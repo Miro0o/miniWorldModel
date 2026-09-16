@@ -25,15 +25,19 @@
 - ↗ [Text Editors](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Text%20Editors/Text%20Editors.md)
 ↗ [CASE (Computer-Aided Software Engineering) Tools](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
 - ↗ [IDE (Integrated Development Environment)](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/IDE%20(Integrated%20Development%20Environment)/IDE%20(Integrated%20Development%20Environment).md)
-↗ [Streaming Applications & Implementations](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Video%20&%20Streaming%20Service/📌%20Streaming%20Applications%20&%20Implementations/Streaming%20Applications%20&%20Implementations.md)
+
+↗ [Application Software Engineering](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
+- ↗ [Streaming Applications & Implementations](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Video%20&%20Streaming%20Service/📌%20Streaming%20Applications%20&%20Implementations/Streaming%20Applications%20&%20Implementations.md)
 
 ↗ [Kill Chain & Security Tool Box](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
 - ↗ [Kali Tools](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🐉%20Kali%20Linux/🤺%20Kali%20Tools/Kali%20Tools.md)
+↗ [Security Programming & Security Product Development](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Security%20Programming%20&%20Security%20Product%20Development/Security%20Programming%20&%20Security%20Product%20Development.md)
 ↗ [Anonymous Network & Host](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Network%20&%20Host/Anonymous%20Network%20&%20Host.md)
 
 ↗ [Data Analysis & Automation](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
 
 ↗ [Mathematical Tools & Scientific Computing](../../🧮%20Mathematics/Computational%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
+↗ [Optimization Software & Solver Implementation](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/💐%20Optimization%20Software%20&%20Solver%20Implementation/Optimization%20Software%20&%20Solver%20Implementation.md)
 
 ↗ [实用工具箱](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/实用工具箱.md)
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
@@ -42,6 +46,9 @@
  - ↗ [Bib-Management](../../Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
 
 ↗ [My Investment & Tool-lists](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/📋%20My%20Investment%20&%20Tool-lists/My%20Investment%20&%20Tool-lists.md)
+
+
+### Other Resources
 
 
 

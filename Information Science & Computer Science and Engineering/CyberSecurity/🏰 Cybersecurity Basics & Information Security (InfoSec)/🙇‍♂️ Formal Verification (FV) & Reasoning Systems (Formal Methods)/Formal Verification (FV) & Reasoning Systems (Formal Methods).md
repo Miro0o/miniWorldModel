@@ -669,8 +669,21 @@ A common theme: from program to formulas
 >
 > ↗ [Mathematical Optimization (Programming)](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
 > ↗ [Matching & Assignment Problems](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Matching%20&%20Assignment%20Problems/Matching%20&%20Assignment%20Problems.md)
+> 
+> ↗ [Neuro-Symbolic AI](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md) 🤔
 
 #formal_logic #formal_system #formal_methods #symbolic_methods #constraint_solving #combinatorial_search #AI_planning #optimization 
+
+> 🤖 GPT 6.0
+> https://chatgpt.com/share/6aa938f1-e81c-83e8-8d55-a08f91a7aa13
+
+|Area|Central question|Typical object|Typical output|
+|---|---|---|---|
+|**Formal Methods**|“Can we rigorously prove the system has property P?”|Logical/system model + specification|Proof, counterexample, verified implementation|
+|**Symbolic Methods**|“Can we reason using expressions/formulas instead of enumerating concrete cases?”|Formulas, terms, symbolic states|Simplified expression, proof, symbolic solution|
+|**Constraint Solving**|“Is there an assignment satisfying all these conditions?”|Variables + domains + constraints|Satisfying assignment, or UNSAT|
+|**Search & AI Planning**|“What sequence of choices/actions reaches the goal?”|States + actions + transitions|Path, plan, policy|
+|**Mathematical Optimization**|“Among feasible solutions, which is best?”|Variables + constraints + objective|Optimal or near-optimal solution|
 
 
 

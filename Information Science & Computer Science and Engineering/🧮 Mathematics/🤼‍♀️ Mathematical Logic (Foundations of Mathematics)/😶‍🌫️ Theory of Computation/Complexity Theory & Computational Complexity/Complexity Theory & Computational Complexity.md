@@ -115,7 +115,7 @@ Complexity classes are about resources (time/space) and efficiency ($O(n^3)$ tim
 
 The **P versus NP problem** is a major [unsolved problem](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science "List of unsolved problems in computer science") in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"). ==Informally, it asks whether every problem whose solution can be quickly verified can also be quickly solved.==
 
-Here, "quickly" means an algorithm exists that solves the task and runs in [polynomial time](https://en.wikipedia.org/wiki/Polynomial_time "Polynomial time") (as opposed to, say, [exponential time](https://en.wikipedia.org/wiki/Exponential_time "Exponential time")), meaning the task completion time is [bounded above](https://en.wikipedia.org/wiki/Upper_bound "Upper bound") by a [polynomial function](https://en.wikipedia.org/wiki/Polynomial_function "Polynomial function") on the size of the input to the algorithm. The general class of questions that some [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") can answer in polynomial time is **"[P](https://en.wikipedia.org/wiki/P_\(complexity\) "P (complexity)")" or "class P"**. For some questions, there is no known way to find an answer quickly, but if provided with an answer, it can be verified quickly. The class of questions where an answer can be _verified_ in polynomial time is **["NP"](https://en.wikipedia.org/wiki/NP_\(complexity\) "NP (complexity)")**, standing for "**nondeterministic polynomial time**".
+Here, "quickly" means an algorithm exists that solves the task and runs in **[polynomial time](https://en.wikipedia.org/wiki/Polynomial_time "Polynomial time")** (as opposed to, say, [exponential time](https://en.wikipedia.org/wiki/Exponential_time "Exponential time")), meaning the task completion time is [bounded above](https://en.wikipedia.org/wiki/Upper_bound "Upper bound") by a [polynomial function](https://en.wikipedia.org/wiki/Polynomial_function "Polynomial function") on the size of the input to the algorithm. The general class of questions that some [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") can answer in polynomial time is **"[P](https://en.wikipedia.org/wiki/P_\(complexity\) "P (complexity)")" or "class P"**. For some questions, there is no known way to find an answer quickly, but if provided with an answer, it can be verified quickly. The class of questions where an answer can be _verified_ in polynomial time is **["NP"](https://en.wikipedia.org/wiki/NP_\(complexity\) "NP (complexity)")**, standing for "**nondeterministic polynomial time**".
 
 An answer to the P versus NP question would determine whether problems that can be verified in polynomial time can also be solved in polynomial time. If P $\neq$ NP, which is widely believed, it would mean that there are problems in NP that are harder to compute than to verify: they could not be solved in polynomial time, but the answer could be verified in polynomial time.
 
@@ -155,7 +155,7 @@ It is one of the seven [Millennium Prize Problems](https://en.wikipedia.org/wik
 > [!quote]
 > 🎬【【作业】P问题，NP问题，NPH问题，NPC问题介绍】 https://www.bilibili.com/video/BV1pF41127B3/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 #### SAT Problem & SMT Problem
-↗ [Formal System, Formal Semantics, and Formal Logic](../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
+↗ [Formal System, Formal Semantics, and Formal Logic](../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) 🤔
 
 ↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
 - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
@@ -181,7 +181,6 @@ A similar problem exists in the theory of [algebraic complexity](https://en.wik
 
 
 ### 🤔 My sketchy thoughts about PNP problem
-
 ↗ [Neuro-Symbolic AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
 
 LLM: probabilistic generator

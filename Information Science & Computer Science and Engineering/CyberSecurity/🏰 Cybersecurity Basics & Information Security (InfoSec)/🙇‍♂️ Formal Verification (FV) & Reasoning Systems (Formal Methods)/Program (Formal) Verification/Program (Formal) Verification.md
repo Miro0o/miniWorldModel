@@ -73,6 +73,17 @@ COS 516/ECE 516: Automated Reasoning about Software, Fall 2026
 
 
 ### Other Resources
+https://egraphs.org/
+EGRAPHS Community
+- [Home](https://egraphs.org/)
+ - [Community Meeting](https://egraphs.org/meeting/)
+ - [Workshop](https://egraphs.org/workshop/)
+ - [Zulip Chat](https://egraphs.org/zulip/)
+The EGRAPHS community brings together researchers and practitioners that use e-graphs and related techniques. E-graphs are data structures for working with large equivalence classes of programs. While originally designed for use in automated theorem provers (such as SMT solvers), they have recently been employed to build new kinds of program optimizers and synthesizers using a technique called _equality saturation_.
+Curious what people are doing with e-graphs? Check out [Philip Zucker’s](https://www.philipzucker.com/) page on [Awesome E-graphs](https://github.com/philzook58/awesome-egraphs).
+
+https://egraphs-good.github.io/
+The egg project uses e-graphs to provide a new way to build program optimizers and synthesizers.
 
 
 
