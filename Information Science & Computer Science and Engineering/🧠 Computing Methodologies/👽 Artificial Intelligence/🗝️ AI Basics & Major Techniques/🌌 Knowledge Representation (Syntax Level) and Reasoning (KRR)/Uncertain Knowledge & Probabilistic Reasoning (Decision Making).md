@@ -58,7 +58,7 @@ Probabilistic algorithms can also be used for filtering, prediction, smoothing, 
 
 ## 🎯 Decision Making & Probabilistic Reasoning
 > [!links]
-> ↗ [Decision Science](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Decision%20Science/Decision%20Science.md)
+> ↗ [Decision Science](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Decision%20Science/Decision%20Science.md)
 > ↗ [Decision Theory](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/📌%20Decision%20Theory/Decision%20Theory.md)
 > ↗ [Decision Analysis](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Decision%20Analysis/Decision%20Analysis.md)
 > ↗ [Game Theory & Multi-Agent Decision-Making](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)

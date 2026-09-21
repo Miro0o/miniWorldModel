@@ -6,7 +6,7 @@
 
 ## Res
 ### Relate Topics
-↗ [Business Models](../../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/🙇🏼‍♀️%20Business%20&%20Entrepreneurship/Business%20Models.md)
+↗ [Business Models](../../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/🙇🏼‍♀️%20Business%20&%20Entrepreneurship/Business%20Models.md)
 
 
 

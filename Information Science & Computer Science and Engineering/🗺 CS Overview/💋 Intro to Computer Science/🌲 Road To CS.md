@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Education](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
-↗ [Liberal Education (博雅教育)](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Education/Education.md)
+↗ [Liberal Education (博雅教育)](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
 
 
@@ -646,13 +646,13 @@ ACM CCS 2012
 高等教育学社基础知识开源建设工程
 _专为大学生群体打造的知识共享平台，助力学业与社会衔接。 由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！_
 #### Knowing Universities' Courses Structures & Educational Systems in Different Areas
-↗ [Education](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
-- ↗ [中国教育与培训业](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/🧑🏽‍🏫%20中国教育与培训业/中国教育与培训业.md)
-- ↗ [U.S. Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20U.S.%20Education%20&%20Professional%20Training%20Industry/U.S.%20Education%20&%20Professional%20Training%20Industry.md)
-- ↗ [EU Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/📌%20EU%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20EU%20Education%20&%20Professional%20Training%20Industry/EU%20Education%20&%20Professional%20Training%20Industry.md)
-- ↗ [Japanese Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Social%20Development%20Overview/Japanese%20Economics/📌%20Japanese%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20Japanese%20Education%20&%20Professional%20Training%20Industry/Japanese%20Education%20&%20Professional%20Training%20Industry.md)
-- ↗ [South Korean Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Social%20Development%20Overview/South%20Korean%20Social%20Development%20Overview/South%20Korean%20Economics/📌%20South%20Korean%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20South%20Korean%20Education%20&%20Professional%20Training%20Industry/South%20Korean%20Education%20&%20Professional%20Training%20Industry.md)
-- ↗ [Russian Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/Russian%20Social%20Development%20Overviews/Russian%20Economics/📌%20Russian%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20Russian%20Education%20&%20Professional%20Training%20Industry/Russian%20Education%20&%20Professional%20Training%20Industry.md)
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Education/Education.md)
+- ↗ [中国教育与培训业](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/🧑🏽‍🏫%20中国教育与培训业/中国教育与培训业.md)
+- ↗ [U.S. Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20U.S.%20Education%20&%20Professional%20Training%20Industry/U.S.%20Education%20&%20Professional%20Training%20Industry.md)
+- ↗ [EU Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/📌%20EU%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20EU%20Education%20&%20Professional%20Training%20Industry/EU%20Education%20&%20Professional%20Training%20Industry.md)
+- ↗ [Japanese Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Social%20Development%20Overview/Japanese%20Economics/📌%20Japanese%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20Japanese%20Education%20&%20Professional%20Training%20Industry/Japanese%20Education%20&%20Professional%20Training%20Industry.md)
+- ↗ [South Korean Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Social%20Development%20Overview/South%20Korean%20Social%20Development%20Overview/South%20Korean%20Economics/📌%20South%20Korean%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20South%20Korean%20Education%20&%20Professional%20Training%20Industry/South%20Korean%20Education%20&%20Professional%20Training%20Industry.md)
+- ↗ [Russian Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/Russian%20Social%20Development%20Overviews/Russian%20Economics/📌%20Russian%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20Russian%20Education%20&%20Professional%20Training%20Industry/Russian%20Education%20&%20Professional%20Training%20Industry.md)
 
 Computer Science
 - Course analysis
@@ -690,7 +690,7 @@ The second is the **resource game**: researchers must present their work in ways
 However, the boundary is not always clear. What appears to be "fake study" may sometimes be a necessary strategy for sustaining "real study." The challenge is maintaining a balance: using the resource game as a means to support the knowledge game, rather than allowing it to become the ultimate purpose.
 
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
-↗ [Education](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Education/Education.md)
 
 > [!quote]
 > “老僧三十年前未参禅时，见山是山，见水是水。及至后来，亲见知识，有个入处，见山不是山，见水不是水。而今得个休歇处，依前见山只是山，见水只是水。”
@@ -866,7 +866,7 @@ Disciplines /Areas in CS are divided into 3 levels: industry, school, and academ
 > ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
 > 
 > ↗ [My Info Lists](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/My%20Info%20Lists.md)
-> ↗ [Social Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
+> ↗ [Social Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Social%20Science.md)
 
 
 ### Generic IT Knowledge

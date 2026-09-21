@@ -44,8 +44,8 @@
 ↗ [History of Information Systems & Security Systems](../CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 ↗ [Electronics & Information Technologies Business Fields Research](../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 
-↗ [Macro Economics](../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Macro%20Economics.md)
-- ↗ [Tertiary Economical Sector](../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/📌%20Tertiary%20Economical%20Sector/Tertiary%20Economical%20Sector.md)
+↗ [Macro Economics](../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Macro%20Economics.md)
+- ↗ [Tertiary Economical Sector](../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/📌%20Tertiary%20Economical%20Sector/Tertiary%20Economical%20Sector.md)
 
 
 ### Learning Guides

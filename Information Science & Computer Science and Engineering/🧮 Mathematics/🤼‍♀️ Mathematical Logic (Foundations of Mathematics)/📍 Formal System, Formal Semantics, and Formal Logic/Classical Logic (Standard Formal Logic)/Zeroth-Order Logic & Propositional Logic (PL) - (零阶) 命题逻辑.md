@@ -472,7 +472,7 @@ The first new normal form identified by Darwiche was **Decomposable NNF** [Dar01
 
 ### Formulas as a Data Structure
 > [!links]
-> ↗ [Data Structures](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
+> ↗ [Data Structures](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20&%20Data%20Structure%20Basics/Data%20Structures/Data%20Structures.md)
 > ↗ [Data Structure in Logic Formulas](../🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
 
 > 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf

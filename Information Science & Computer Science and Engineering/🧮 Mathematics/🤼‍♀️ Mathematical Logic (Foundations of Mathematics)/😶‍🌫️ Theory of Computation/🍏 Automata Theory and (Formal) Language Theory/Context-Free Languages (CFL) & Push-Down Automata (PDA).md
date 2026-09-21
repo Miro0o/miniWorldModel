@@ -52,7 +52,7 @@ In linguistics, some authors use the term [phrase structure grammar](https://en
 
 ## Push-Down Automata (PDA)
 > [!links]
-> ↗ [Bag, Queue, Stack](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Bag,%20Queue,%20Stack.md)
+> ↗ [Bag, Queue, Stack](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20&%20Data%20Structure%20Basics/Data%20Structures/Bag,%20Queue,%20Stack.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Pushdown_automaton
 

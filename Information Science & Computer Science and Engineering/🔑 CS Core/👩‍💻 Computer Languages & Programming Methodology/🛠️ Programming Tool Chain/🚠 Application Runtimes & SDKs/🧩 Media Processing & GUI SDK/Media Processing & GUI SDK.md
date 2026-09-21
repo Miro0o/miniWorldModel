@@ -21,6 +21,9 @@
 ↗ [QT](../../../GPL%20(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP%20Frameworks/QT.md)
 
 
+### Other Resources
+
+
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Graphical_user_interface_builder

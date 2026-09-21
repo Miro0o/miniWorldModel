@@ -12,7 +12,7 @@
 
 ↗ [Graph Theory](../../../../../../🧮%20Mathematics/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
 - ↗ [Graph Basics](../../../../../../🧮%20Mathematics/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
-↗ [Tree & Graph](../../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Tree%20&%20Graph/Tree%20&%20Graph.md)
+↗ [Tree & Graph](../../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20&%20Data%20Structure%20Basics/Data%20Structures/Tree%20&%20Graph/Tree%20&%20Graph.md)
 
 ↗ [Knowledge Management & Computational Notebook](../../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Knowledge%20Management%20&%20Computational%20Notebook/Knowledge%20Management%20&%20Computational%20Notebook.md)
 ↗ [📇 Docs Management](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/📇%20Docs%20Management.md)

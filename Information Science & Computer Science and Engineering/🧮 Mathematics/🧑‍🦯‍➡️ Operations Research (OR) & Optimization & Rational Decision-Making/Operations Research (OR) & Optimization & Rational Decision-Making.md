@@ -15,10 +15,10 @@
 ↗ [AI Basics & Major Techniques](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
 ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
 
-↗ [Complex System Science & Systems Theory](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science%20&%20Systems%20Theory.md)
+↗ [Complex System Science & Systems Theory](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science%20&%20Systems%20Theory.md)
 
-↗ [Decision Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Decision%20Science/Decision%20Science.md)
-↗ [Management Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Management%20Science/Management%20Science.md)
+↗ [Decision Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Decision%20Science/Decision%20Science.md)
+↗ [Management Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Management%20Science/Management%20Science.md)
 
 
 ### Other Resources

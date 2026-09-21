@@ -6,8 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Tree & Graph](../../📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Tree%20&%20Graph/Tree%20&%20Graph.md)
-- ↗ [B-Tree](../../📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Tree%20&%20Graph/M-ary%20Tree/B%20Trees/B-Tree.md)
+↗ [0x20 搜索](../../📌%20Algorithms%20&%20Data%20Structure%20Basics/Algo%20Basics/0x20%20搜索.md)
+
+↗ [Tree & Graph](../../📌%20Algorithms%20&%20Data%20Structure%20Basics/Data%20Structures/Tree%20&%20Graph/Tree%20&%20Graph.md)
+- ↗ [B-Tree](../../📌%20Algorithms%20&%20Data%20Structure%20Basics/Data%20Structures/Tree%20&%20Graph/M-ary%20Tree/B%20Trees/B-Tree.md)
 
 ↗ [Numerical Search](../🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20for%20Numerical%20Methods/Numerical%20Search.md)
 

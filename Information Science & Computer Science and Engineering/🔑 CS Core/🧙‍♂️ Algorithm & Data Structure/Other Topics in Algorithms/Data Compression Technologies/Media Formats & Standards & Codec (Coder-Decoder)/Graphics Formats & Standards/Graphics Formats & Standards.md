@@ -9,6 +9,12 @@
 ↗ [Media Processing & GUI SDK](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/Media%20Processing%20&%20GUI%20SDK.md)
 - ↗ [openCV](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/Graphics%20Processing/openCV/openCV.md)
 
+↗ [Computer Graphics (CG)](../../../../../../🧠%20Computing%20Methodologies/Computer%20Graphics%20(CG)/Computer%20Graphics%20(CG).md)
+↗ [Computer Graphics Programming](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
+
+
+### Other Resources
+
 
 
 ## Intro
@@ -20,6 +26,9 @@
 | **JPEG** (pronounced "JAY-peg"), which stands for Joint Photographic Experts Group, is a graphics format with built-in compression that stores True Color bitmap data very efficiently in a small file. The JPEG format is popular for Web graphics, smartphone photos, and for photos attached to email messages. When creating a JPEG or converting an image to JPEG format, you can control the level of compression and the resulting file size. The compression process eliminates some image data, however, so highly compressed files suffer some quality deterioration. | General use, such as desktop publishing or Web pages, where flexibility in file size is important    |
 | **GIF** (Graphics Interchange Format), pronounced "gif" or "jiff," was specifically designed to create images that can be displayed on multiple platforms, such as PCs and Macs. GIF graphics are limited to 256 colors, but the format supports simple animations. Once a popular format for Web pages, GIF is being replaced by JPEG and PNG.                                                                                                                                                                                                                                 | Web graphics and simple animations                                                                   |
 | **PNG** (Portable Network Graphics), pronounced "ping," is a graphics format designed to improve on the GIF format. A PNG graphic can display up to 48-bit True Color (trillions of colors). Unlike JPEG, PNG compresses bitmap files without losing any data, so compressed images retain the same high quality as the originals. PNG was developed as a public domain format without any restrictions on its use.                                                                                                                                                             | Web graphics and other general uses                                                                  |
+
+
+### Raster (Bitmap-Based) Image & Vector Image
 
 
 

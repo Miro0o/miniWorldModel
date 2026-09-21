@@ -188,7 +188,7 @@ In the 1990s, as computing power grew, the fields of law, [computer science](ht
 #### Logical Reasoning 🆚 Science Method
 #science #mathematical_logic #logic #reasoning
 
-↗ [Science & Application](../../../../Science%20&%20Application/Science%20&%20Application.md)
+↗ [Science & Engineering](../../../../Science%20&%20Engineering/Science%20&%20Engineering.md)
 
 
 ### Formal Logic 🆚 Informal Logic

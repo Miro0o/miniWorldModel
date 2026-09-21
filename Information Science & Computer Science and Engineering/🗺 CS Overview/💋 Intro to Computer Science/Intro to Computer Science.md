@@ -691,7 +691,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 		3. ↗ [Human-Computer Interaction](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Centered%20Computing/Human-Computer%20Interaction.md)
 		4. ↗ [Data Science](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/Data%20Science.md)
 		5. ↗ [Web 3.0 & Decentralized Finance](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0%20&%20Decentralized%20Finance.md) 💸
-		6. ↗ [Quantitative Investment & Computational Finance](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/🤑%20Quantitative%20Investment%20&%20Computational%20Finance/Quantitative%20Investment%20&%20Computational%20Finance.md) 💸
+		6. ↗ [Quantitative Investment & Computational Finance](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/🤑%20Quantitative%20Investment%20&%20Computational%20Finance/Quantitative%20Investment%20&%20Computational%20Finance.md) 💸
 		7. etc.
 7. ⭐ How to improve computer /information system? (theory perspective; system perspective; application perspective)
 	1. **Computation**: better computation paradigm?
@@ -764,8 +764,8 @@ These questions, from general to specific, track my path in learning CS. The lin
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 - ↗ [Philosophy & Its History](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 - ↗ [Arts & Humanities](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
-- ↗ [Social Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
-- ↗ [Natural Science & Engineering and Technology](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
+- ↗ [Social Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Social%20Science.md)
+- ↗ [Natural Science & Engineering and Technology](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 
 
 
