@@ -6,20 +6,20 @@
 
 ## Res
 ### Related Topics
-↗ [History of The Universe](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/History%20of%20The%20Universe.md)
-↗ [History of Life & Human Evolution](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
+↗ [History of The Universe](../Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/History%20of%20The%20Universe.md)
+↗ [History of Life & Human Evolution](../Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
 ↗ [Philosophy & Its History](../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Math History & Development](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
-↗ [U.S. History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
+↗ [中华文明历史概况](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [U.S. History Overview](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
 ↗ [History of Europe](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🏰%20History%20of%20Europe/History%20of%20Europe.md)
-↗ [Russia History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20History%20Overview.md)
-↗ [Japanese History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/📜%20Japanese%20History%20Overview/Japanese%20History%20Overview.md)
-↗ [Korean History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/📜%20Korean%20History%20Overview/Korean%20History%20Overview.md)
-↗ [Iran History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Iran%20🇮🇷/📜%20Iran%20History%20Overview/Iran%20History%20Overview.md)
+↗ [Russia History Overview](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20History%20Overview.md)
+↗ [Japanese History Overview](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/📜%20Japanese%20History%20Overview/Japanese%20History%20Overview.md)
+↗ [Korean History Overview](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/📜%20Korean%20History%20Overview/Korean%20History%20Overview.md)
+↗ [Iran History Overview](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Iran%20🇮🇷/📜%20Iran%20History%20Overview/Iran%20History%20Overview.md)
 
-↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
+↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
 ↗ [Europa Universalis](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Electronic%20Games/Games%20Library/Home%20Video%20Games%20&%20Console%20Games/Console%20&%20Computer%20Games/Europa%20Universalis.md)
 
 ↗ [Europa Universalis](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Electronic%20Games/Games%20Library/Home%20Video%20Games%20&%20Console%20Games/Console%20&%20Computer%20Games/Europa%20Universalis.md)
@@ -314,7 +314,7 @@ All of these calendars may also use [weeks](https://en.wikipedia.org/wiki/Week 
 
 
 ### The Origin of Life & The Origin of Human Beings
-↗ [History of Life & Human Evolution](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
+↗ [History of Life & Human Evolution](../Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
 - Unicellular life
 - Animalia
 - Chordata
@@ -331,7 +331,7 @@ All of these calendars may also use [weeks](https://en.wikipedia.org/wiki/Week 
 
 ### The Evolution of Human Beings / HomoSapiens
 > [!links]
-> ↗ [History of Life & Human Evolution](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
+> ↗ [History of Life & Human Evolution](../Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Timeline_of_human_evolution
 > 🔗 https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%A1%9E%E6%BC%94%E5%8C%96
@@ -391,7 +391,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 - In [Scandinavia](https://en.wikipedia.org/wiki/Scandinavia "Scandinavia") and other parts of [northern Europe](https://en.wikipedia.org/wiki/Northern_Europe "Northern Europe") that the Romans did not reach, the Iron Age continues until the start of the [Viking Age](https://en.wikipedia.org/wiki/Viking_Age "Viking Age") in about 800 AD.
 - In [China](https://en.wikipedia.org/wiki/China "China"), the "Iron Age" ends with the start of the [Qin dynasty](https://en.wikipedia.org/wiki/Qin_dynasty "Qin dynasty") and the beginning of the [Imperial Era](https://en.wikipedia.org/wiki/Imperial_China "Imperial China").
 
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [中华文明历史概况](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 ##### Copper Age*
 
 
@@ -427,7 +427,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 
 ### Military Aspect
 > [!links]
-> [Military Science & Technology](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/✡%20Military%20Science%20&%20Technology/Military%20Science%20&%20Technology.md)
+> [Military Science & Technology](../Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/✡%20Military%20Science%20&%20Technology/Military%20Science%20&%20Technology.md)
 
 
 
@@ -652,14 +652,14 @@ See also
 > By the nature of the concept, ethnic groups tend to be divided into subgroups, may themselves be or not be identified as independent ethnic groups depending on the source consulted.
 #### Han Chinese / 汉
 ↗ [Chinese Language & 中文](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [中华文明历史概况](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 #### Uyghurs /Uighurs /Uygurs /Uigurs /维吾尔
 #### Machu | 满
 ####  Zang /Tibetan | 藏
 #### Moghols | 蒙
-↗ [Mongolia 🇲🇳](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Mongolia%20🇲🇳.md)
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
-- ↗ [元](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/封建时期历史/元明清/元.md)
+↗ [Mongolia 🇲🇳](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Mongolia%20🇲🇳.md)
+↗ [中华文明历史概况](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+- ↗ [元](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/封建时期历史/元明清/元.md)
 #### Madhya Deśa「摩陀耶提舍, 中天竺」 (Hindustani)
 > 🔗 https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E6%96%AF%E5%9D%A6%E4%BA%BA
 
@@ -689,14 +689,14 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 ##### Telugus
 #### Japanese/Yamato /大和
 ↗ [Learning Japanese & 日本語](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇯🇵%20Learning%20Japanese%20&%20日本語/Learning%20Japanese%20&%20日本語.md)
-↗ [Japan 🇯🇵](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/Japan%20🇯🇵.md)
+↗ [Japan 🇯🇵](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/Japan%20🇯🇵.md)
 #### Koreans
 ↗ [Learning Korean & 한국어](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇰🇵%20🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
-↗ [Korea 🇰🇵 🇰🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korea%20🇰🇵%20🇰🇷.md)
-- ↗ [North Korea 🇰🇵](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
-- ↗ [South Korea 🇰🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/South%20Korea%20🇰🇷.md)
+↗ [Korea 🇰🇵 🇰🇷](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korea%20🇰🇵%20🇰🇷.md)
+- ↗ [North Korea 🇰🇵](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
+- ↗ [South Korea 🇰🇷](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/South%20Korea%20🇰🇷.md)
 #### Thais
-↗ [Thailand 🇹🇭](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Thailand%20🇹🇭.md)
+↗ [Thailand 🇹🇭](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Thailand%20🇹🇭.md)
 #### Greeks
 
 #### Romas
@@ -704,38 +704,38 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 #### Jews
 #### Russians
 ↗ [Learning Russian & Русский язык](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇷🇺%20Learning%20Russian%20&%20Русский%20язык/Learning%20Russian%20&%20Русский%20язык.md)
-↗ [Russia 🇷🇺](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/Russia%20🇷🇺.md) 
+↗ [Russia 🇷🇺](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/Russia%20🇷🇺.md) 
 #### Slovaks
 
 #### Irish
 ↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 #### English
 ↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
-↗ [United States 🇺🇸](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
-↗ [United Kingdoms 🇬🇧](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/United%20Kingdoms%20🇬🇧/United%20Kingdoms%20🇬🇧.md)
+↗ [United States 🇺🇸](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+↗ [United Kingdoms 🇬🇧](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/United%20Kingdoms%20🇬🇧/United%20Kingdoms%20🇬🇧.md)
 #### Germans
 ↗ [Learning Germany & Deutsch](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇩🇪%20Learning%20Germany%20&%20Deutsch/Learning%20Germany%20&%20Deutsch.md)
-↗ [Germany 🇩🇪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Germany%20🇩🇪/Germany%20🇩🇪.md)
+↗ [Germany 🇩🇪](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Germany%20🇩🇪/Germany%20🇩🇪.md)
 #### French
 ↗ [Learning French & Français](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
-↗ [France 🇫🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
+↗ [France 🇫🇷](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
 #### Flemings
 ↗ [Learning French & Français](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
-↗ [France 🇫🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
+↗ [France 🇫🇷](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
 #### Italians
-↗ [Italy 🇮🇹](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Italy%20🇮🇹/Italy%20🇮🇹.md)
+↗ [Italy 🇮🇹](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Italy%20🇮🇹/Italy%20🇮🇹.md)
 #### Dutch
-↗ [Netherland 🇳🇱](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Netherland%20🇳🇱.md)
+↗ [Netherland 🇳🇱](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Netherland%20🇳🇱.md)
 #### Danes
-↗ [Denmark 🇩🇰](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Nordic%20Five%20🇩🇰%20🇸🇪%20🇳🇴%20🇫🇮%20🇮🇸/Denmark%20🇩🇰.md)
+↗ [Denmark 🇩🇰](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Nordic%20Five%20🇩🇰%20🇸🇪%20🇳🇴%20🇫🇮%20🇮🇸/Denmark%20🇩🇰.md)
 #### Swedes
-↗ [Sweden 🇸🇪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Nordic%20Five%20🇩🇰%20🇸🇪%20🇳🇴%20🇫🇮%20🇮🇸/Sweden%20🇸🇪.md)
+↗ [Sweden 🇸🇪](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Nordic%20Five%20🇩🇰%20🇸🇪%20🇳🇴%20🇫🇮%20🇮🇸/Sweden%20🇸🇪.md)
 #### Catalans
 ↗ [Learning Spanish & Español](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
-↗ [Spain 🇪🇸 & Portugal 🇵🇹](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
+↗ [Spain 🇪🇸 & Portugal 🇵🇹](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
 #### Valencians
 ↗ [Learning Spanish & Español](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
-↗ [Spain 🇪🇸 & Portugal 🇵🇹](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
+↗ [Spain 🇪🇸 & Portugal 🇵🇹](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
 #### Arabs
 ↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
 #### Copts
@@ -746,7 +746,7 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 #### Persians
 ↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
-↗ [Iran 🇮🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Iran%20🇮🇷/Iran%20🇮🇷.md)
+↗ [Iran 🇮🇷](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Iran%20🇮🇷/Iran%20🇮🇷.md)
 #### Luso-Brazilians
 
 
@@ -776,7 +776,7 @@ Scholars generally acknowledge six cradles of civilization: Mesopotamia, Ancient
 
 ### 👉 Indus Valley and Ganges Basins & Indus Civilization
 > [!links]
-> ↗ [Indian History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/India%20🇮🇳/📜%20Indian%20History%20Overview/Indian%20History%20Overview.md)
+> ↗ [Indian History Overview](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/India%20🇮🇳/📜%20Indian%20History%20Overview/Indian%20History%20Overview.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Indus_Valley_Civilisation
 > 🔗 https://en.wikipedia.org/wiki/History_of_India
@@ -784,7 +784,7 @@ Scholars generally acknowledge six cradles of civilization: Mesopotamia, Ancient
 
 ### 👉 The Yellow River and The Changjiang (Yangtze) River & Chinese Civilization
 > [!links]
-> ↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+> ↗ [中华文明历史概况](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 
 ![](../../Assets/Pics/Pasted%20image%2020260604011546.png)
 <small><a>https://www.archaeology.wiki/blog/2022/03/31/the-terracotta-army-the-clay-army-with-the-greek-signature/</a></small>
@@ -871,44 +871,44 @@ Contemporary history is [politically](https://en.wikipedia.org/wiki/Political_h
 
 
 ### U.S.A.: Modernization & Americanization ⭐
-↗ [Politics & Human (Sustainable) Development](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
+↗ [Politics & Human (Sustainable) Development](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
 
-↗ [U.S. Economics](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
-- ↗ [U.S. Cultures & Entertainment Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)
-↗ [U.S. Economics & Finance History](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Economics%20&%20Finance%20History/U.S.%20Economics%20&%20Finance%20History.md)
+↗ [U.S. Economics](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
+- ↗ [U.S. Cultures & Entertainment Industry](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)
+↗ [U.S. Economics & Finance History](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Economics%20&%20Finance%20History/U.S.%20Economics%20&%20Finance%20History.md)
 
-↗ [U.S. Cultures](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Cultures/U.S.%20Cultures.md)
+↗ [U.S. Cultures](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Cultures/U.S.%20Cultures.md)
 
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=89227574&bvid=BV1X7411J7vN&cid=152401861&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="height:100%;width:100%; aspect-ratio: 16 / 9;"></iframe>
 <small>video source: <a>https://youtu.be/elHK6hlnuc0?si=qZUtyQKalSi4QABm</a></small>
 
 
 ### CCCP: Союз Советских Социалистических Республик
-↗ [Soviet Union (USSR, CCCP)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Soviet%20Union%20(USSR,%20CCCP).md)
-↗ [КПСС (Коммунистическая партия Советского Союза)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/КПСС%20(Коммунистическая%20партия%20Советского%20Союза).md)
+↗ [Soviet Union (USSR, CCCP)](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Soviet%20Union%20(USSR,%20CCCP).md)
+↗ [КПСС (Коммунистическая партия Советского Союза)](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/КПСС%20(Коммунистическая%20партия%20Советского%20Союза).md)
 
-↗ [Marxism–Leninism](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Marxism–Leninism.md)
+↗ [Marxism–Leninism](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Marxism–Leninism.md)
 
-↗ [中国共产党 (Communist Party of China)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党%20(Communist%20Party%20of%20China).md)
-- ↗ [中国共产党思想体系](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+↗ [中国共产党 (Communist Party of China)](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党%20(Communist%20Party%20of%20China).md)
+- ↗ [中国共产党思想体系](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
-↗ [Workers' Party of Korea (조선로동당)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Workers'%20Party%20of%20Korea%20(조선로동당).md)
-- ↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
+↗ [Workers' Party of Korea (조선로동당)](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Workers'%20Party%20of%20Korea%20(조선로동당).md)
+- ↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/rHomETco0MI?si=0zr6YMF7YmORboMp&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Emerging Powers & Global Village
-↗ [Politics & Human (Sustainable) Development](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
+↗ [Politics & Human (Sustainable) Development](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
 ↗ [World's Economics History](World's%20Economics%20History/World's%20Economics%20History.md)
 
 
 ### The Revolution of Information Technology
-↗ [Information Technology Industry](../Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/📌%20Tertiary%20Economical%20Sector/🛸%20Information%20Technology%20Industry/Information%20Technology%20Industry.md)
+↗ [Information Technology Industry](../Science%20&%20Engineering/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/📌%20Tertiary%20Economical%20Sector/🛸%20Information%20Technology%20Industry/Information%20Technology%20Industry.md)
 ↗ [Artificial Intelligence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 
-↗ [U.S. Information Technology Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Information%20Technology%20Industry/U.S.%20Information%20Technology%20Industry.md)
-↗ [中国电子信息产业 (信息传输、软件和信息技术服务业)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国电子信息产业%20(信息传输、软件和信息技术服务业)/中国电子信息产业%20(信息传输、软件和信息技术服务业).md)
+↗ [U.S. Information Technology Industry](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Information%20Technology%20Industry/U.S.%20Information%20Technology%20Industry.md)
+↗ [中国电子信息产业 (信息传输、软件和信息技术服务业)](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国电子信息产业%20(信息传输、软件和信息技术服务业)/中国电子信息产业%20(信息传输、软件和信息技术服务业).md)
 
 ↗ [Intro to Computer Science](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
@@ -939,7 +939,7 @@ https://sdgs.un.org/
 
 
 ### Global Challenges Faced by the World
-↗ [Politics & Human (Sustainable) Development](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
+↗ [Politics & Human (Sustainable) Development](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
 
 > 🔗 http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/world/2015-09/27/c_128271386.htm
 > 當今世界面臨的主要全球性問題 | 2015-09-27 07:50:06 來源：瞭望 - 新华社
@@ -963,10 +963,10 @@ https://sdgs.un.org/
 
 ### The Reviving of China: 中华复兴 ⭐
 > [!Links]
-> ↗ [新中国史（中华人民共和国时期）](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/新中国史（中华人民共和国时期）/新中国史（中华人民共和国时期）.md)
+> ↗ [新中国史（中华人民共和国时期）](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/新中国史（中华人民共和国时期）/新中国史（中华人民共和国时期）.md)
 > 
-> ↗ [中国经济发展](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
-> ↗ [新中国时期经济发展史](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/新中国时期经济发展史/新中国时期经济发展史.md)
+> ↗ [中国经济发展](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+> ↗ [新中国时期经济发展史](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/新中国时期经济发展史/新中国时期经济发展史.md)
 
 ![](../../Assets/Pics/Pasted%20image%2020260416135414.png)
 <small>The global contribution to world's GDP by major economies (1-2008) Source: MADDISON A. 2007, Contours of the World Economy I-2030AD, Oxford University Press

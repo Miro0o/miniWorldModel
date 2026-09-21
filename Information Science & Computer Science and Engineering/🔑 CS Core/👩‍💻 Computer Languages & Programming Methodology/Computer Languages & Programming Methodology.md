@@ -478,7 +478,7 @@ Examples are NESL (one of the oldest one) and C/C++ also supports because of som
 
 - Other important data types:
 	- _**Abstract data types (ADT).**_ An _abstract data type_ is a data type whose internal representation is hidden from the client.
-	- **Bags, Queue, and the Stack. (ADT, basic data structures)** Several fundamental data types involve collections of objects. Specifically, the set of values is a collection of objects, and the operations revolve around adding, removing, or examining objects in the collection. They differ in the specification of which object is to be removed or examined next. ↗ [Data Structures](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
+	- **Bags, Queue, and the Stack. (ADT, basic data structures)** Several fundamental data types involve collections of objects. Specifically, the set of values is a collection of objects, and the operations revolve around adding, removing, or examining objects in the collection. They differ in the specification of which object is to be removed or examined next. ↗ [Data Structures](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20&%20Data%20Structure%20Basics/Data%20Structures/Data%20Structures.md)
 		- Array and resizing array implementations of collections.
 		- Linked-list implementations of collections.
 - Other operators:

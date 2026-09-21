@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
+
 ↗ [Multi-Criteria Decision-Making (MCDM) & Analysis (MCDA)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Multi-Criteria%20Decision-Making%20(MCDM)%20&%20Analysis%20(MCDA)/Multi-Criteria%20Decision-Making%20(MCDM)%20&%20Analysis%20(MCDA).md)
 ↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
 - ↗ [Dynamic Programming (DP)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/📝%20Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
@@ -16,6 +18,17 @@
 ### Learning Resources
 https://oi-wiki.org/dp/
 本章将介绍介绍动态规划（Dynamic Programming, DP）及其解决的问题、根据其设计的算法及优化。
+
+https://www.hello-algo.com/chapter_dynamic_programming/
+本章内容[¶](https://www.hello-algo.com/chapter_dynamic_programming/#_1 "Permanent link")
+- [14.1   初探动态规划](https://www.hello-algo.com/chapter_dynamic_programming/intro_to_dynamic_programming/)
+- [14.2   DP 问题特性](https://www.hello-algo.com/chapter_dynamic_programming/dp_problem_features/)
+- [14.3   DP 解题思路](https://www.hello-algo.com/chapter_dynamic_programming/dp_solution_pipeline/)
+- [14.4   0-1 背包问题](https://www.hello-algo.com/chapter_dynamic_programming/knapsack_problem/)
+- [14.5   完全背包问题](https://www.hello-algo.com/chapter_dynamic_programming/unbounded_knapsack_problem/)
+- [14.6   编辑距离问题](https://www.hello-algo.com/chapter_dynamic_programming/edit_distance_problem/)
+- [14.7   小结](https://www.hello-algo.com/chapter_dynamic_programming/summary/)
+- [14.8   练习](https://www.hello-algo.com/chapter_dynamic_programming/exercises/)
 
 
 ### Other Resources

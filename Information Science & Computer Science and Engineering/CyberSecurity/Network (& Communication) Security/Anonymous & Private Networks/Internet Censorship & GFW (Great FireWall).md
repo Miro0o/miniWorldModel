@@ -164,7 +164,7 @@ Further info:
 
 ## Internet Content Censorship (in China)
 > [!links]
-> ↗ [中国社会监控监管与思想内容审查](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/中国社会建设与人口治理/中国社会监控监管与思想内容审查.md)
+> ↗ [中国社会监控监管与思想内容审查](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/中国社会建设与人口治理/中国社会监控监管与思想内容审查.md)
 > 
 > ↗ [🤔 Content Security & Public Opinion Control 🤔](../../Data%20Security/🤔%20Content%20Security%20&%20Public%20Opinion%20Control%20🤔/🤔%20Content%20Security%20&%20Public%20Opinion%20Control%20🤔.md)
 > ↗ [Anonymous Network & Host](👺%20Anonymous%20Network%20&%20Host/Anonymous%20Network%20&%20Host.md)
