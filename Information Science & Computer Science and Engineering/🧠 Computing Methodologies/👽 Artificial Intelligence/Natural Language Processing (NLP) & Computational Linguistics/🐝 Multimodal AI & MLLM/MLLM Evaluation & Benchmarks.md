@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
+↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
 
 
 ### Papers
@@ -36,7 +36,7 @@ Part II: Benchmarks
  [MMMU](https://mmmu-benchmark.github.io/), [Video-MME](https://video-mme.github.io/home_page.html), [MathVista](https://mathvista.github.io/), [ChartQA](https://github.com/vis-nlp/ChartQA) , and [DocVQA](https://www.docvqa.org/),
  
 
-### Others
+### Other Resources
 https://huggingface.co/collections/btjhjeon/multimodal-benchmarks
 
 https://agi.safe.ai/

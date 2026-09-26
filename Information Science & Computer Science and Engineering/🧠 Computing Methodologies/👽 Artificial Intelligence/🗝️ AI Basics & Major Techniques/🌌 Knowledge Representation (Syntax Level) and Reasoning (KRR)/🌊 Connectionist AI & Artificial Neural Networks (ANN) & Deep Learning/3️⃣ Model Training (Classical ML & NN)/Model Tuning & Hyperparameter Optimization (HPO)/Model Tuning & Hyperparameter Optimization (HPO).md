@@ -9,6 +9,9 @@
 ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../../../Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
 ↗ [LLM Training, Utilization, and Evaluation](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
 
+↗ [Mathematical Optimization (Programming)](../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
+↗ [Numerical Optimization](../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/Numerical%20Optimization.md)
+
 
 ### Other Resources
 【9.1 模型调参【斯坦福21秋季：实用机器学习中文版】】 https://www.bilibili.com/video/BV1vQ4y1e7LF/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d

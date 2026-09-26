@@ -12,6 +12,7 @@
 - ↗ [Graphics Rendering Frameworks (2D & 3D)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/🖼️%20Graphics%20Rendering%20Frameworks%20%282D%20&%203D%29/Graphics%20Rendering%20Frameworks%20%282D%20&%203D%29.md)
 
 ↗ [Media Formats & Standards & Codec (Coder-Decoder)](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20%28Coder-Decoder%29/Media%20Formats%20&%20Standards%20&%20Codec%20%28Coder-Decoder%29.md)
+↗ [Graphics Formats & Standards](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20%28Coder-Decoder%29/Graphics%20Formats%20&%20Standards/Graphics%20Formats%20&%20Standards.md)
 
 ↗ [Digital & Video Games Development](Digital%20&%20Video%20Games%20Development/Digital%20&%20Video%20Games%20Development.md)
 ↗ [GUI Desktop Environments & Windowing Systems](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/Linux%20Free%20Software%20&%20OSS%20%28Open%20Source%20Software%29/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)

@@ -7,18 +7,21 @@
 ## Res
 ### Related Topics
 ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
+↗ [Models of Computation & Abstract Machines](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+↗ [Modeling and Simulation](../../🧠%20Computing%20Methodologies/🧬%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
 
-↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-	- ↗ [Church–Turing Thesis (Computability Thesis)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
-- ↗ [Complexity Theory & Computational Complexity](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+	- ↗ [Church–Turing Thesis (Computability Thesis)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20%28Computability%20Thesis%29.md)
+- ↗ [Complexity Theory & Computational Complexity](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 
 ↗ [Information, Data, Number and Math in Digital Systems](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
-- ↗ [(Text) Data Representations & Storage in Computer](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
+- ↗ [(Text) Data Representations & Storage in Computer](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/%28Text%29%20Data%20Representations%20&%20Storage%20in%20Computer.md)
 - ↗ [Encodings](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
-↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
-- ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20%28Theoretical%20Computer%20Science%29.md)
+- ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+- ↗ [Mathematical Optimization (Programming)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
 ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 
 ↗ [Modeling and Simulation](../../🧠%20Computing%20Methodologies/🧬%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
@@ -32,6 +35,7 @@
 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
 https://github.com/yuelinxin/hello-algo-en
 https://github.com/krahets/hello-algo
+![](../../../Assets/Pics/Pasted%20image%2020260921101712.png)
 
 📖《图解算法数据结构》
 https://leetcode.cn/leetbook/detail/illustration-of-algorithm/
@@ -39,8 +43,8 @@ https://leetcode.cn/leetbook/detail/illustration-of-algorithm/
 🤔 https://github.com/chefyuan/algorithm-base
 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 http://www.chengxuchu.com/
 
-🎬 小林coding
-🎬 码农翻身
+📖 小林coding
+📖 码农翻身
 
 🎬【【算法】算法导论-麻省理工】 https://www.bilibili.com/video/BV1Tb411M7FA/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -124,6 +128,9 @@ Volume 5
 Introduction to Algorithms, fourth edition 4th Edition
 by [Thomas H. Cormen](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Thomas+H.+Cormen&text=Thomas+H.+Cormen&sort=relevancerank&search-alias=books) (Author), [Charles E. Leiserson](https://www.amazon.com/Charles-E-Leiserson/e/B000AQ6W9W/ref=dp_byline_cont_book_2) (Author), [Ronald L. Rivest](https://www.amazon.com/s/ref=dp_byline_sr_book_3?ie=UTF8&field-author=Ronald+L.+Rivest&text=Ronald+L.+Rivest&sort=relevancerank&search-alias=books) (Author), [Clifford Stein](https://www.amazon.com/s/ref=dp_byline_sr_book_4?ie=UTF8&field-author=Clifford+Stein&text=Clifford+Stein&sort=relevancerank&search-alias=books) (Author)
 
+https://www.pearson.de/media/muster/toc/toc_9780133491760.pdf
+From Mathematics to Generic Programming
+
 
 ### Online Judge (OJ)
 http://openjudge.cn
@@ -159,6 +166,12 @@ https://web.ntnu.edu.tw/~algo/
 多媒體：自然語言處理、聲音處理、影像處理、計算機圖學、 …… 。
 這些主題並非主要關注方向：作業系統、編譯器、網路、資料庫、軟體工程、資訊安全、 app 與網頁開發、資訊系統管理、 …… 。
 
+https://oier.baoshuo.dev/
+本网站名为「OIerDb」，是一个展示信息学竞赛选手获奖记录的数据库网站，还会对选手、学校等进行排名以供参考。数据库诞生在 2018 年 2 月，有时也会咕咕咕的更新。
+你能够在这个网站上查询选手的获奖记录，目前可以通过姓名、姓名首字母缩写、省份、年级和学校来进行查询。
+
+https://pythontutor.com/
+
 
 
 ## Intro
@@ -191,7 +204,8 @@ The word _[algorism](https://en.wikipedia.org/wiki/Algorism "Algorism")_ in En
 
 
 ## Programming Languages & Basic Programming Model
-> ↗ [Programming Language & Formal Semantics](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+> [!links]
+> ↗ [Programming Language & Formal Semantics](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 > ↗ [Computation as Programs - Computer Program Semantics & Models](../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 > 
 > ↗ [Computer Languages & Programming Methodology /Programming Language Basics](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md#Programming%20Language%20Basics)
@@ -202,7 +216,8 @@ The word _[algorism](https://en.wikipedia.org/wiki/Algorism "Algorism")_ in En
 
 
 ## Data Abstraction
-> ↗ [Data Structures](📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
+> [!links]
+> ↗ [Data Structures](📌%20Algorithms%20&%20Data%20Structure%20Basics/Data%20Structures/Data%20Structures.md)
 
 > https://algs4.cs.princeton.edu/11model/
 > Algorithms, 4th edition, 1.2 section, Data Abstraction
@@ -210,10 +225,11 @@ The word _[algorism](https://en.wikipedia.org/wiki/Algorism "Algorism")_ in En
 
 
 ## Analysis of Algorithms & Computational Complexity
-> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-> - ↗ [Church–Turing Thesis (Computability Thesis)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
-> ↗ [Complexity Theory & Computational Complexity](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
-> ↗ [Computationally Hard Problems](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
+> [!links]
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> - ↗ [Church–Turing Thesis (Computability Thesis)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20%28Computability%20Thesis%29.md)
+> ↗ [Complexity Theory & Computational Complexity](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+> ↗ [Computationally Hard Problems](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
 
 > https://algs4.cs.princeton.edu/11model/
 > Algorithms, 4th edition, 1.3 section, Analysis of Algorithms
@@ -222,17 +238,17 @@ The word _[algorism](https://en.wikipedia.org/wiki/Algorism "Algorism")_ in En
 
 ## Algorithms for Different Problems ⭐
 Algorithm Basics
-- ↗ [0x00 基本算法](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x00%20基本算法.md)
-- ↗ [0x10 基本数据结构](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x10%20基本数据结构.md)
-- ↗ [0x20 搜索](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x20%20搜索.md)
-- ↗ [0x30 数学](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x30%20数学.md)
-- ↗ [0x40 数据结构进阶](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x40%20数据结构进阶.md)
-- ↗ [0x50 动态规划](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x50%20动态规划.md)
-- ↗ [0x60 图论](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x60%20图论.md)
-- ↗ [0x70 综合技巧与实践](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x70%20综合技巧与实践.md)
-- ↗ [misc](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/misc.md)
+- ↗ [0x00 基本算法](📌%20Algorithms%20&%20Data%20Structure%20Basics/Algo%20Basics/0x00%20基本算法.md)
+- ↗ [0x10 基本数据结构](📌%20Algorithms%20&%20Data%20Structure%20Basics/Algo%20Basics/0x10%20基本数据结构.md)
+- ↗ [0x20 搜索](📌%20Algorithms%20&%20Data%20Structure%20Basics/Algo%20Basics/0x20%20搜索.md)
+- ↗ [0x30 数学](📌%20Algorithms%20&%20Data%20Structure%20Basics/Algo%20Basics/0x30%20数学.md)
+- ↗ [0x40 数据结构进阶](📌%20Algorithms%20&%20Data%20Structure%20Basics/Algo%20Basics/0x40%20数据结构进阶.md)
+- ↗ [0x50 动态规划](📌%20Algorithms%20&%20Data%20Structure%20Basics/Algo%20Basics/0x50%20动态规划.md)
+- ↗ [0x60 图论](📌%20Algorithms%20&%20Data%20Structure%20Basics/Algo%20Basics/0x60%20图论.md)
+- ↗ [0x70 综合技巧与实践](📌%20Algorithms%20&%20Data%20Structure%20Basics/Algo%20Basics/0x70%20综合技巧与实践.md)
+- ↗ [misc](📌%20Algorithms%20&%20Data%20Structure%20Basics/Algo%20Basics/misc.md)
 
-↗ [Data Structures](📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
+↗ [Data Structures](📌%20Algorithms%20&%20Data%20Structure%20Basics/Data%20Structures/Data%20Structures.md)
 
 ↗ [Algorithms Implementation For Classical Problems](Algorithms%20Implementation%20For%20Classical%20Problems/Algorithms%20Implementation%20For%20Classical%20Problems.md)
 - etc.

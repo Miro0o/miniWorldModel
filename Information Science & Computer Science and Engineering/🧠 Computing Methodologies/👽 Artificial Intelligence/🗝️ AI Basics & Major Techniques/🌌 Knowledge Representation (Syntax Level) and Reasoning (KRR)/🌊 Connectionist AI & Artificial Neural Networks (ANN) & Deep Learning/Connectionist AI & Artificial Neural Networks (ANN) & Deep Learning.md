@@ -11,7 +11,7 @@
 ↗ [Probability Theory & Statistics](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
 
-↗ [Neuroscience](../../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Neuroscience/Neuroscience.md)
+↗ [Neuroscience](../../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Neuroscience/Neuroscience.md)
 
 ↗ [(Deep) Generative Models](../../Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Probabilistic%20Modeling%20Distinction/🪽%20%28Deep%29%20Generative%20Models/%28Deep%29%20Generative%20Models.md)
 ↗ [LLM (Large Language Model)](../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20%28Large%20Language%20Model%29.md)
@@ -25,6 +25,32 @@
 #### Courses
 🏫 [CS 231n Deep Learning for Computer Vision](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20231n%20Deep%20Learning%20for%20Computer%20Vision/CS%20231n%20Deep%20Learning%20for%20Computer%20Vision.md)
 🏫 https://cs230.stanford.edu
+- Module 0: Preparation
+	- [Software Setup](https://cs231n.github.io/setup-instructions/)
+	- [Python / Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
+- Module 1: Neural Networks
+	- [Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits](https://cs231n.github.io/classification/)
+		- L1/L2 distances, hyperparameter search, cross-validation
+	- [Linear classification: Support Vector Machine, Softmax](https://cs231n.github.io/linear-classify/)
+		- parameteric approach, bias trick, hinge loss, cross-entropy loss, L2 regularization, web demo
+	- [Optimization: Stochastic Gradient Descent](https://cs231n.github.io/optimization-1/)
+		- optimization landscapes, local search, learning rate, analytic/numerical gradient
+	- [Backpropagation, Intuitions](https://cs231n.github.io/optimization-2/)
+		- chain rule interpretation, real-valued circuits, patterns in gradient flow
+	- [Neural Networks Part 1: Setting up the Architecture](https://cs231n.github.io/neural-networks-1/)
+		- model of a biological neuron, activation functions, neural net architecture, representational power
+	- [Neural Networks Part 2: Setting up the Data and the Loss](https://cs231n.github.io/neural-networks-2/)
+		- preprocessing, weight initialization, batch normalization, regularization (L2/dropout), loss functions
+	- [Neural Networks Part 3: Learning and Evaluation](https://cs231n.github.io/neural-networks-3/)
+		- gradient checks, sanity checks, babysitting the learning process, momentum (+nesterov), second-order methods, Adagrad/RMSprop, hyperparameter optimization, model ensembles
+	- [Putting it together: Minimal Neural Network Case Study](https://cs231n.github.io/neural-networks-case-study/)
+		- minimal 2D toy data example
+- Module 2: Convolutional Neural Networks
+	- [Convolutional Neural Networks: Architectures, Convolution / Pooling Layers](https://cs231n.github.io/convolutional-networks/)
+		- layers, spatial arrangement, layer patterns, layer sizing patterns, AlexNet/ZFNet/VGGNet case studies, computational considerations
+	- [Understanding and Visualizing Convolutional Neural Networks](https://cs231n.github.io/understanding-cnn/)
+		- tSNE embeddings, deconvnets, data gradients, fooling ConvNets, human comparisons
+	- [Transfer Learning and Fine-tuning Convolutional Neural Networks](https://cs231n.github.io/transfer-learning/)
 
 [CMU 11-785: Introduction to Deep Learning](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CMU11-785/)
 - CMU 11-785 是一门非常“硬核”的深度学习核心课，整体风格扎实、节奏快、几乎没有“水内容”。课程从神经网络基础出发，逐步覆盖 CNN、RNN、Attention/Transformer、优化与泛化等核心主题，适合想把理论与实践一起打牢的同学。
@@ -311,7 +337,7 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > ![](../../../../../../Assets/Pics/Pasted%20image%2020260809132349.png)
 > <small>Example training process for neural networks supervised learning. <br> <a>https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa</a></small>
 > 
-> ↗ [Model Validation](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Validation/Model%20Validation.md)
+> ↗ [Model Validation & Metrics](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Validation%20&%20Metrics/Model%20Validation%20&%20Metrics.md)
 
 > [!TIP]
 > https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
@@ -329,7 +355,7 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
 #### Loss Function
 > [!links]
-> ↗ [Objective & Cost & Loss Functions](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Optimizers/Objective%20&%20Cost%20&%20Loss%20Functions.md)
+> ↗ [Objective & Cost & Loss Functions](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Optimizers%20&%20Model%20Optimization/Objective%20&%20Cost%20&%20Loss%20Functions.md)
 
 A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
 #### Gradient Descent & Optimization
@@ -337,7 +363,7 @@ A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $
 > ↗ [Differential Calculus & Derivative of Function](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 > 
 > ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29.md)
-> ↗ [Optimizers](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Optimizers/Optimizers.md)
+> ↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Gradient_descent
 
@@ -478,7 +504,7 @@ Regularization tries to stop a model from fitting the training data **too closel
 ↗ [Model Training (Classical ML & NN)](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Training%20%28Classical%20ML%20&%20NN%29.md)
 - ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29.md) 🤔
 - ↗ [ML Training Management & Visualization](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/ML%20Training%20Management%20&%20Visualization/ML%20Training%20Management%20&%20Visualization.md)
-- ↗ [Model Validation](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Validation/Model%20Validation.md)
+- ↗ [Model Validation & Metrics](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Validation%20&%20Metrics/Model%20Validation%20&%20Metrics.md)
 - ↗ [Models Combination](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Models%20Combination/Models%20Combination.md)
 ↗ [LLM Training, Utilization, and Evaluation](../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
 - ↗ [Post-Training & Fine Tuning](../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)

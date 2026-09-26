@@ -6,16 +6,16 @@
 
 ## Res
 ### Related Topics
-↗ [(Text) Data Representations & Storage in Computer](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
-↗ [Bag, Queue, Stack](../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Bag,%20Queue,%20Stack.md)
+↗ [(Text) Data Representations & Storage in Computer](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/%28Text%29%20Data%20Representations%20&%20Storage%20in%20Computer.md)
+↗ [Bag, Queue, Stack](../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20&%20Data%20Structure%20Basics/Data%20Structures/Bag,%20Queue,%20Stack.md)
 
-↗ [Procedure (Function) Call & Runtime Memory Layout](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
-↗ [Memory Access & Addressing](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [Procedure (Function) Call & Runtime Memory Layout](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Procedure%20%28Function%29%20Call%20&%20Runtime%20Memory%20Layout.md)
+↗ [Memory Access & Addressing](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 ↗ [Memory Threats & Attacks](../../../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Memory%20Threats%20&%20Attacks.md)
 - ↗ [Stack Attack](../../../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Stack%20Attack/Stack%20Attack.md)
 	- ↗ [Stack Buffer Overflow](../../../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Stack%20Attack/Stack%20Buffer%20Overflow/Stack%20Buffer%20Overflow.md)
-- ↗ [Binary Tree & Heap](../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Tree%20&%20Graph/Binary%20Tree%20&%20Heap/Binary%20Tree%20&%20Heap.md)
+- ↗ [Binary Tree & Heap](../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20&%20Data%20Structure%20Basics/Data%20Structures/Tree%20&%20Graph/Binary%20Tree%20&%20Heap/Binary%20Tree%20&%20Heap.md)
 	- ↗ [Heap Attack](../../../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Heap%20Attack/Heap%20Attack.md)
 ↗ [Memory Protections & Mitigations](../../../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Protections%20&%20Mitigations/Memory%20Protections%20&%20Mitigations.md)
 
@@ -55,8 +55,8 @@ The address space term is an overload term that can have different meanings in d
 	2. The **process space** is (part of) the virtual address space associated with a process. It is the "memory view" of processes. It is a continuous area that starts at zero. Where the process's address space ends depends on the implementation and architecture.
 	3. The **kernel space** is the "memory view" of the code that runs in kernel mode.
 
-↗ [Virtual Memory (OS Software Level)](Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
-↗ [Virtual Memory (Hardware and Control Structure)](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
+↗ [Virtual Memory (OS Software Level)](Virtual%20Memory%20%28OS%20Software%20Level%29/Virtual%20Memory%20%28OS%20Software%20Level%29.md)
+↗ [Virtual Memory (Hardware and Control Structure)](../../Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20%28Main%20Memory%29%20Technologies%20&%20RAM/Virtual%20Memory%20%28Hardware%20and%20Control%20Structure%29/Virtual%20Memory%20%28Hardware%20and%20Control%20Structure%29.md)
 
 
 ### (Virtual) Address Space: (Application) Memory Layout & Notation
@@ -125,8 +125,8 @@ In this case kernel space is located at the top of the address space, while user
 
 
 ## 🎯 Physical Address Space <-> Virtual Address Space Mapping (Virtual Memory Management)
-↗ [Virtual Memory (OS Software Level)](Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
-↗ [Virtual Memory (Hardware and Control Structure)](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
+↗ [Virtual Memory (OS Software Level)](Virtual%20Memory%20%28OS%20Software%20Level%29/Virtual%20Memory%20%28OS%20Software%20Level%29.md)
+↗ [Virtual Memory (Hardware and Control Structure)](../../Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20%28Main%20Memory%29%20Technologies%20&%20RAM/Virtual%20Memory%20%28Hardware%20and%20Control%20Structure%29/Virtual%20Memory%20%28Hardware%20and%20Control%20Structure%29.md)
 
 
 

@@ -7,18 +7,24 @@
 ## Res
 ### Related Topics
 ↗ [Mathematical Modeling & Abstraction](../Mathematical%20Modeling%20&%20Abstraction.md)
-↗ [Models of Computation & Abstract Machines](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+↗ [Models of Computation & Abstract Machines](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 ↗ [Cybernetics & Control Theory](../Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
 
 ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 ↗ [AI Basics & Major Techniques](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
-↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
+↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20%28Decision%20Making%29.md)
 
-↗ [Complex System Science & Systems Theory](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science%20&%20Systems%20Theory.md)
+↗ [Complex System Science & Systems Theory](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science%20&%20Systems%20Theory.md)
 
-↗ [Decision Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Decision%20Science/Decision%20Science.md)
-↗ [Management Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Management%20Science/Management%20Science.md)
+↗ [Decision Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Decision%20Science/Decision%20Science.md)
+↗ [Management Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Management%20Science/Management%20Science.md)
+
+↗ [Constraint Solving & Theorem Proving](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+↗ [SAT Solving & Algorithms](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md)
+
+
+### Learning Resources
 
 
 ### Other Resources
@@ -37,19 +43,19 @@ Operations research (OR) encompasses the development and the use of a wide range
 
 
 ### Mathematical Foundations For OR
-↗ [Probability Theory & Statistics](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
-- ↗ [Probabilistic Models (Distributions) & Stochastic Process](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+↗ [Probability Theory & Statistics](../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+- ↗ [Probabilistic Models (Distributions) & Stochastic Process](../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process.md)
 
-↗ [Mathematical Analysis (& Analytical Mathematics)](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+↗ [Mathematical Analysis (& Analytical Mathematics)](../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
 
-↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
+↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29.md)
 
-↗ [Combinatorics (Combinatorial Mathematics)](../Combinatorics%20(Combinatorial%20Mathematics)/Combinatorics%20(Combinatorial%20Mathematics).md)
-- ↗ [Graph Theory](../Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
+↗ [Combinatorics (Combinatorial Mathematics)](../Combinatorics%20%28Combinatorial%20Mathematics%29/Combinatorics%20%28Combinatorial%20Mathematics%29.md)
+- ↗ [Graph Theory](../Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/Graph%20Theory.md)
 
 
 ### OR /Optimization Foundations & Theory
-↗ [Mathematical Optimization (Programming)](Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+↗ [Mathematical Optimization (Programming)](Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
 
 
 ### Scope of Topics in OR
@@ -119,7 +125,7 @@ Some of the fields that have considerable overlap with Operations Research and M
 
 
 ## Optimization Algorithms & Computational OR
-↗ [Mathematical Optimization (Programming)](Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+↗ [Mathematical Optimization (Programming)](Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
 
 - Simplex methods
 - Interior-point methods

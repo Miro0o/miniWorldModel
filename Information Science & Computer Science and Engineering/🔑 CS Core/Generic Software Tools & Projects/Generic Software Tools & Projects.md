@@ -45,7 +45,7 @@
 ↗ [(CS) Academics Roadmap & Tool Chain](../../Academics%20🎓%20%28In%20CS%29/🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain.md)
  - ↗ [Bib-Management](../../Academics%20🎓%20%28In%20CS%29/🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
 
-↗ [My Investment & Tool-lists](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/📋%20My%20Investment%20&%20Tool-lists/My%20Investment%20&%20Tool-lists.md)
+↗ [My Investment & Tool-lists](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/📋%20My%20Investment%20&%20Tool-lists/My%20Investment%20&%20Tool-lists.md)
 
 
 ### Other Resources

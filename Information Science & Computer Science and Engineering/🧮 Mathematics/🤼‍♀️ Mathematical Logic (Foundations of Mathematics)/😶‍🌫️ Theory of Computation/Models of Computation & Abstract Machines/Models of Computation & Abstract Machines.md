@@ -489,6 +489,14 @@ The subset of all _total_ recursive functions with values in {0,1} is known 
 
 
 ### Rewriting Systems
+> [!links]
+> ↗ [Program Equivalence and Metatheory](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Program%20Equivalence%20and%20Metatheory/Program%20Equivalence%20and%20Metatheory.md)
+> ↗ [Equational Reasoning & Term Rewriting](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Program%20Equivalence%20and%20Metatheory/Equational%20Reasoning%20&%20Term%20Rewriting/Equational%20Reasoning%20&%20Term%20Rewriting.md)
+> 
+> ↗ [Programming Language Processing & Program Execution](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+> ↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
+> ↗ [Program Optimization](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Program%20Optimization/Program%20Optimization.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Rewriting
 
 In [mathematics](https://en.wikipedia.org/wiki/Mathematics), [linguistics](https://en.wikipedia.org/wiki/Linguistics "Linguistics"), [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), and [logic](https://en.wikipedia.org/wiki/Logic "Logic"), **rewriting** covers a wide range of methods of replacing subterms of a [formula](https://en.wikipedia.org/wiki/Well-formed_formula "Well-formed formula") with other terms. Such methods may be achieved by **rewriting systems** (also known as **rewrite systems**, **rewrite engines**, or **reduction systems**). In their most basic form, they consist of a set of objects, plus [relations](https://en.wikipedia.org/wiki/Relation_\(mathematics\) "Relation (mathematics)") on how to transform those objects.

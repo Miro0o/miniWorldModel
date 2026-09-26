@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Mathematical Modeling & Abstraction](../Mathematical%20Modeling%20&%20Abstraction.md)
 
-↗ [Complex System Science & Systems Theory](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science%20&%20Systems%20Theory.md)
+↗ [Complex System Science & Systems Theory](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science%20&%20Systems%20Theory.md)
 
 ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making.md)
 - ↗ [Mathematical Optimization (Programming)](../🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)

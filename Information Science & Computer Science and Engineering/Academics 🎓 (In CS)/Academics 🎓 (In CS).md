@@ -14,7 +14,7 @@
 
 ↗ [FAQ - Academia and Research /📌 PhD Candidate /Academic Researcher ?](FAQ%20-%20Academia%20and%20Research.md#📌%20PhD%20Candidate%20/Academic%20Researcher%20?)
 
-↗ [Education](../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
+↗ [Education](../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Education/Education.md)
 
 
 ### Publications

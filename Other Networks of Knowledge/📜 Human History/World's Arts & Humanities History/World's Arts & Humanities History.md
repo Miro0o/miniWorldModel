@@ -11,10 +11,10 @@
 
 ↗ [Arts & Humanities](../../Arts%20&%20Humanities/Arts%20&%20Humanities.md)
 
-↗ [中国人文艺术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国人文艺术史/中国人文艺术史.md)
-↗ [European (Western) Arts & Humanity History](European%20(Western)%20Arts%20&%20Humanity%20History/European%20(Western)%20Arts%20&%20Humanity%20History.md)
-↗ [U.S. Arts & Humanity History](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Arts%20&%20Humanity%20History/U.S.%20Arts%20&%20Humanity%20History.md)
-↗ [Russia Arts & Humanity History](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20Arts%20&%20Humanity%20History/Russia%20Arts%20&%20Humanity%20History.md)
+↗ [中国人文艺术史](../../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中华文明历史概况/中国人文艺术史/中国人文艺术史.md)
+↗ [European (Western) Arts & Humanity History](European%20%28Western%29%20Arts%20&%20Humanity%20History/European%20%28Western%29%20Arts%20&%20Humanity%20History.md)
+↗ [U.S. Arts & Humanity History](../../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Arts%20&%20Humanity%20History/U.S.%20Arts%20&%20Humanity%20History.md)
+↗ [Russia Arts & Humanity History](../../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20Arts%20&%20Humanity%20History/Russia%20Arts%20&%20Humanity%20History.md)
 
 
 ### Other Resources
@@ -49,13 +49,13 @@
 这些国家之外的非欧洲文化的艺术研究，则是[汉学](https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%A6 "汉学")、[阿拉伯学](https://zh.wikipedia.org/w/index.php?title=%E9%98%BF%E6%8B%89%E4%BC%AF%E5%AD%A6&action=edit&redlink=1 "阿拉伯学（页面不存在）")、[非洲学](https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%B4%B2%E5%AD%A6 "非洲学")以及[民族学](https://zh.wikipedia.org/wiki/%E6%B0%91%E6%97%8F%E5%AD%A6 "民族学")的研究对象之一。20世纪前半叶中美术史的研究范围也扩展到了其它文化圈（比如非洲美术史或亚洲美术史）的美术作品。新的表现形式如[摄影](https://zh.wikipedia.org/wiki/%E6%91%84%E5%BD%B1 "摄影")、[新媒体](https://zh.wikipedia.org/wiki/%E6%96%B0%E5%AA%92%E9%AB%94 "新媒體")以及新的艺术种类如[工艺美术](https://zh.wikipedia.org/wiki/%E5%B7%A5%E8%89%BA%E7%BE%8E%E6%9C%AF "工艺美术")和[设计](https://zh.wikipedia.org/wiki/%E8%AE%BE%E8%AE%A1 "设计")的作品也被纳入美术史的研究范围。美术史的最新发展是忽视一部作品的图像，而仅对其作用和发展分析的图像科学（比如[游戏学](https://zh.wikipedia.org/wiki/%E6%B8%B8%E6%88%8F%E5%AD%A6 "游戏学")）。
 
 
-↗ [Western Art History](European%20(Western)%20Arts%20&%20Humanity%20History/Western%20Art%20History.md)
+↗ [Western Art History](European%20%28Western%29%20Arts%20&%20Humanity%20History/Western%20Art%20History.md)
 ↗ [Asian Art History](Asian%20Arts%20&%20Humanity%20History/Asian%20Art%20History.md)
 
 
 
 ## Music History
-↗ [History of (Art) Music](../../Arts%20&%20Humanities/🎶%20Music/History%20of%20Music/History%20of%20(Art)%20Music.md)
+↗ [History of (Art) Music](../../Arts%20&%20Humanities/🎶%20Music/History%20of%20Music/History%20of%20%28Art%29%20Music.md)
 ↗ [History of Popular Music](../../Arts%20&%20Humanities/🎶%20Music/History%20of%20Music/History%20of%20Popular%20Music.md)
 
 

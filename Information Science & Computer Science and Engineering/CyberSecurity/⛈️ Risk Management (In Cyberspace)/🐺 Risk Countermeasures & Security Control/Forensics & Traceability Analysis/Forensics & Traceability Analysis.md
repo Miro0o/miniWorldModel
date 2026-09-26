@@ -6,15 +6,15 @@
 
 ## Res
 ### Related Topics
-↗ [Digital Forensics and Incident Response (DFIR)](../Disaster%20&%20Incidence%20Response%20(IR)/Digital%20Forensics%20and%20Incident%20Response%20(DFIR).md)
-↗ [Exfiltration](../../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Achieve%20Phase/Exfiltration/Exfiltration.md)
+↗ [Digital Forensics and Incident Response (DFIR)](../Disaster%20&%20Incidence%20Response%20%28IR%29/Digital%20Forensics%20and%20Incident%20Response%20%28DFIR%29.md)
+↗ [Exfiltration](../../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20%28Pen-testing%29/Achieve%20Phase/Exfiltration/Exfiltration.md)
 ↗ [Data Security](../../../Data%20Security/Data%20Security.md)
-- ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../../Data%20Security/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies)/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies).md)
+- ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../../Data%20Security/📌%20Data%20Privacy%20&%20PET%20%28Privacy%20Enhancement%20Technologies%29/Data%20Privacy%20&%20PET%20%28Privacy%20Enhancement%20Technologies%29.md)
 
-↗ [Forensics](../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/Forensics/Forensics.md)
+↗ [Forensics](../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/CTF%20&%20AWD/Forensics/Forensics.md)
 ↗ [Forensics & Counter Forensics Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Forensics%20&%20Counter%20Forensics%20Tools/Forensics%20&%20Counter%20Forensics%20Tools.md)
 
-↗ [EXIF (Exchangeable Image File Format)](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Graphics%20Formats%20&%20Standards/EXIF%20(Exchangeable%20Image%20File%20Format).md)
+↗ [EXIF (Exchangeable Image File Format)](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20%28Coder-Decoder%29/Graphics%20Formats%20&%20Standards/EXIF%20%28Exchangeable%20Image%20File%20Format%29.md)
 
 
 ### Learning Resources

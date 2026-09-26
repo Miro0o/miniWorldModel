@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Social Science](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
-- ↗ [Politics & Human (Sustainable) Development](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Politics%20&%20Human%20%28Sustainable%29%20Development.md)
-- ↗ [Politic Science](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Politic%20Science/Politic%20Science.md)
+↗ [Social Science](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Social%20Science.md)
+- ↗ [Politics & Human (Sustainable) Development](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Politics%20&%20Human%20%28Sustainable%29%20Development.md)
+- ↗ [Politic Science](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Politic%20Science/Politic%20Science.md)
 
 ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making.md)
 - ↗ [Decision Theory](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/📌%20Decision%20Theory/Decision%20Theory.md)

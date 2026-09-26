@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Quantum Mechanics](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Quantum%20Mechanics/Quantum%20Mechanics.md)
-↗ [Quantum Computing (and Communication)](../../../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
+↗ [Quantum Mechanics](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Quantum%20Mechanics/Quantum%20Mechanics.md)
+↗ [Quantum Computing (and Communication)](../../../../🧠%20Computing%20Methodologies/Quantum%20Computing%20%28and%20Communication%29/Quantum%20Computing%20%28and%20Communication%29.md)
 
 
 ### Other Resources

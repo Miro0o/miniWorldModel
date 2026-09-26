@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Education](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
-↗ [Liberal Education (博雅教育)](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Education/Education.md)
+↗ [Liberal Education (博雅教育)](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Education/Liberal%20Education%20%28博雅教育%29.md)
 
 
 
@@ -165,8 +165,8 @@ There are multiple aspects & paths to learn or to get to know the enormous conte
 ### Academia (研)
 > [!links]
 > ↗ [Intro to Computer Science /The Domain Knowledge of CS](Intro%20to%20Computer%20Science.md#The%20Domain%20Knowledge%20of%20CS)
-> ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-> ↗ [Research Frontiers, Venues, and Humans by CS Areas](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
+> ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20%28In%20CS%29/Academics%20🎓%20%28In%20CS%29.md)
+> ↗ [Research Frontiers, Venues, and Humans by CS Areas](../../Academics%20🎓%20%28In%20CS%29/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
 
 https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
 https://www.acm.org/publications/class-2012
@@ -624,8 +624,8 @@ ACM CCS 2012
 ↗ [杨振宁谈我国新时期的人才培养 - 1986](../Appendix/杨振宁谈我国新时期的人才培养%20-%201986.pdf)
 ↗ [科技创新人才培养 -- 钱学森](../Appendix/科技创新人才培养.md)
 ↗ [我们需要怎样的数学教育？](../Appendix/我们需要怎样的数学教育？.md)
-↗ [Learning English the Right Way](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
-- ↗ [外语学习误区及真实方法](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Appendixes%20&%20Archive/外语学习误区及真实方法.md)
+↗ [Learning English the Right Way](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20%28Second%29%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+- ↗ [外语学习误区及真实方法](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20%28Second%29%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Appendixes%20&%20Archive/外语学习误区及真实方法.md)
 
 🔗 [What is academic integrity? - MIT](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
@@ -646,17 +646,17 @@ ACM CCS 2012
 高等教育学社基础知识开源建设工程
 _专为大学生群体打造的知识共享平台，助力学业与社会衔接。 由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！_
 #### Knowing Universities' Courses Structures & Educational Systems in Different Areas
-↗ [Education](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
-- ↗ [中国教育与培训业](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/🧑🏽‍🏫%20中国教育与培训业/中国教育与培训业.md)
-- ↗ [U.S. Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20U.S.%20Education%20&%20Professional%20Training%20Industry/U.S.%20Education%20&%20Professional%20Training%20Industry.md)
-- ↗ [EU Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/📌%20EU%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20EU%20Education%20&%20Professional%20Training%20Industry/EU%20Education%20&%20Professional%20Training%20Industry.md)
-- ↗ [Japanese Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Social%20Development%20Overview/Japanese%20Economics/📌%20Japanese%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20Japanese%20Education%20&%20Professional%20Training%20Industry/Japanese%20Education%20&%20Professional%20Training%20Industry.md)
-- ↗ [South Korean Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Social%20Development%20Overview/South%20Korean%20Social%20Development%20Overview/South%20Korean%20Economics/📌%20South%20Korean%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20South%20Korean%20Education%20&%20Professional%20Training%20Industry/South%20Korean%20Education%20&%20Professional%20Training%20Industry.md)
-- ↗ [Russian Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/Russian%20Social%20Development%20Overviews/Russian%20Economics/📌%20Russian%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20Russian%20Education%20&%20Professional%20Training%20Industry/Russian%20Education%20&%20Professional%20Training%20Industry.md)
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Education/Education.md)
+- ↗ [中国教育与培训业](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/🧑🏽‍🏫%20中国教育与培训业/中国教育与培训业.md)
+- ↗ [U.S. Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20U.S.%20Education%20&%20Professional%20Training%20Industry/U.S.%20Education%20&%20Professional%20Training%20Industry.md)
+- ↗ [EU Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/📌%20EU%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20EU%20Education%20&%20Professional%20Training%20Industry/EU%20Education%20&%20Professional%20Training%20Industry.md)
+- ↗ [Japanese Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Social%20Development%20Overview/Japanese%20Economics/📌%20Japanese%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20Japanese%20Education%20&%20Professional%20Training%20Industry/Japanese%20Education%20&%20Professional%20Training%20Industry.md)
+- ↗ [South Korean Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Social%20Development%20Overview/South%20Korean%20Social%20Development%20Overview/South%20Korean%20Economics/📌%20South%20Korean%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20South%20Korean%20Education%20&%20Professional%20Training%20Industry/South%20Korean%20Education%20&%20Professional%20Training%20Industry.md)
+- ↗ [Russian Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/Russian%20Social%20Development%20Overviews/Russian%20Economics/📌%20Russian%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20Russian%20Education%20&%20Professional%20Training%20Industry/Russian%20Education%20&%20Professional%20Training%20Industry.md)
 
 Computer Science
 - Course analysis
-	- ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../Appendix/加州大学伯克利分校(UCB)计算机专业课程体系解析.md)
+	- ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../Appendix/加州大学伯克利分校%28UCB%29计算机专业课程体系解析.md)
 	- ↗ [斯坦福大学计算机专业培养方案剖析](../Appendix/斯坦福大学计算机专业培养方案剖析.md)
 	- 🔗 [佐治亚理工学院计算机专业课程体系解析](https://mp.weixin.qq.com/s/5x5t2YswRVxPH9Zrzzef2A)
 	- 🔗 [上海交通大学 ｜ 计算机科学与技术(081200)--培养方案基本信息](https://yjwb.seiee.sjtu.edu.cn/yjwb/info/13564.htm)
@@ -690,7 +690,7 @@ The second is the **resource game**: researchers must present their work in ways
 However, the boundary is not always clear. What appears to be "fake study" may sometimes be a necessary strategy for sustaining "real study." The challenge is maintaining a balance: using the resource game as a means to support the knowledge game, rather than allowing it to become the ultimate purpose.
 
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
-↗ [Education](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Education/Education.md)
 
 > [!quote]
 > “老僧三十年前未参禅时，见山是山，见水是水。及至后来，亲见知识，有个入处，见山不是山，见水不是水。而今得个休歇处，依前见山只是山，见水只是水。”
@@ -706,14 +706,14 @@ However, the boundary is not always clear. What appears to be "fake study" may s
 2. CS Core /Foundation
 	1. Courses listed here are hard but foundational. Nevertheless, you can learn these knowledge in parallel with other interesting courses found in below "2️⃣ CS Specific Fields / CS Applications".
 	2. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md)
-		1. ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+		1. ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20%28Theoretical%20Computer%20Science%29.md)
 	3. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 		1. ↗ [Programming Language Processing & Program Execution](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 	4. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	5. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
-		1. ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
-		2. ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
-		3. ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+	5. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20%28Host%29%20System.md)
+		1. ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Architecture.md)
+		2. ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29.md)
+		3. ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29.md)
 	6. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 	7. ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 
@@ -721,8 +721,8 @@ However, the boundary is not always clear. What appears to be "fake study" may s
 ### 2️⃣ CS Specific Fields / CS Applications
 > [!links]
 > ↗ [Intro to Computer Science /ACM CCS (Classification of All CS Subjects)](Intro%20to%20Computer%20Science.md#ACM%20CCS%20(Classification%20of%20All%20CS%20Subjects))
-> ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-> ↗ [Research Frontiers, Venues, and Humans by CS Areas](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
+> ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20%28In%20CS%29/Academics%20🎓%20%28In%20CS%29.md)
+> ↗ [Research Frontiers, Venues, and Humans by CS Areas](../../Academics%20🎓%20%28In%20CS%29/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
 
 ![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
@@ -742,10 +742,10 @@ CS Core Courses
 - ↗ [Programming Language Processing & Program Execution](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 - ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 - ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-- ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
-	- ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
-	- ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
-	- ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+- ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20%28Host%29%20System.md)
+	- ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Architecture.md)
+	- ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29.md)
+	- ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29.md)
 - ↗ [EE Related Theories & Hardware Implementation](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/EE%20Related%20Theories%20&%20Hardware%20Implementation.md)
 
 CS Sub-fields
@@ -758,17 +758,17 @@ CS Sub-fields
 - etc.
 
 CS Inter-disciplines
-- ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
-	- ↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+- ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20%28Theoretical%20Computer%20Science%29.md)
+	- ↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
 	- ↗ [Information Theory](../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
-	- ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
-	- ↗ [Probability Theory & Statistics](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
-	- ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+	- ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+	- ↗ [Probability Theory & Statistics](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+	- ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
 	- etc.
 - ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 	- ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 	- ↗ [High Performance Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
-	- ↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
+	- ↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20%28and%20Communication%29/Quantum%20Computing%20%28and%20Communication%29.md)
 	- etc.
 
 ---
@@ -776,21 +776,21 @@ CS Inter-disciplines
 
 1. The construction of better computer/information system itself
 	1. Mathematical Model
-		1. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+		1. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20%28Theoretical%20Computer%20Science%29.md)
 		2. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 		3. etc.
 	2. Hardware and Computer Engineering
 		1. ↗ [EE Related Theories & Hardware Implementation](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/EE%20Related%20Theories%20&%20Hardware%20Implementation.md)
 		2. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
-		3. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+		3. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20%28Host%29%20System.md)
 		4. etc.
 	3. Software & Protocols
 		1. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
 		2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 		3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-		4. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
-			1. ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
-			2. ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+		4. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20%28Host%29%20System.md)
+			1. ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29.md)
+			2. ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29.md)
 		5. ↗ [Programming Language Processing & Program Execution](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 		6. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 		7. etc.
@@ -824,11 +824,11 @@ The way this notebook is constructed. Just check the directories of this noteboo
  >A simplified version of CS subjects classification for beginners 🤓
 
 1️⃣ Theoretical Computer Science (TCS) & Math 
-- ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+- ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20%28Theoretical%20Computer%20Science%29.md)
 - ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
 2️⃣ Computer System & Engineering
-- ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+- ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20%28Host%29%20System.md)
 - ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 - ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 - ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
@@ -851,9 +851,9 @@ Disciplines /Areas in CS are divided into 3 levels: industry, school, and academ
 - ↗ [(CS) Master & PhD Guide - Preparation & Application](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 - ↗ [Summer Camp & Exchange Programs](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/Summer%20Camp%20&%20Exchange%20Programs/Summer%20Camp%20&%20Exchange%20Programs.md)
 
-↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-- ↗ [Research Frontiers, Venues, and Humans by CS Areas](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
-- ↗ [Academic Networks & Nepotism](../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Academic%20Networks%20&%20Nepotism.md)
+↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20%28In%20CS%29/Academics%20🎓%20%28In%20CS%29.md)
+- ↗ [Research Frontiers, Venues, and Humans by CS Areas](../../Academics%20🎓%20%28In%20CS%29/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
+- ↗ [Academic Networks & Nepotism](../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Academic%20Networks%20&%20Nepotism.md)
 
 ↗ [CS & IT Jobs & Interns Related](../🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
 ↗ [Electronics & Information Technologies Business Fields Research](../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
@@ -862,11 +862,11 @@ Disciplines /Areas in CS are divided into 3 levels: industry, school, and academ
 
 ## 🎉 More Res
 > [!links]
-> ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+> ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20%28WMF%29.md)
 > ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
 > 
 > ↗ [My Info Lists](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/My%20Info%20Lists.md)
-> ↗ [Social Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
+> ↗ [Social Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Social%20Science.md)
 
 
 ### Generic IT Knowledge
@@ -1185,8 +1185,8 @@ https://support.huawei.com/enterprise/zh/index.html
 
 
 ### PPL & Personal Blogs
-> ↗ [Web Blog Themes](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
-> ↗ [Scholars & Groups Lists - System (and Security)](../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
+> ↗ [Web Blog Themes](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
+> ↗ [Scholars & Groups Lists - System (and Security)](../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20System%20%28and%20Security%29.md)
 
 ---
 👍 👨‍🚀 [编程随想的博客](https://program-think.blogspot.com)
@@ -1450,8 +1450,8 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 > https://freezhihu.org/
 > 知乎回答备份
 > 
-> ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-> - ↗ [FAQ - Academia and Research](../../Academics%20🎓%20(In%20CS)/FAQ%20-%20Academia%20and%20Research.md)
+> ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20%28In%20CS%29/Academics%20🎓%20%28In%20CS%29.md)
+> - ↗ [FAQ - Academia and Research](../../Academics%20🎓%20%28In%20CS%29/FAQ%20-%20Academia%20and%20Research.md)
 
 #### [为什么高校的科研项目大多烂尾了](https://www.zhihu.com/question/665648172/answer/86682654632)
 作者：扇贝又回来了  

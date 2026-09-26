@@ -6,16 +6,16 @@
 
 ## Res
 ### Related Topics
-↗ [Probability Theory & Statistics](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
-- ↗ [Stochastic Calculus (随机分析)](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Stochastic%20Calculus%20(随机分析)/Stochastic%20Calculus%20(随机分析).md)
-- ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+↗ [Probability Theory & Statistics](../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+- ↗ [Stochastic Calculus (随机分析)](../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Stochastic%20Calculus%20%28随机分析%29/Stochastic%20Calculus%20%28随机分析%29.md)
+- ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process.md)
 
-↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
-- ↗ [Stochastic Differential Equation (SDE)](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Differential%20Equation%20(DE)/Stochastic%20Differential%20Equation%20(SDE)/Stochastic%20Differential%20Equation%20(SDE).md)
+↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
+- ↗ [Stochastic Differential Equation (SDE)](../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/🤯%20Advanced%20Analysis/Differential%20Equation%20%28DE%29/Stochastic%20Differential%20Equation%20%28SDE%29/Stochastic%20Differential%20Equation%20%28SDE%29.md)
 
-↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
+↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20%28Decision%20Making%29.md)
 
-↗ [Stochastic Approximation Methods](../../🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/Stochastic%20Approximation%20Methods/Stochastic%20Approximation%20Methods.md)
+↗ [Stochastic Approximation Methods](../../🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/Stochastic%20Approximation%20Methods/Stochastic%20Approximation%20Methods.md)
 
 
 ### Other Resources
@@ -37,7 +37,7 @@ Several stochastic programming methods have been developed:
 
 
 ### Probabilistic Programming 🆚 Stochastic Programming
-↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
+↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20%28Decision%20Making%29.md)
 
 
 

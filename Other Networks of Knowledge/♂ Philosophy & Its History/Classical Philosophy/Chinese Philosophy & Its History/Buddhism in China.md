@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Buddhism (Buddha Dharma)](../🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
-↗ [西藏地区历史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/🐟%20中国地区史/📌%20特别地区历史/西藏地区历史/西藏地区历史.md)
+↗ [Buddhism (Buddha Dharma)](../🙏🏿%20Global%20Religions/Buddhism%20%28Buddha%20Dharma%29/Buddhism%20%28Buddha%20Dharma%29.md)
+↗ [西藏地区历史](../../../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中华文明历史概况/🐟%20中国地区史/📌%20特别地区历史/西藏地区历史/西藏地区历史.md)
 
 
 ### Other Resources
@@ -100,7 +100,7 @@
 
 ## Tibetan Buddhism | བོད་བརྒྱུད་ནང་བསྟན།（藏传佛教）
 > [!links]
-> ↗ [西藏地区历史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/🐟%20中国地区史/📌%20特别地区历史/西藏地区历史/西藏地区历史.md)
+> ↗ [西藏地区历史](../../../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中华文明历史概况/🐟%20中国地区史/📌%20特别地区历史/西藏地区历史/西藏地区历史.md)
 
 [密宗](https://zh.wikipedia.org/wiki/%E5%AF%86%E5%AE%97 "密宗")
 
@@ -108,7 +108,7 @@
 
 ## Theravāda Buddhism in China（南传佛教：上座部佛教）
 > [!links]
-> ↗ [Buddhism (Buddha Dharma)](../🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
+> ↗ [Buddhism (Buddha Dharma)](../🙏🏿%20Global%20Religions/Buddhism%20%28Buddha%20Dharma%29/Buddhism%20%28Buddha%20Dharma%29.md)
 
 
 

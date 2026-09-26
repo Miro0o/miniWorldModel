@@ -6,7 +6,7 @@
 
 ## Res
 ### Relate Topics
-↗ [Business Models](../../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/🙇🏼‍♀️%20Business%20&%20Entrepreneurship/Business%20Models.md)
+↗ [Business Models](../../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/🙇🏼‍♀️%20Business%20&%20Entrepreneurship/Business%20Models.md)
 
 
 
@@ -19,16 +19,16 @@
 
 ## Cloud Service Delivery Models
 ### IaaS
-↗ [IaaS (Infrastructure as a Service)](IaaS%20(Infrastructure%20as%20a%20Service)/IaaS%20(Infrastructure%20as%20a%20Service).md)
+↗ [IaaS (Infrastructure as a Service)](IaaS%20%28Infrastructure%20as%20a%20Service%29/IaaS%20%28Infrastructure%20as%20a%20Service%29.md)
 
 ### PaaS
-↗ [PaaS (Platform as a Service)](PaaS%20(Platform%20as%20a%20Service)/PaaS%20(Platform%20as%20a%20Service).md)
+↗ [PaaS (Platform as a Service)](PaaS%20%28Platform%20as%20a%20Service%29/PaaS%20%28Platform%20as%20a%20Service%29.md)
 
 ### SaaS
-↗ [SaaS (Software as a Service)](SaaS%20(Software%20as%20a%20Service)/SaaS%20(Software%20as%20a%20Service).md)
+↗ [SaaS (Software as a Service)](SaaS%20%28Software%20as%20a%20Service%29/SaaS%20%28Software%20as%20a%20Service%29.md)
 
 ### FaaS
-↗ [FaaS (Function as a Service)](FaaS%20(Function%20as%20a%20Service)/FaaS%20(Function%20as%20a%20Service).md)
+↗ [FaaS (Function as a Service)](FaaS%20%28Function%20as%20a%20Service%29/FaaS%20%28Function%20as%20a%20Service%29.md)
 
 
 
