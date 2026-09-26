@@ -64,7 +64,7 @@ Contributing
 
 
 ### Related Topics
-↗ [Generic & Automated Theorem Provers (ATP)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Generic%20&%20Automated%20Theorem%20Provers%20(ATP)/Generic%20&%20Automated%20Theorem%20Provers%20(ATP).md)
+↗ [Generic & Automated Theorem Provers (ATP)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Theorem%20Provers%20&%20Constraint%20Solvers/Generic%20&%20Automated%20Theorem%20Provers%20(ATP)/Generic%20&%20Automated%20Theorem%20Provers%20(ATP).md)
 ↗ [Zulip](../../../Generic%20Software%20Tools%20&%20Projects/Project%20Cooperation%20&%20Team%20Messaging/Zulip.md)
 
 

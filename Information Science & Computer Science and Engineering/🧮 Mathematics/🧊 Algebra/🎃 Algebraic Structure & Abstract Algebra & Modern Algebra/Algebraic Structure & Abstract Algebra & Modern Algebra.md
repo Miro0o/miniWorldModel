@@ -623,6 +623,12 @@ The collection of all structures of a given type (same operations and same laws)
 ##### Properties
 ![Screenshot 2023-01-05 at 7.31.14 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.31.14%20PM.png)
 #### Congruence & Quotient Algebra
+> [!links]
+> ↗ [Equivalence Relation](../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Equivalence%20Relation.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Congruence_relation
+
+In [abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra "Abstract algebra"), a **congruence relation** (or simply **congruence**) is an [equivalence relation](https://en.wikipedia.org/wiki/Equivalence_relation "Equivalence relation") on an [algebraic structure](https://en.wikipedia.org/wiki/Algebraic_structure "Algebraic structure") (such as a [group](https://en.wikipedia.org/wiki/Group_\(mathematics\) "Group (mathematics)"), [ring](https://en.wikipedia.org/wiki/Ring_\(mathematics\) "Ring (mathematics)"), or [vector space](https://en.wikipedia.org/wiki/Vector_space "Vector space")) that is compatible with the structure in the sense that [algebraic operations](https://en.wikipedia.org/wiki/Algebraic_operation "Algebraic operation") done with equivalent elements will yield equivalent elements. Every congruence relation has a corresponding [quotient](https://en.wikipedia.org/wiki/Quotient_\(universal_algebra\) "Quotient (universal algebra)") structure, whose elements are the [equivalence classes](https://en.wikipedia.org/wiki/Equivalence_class "Equivalence class") (or **congruence classes**) for the relation.
 
 
 ### Relations Between Algebraic Systems

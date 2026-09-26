@@ -141,7 +141,7 @@ int execve(const char *filename, char *const argv[], char *const envp[]);
 > There is a difference between compilation, linking, and loading. 
 > That means, static /dynamic complication doesn't necessarily indicate static /dynamic linking!
 > 
-> ↗ [Program Language Processing & Compilation Theory (Compile-time)](../🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
+> ↗ [Program Transformation & Compilation Theory (Compile-time)](../🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time).md)
 #### Static Linking
 ↗ [ELF File Static Linking](Program%20Static%20Linking%20Procedure/ELF%20File%20Static%20Linking.md)
 ↗ [PE File Static Linking](Program%20Static%20Linking%20Procedure/PE%20File%20Static%20Linking.md)

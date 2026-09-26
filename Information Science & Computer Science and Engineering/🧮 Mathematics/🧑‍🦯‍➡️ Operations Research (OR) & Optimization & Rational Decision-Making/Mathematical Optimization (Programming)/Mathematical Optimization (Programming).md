@@ -22,10 +22,10 @@
 
 ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
 
-↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
-- ↗ [Generic & Automated Theorem Provers (ATP)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Generic%20&%20Automated%20Theorem%20Provers%20(ATP)/Generic%20&%20Automated%20Theorem%20Provers%20(ATP).md)
-- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
-- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
+↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
+- ↗ [Generic & Automated Theorem Provers (ATP)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Theorem%20Provers%20&%20Constraint%20Solvers/Generic%20&%20Automated%20Theorem%20Provers%20(ATP)/Generic%20&%20Automated%20Theorem%20Provers%20(ATP).md)
+- ↗ [SAT Solving & Algorithms](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md)
+- ↗ [SMT Solving & Algorithms](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)
 
 ↗ [Systematic & Combinatorial Search (Classical Search)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
 
@@ -58,6 +58,85 @@ https://enpocourses.github.io/enpo811203/optimization-intro/
 **Mathematical optimization** (alternatively spelled _optimisation_) or **mathematical programming** is the selection of a best element, with regard to some criteria, from some set of available alternatives. It is generally divided into two subfields: [discrete optimization](https://en.wikipedia.org/wiki/Discrete_optimization "Discrete optimization") and [continuous optimization](https://en.wikipedia.org/wiki/Continuous_optimization "Continuous optimization"). Optimization problems arise in all quantitative disciplines from [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science") and [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering") to [operations research](https://en.wikipedia.org/wiki/Operations_research "Operations research") and [economics](https://en.wikipedia.org/wiki/Economics "Economics"), and the development of solution methods has been of interest in [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") for centuries.
 
 In the more general approach, an [optimization problem](https://en.wikipedia.org/wiki/Optimization_problem "Optimization problem") consists of [maximizing or minimizing](https://en.wikipedia.org/wiki/Maxima_and_minima "Maxima and minima") a [real function](https://en.wikipedia.org/wiki/Function_of_a_real_variable "Function of a real variable") by systematically choosing [input](https://en.wikipedia.org/wiki/Argument_of_a_function "Argument of a function") values from within an allowed set and computing the [value](https://en.wikipedia.org/wiki/Value_\(mathematics\) "Value (mathematics)") of the function. The generalization of optimization theory and techniques to other formulations constitutes a large area of [applied mathematics](https://en.wikipedia.org/wiki/Applied_mathematics "Applied mathematics").
+
+
+
+---
+> 🤖 GPT 6.0
+
+Mathematical optimization is a branch of applied mathematics concerned with identifying the best possible solution to a problem from a set of feasible alternatives. In an optimization problem, a collection of variables is chosen so as to minimize or maximize a specified objective function while satisfying a set of constraints. These variables are commonly referred to as **decision variables**, because their values represent the decisions to be determined by the optimization model. The objective function quantifies the criterion being optimized, such as cost, profit, energy consumption, distance, or efficiency, while the constraints describe the conditions that any admissible solution must satisfy.
+
+A general constrained optimization problem can be expressed as
+$$
+\begin{aligned}
+\min_{x \in \mathbb{R}^n} \quad & f(x) \\
+\text{subject to} \quad & g_i(x) \le 0,\qquad i=1,\dots,m,\\
+& h_j(x)=0,\qquad j=1,\dots,p.
+\end{aligned}
+$$
+
+In this formulation, $x=(x_1,\dots,x_n)$ denotes the vector of decision variables, $f(x)$ is the objective function, $g_i(x)$ represents the inequality constraints, and $h_j(x)$ represents the equality constraints. The set of all points that satisfy these constraints is called the **feasible set**, which may be written as
+$$
+\mathcal F
+=
+\left\{
+x\in\mathbb R^n:
+g_i(x)\le 0,\;
+h_j(x)=0
+\right\}.
+$$
+
+The optimization problem can therefore be written more compactly as
+$$
+x^\star \in \arg\min_{x\in\mathcal F} f(x),
+$$
+
+where $x^\star$ denotes an optimal solution. The notation $\arg\min$ refers to the value, or set of values, of the decision variable that minimizes the objective function over the feasible set. The corresponding minimum value of the objective function is called the **optimal objective value** and is given by
+$$
+f^\star
+=
+\min_{x\in\mathcal F} f(x)
+=
+f(x^\star).
+$$
+
+Optimization problems may also be formulated as maximization problems. In this case, the objective is to determine a feasible solution that produces the largest possible value of the objective function:
+$$
+x^\star \in \arg\max_{x\in\mathcal F} f(x).
+$$
+
+From a mathematical perspective, maximization and minimization problems are closely related because any maximization problem can be transformed into an equivalent minimization problem according to
+$$
+\max_x f(x)
+=
+-\min_x[-f(x)].
+$$
+
+As a simple example, consider the problem
+$$
+\begin{aligned}
+\min_{x,y}\quad & x^2+y^2\\
+\text{subject to}\quad & x+y\ge 1.
+\end{aligned}
+$$
+
+The objective function $x^2+y^2$ represents the squared Euclidean distance between the point $(x,y)$ and the origin. The constraint $x+y\ge1$ restricts the solution to a particular region of the plane. The optimization problem therefore seeks the feasible point that lies closest to the origin. The optimal solution is
+$$
+x^\star=y^\star=\frac12,
+$$
+
+and the corresponding optimal objective value is
+$$
+f^\star
+=
+\left(\frac12\right)^2
++
+\left(\frac12\right)^2
+=
+\frac12.
+$$
+
+In general, mathematical optimization provides a formal framework for representing decision-making problems in terms of variables, objectives, and constraints. Its central purpose is to determine a feasible solution that achieves the best possible value of a chosen objective function, making optimization a fundamental tool in fields such as engineering, economics, operations research, machine learning, finance, and data science.
 
 
 ### Taxonomy of Optimization Methods
@@ -287,12 +366,12 @@ For example:
 ```
 <small>Generated by GPT 6.0</small>
 #### By Optimization Variable Types
-
+continuous /discrete /integer /mixed optimization
 
 #### By Derivative Information of Objective Function 🤔
 > [!links]
-> ↗ [Numerical Optimization](🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/Numerical%20Optimization.md)
-> ↗ [First-Order & Gradient Methods](🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md)
+> ↗ [Numerical Optimization](🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/Numerical%20Optimization.md)
+> ↗ [First-Order & Gradient Methods](🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md)
 
 **Zero-order methods (derivative-free)** — only function evaluations
 - Random search, grid search, coordinate descent, Evolutionary / population methods, Bayesian optimization
@@ -306,11 +385,16 @@ For example:
 #### By Constraints
 
 #### By Search Scope
+local /global
 
 #### By Problem Structures
-**Convex / structured programming** — exploits problem structure
-- Linear programming (simplex, interior-point), quadratic programming
-- If your problem is convex, these give global optima with guarantees.
+linear /quadratic /non-linear 
+
+convex /nonconvex
+
+smooth /nonsmooth
+
+combinatorial
 
 
 ### Formal Methods, Symbolic Methods, Constraint Solving, Search & AI Planning, and Mathematical Optimization ⭐

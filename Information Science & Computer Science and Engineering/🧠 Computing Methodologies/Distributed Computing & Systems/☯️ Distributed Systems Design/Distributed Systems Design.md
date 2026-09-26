@@ -5,14 +5,19 @@
 
 
 ## Res
+### Related Topics
+
+
+### Other Resources
+
 
 
 ## Intro
 
 
+
 ## Ref
 [👍 分布式系统的全局快照]: https://yang.observer/2021/11/27/distributed-snapshots/
-
 - [问题描述](https://yang.observer/2021/11/27/distributed-snapshots/#%E9%97%AE%E9%A2%98%E6%8F%8F%E8%BF%B0)
 - [Chandy-Lamport算法](https://yang.observer/2021/11/27/distributed-snapshots/#chandy-lamport%E7%AE%97%E6%B3%95)
     - [前提条件](https://yang.observer/2021/11/27/distributed-snapshots/#%E5%89%8D%E6%8F%90%E6%9D%A1%E4%BB%B6)

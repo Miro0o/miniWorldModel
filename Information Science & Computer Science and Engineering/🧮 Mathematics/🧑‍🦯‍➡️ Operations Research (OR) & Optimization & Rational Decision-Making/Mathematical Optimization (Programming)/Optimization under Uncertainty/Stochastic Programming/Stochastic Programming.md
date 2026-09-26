@@ -15,7 +15,7 @@
 
 ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
 
-↗ [Stochastic Approximation Methods](../../🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/Stochastic%20Approximation%20Methods/Stochastic%20Approximation%20Methods.md)
+↗ [Stochastic Approximation Methods](../../🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/Stochastic%20Approximation%20Methods/Stochastic%20Approximation%20Methods.md)
 
 
 ### Other Resources

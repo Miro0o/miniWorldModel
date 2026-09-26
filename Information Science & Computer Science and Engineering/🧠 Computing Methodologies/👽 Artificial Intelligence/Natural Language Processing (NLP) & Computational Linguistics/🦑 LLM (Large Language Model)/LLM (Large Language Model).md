@@ -383,8 +383,6 @@ Estimating AI productivity gains from Claude conversations
 
 
 
-
-
 ## Intro
 > [!Abstract]
 > 🎬 [Large Language Models explained briefly | 3Blue1Brown](https://youtu.be/LPZh9BOjkQs?si=7CRyWTVnx3BIGQGy)
@@ -562,18 +560,17 @@ Artificial General Intelligence?
 
 
 ### Technical Evolution of Specific LLM Model Series
-#### GPT-series Model
-↗ [OpenAI GPT](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20GPT.md)
-
 > Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. [https://doi.org/10.48550/arXiv.2303.18223](https://doi.org/10.48550/arXiv.2303.18223)
-#### Gemini-series Model
+
+↗ [OpenAI GPT](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20GPT.md)
+↗ [Anthropic Claude](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Anthropic%20Claude.md)
 ↗ [Google Gemini](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Google%20Gemini.md)
-#### LLaMA-series Model
-↗ [Meta LLama](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Meta%20LLama.md)
-#### Qwen-series Model
+↗ [Moonshot Kimi](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Moonshot%20Kimi.md)
+↗ [Zhipu GLM](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Zhipu%20GLM.md)
 ↗ [Alibaba Qwen](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Alibaba%20Qwen/Alibaba%20Qwen.md)
-#### DeepSeek-series Model
 ↗ [DeepSeek](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
+
+↗ [Meta LLama](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Meta%20LLama.md)
 
 
 

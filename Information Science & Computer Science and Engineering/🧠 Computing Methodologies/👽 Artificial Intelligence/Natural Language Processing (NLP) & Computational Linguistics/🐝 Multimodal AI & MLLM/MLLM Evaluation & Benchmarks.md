@@ -36,7 +36,7 @@ Part II: Benchmarks
  [MMMU](https://mmmu-benchmark.github.io/), [Video-MME](https://video-mme.github.io/home_page.html), [MathVista](https://mathvista.github.io/), [ChartQA](https://github.com/vis-nlp/ChartQA) , and [DocVQA](https://www.docvqa.org/),
  
 
-### Others
+### Other Resources
 https://huggingface.co/collections/btjhjeon/multimodal-benchmarks
 
 https://agi.safe.ai/

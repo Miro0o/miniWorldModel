@@ -16,6 +16,7 @@
 ↗ [Game Theory & Multi-Agent Decision-Making](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 
 ↗ [Propositional Logic Model Checking & Algorithms](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/MC%20Algorithms/Propositional%20Logic%20Model%20Checking%20&%20Algorithms.md)
+↗ [SAT Solving & Algorithms](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md)
 
 
 ### Other Resources
@@ -65,7 +66,8 @@ Propositional logic is typically studied with a formal language, in which propos
 ## Syntax: Formalization of Propositional Logic
 Propositional logic is about Boolean functions, which are mappings from truth-values 0 and 1 (false and true) to truth-values. Arbitrary Boolean functions can be represented as **formulas** formed with **variables** ($p, q, r, p_1, p_2, ...$) and **connectives** ($\land, \lor, \neg, ...$), and it can be shown that any Boolean function can be represented by such a formula.
 
----
+
+### Atom, Literal, and Formula
 Syntax
 - Specifies *structure* only
 - Formula adheres to syntax $\Leftrightarrow$ Formula is *well-formed*
@@ -96,6 +98,7 @@ atoms: $P, Q, \top$
 literal: $\neg Q$
 subformulas: $P \land Q,\quad \top \lor \neg Q$
 abbreviation $F : P \land Q \to \top \lor \neg Q$
+
 
 ### BNF Grammar
 > [!links]
@@ -277,7 +280,7 @@ A formula is _valid_ (a tautology) if it is true for **all** the valuation of th
 > [!links]
 > ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 > ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
-> - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+> ↗ [SAT Solving & Algorithms](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md)
 
 > [!TIP]
 > ↗ [Complexity Theory & Computational Complexity](../../😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
@@ -655,6 +658,7 @@ $$
 
 
 ### Resolution Refutation
+> Resolution calculus is refutation complete, meaning for a UNSAT formula, resolution yields empty clause $\square$ eventually.
 #### Resolution Rules
 ![Screenshot 2023-01-02 at 6.02.32 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%206.02.32%20PM.png)
 <small>《离散数学》四川大学计算机学院</small>
@@ -669,13 +673,15 @@ $$
 > Logic and ApplicationsJussi Rintanen, Department of Computer Science, Aalto University
 
 
-### Automated Reasoning Algorithms
+### Subsumption
 
-#### Subsumption
 
-#### Unit Propagation
-
-#### The Davis-Putnam Procedure
+### Automated Reasoning via Propositional Logic 🤔
+↗ [SAT Solving & Algorithms](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md)
+↗ [Davis–Putnam–Logemann–Loveland (DPLL)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/Davis–Putnam–Logemann–Loveland%20(DPLL).md)
+- naive decision + chronological backtracking + unit resolution (BCP：Boolean Constraint Propagation)
+↗ [Conflict-Driven Clause Learning (CDCL)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/Conflict-Driven%20Clause%20Learning%20(CDCL).md)
+- DPLL + Conflict analysis + Clause learning + Non-chronological backtracking (backjump) + better decision heuristics
 
 
 ### Symbolic Reachability Testing
