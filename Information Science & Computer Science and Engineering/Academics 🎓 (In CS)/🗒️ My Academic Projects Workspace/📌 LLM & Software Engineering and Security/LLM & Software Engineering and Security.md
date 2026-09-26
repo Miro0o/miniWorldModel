@@ -50,7 +50,7 @@ last-reviewed: 2026-07-31
 - System
 	- ↗ [Sec (Security) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Sec%20%28Security%29%20Related%20Venues%20and%20People.md)
 	- ↗ [SE (Software Engineering) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/SE%20%28Software%20Engineering%29%20Related%20Venues%20and%20People.md)
-	- ↗ [PL (Program Languages) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/PL%20%28Program%20Languages%29%20Related%20Venues%20and%20People.md)
+	- ↗ [PL (Programming Languages) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/PL%20%28Programming%20Languages%29%20Related%20Venues%20and%20People.md)
 	- ↗ [OS (Operating System) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/OS%20%28Operating%20System%29%20Related%20Venues%20and%20People.md)
 - Application
 	- ↗ [Artificial Intelligence Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)

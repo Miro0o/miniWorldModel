@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Realtime Information - News, Tracking, Tickets, etc.](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Realtime%20Information%20-%20News,%20Tracking,%20Tickets,%20etc..md)
-↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20%28CTI%29%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20%28CTI%29%20&%20Reconnaissance.md)
 
 
 ### Other Resources
@@ -124,4 +124,3 @@ Job级隔离（计算任务沙箱）
 - 旧间对照3： 微博5.38亿用户数据泄露 2020年，微博爆发大规模安全事故，5.38亿用户的账号信息遭黑客窃取并在网上公然出售，泄露内容包括用户真实姓名、手机号及地理位置。 作为拥有亿级流量的社交巨头，微博官方仅发表了一份轻描淡写的声明，强调用户密码未被泄露，试图平息事态。中国网信办未对此发起任何公开调查或追责，这起波及全国半数人口的隐私泄露事件随后迅速从公众视野中“销声匿迹”。
 - 旧闻对照4：上海新冠健康码数据泄露。 2022年，正值防疫关键期，涵盖4850万上海居民隐私的“随申码”数据库在网上公开出售，标价仅为4000美元。被叫卖的数据包含居民姓名、身份证号、电话号码及实时健康状态。 这起事件直接威胁到数千万市民的数字身份安全，然而上海市政府及相关防疫部门对此始终保持缄默，未发表任何官方评论或补救声明，数据治理的透明度再次缺失。
 - 旧闻对照5， 微信/支付宝金融数据大泄露。2025年5月，一起涉及国民金融安全的超级泄露事件在暗网论坛BreachForums爆发。超过40亿份核心文件遭到暴露，内容极度敏感，涵盖了微信支付、支付宝的财务往来记录及大量个人金融画像。 作为中国移动支付的两大支柱，其底层数据的崩塌引发了社会层面的隐秘恐慌。尽管事件性质极其恶劣，中国当局与相关互联网巨头均未作出官方回应，延续了以往“冷处理”的应对模式。
-

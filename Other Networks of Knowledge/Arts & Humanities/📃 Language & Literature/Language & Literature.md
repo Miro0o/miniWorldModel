@@ -396,7 +396,7 @@ In a [written language](https://en.wikipedia.org/wiki/Written_language "Written
   ↗ [Language & Society](Language%20&%20Society/Language%20&%20Society.md)
 >
 >↗ [Literatures](Literature/Literatures.md)
-  ↗ [Journalism and Communication](../../Science%20&%20Application/Social%20Science/Journalism%20and%20Communication/Journalism%20and%20Communication.md)
+  ↗ [Journalism and Communication](../../Science%20&%20Engineering/Social%20Science/Journalism%20and%20Communication/Journalism%20and%20Communication.md)
 
 
 

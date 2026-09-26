@@ -19,7 +19,7 @@
 
 ↗ [Western Philosophy & Its History](Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/Western%20Philosophy%20&%20Its%20History.md)
 ↗ [Chinese Philosophy & Its History](Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Chinese%20Philosophy%20&%20Its%20History.md)
-- ↗ [中国共产党思想体系](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20%28Communist%20Party%20of%20China%29/中国共产党思想体系/中国共产党思想体系.md)
+- ↗ [中国共产党思想体系](../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20%28Communist%20Party%20of%20China%29/中国共产党思想体系/中国共产党思想体系.md)
 
 ↗ [Marxism & Communism](Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
@@ -58,6 +58,10 @@ By Bertrand Russell
 | [CHAPTER XIV.](https://www.gutenberg.org/files/5827/5827-h/5827-h.htm#link2HCH0014)  | THE LIMITS OF PHILOSOPHICAL KNOWLEDGE                  |
 | [CHAPTER XV.](https://www.gutenberg.org/files/5827/5827-h/5827-h.htm#link2HCH0015)   | THE VALUE OF PHILOSOPHY                                |
 | [.](https://www.gutenberg.org/files/5827/5827-h/5827-h.htm#link2H_4_0017)            | BIBLIOGRAPHICAL NOTE                                   |
+
+https://api.pageplace.de/preview/DT0400.9781134884339_A27018397/preview-9781134884339_A27018397.pdf
+From Mathematics to Philosophy
+Hao Wang
 
 
 ### Other Resources
@@ -159,7 +163,7 @@ Descartes describes the concept of a first principle in the following excerpt fr
 
 ### Uncertain Principles
 > [!links]
-> ↗ [Quantum Mechanics](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Quantum%20Mechanics/Quantum%20Mechanics.md)
+> ↗ [Quantum Mechanics](../Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Quantum%20Mechanics/Quantum%20Mechanics.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Uncertainty_principle
 
@@ -212,8 +216,8 @@ The topic of causality remains a staple in [contemporary philosophy](https://en
 
 ### Science & Arts
 > [!links]
-> ↗ [Natural Science & Engineering and Technology](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
-> ↗ [Social Science](../Science%20&%20Application/Social%20Science/Social%20Science.md)
+> ↗ [Natural Science & Engineering and Technology](../Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
+> ↗ [Social Science](../Science%20&%20Engineering/Social%20Science/Social%20Science.md)
 > ↗ [Philosophy of Science](Contemporary%20Philosophy/Philosophy%20of%20Science/Philosophy%20of%20Science.md)
 > 
 > ↗ [Arts & Humanities](../Arts%20&%20Humanities/Arts%20&%20Humanities.md)
@@ -266,9 +270,9 @@ Central topics in [Chinese philosophy](https://en.wikipedia.org/wiki/Chinese_ph
 ↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
 
-↗ [Physical Science](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physical%20Science.md)
-↗ [Physics](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
-- ↗ [Quantum Mechanics](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Quantum%20Mechanics/Quantum%20Mechanics.md)
+↗ [Physical Science](../Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physical%20Science.md)
+↗ [Physics](../Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
+- ↗ [Quantum Mechanics](../Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Quantum%20Mechanics/Quantum%20Mechanics.md)
 
 ↗ [Artificial Intelligence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC.md)

@@ -6,13 +6,13 @@
 
 ## Res
 ### Related Topics
-↗ [Chinese Language & 中文](../../🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
+↗ [Chinese Language & 中文](../../🌐%20Language%20Learning%20&%20%28Second%29%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
 
 ↗ [Philosophy & Its History](../../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Chinese Philosophy & Its History](../../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Chinese%20Philosophy%20&%20Its%20History.md)
 ↗ [Buddhism in China](../../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Buddhism%20in%20China.md)
 
-↗ [中华文明历史概况](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [中华文明历史概况](../../../../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 
 
 ### Traditional Chinese Literature

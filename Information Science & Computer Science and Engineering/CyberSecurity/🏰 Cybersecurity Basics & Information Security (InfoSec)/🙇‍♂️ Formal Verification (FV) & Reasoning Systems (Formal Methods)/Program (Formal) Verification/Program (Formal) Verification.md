@@ -9,10 +9,17 @@
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29/Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29.md)
 
-↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
-- ↗ [Generic & Automated Theorem Provers (ATP)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md)
-- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
-- ↗ [Symbolic & Concolic Execution Engines](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Symbolic%20&%20Concolic%20Execution%20Engines/Symbolic%20&%20Concolic%20Execution%20Engines.md)
+↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+
+↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+- ↗ [Generic & Automated Theorem Provers (ATP)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Theorem%20Provers%20&%20Constraint%20Solvers/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md)
+- ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Theorem%20Provers%20&%20Constraint%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
+- ↗ [Symbolic & Concolic Execution Engines](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Symbolic%20&%20Concolic%20Execution%20Engines/Symbolic%20&%20Concolic%20Execution%20Engines.md)
+
+↗ [Formal Verification & Analysis Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
+- ↗ [LEAN](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
+- ↗ [Viper (Verification Infrastructure for Permission-​based Reasoning)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Viper%20%28Verification%20Infrastructure%20for%20Permission-​based%20Reasoning%29.md)
+- ↗ [WhyML & Why3](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/WhyML%20&%20Why3.md)
 
 ↗ [ICT System Reliability (Correctness) & Verification](../../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20%28Correctness%29%20&%20Verification.md)
 ↗ [Hardware (Digital Circuits) Verification](../Hardware%20%28Digital%20Circuits%29%20Verification/Hardware%20%28Digital%20Circuits%29%20Verification.md)
@@ -20,6 +27,10 @@
 ↗ [Software (Program) Techniques & Binary Engineering](../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
 - ↗ [Program Analysis Basics](../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
 - ↗ [Program Synthesis & Code Generation](../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
+
+↗ [Programming Language Processing & Program Execution](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
+↗ [Program Optimization](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Program%20Optimization/Program%20Optimization.md)
 
 ↗ [Neuro-Symbolic AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
 
@@ -73,17 +84,6 @@ COS 516/ECE 516: Automated Reasoning about Software, Fall 2026
 
 
 ### Other Resources
-https://egraphs.org/
-EGRAPHS Community
-- [Home](https://egraphs.org/)
- - [Community Meeting](https://egraphs.org/meeting/)
- - [Workshop](https://egraphs.org/workshop/)
- - [Zulip Chat](https://egraphs.org/zulip/)
-The EGRAPHS community brings together researchers and practitioners that use e-graphs and related techniques. E-graphs are data structures for working with large equivalence classes of programs. While originally designed for use in automated theorem provers (such as SMT solvers), they have recently been employed to build new kinds of program optimizers and synthesizers using a technique called _equality saturation_.
-Curious what people are doing with e-graphs? Check out [Philip Zucker’s](https://www.philipzucker.com/) page on [Awesome E-graphs](https://github.com/philzook58/awesome-egraphs).
-
-https://egraphs-good.github.io/
-The egg project uses e-graphs to provide a new way to build program optimizers and synthesizers.
 
 
 
@@ -96,8 +96,8 @@ The egg project uses e-graphs to provide a new way to build program optimizers
 	- Deductive methods:
 		- Method: provide a formal proof that P holds
 		- Tool:
-			- Theorem Prover: ↗ [Generic & Automated Theorem Provers (ATP)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md), ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers/SAT%20%28Boolean%20Satisfiability%20Problem%29%20Solvers.md), ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md);
-			- Proof Assistant; ↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
+			- Theorem Prover: ↗ [Generic & Automated Theorem Provers (ATP)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Theorem%20Provers%20&%20Constraint%20Solvers/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md), ↗ [SAT Solving & Algorithms](../🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md), ↗ [SMT Solving & Algorithms](../🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md);
+			- Proof Assistant; ↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
 			- Proof Checker;
 		- Applicable if: system has form a systematical theory
 	- ↗ [(Formal) Model Checking](../🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md):
@@ -146,6 +146,174 @@ verification: formally prove that the program is correct
 • will the program crash?  
 • does the program leak private information?  
 • does its runtime/power consumption fall within acceptable limits?
+
+---
+A common theme: from program to formulas
+
+```tikz
+\begin{document}
+\definecolor{panel}{RGB}{32,34,38}
+\definecolor{paneltwo}{RGB}{42,44,49}
+\definecolor{border}{RGB}{115,118,125}
+\definecolor{textmain}{RGB}{235,235,232}
+\definecolor{textmuted}{RGB}{170,172,176}
+\definecolor{accent}{RGB}{184,154,92}
+\definecolor{accentdark}{RGB}{62,54,39}
+
+\begin{tikzpicture}[
+    >=latex,
+    font=\small,
+    text=textmain,
+
+    box/.style={
+        draw=border,
+        fill=panel,
+        text=textmain,
+        rounded corners,
+        align=center,
+        minimum height=1.6cm,
+        minimum width=2.9cm,
+        line width=0.7pt
+    },
+
+    process/.style={
+        draw=accent,
+        fill=accentdark,
+        text=textmain,
+        rounded corners,
+        align=center,
+        minimum height=2cm,
+        minimum width=3.1cm,
+        line width=1pt
+    },
+
+    note/.style={
+        draw=border,
+        fill=paneltwo,
+        text=textmain,
+        rounded corners,
+        align=left,
+        inner sep=7pt,
+        text width=4.2cm,
+        line width=0.6pt
+    }
+]
+
+% ---------------------------------------------------------
+% Main pipeline
+% ---------------------------------------------------------
+
+\node[box] (program) at (0,0) {
+    \textbf{Program}\\
+    +\\
+    \textbf{Specification}\\[2mm]
+    preconditions\\
+    postconditions\\
+    invariants
+};
+
+\node[process] (vcgen) at (4.2,0) {
+    \textbf{Verification}\\
+    \textbf{Condition Generator}\\[2mm]
+    Program reasoning\\
+    $\rightarrow$ logical formulas
+};
+
+\node[box] (vc) at (8.4,0) {
+    \textbf{Verification}\\
+    \textbf{Conditions}\\[2mm]
+    Proof obligations\\
+    expressed in logic
+};
+
+\node[process] (solver) at (12.6,0) {
+    \textbf{Theorem Prover}\\
+    /\\
+    \textbf{SMT Solver}\\[2mm]
+    Attempts to prove\\
+    each condition
+};
+
+\node[box] (result) at (16.8,0) {
+    \textbf{Verification Result}\\[2mm]
+    proved\\
+    or\\
+    counterexample
+};
+
+
+% ---------------------------------------------------------
+% Main arrows
+% ---------------------------------------------------------
+
+\draw[->, line width=1pt, draw=textmuted]
+    (program) -- (vcgen);
+
+\draw[->, line width=1pt, draw=textmuted]
+    (vcgen) -- (vc);
+
+\draw[->, line width=1pt, draw=textmuted]
+    (vc) -- (solver);
+
+\draw[->, line width=1pt, draw=textmuted]
+    (solver) -- (result);
+
+
+% ---------------------------------------------------------
+% Verification-condition explanation
+% ---------------------------------------------------------
+
+\node[note] (logicnote) at (8.4,3.5) {
+    \textbf{Logical formulas}\\[2mm]
+
+    Verification conditions may involve:
+
+    $\bullet$ propositional logic\\
+    $\bullet$ first-order logic\\
+    $\bullet$ arithmetic\\
+    $\bullet$ arrays\\
+    $\bullet$ bit-vectors
+};
+
+\draw[dashed, ->, draw=border]
+    (logicnote) -- (vc);
+
+
+% ---------------------------------------------------------
+% SMT explanation
+% ---------------------------------------------------------
+
+\node[note] (smtnote) at (12.6,-3.6) {
+    \textbf{Example: Z3}\\[2mm]
+
+    SMT = Satisfiability Modulo Theories.
+
+    Typical theories include:
+
+    $\bullet$ integers and reals\\
+    $\bullet$ arrays\\
+    $\bullet$ bit-vectors\\
+    $\bullet$ equality\\
+    $\bullet$ uninterpreted functions
+};
+
+\draw[dashed, ->, draw=border]
+    (smtnote) -- (solver);
+
+
+% ---------------------------------------------------------
+% Conceptual labels
+% ---------------------------------------------------------
+
+\node[text=textmuted] at (4.2,-1.7)
+    {\footnotesize Program $\rightarrow$ Logic};
+
+\node[text=textmuted] at (12.6,1.7)
+    {\footnotesize Logic $\rightarrow$ Proof};
+
+\end{tikzpicture}
+\end{document}
+```
 
 
 ### A Brief History of Program Verification
@@ -430,49 +598,40 @@ Characteristics:
 - especially effective for finite-state and reactive/concurrent systems;
 - state-space explosion is the central scalability challenge.
 #### Modern Trend
-
 The distinction is no longer strict.
 
 Modern verifiers frequently combine:
-
 `deduction + abstraction + model checking + SAT/SMT + synthesis`
 
 For example, abstraction may reduce an infinite-state program to a manageable model,
 a model checker may find a counterexample, an SMT solver may determine whether the
 counterexample is feasible, and the abstraction may then be refined automatically.
-
 #### Verification-Condition Generation in One Picture
-
-Given:
-
-    {P}
-    S
-    {Q}
-
-and required annotations such as loop invariants, a verifier constructs logical
+Given: {P}S{Q} and required annotations such as loop invariants, a verifier constructs logical
 conditions whose validity implies correctness.
 
 For example:
-
-    Program
-      +
-    Preconditions / Postconditions
-      +
-    Loop Invariants
-          │
-          ▼
-    VC Generator
-          │
-          ▼
-    Verification Conditions
-          │
-          ▼
-    SMT Solver / Theorem Prover
-          │
-          ├── proved ──────→ verified
-          │
-          └── not proved ──→ counterexample/model, timeout,
-                              unknown, or additional annotations needed
+```
+Program
+  +
+Preconditions / Postconditions
+  +
+Loop Invariants
+	  │
+	  ▼
+VC Generator
+	  │
+	  ▼
+Verification Conditions
+	  │
+	  ▼
+SMT Solver / Theorem Prover
+	  │
+	  ├── proved ──────→ verified
+	  │
+	  └── not proved ──→ counterexample/model, timeout,
+						  unknown, or additional annotations needed
+```
 
 This is the core architecture behind many modern deductive verifiers.
 
@@ -525,7 +684,7 @@ Today
       + symbolic execution + SMT + synthesis + AI-assisted verification
 
 
-### A Brief Summary of Program Verification Techniques
+### A Brief Summary of Current Program Verification Techniques
 > 🤖 GPT 6.0 (2026.09)
 
 |Challenge|Established / Mainstream Techniques|Research Frontier|Engineering Maturity|

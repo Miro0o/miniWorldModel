@@ -8,14 +8,14 @@
 ### Related Topics
 ↗ [International Master & PhD Programmes](../../../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
 
-↗ [Sec (Security) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Sec%20(Security)%20Related%20Venues%20and%20People.md)
-↗ [PL (Program Languages) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/PL%20(Program%20Languages)%20Related%20Venues%20and%20People.md)
-↗ [SE (Software Engineering) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/SE%20(Software%20Engineering)%20Related%20Venues%20and%20People.md)
-↗ [OS (Operating System) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/OS%20(Operating%20System)%20Related%20Venues%20and%20People.md)
-↗ [Arch (Computer Architecture) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Arch%20(Computer%20Architecture)%20Related%20Venues%20and%20People.md)
+↗ [Sec (Security) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Sec%20%28Security%29%20Related%20Venues%20and%20People.md)
+↗ [PL (Programming Languages) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/PL%20%28Programming%20Languages%29%20Related%20Venues%20and%20People.md)
+↗ [SE (Software Engineering) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/SE%20%28Software%20Engineering%29%20Related%20Venues%20and%20People.md)
+↗ [OS (Operating System) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/OS%20%28Operating%20System%29%20Related%20Venues%20and%20People.md)
+↗ [Arch (Computer Architecture) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Arch%20%28Computer%20Architecture%29%20Related%20Venues%20and%20People.md)
 ↗ [Computer Networks & Measurement Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Computer%20Networks%20&%20Measurement%20Related%20Venues%20and%20People.md)
-↗ [DB (Database System) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/DB%20(Database%20System)%20Related%20Venues%20and%20People.md)
-↗ [EDA (Electronic Design Automation) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/EDA%20(Electronic%20Design%20Automation)%20Related%20Venues%20and%20People.md)
+↗ [DB (Database System) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/DB%20%28Database%20System%29%20Related%20Venues%20and%20People.md)
+↗ [EDA (Electronic Design Automation) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/EDA%20%28Electronic%20Design%20Automation%29%20Related%20Venues%20and%20People.md)
 
 
 ### Other Resources

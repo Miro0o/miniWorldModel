@@ -6,28 +6,28 @@
 
 ## Res
 ### Related Topics
-↗ [📌 Computer Profiling & System Visibility](../../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/📌%20Computer%20Profiling%20&%20System%20Visibility.md) "Linux"
-↗ [Computer Profiling](../../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/Host%20Management/Computer%20Profiling.md) "macos"
+↗ [📌 Computer Profiling & System Visibility](../../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/Linux%20Free%20Software%20&%20OSS%20%28Open%20Source%20Software%29/Host%20Management/📌%20Computer%20Profiling%20&%20System%20Visibility.md) "Linux"
+↗ [Computer Profiling](../../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Apple%20Operating%20Systems/macOS%20%28Derived%20From%20UNIX%20Family%29/🪓%20macOS%20CLI%20Software/Host%20Management/Computer%20Profiling.md) "macos"
 ↗ [End Host Management & Hardware Profiling](../../../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
-↗ [Hook Techniques](../../SRE%20(Software%20Reverse%20Engineering)/Hook%20Techniques/Hook%20Techniques.md)
+↗ [Hook Techniques](../../SRE%20%28Software%20Reverse%20Engineering%29/Hook%20Techniques/Hook%20Techniques.md)
 
-↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
-- ↗ [Program Execution (Runtime)](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
-- ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
-↗ [Address Space & Memory Layout](../../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
+↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
+- ↗ [Program Execution (Runtime)](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Program%20Execution%20%28Runtime%29.md)
+- ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Procedure%20%28Function%29%20Call%20&%20Runtime%20Memory%20Layout.md)
+↗ [Address Space & Memory Layout](../../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/Address%20Space%20&%20Memory%20Layout.md)
 
-↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29.md)
 
-↗ [Software Testing](../../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Software Testing](../../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20%28SQA%29/🧪%20Software%20Testing/Software%20Testing.md)
 
 ↗ [Code Sanitizer](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Code%20Sanitizer.md)
-↗ [Fuzzing (Concrete Execution)](../Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
-↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
+↗ [Fuzzing (Concrete Execution)](../Fuzzing%20%28Concrete%20Execution%29/Fuzzing%20%28Concrete%20Execution%29.md)
+↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29/Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29.md)
 
-↗ [Program Profiling & Dynamic Instrumentation Tools](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools.md)
-- ↗ [Intel Pin - A Dynamic Binary Instrumentation Tool](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Dynamic%20Instrumentation%20Tools/Intel%20Pin%20-%20A%20Dynamic%20Binary%20Instrumentation%20Tool.md)
-- ↗ [QBDI (QuarkslaB Dynamic binary Instrumentation)](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Dynamic%20Instrumentation%20Tools/QBDI%20(QuarkslaB%20Dynamic%20binary%20Instrumentation).md)
-- ↗ [Frida](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Dynamic%20Instrumentation%20Tools/Frida.md)
+↗ [Program Profiling & Dynamic Instrumentation Tools](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools.md)
+- ↗ [Intel Pin - A Dynamic Binary Instrumentation Tool](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Dynamic%20Instrumentation%20Tools/Intel%20Pin%20-%20A%20Dynamic%20Binary%20Instrumentation%20Tool.md)
+- ↗ [QBDI (QuarkslaB Dynamic binary Instrumentation)](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Dynamic%20Instrumentation%20Tools/QBDI%20%28QuarkslaB%20Dynamic%20binary%20Instrumentation%29.md)
+- ↗ [Frida](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Dynamic%20Instrumentation%20Tools/Frida.md)
 
 
 ### Other Resources

@@ -5,12 +5,15 @@
 
 
 ## Res
+### Related Topics
+
+
+### Other Resources
+
 
 
 ## Intro
 VGGNet is a Convolutional Neural Network architecture proposed by Karen Simonyan and Andrew Zisserman from the University of Oxford in 2014. This paper mainly focuses on the effect of the convolutional neural network depth on its accuracy. You can find the original paper of VGGNet which is titled [Very Deep Convolutional Networks for Large Scale Image Recognition](https://arxiv.org/abs/1409.1556).
-
-
 
 ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230707085109.png)
 <small>MACROARCHITECTURE OF VGG16</small>

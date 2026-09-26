@@ -10,12 +10,19 @@
 
 ↗ [FRP (Functional Reactive Programming)](../../../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/RX%20%28ReactiveX%29/FRP%20%28Functional%20Reactive%20Programming%29/FRP%20%28Functional%20Reactive%20Programming%29.md)
 
+↗ [LISP-Based Languages](../LISP-Based%20Languages/LISP-Based%20Languages.md)
+↗ [Lisp](../LISP-Based%20Languages/Lisp/Lisp.md)
+↗ [Scheme](../LISP-Based%20Languages/Scheme/Scheme.md)
+↗ [CL (Common Lisp)](../LISP-Based%20Languages/CL%20%28Common%20Lisp%29/CL%20%28Common%20Lisp%29.md)
+
 
 ### Other Resources
 
 
 
 ## Intro
+> 🔗 https://en.wikipedia.org/wiki/Functional_programming
+
 In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), **functional programming** is a [programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm "Programming paradigm") where programs are constructed by [applying](https://en.wikipedia.org/wiki/Function_application "Function application") and [composing functions](https://en.wikipedia.org/wiki/Function_composition_\(computer_science\) "Function composition (computer science)"). It is a [declarative programming](https://en.wikipedia.org/wiki/Declarative_programming "Declarative programming") paradigm in which function definitions are [trees](https://en.wikipedia.org/wiki/Tree_\(data_structure\) "Tree (data structure)") of [expressions](https://en.wikipedia.org/wiki/Expression_\(computer_science\) "Expression (computer science)") that map [values](https://en.wikipedia.org/wiki/Value_\(computer_science\) "Value (computer science)") to other values, rather than a sequence of [imperative](https://en.wikipedia.org/wiki/Imperative_programming "Imperative programming") [statements](https://en.wikipedia.org/wiki/Statement_\(computer_science\) "Statement (computer science)") which update the [running state](https://en.wikipedia.org/wiki/State_\(computer_science\) "State (computer science)") of the program.
 
 In functional programming, functions are treated as [first-class entities](https://en.wikipedia.org/wiki/First-class_object "First-class object"), meaning that they can be bound to names (including local [identifiers](https://en.wikipedia.org/wiki/Identifier_\(computer_languages\) "Identifier (computer languages)")), passed as [arguments](https://en.wikipedia.org/wiki/Parameter_\(computer_programming\) "Parameter (computer programming)"), and [returned](https://en.wikipedia.org/wiki/Return_value "Return value") from other functions, just as any other [data type](https://en.wikipedia.org/wiki/Data_type "Data type") can. This allows programs to be written in a [declarative](https://en.wikipedia.org/wiki/Declarative_programming "Declarative programming") and [composable](https://en.wikipedia.org/wiki/Composability "Composability") style, where small functions are combined in a [modular](https://en.wikipedia.org/wiki/Modular_programming "Modular programming") manner.

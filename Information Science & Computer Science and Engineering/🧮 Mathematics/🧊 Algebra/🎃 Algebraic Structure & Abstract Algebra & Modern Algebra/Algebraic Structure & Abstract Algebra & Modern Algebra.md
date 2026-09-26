@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Set Theory & Axiomatic Set Theory](../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
-- ↗ [Natural Number & Peano Axioms](../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
-- ↗ [Lattice (Order Theory)](../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
-↗ [Category Theory (范畴论)](../../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+↗ [Set Theory & Axiomatic Set Theory](../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+- ↗ [Natural Number & Peano Axioms](../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+- ↗ [Lattice (Order Theory)](../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
+↗ [Category Theory (范畴论)](../../🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
 
-↗ [σ-Algebra (sigma Algebra)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(sigma%20Algebra)/σ-Algebra%20(sigma%20Algebra).md)
+↗ [σ-Algebra (sigma Algebra)](../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/σ-Algebra%20%28sigma%20Algebra%29/σ-Algebra%20%28sigma%20Algebra%29.md)
 
 
 ### Learning Resources
@@ -623,6 +623,12 @@ The collection of all structures of a given type (same operations and same laws)
 ##### Properties
 ![Screenshot 2023-01-05 at 7.31.14 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.31.14%20PM.png)
 #### Congruence & Quotient Algebra
+> [!links]
+> ↗ [Equivalence Relation](../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Equivalence%20Relation.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Congruence_relation
+
+In [abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra "Abstract algebra"), a **congruence relation** (or simply **congruence**) is an [equivalence relation](https://en.wikipedia.org/wiki/Equivalence_relation "Equivalence relation") on an [algebraic structure](https://en.wikipedia.org/wiki/Algebraic_structure "Algebraic structure") (such as a [group](https://en.wikipedia.org/wiki/Group_\(mathematics\) "Group (mathematics)"), [ring](https://en.wikipedia.org/wiki/Ring_\(mathematics\) "Ring (mathematics)"), or [vector space](https://en.wikipedia.org/wiki/Vector_space "Vector space")) that is compatible with the structure in the sense that [algebraic operations](https://en.wikipedia.org/wiki/Algebraic_operation "Algebraic operation") done with equivalent elements will yield equivalent elements. Every congruence relation has a corresponding [quotient](https://en.wikipedia.org/wiki/Quotient_\(universal_algebra\) "Quotient (universal algebra)") structure, whose elements are the [equivalence classes](https://en.wikipedia.org/wiki/Equivalence_class "Equivalence class") (or **congruence classes**) for the relation.
 
 
 ### Relations Between Algebraic Systems
@@ -663,7 +669,7 @@ The collection of all structures of a given type (same operations and same laws)
 
 ## Outlines of Algebraic Structures
 > [!links]
-> ↗ [Universal Algebra (泛代数)](👽%20Universal%20Algebra%20(泛代数)/Universal%20Algebra%20(泛代数).md)
+> ↗ [Universal Algebra (泛代数)](👽%20Universal%20Algebra%20%28泛代数%29/Universal%20Algebra%20%28泛代数%29.md)
 
 ![](../../../../Assets/Pics/Screenshot%202025-10-07%20at%2018.56.35.png)
 <small>Tegmark, M. (1998). Is “the theory of everything” merely the ultimate ensemble theory?. Annals of Physics, 270(1), 1-51. <a>https://arxiv.org/abs/gr-qc/9704009</a></small>

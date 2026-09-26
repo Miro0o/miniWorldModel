@@ -143,6 +143,9 @@ The official GitHub page for the survey paper "A Survey on Large Language Models
 https://github.com/EdPuth/LLMs-based-Fuzzer-Survey
 This repo list the core literature in the field of fuzzing test, large language model, and LLM-based fuzzer. Most of papers are selected from authoritative platform such as google scholar, and was published recently. It will be helpful for the researchers who wants to develop LLMs-based fuzzer. Feel free to send a pull request.
 
+https://arxiv.org/abs/2412.20324
+Meng, Ruijie, et al. "Aflnet five years later: On coverage-guided protocol fuzzing." _IEEE Transactions on Software Engineering_ 51.4 (2025): 960-974.
+
 
 ### Tools & Projects
 🚧 https://github.com/Microsvuln/Awesome-AFL
@@ -436,6 +439,7 @@ Once the developer fixes the bug, [ClusterFuzz](https://google.github.io/oss-fu
 This chapter will help project developers understand how to leverage OSS-Fuzz to both fuzz a project on your private instance and delegate the fuzzing computation to Google. Additionally, security researchers will learn how to run a single harness on an existing project, extend a harness, or reproduce an individual crash.
 
 
+
 ## Fuzzing Algorithm & General Working Procedure
 ### General Fuzzing Procedure
 ![|800](https://appsec.guide/docs/fuzzing/intro.svg)
@@ -534,6 +538,11 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 > ↗ [Dynamics Code Analysis Tools (DCAT)](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29.md)
 > - ↗ [AFL-based](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Fuzzers%20&%20Fuzzing%20Project/AFL-based.md)
 > - ↗ [OSS-Fuzz](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Fuzzers%20&%20Fuzzing%20Project/OSS-Fuzz.md)
+> 
+> ↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md)
+
+> 📄 https://www.mdpi.com/3897016
+> Sun, Y.; Andersen, V.H.; Choudhary, G.; Dragoni, N. On the Challenges and Opportunities of Fuzzing via Large Language Models: A Review. _Appl. Sci._ **2026**, _16_, 5160. https://doi.org/10.3390/app16105160
 #### Genealogy
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2015.52.12.png)
 <small>Genealogy tracing significant fuzzers’ lineage back to Miller et al.’s seminal work. Each node in the same row represents a set of fuzzers appeared in the same year. A solid arrow from X to Y indicates that Y cites, references, or otherwise uses techniques from X. 📗 denotes that a paper describing the work was published.</small>
@@ -559,13 +568,18 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.35.25.png)
 <small>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). <a>http://www.jos.org.cn/1000-9825/7323.htm</a></small>
 #### Hybrid Fuzzers
-↗ [Symbolic & Concolic Execution Engines](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Symbolic%20&%20Concolic%20Execution%20Engines/Symbolic%20&%20Concolic%20Execution%20Engines.md)
-- ↗ [SymCC](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Symbolic%20&%20Concolic%20Execution%20Engines/SymCC.md)
+↗ [Symbolic & Concolic Execution Engines](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Symbolic%20&%20Concolic%20Execution%20Engines/Symbolic%20&%20Concolic%20Execution%20Engines.md)
+- ↗ [SymCC](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Symbolic%20&%20Concolic%20Execution%20Engines/SymCC.md)
 
 ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29/Symbolic%20Execution%20&%20Concolic%20Execution%20%28SSE%20&%20DSE%29.md)
 
 
-### 👉 Fuzzer by PUT
+### 👉 Fuzzer by SUT /PUT
+↗ [Protocol Fuzzing](Fuzzing%20by%20SUT%20&%20PUT/Fuzzing%20by%20Target%20System/Protocol%20Fuzzing.md)
+↗ [Kernel Fuzzing](Fuzzing%20by%20SUT%20&%20PUT/Fuzzing%20by%20Target%20System/Kernel%20Fuzzing.md)
+
+↗ [C & CPP Fuzzing](Fuzzing%20by%20SUT%20&%20PUT/Fuzzing%20by%20Programming%20Languages/C%20&%20CPP%20Fuzzing.md)
+↗ [Rust Fuzzing](Fuzzing%20by%20SUT%20&%20PUT/Fuzzing%20by%20Programming%20Languages/Rust%20Fuzzing.md)
 
 
 ### 👉 Fuzzing by Testing Mode
@@ -592,6 +606,7 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 ##### Directly Generation
 ##### Seed + Mutation
 ##### Fuzzing with Historical Bugs
+
 ##### Complex Input Constraints
 
 
@@ -814,3 +829,4 @@ Many researchers are tackling the challenges of harness creation by proposing va
 - [Automated Fuzzing Harness Generation for Library APIs and Binary Protocol Parsers](https://arxiv.org/abs/2306.15596)
 - [FuzzGen: Automatic Fuzzer Generation](https://www.usenix.org/system/files/sec20fall_ispoglou_prepub.pdf)
 - [Automated Fuzzing Harness Generation for Library APIs and Binary Protocol Parsers](https://www.researchgate.net/publication/371909352_Automated_Fuzzing_Harness_Generation_for_Library_APIs_and_Binary_Protocol_Parsers)
+

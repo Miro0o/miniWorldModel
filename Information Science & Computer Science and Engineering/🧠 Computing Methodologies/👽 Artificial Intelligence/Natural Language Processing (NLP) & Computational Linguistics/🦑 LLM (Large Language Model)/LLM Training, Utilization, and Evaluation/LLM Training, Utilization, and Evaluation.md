@@ -16,6 +16,9 @@
 ↗ [Running ML on GPU](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Running%20ML%20on%20GPU.md)
 
 
+### Learning Resources
+
+
 ### Other Resources
 🏠 https://github.com/RUCAIBox/LLMSurvey
 A collection of papers and resources related to Large Language Models.
@@ -32,11 +35,14 @@ The Smol Training Playbook: The Secrets to Building World-Class LLMs
 ## Intro
 > [!links]
 > ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
-> ↗ [Model Tuning & Hyperparameter Optimization (HPO)](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29.md)
 > ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 
 ### Common LLM Hyperparameters Summery
+> [!links]
+> ↗ [Model Training (Classical ML & NN)](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Training%20%28Classical%20ML%20&%20NN%29.md)
+> ↗ [Model Tuning & Hyperparameter Optimization (HPO)](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29.md)
+
 > 🤖 GPT-5
 > https://chatgpt.com/share/69cc36d7-c9ec-832b-876d-1f0749d09017
 
@@ -164,7 +170,11 @@ Such alignment, which is accomplished via the three-step framework with SFT and 
 
 
 
-## 4️⃣ Evaluation
+## 4️⃣ Evaluation & Benchmarking
+> [!links]
+> ↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
+
+
 ### Basic Ability
 
 
@@ -172,10 +182,6 @@ Such alignment, which is accomplished via the three-step framework with SFT and 
 
 
 ### Empirical Evaluation
-
-
-### 🧐 Evaluation Approaches & Benchmarking
-↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
 
 
 ### 🤔 Issues & Improvements

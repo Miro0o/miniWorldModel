@@ -9,19 +9,19 @@
 ↗ [🌲 Road To CS](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
 ↗ [Intro to Computer Science](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
-↗ [(CS) Academics Roadmap & Tool Chain](../../../Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
+↗ [(CS) Academics Roadmap & Tool Chain](../../../Academics%20🎓%20%28In%20CS%29/🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 
 ↗ [Data Breaches in Real World](../../../CyberSecurity/Data%20Security/Data%20Breaches%20in%20Real%20World.md)
-↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20%28CTI%29%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20%28CTI%29%20&%20Reconnaissance.md)
 
-↗ [DarkWeb](../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
+↗ [DarkWeb](../../../CyberSecurity/Network%20%28&%20Communication%29%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
 
-↗ [RSS (Really Simple Syndication)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Markup%20Languages%20&%20Data%20Representation/RSS%20(Really%20Simple%20Syndication).md)
+↗ [RSS (Really Simple Syndication)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Markup%20Languages%20&%20Data%20Representation/RSS%20%28Really%20Simple%20Syndication%29.md)
 
 ↗ [News Focus (Non-IT)](../../../../Assets/World%20Chronology/News%20Focus%20(Non-IT)/News%20Focus%20(Non-IT).md)
 ↗ [News Focus (IT-exclusive)](../../../../Assets/World%20Chronology/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
 
-↗ [China (HK, MO, TW) 🇨🇳](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md)
+↗ [China (HK, MO, TW) 🇨🇳](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/China%20%28HK,%20MO,%20TW%29%20🇨🇳.md)
 ↗ [International Opportunities](../../../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
 
 

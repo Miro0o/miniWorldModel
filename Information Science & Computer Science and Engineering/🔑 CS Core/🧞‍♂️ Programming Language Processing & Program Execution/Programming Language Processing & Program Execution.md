@@ -123,9 +123,9 @@ hardware perspective:
 
 
 ### 1️⃣ Compilation (Compile-time)
-↗ [Program Language Processing & Compilation Theory (Compile-time)](🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29.md)
-- ↗ [Compilation Phase](🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/Compilation%20Phase.md)
-- ↗ [Assembly Phase](🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Assembly%20Phase/Assembly%20Phase.md)
+↗ [Program Transformation & Compilation Theory (Compile-time)](🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
+- ↗ [Compilation Phase](🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/Compilation%20Phase.md)
+- ↗ [Assembly Phase](🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Assembly%20Phase/Assembly%20Phase.md)
 
 ↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
 - ↗ [SCA (Static Code Analysis) & SAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md)
@@ -133,7 +133,7 @@ hardware perspective:
 
 ### 2️⃣/3️⃣ Linking (Link-time) & Loading (Load-time)
 ↗ [Program Linking & Loading (Link-time & Load-time)](🚽%20Program%20Linking%20&%20Loading%20%28Link-time%20&%20Load-time%29/Program%20Linking%20&%20Loading%20%28Link-time%20&%20Load-time%29.md)
-↗ [Assembly Phase](🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Assembly%20Phase/Assembly%20Phase.md)
+↗ [Assembly Phase](🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Assembly%20Phase/Assembly%20Phase.md)
 
 
 ### 4️⃣ Execution (Runtime)

@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Hierarchy of Internet & ISP & IBP](../Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites)/Hierarchy%20of%20Internet%20&%20ISP%20&%20IBP.md)
+↗ [Hierarchy of Internet & ISP & IBP](../Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20%28TCP&IP%20Protocol%20Suites%29/Hierarchy%20of%20Internet%20&%20ISP%20&%20IBP.md)
 
-↗ [中国电子信息产业 (信息传输、软件和信息技术服务业)](../../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国电子信息产业%20(信息传输、软件和信息技术服务业)/中国电子信息产业%20(信息传输、软件和信息技术服务业).md)
+↗ [中国电子信息产业 (信息传输、软件和信息技术服务业)](../../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国电子信息产业%20%28信息传输、软件和信息技术服务业%29/中国电子信息产业%20%28信息传输、软件和信息技术服务业%29.md)
 
 
 ### Other Resources

@@ -134,11 +134,11 @@ The venue families come from the repository’s AI, PL, Security, SE, and OS ven
 
 Venue guide anchors:
 
-- [Artificial Intelligence venues and people](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/Application/Artificial Intelligence Related Venues and People/Artificial Intelligence Related Venues and People.md>)
-- [PL venues and people](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/PL (Program Languages) Related Venues and People.md>)
-- [Security venues and people](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/Sec (Security) Related Venues and People.md>)
-- [SE venues and people](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/SE (Software Engineering) Related Venues and People.md>)
-- [OS venues and people](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/OS (Operating System) Related Venues and People.md>)
+- [Artificial Intelligence venues and people](<../../../../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People/Artificial%20Intelligence%20Related%20Venues%20and%20People.md>)
+- [PL venues and people](<../../../../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/PL%20%28Programming%20Languages%29%20Related%20Venues%20and%20People.md>)
+- [Security venues and people](<../../../../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Sec%20%28Security%29%20Related%20Venues%20and%20People.md>)
+- [SE venues and people](<../../../../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/SE%20%28Software%20Engineering%29%20Related%20Venues%20and%20People.md>)
+- [OS venues and people](<../../../../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/OS%20%28Operating%20System%29%20Related%20Venues%20and%20People.md>)
 
 ## Source And Metadata Policy
 

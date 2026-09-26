@@ -9,9 +9,9 @@
 ↗ [Philosophy & Its History](../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Math History & Development](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
-↗ [Science & Application](../../Science%20&%20Application/Science%20&%20Application.md)
-↗ [Natural Science & Engineering and Technology](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
-↗ [Social Science](../../Science%20&%20Application/Social%20Science/Social%20Science.md)
+↗ [Science & Engineering](../../Science%20&%20Engineering/Science%20&%20Engineering.md)
+↗ [Natural Science & Engineering and Technology](../../Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
+↗ [Social Science](../../Science%20&%20Engineering/Social%20Science/Social%20Science.md)
 
 ↗ [History of Computing](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/History%20of%20Computing.md)
 - ↗ [The Development History of AI](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/The%20Development%20History%20of%20AI.md)
@@ -19,8 +19,8 @@
 ↗ [History of Information Systems & Security Systems](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 ↗ [History of Computer Networking and Communication Evolution](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 
-↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
-↗ [U.S. Science & Technology History](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Science%20&%20Technology%20History/U.S.%20Science%20&%20Technology%20History.md)
+↗ [中国科学技术史](../../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
+↗ [U.S. Science & Technology History](../../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Science%20&%20Technology%20History/U.S.%20Science%20&%20Technology%20History.md)
 
 
 ### Other Resources
@@ -134,7 +134,7 @@ Natural philosophy was transformed by the Scientific Revolution that transpired 
 
 
 ### China & East Asia
-↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
+↗ [中国科学技术史](../../Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Countries%20Overview/Asia/China%20%28HK,%20MO,%20TW%29%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
 
 
 ### Pre-Columbian Mesoamerica

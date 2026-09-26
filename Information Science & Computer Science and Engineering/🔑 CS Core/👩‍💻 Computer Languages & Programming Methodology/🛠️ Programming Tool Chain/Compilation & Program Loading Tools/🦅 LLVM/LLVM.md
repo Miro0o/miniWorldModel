@@ -10,9 +10,13 @@
 
 
 ### Related Topics
+↗ [KLEE](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Symbolic%20&%20Concolic%20Execution%20Engines/KLEE.md)
 
 
-### Other Resoruces
+### Learning Resources
+
+
+### Other Resources
 [llvm-tutorial - 部分中文翻译教程](https://github.com/hunterzju/llvm-tutorial.)
 
 
@@ -29,7 +33,6 @@ LLVM began as a [research project](https://llvm.org/pubs/2004-01-30-CGO-LLVM.htm
 
 ### 🎼 Components
 The primary sub-projects of LLVM are:
-
 1. The **LLVM Core** libraries provide a modern source- and target-independent [optimizer](https://llvm.org/docs/Passes.html), along with [code generation support](https://llvm.org/docs/CodeGenerator.html) for many popular CPUs (as well as some less common ones!) These libraries are built around a [well specified](https://llvm.org/docs/LangRef.html) code representation known as the LLVM intermediate representation ("LLVM IR"). The LLVM Core libraries are [well documented](https://llvm.org/docs/), and it is particularly easy to invent your own language (or port an existing compiler) to use [LLVM as an optimizer and code generator](https://llvm.org/docs/tutorial/).
 2. **[Clang](https://clang.llvm.org/)** is an "LLVM native" C/C++/Objective-C compiler, which aims to deliver amazingly fast compiles, extremely useful [error and warning messages](https://clang.llvm.org/diagnostics.html) and to provide a platform for building great source level tools. The [Clang Static Analyzer](https://clang-analyzer.llvm.org/) and [clang-tidy](https://clang.llvm.org/extra/clang-tidy/) are tools that automatically find bugs in your code, and are great examples of the sort of tools that can be built using the Clang frontend as a library to parse C/C++ code.
 3. The **[LLDB](https://lldb.llvm.org/)** project builds on libraries provided by LLVM and Clang to provide a great native debugger. It uses the Clang ASTs and expression parser, LLVM JIT, LLVM disassembler, etc so that it provides an experience that "just works". It is also blazing fast and much more memory efficient than GDB at loading symbols.

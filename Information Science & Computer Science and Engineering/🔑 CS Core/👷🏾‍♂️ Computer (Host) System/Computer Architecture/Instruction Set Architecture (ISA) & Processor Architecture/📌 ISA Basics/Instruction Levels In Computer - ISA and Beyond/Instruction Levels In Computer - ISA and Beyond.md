@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
+↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
 
 
 ### Other Resources
@@ -48,21 +48,21 @@ An [assembler](https://en.wikipedia.org/wiki/Assembler_\(computing\) "Assembler
 
 ## 👉 Bytecode
 ↗ [Bytecode](Bytecode.md)
-↗ [JVM Instrument Set & Java Bytecode](../../RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
-↗ [Java Bytecode](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
+↗ [JVM Instrument Set & Java Bytecode](../../RISC%20%28Reduced%20Instruction%20Set%20Computer%29/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+↗ [Java Bytecode](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
 
 
 
 ## 👉 Machine Code <=> Assembly Code 
 ↗ [Machine Code](Machine%20Code.md)
-↗ [ASM (Assembly Languages)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ASM%20(Assembly%20Languages).md)
+↗ [ASM (Assembly Languages)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/ASM%20%28Assembly%20Languages%29.md)
 
 
 
 ## 👉 Microcode & Micro-Program
 ↗ [Microcode & Micro-Program](Microcode%20&%20Micro-Program.md)
 
-↗ [FAQ /👉 Do microcode and micro-operation mean the same?](../../../../Firmware%20and%20Computer%20(OS)%20Booting/FAQ.md#👉%20Do%20microcode%20and%20micro-operation%20mean%20the%20same?)
+↗ [FAQ /👉 Do microcode and micro-operation mean the same?](../../../../Firmware%20and%20Computer%20%28OS%29%20Booting/FAQ.md#👉%20Do%20microcode%20and%20micro-operation%20mean%20the%20same?)
 
 
 ### Micro-Instructions & Micro-Operations
