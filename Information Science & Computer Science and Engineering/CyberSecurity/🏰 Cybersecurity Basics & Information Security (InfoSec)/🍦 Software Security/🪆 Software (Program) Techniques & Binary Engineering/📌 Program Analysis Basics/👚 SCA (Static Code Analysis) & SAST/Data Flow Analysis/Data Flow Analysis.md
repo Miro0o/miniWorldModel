@@ -30,7 +30,7 @@
 
 ## Intro
 > [!links]
-> ↗ [CFG (Control Flow Graph) & ICFG (Interprocedure CFG)](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/CFG%20(Control%20Flow%20Graph)%20&%20ICFG%20(Interprocedure%20CFG).md)
+> ↗ [CFG (Control Flow Graph) & ICFG (Interprocedure CFG)](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/CFG%20(Control%20Flow%20Graph)%20&%20ICFG%20(Interprocedure%20CFG).md)
 
 > 程序分析 - 南京大学
 
@@ -48,6 +48,14 @@ Input and Output States
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.11.42.png)
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.10.38.png)
+
+
+### Sources and Sinks (Drains)
+> 🔗 https://en.wikipedia.org/wiki/Sources_and_sinks#
+
+In the [physical sciences](https://en.wikipedia.org/wiki/Physical_sciences "Physical sciences"), [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering") and [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), **sources and sinks** (sometimes **sources and drains**) is an analogy used to describe properties of [vector fields](https://en.wikipedia.org/wiki/Vector_field "Vector field"). It generalizes the idea of fluid sources and sinks (like the [faucet](https://en.wikipedia.org/wiki/Tap_\(valve\) "Tap (valve)") and [drain](https://en.wikipedia.org/wiki/Drain_\(plumbing\) "Drain (plumbing)") of a bathtub) across different scientific disciplines. These terms describe points, regions, or entities where a vector field originates or terminates. This analogy is usually invoked when discussing the [continuity equation](https://en.wikipedia.org/wiki/Continuity_equation "Continuity equation"), the [divergence](https://en.wikipedia.org/wiki/Divergence "Divergence") of the field and the [divergence theorem](https://en.wikipedia.org/wiki/Divergence_theorem "Divergence theorem"). The analogy sometimes includes **swirls** and **saddles** for points that are neither of the two.
+
+In the case of [electric fields](https://en.wikipedia.org/wiki/Electric_field "Electric field") the idea of flow is replaced by [field lines](https://en.wikipedia.org/wiki/Field_line "Field line") and the sources and sinks are [electric charges](https://en.wikipedia.org/wiki/Electric_charge "Electric charge").
 
 
 

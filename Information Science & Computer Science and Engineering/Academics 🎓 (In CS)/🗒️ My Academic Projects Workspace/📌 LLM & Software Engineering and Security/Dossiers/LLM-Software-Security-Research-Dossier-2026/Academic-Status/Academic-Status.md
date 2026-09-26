@@ -135,7 +135,7 @@ The venue families come from the repository’s AI, PL, Security, SE, and OS ven
 Venue guide anchors:
 
 - [Artificial Intelligence venues and people](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/Application/Artificial Intelligence Related Venues and People/Artificial Intelligence Related Venues and People.md>)
-- [PL venues and people](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/PL (Program Languages) Related Venues and People.md>)
+- [PL venues and people](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/PL (Programming Languages) Related Venues and People.md>)
 - [Security venues and people](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/Sec (Security) Related Venues and People.md>)
 - [SE venues and people](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/SE (Software Engineering) Related Venues and People.md>)
 - [OS venues and people](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/OS (Operating System) Related Venues and People.md>)

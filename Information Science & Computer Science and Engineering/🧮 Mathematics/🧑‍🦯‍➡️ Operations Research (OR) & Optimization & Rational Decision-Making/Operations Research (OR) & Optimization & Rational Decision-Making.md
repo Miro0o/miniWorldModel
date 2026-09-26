@@ -20,6 +20,12 @@
 ↗ [Decision Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Decision%20Science/Decision%20Science.md)
 ↗ [Management Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Management%20Science/Management%20Science.md)
 
+↗ [Constraint Solving & Theorem Proving](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+↗ [SAT Solving & Algorithms](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md)
+
+
+### Learning Resources
+
 
 ### Other Resources
 [🎬 最优化理论与方法]: https://space.bilibili.com/507629580/channel/seriesdetail?sid=1880592

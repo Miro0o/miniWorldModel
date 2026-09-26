@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Key Management Life Circle](../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/Key%20Management%20Life%20Circle.md)
-↗ [Data Security Life Circle (DSLC)](../../Data%20Security/Data%20Security%20Life%20Circle%20(DSLC).md)
+↗ [Data Security Life Circle (DSLC)](../../Data%20Security/Data%20Security%20Life%20Circle%20(DSLC)/Data%20Security%20Life%20Circle%20(DSLC).md)
 
 
 

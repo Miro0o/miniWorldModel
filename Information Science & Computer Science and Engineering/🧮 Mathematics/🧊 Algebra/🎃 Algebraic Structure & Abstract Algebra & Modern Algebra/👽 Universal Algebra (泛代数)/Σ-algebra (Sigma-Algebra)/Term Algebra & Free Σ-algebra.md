@@ -15,21 +15,15 @@
 ↗ [Models of Computation & Abstract Machines](../../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 ↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
 
+↗ [Programming Language Theory (PLT)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+↗ [Program Equivalence and Metatheory](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Program%20Equivalence%20and%20Metatheory/Program%20Equivalence%20and%20Metatheory.md)
+↗ [Equational Reasoning & Term Rewriting](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Program%20Equivalence%20and%20Metatheory/Equational%20Reasoning%20&%20Term%20Rewriting/Equational%20Reasoning%20&%20Term%20Rewriting.md)
+
 
 ### Learning Resources
-Baader, Franz, and Tobias Nipkow. Term rewriting and all that. Cambridge university press, 1998.
-
- C. Kirchner and H. Kirchner. Rewriting, Solving, Proving. 1999-2006. Available at https://wiki.bordeaux.inria.fr/Helene-Kirchner/lib/exe/fetch.php?media=wiki:rsp.pdf.
 
 
 ### Other Resources
-https://inst.eecs.berkeley.edu/~cs294-260/sp24/2024-01-22-term-rewriting
-Term Rewriting
-- Monday, January 22, 2024
-- Equational reasoning is a powerful technique in programming languages and many other domains. In essence, you have a set of equations and you are interested in the consequences of these equations. Maybe you want to prove that two expressions are equal, or maybe you want to simplify an expression.
-- Term rewriting is the most common mechanism for equational reasoning; it’s the basis of optimizing compilers, theorem provers, computer algebra systems, and many other systems that need to reason about programs.
-- The purpose of this lecture is to give a (rather quick) introduction to term rewriting, so we can discuss various applications via papers in later discussions.
-
 
 
 ## Intro

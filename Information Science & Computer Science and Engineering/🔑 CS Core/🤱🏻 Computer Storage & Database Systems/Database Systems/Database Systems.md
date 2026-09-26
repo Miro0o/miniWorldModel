@@ -252,8 +252,8 @@ Risk Management & Data Recovery
 ↗ [Risk Management (In Cyberspace)](../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/Risk%20Management%20(In%20Cyberspace).md)
 
 ↗ [Data Security](../../../CyberSecurity/Data%20Security/Data%20Security.md)
-- ↗ [Data Protection & Security](../../../CyberSecurity/Data%20Security/Data%20Protection%20&%20Security/Data%20Protection%20&%20Security.md)
-- ↗ [Data Disaster Recovery](../../../CyberSecurity/Data%20Security/Data%20Protection%20&%20Security/Data%20Disaster%20Recovery/Data%20Disaster%20Recovery.md)
+- ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../../CyberSecurity/Data%20Security/📌%20Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies)/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies).md)
+- ↗ [Data Disaster Recovery](../../../CyberSecurity/Data%20Security/Data%20Security%20Life%20Circle%20(DSLC)/Data%20Disaster%20Recovery.md)
 
 
 

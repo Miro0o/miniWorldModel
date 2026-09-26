@@ -66,7 +66,7 @@ Sixth, software change needs lifecycle governance. Review comments, issue-change
 The target venue set comes from the local field notes:
 
 - [Artificial Intelligence Related Venues and People](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/Application/Artificial Intelligence Related Venues and People/Artificial Intelligence Related Venues and People.md>)
-- [PL Related Venues and People](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/PL (Program Languages) Related Venues and People.md>)
+- [PL Related Venues and People](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/PL (Programming Languages) Related Venues and People.md>)
 - [SE Related Venues and People](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/SE (Software Engineering) Related Venues and People.md>)
 - [OS Related Venues and People](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/OS (Operating System) Related Venues and People.md>)
 - [Security Related Venues and People](<../../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/Sec (Security) Related Venues and People.md>) — used only to enforce the cross-dossier boundary.

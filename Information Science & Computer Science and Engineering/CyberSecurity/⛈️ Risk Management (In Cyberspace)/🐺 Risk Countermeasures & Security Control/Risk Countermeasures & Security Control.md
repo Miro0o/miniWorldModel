@@ -24,7 +24,7 @@
 - ↗ [Virtualization Security](../../System%20Security/Virtualization%20Security/Virtualization%20Security.md)
 
 ↗ [Data Security](../../Data%20Security/Data%20Security.md)
-- ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../Data%20Security/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies)/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies).md)
+- ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../Data%20Security/📌%20Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies)/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies).md)
 - ↗ [🤔 Content Security & Public Opinion Control 🤔](../../Data%20Security/🤔%20Content%20Security%20&%20Public%20Opinion%20Control%20🤔/🤔%20Content%20Security%20&%20Public%20Opinion%20Control%20🤔.md)
 
 ↗ [Network (& Communication) Security](../../Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
