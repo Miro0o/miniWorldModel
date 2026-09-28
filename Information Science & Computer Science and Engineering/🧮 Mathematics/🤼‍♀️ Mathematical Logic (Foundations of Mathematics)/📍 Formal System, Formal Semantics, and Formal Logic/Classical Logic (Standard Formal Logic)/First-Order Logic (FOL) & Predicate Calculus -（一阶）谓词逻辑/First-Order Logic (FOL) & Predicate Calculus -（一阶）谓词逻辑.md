@@ -90,6 +90,7 @@ The foundations of first-order logic were developed independently by [Gottlob F
 
 
 ## Reasoning in Predicate Logic
+> [!links]
 > ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 
 

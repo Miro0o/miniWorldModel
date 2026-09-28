@@ -72,6 +72,7 @@ Since a syntactic analysis can never be sound (accepting only good programs), we
 
 
 ### Formal Language and Formal Syntax
+> [!links]
 > ↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 > 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html#sec:2.1
@@ -110,6 +111,7 @@ Finally, we have _type 0_ languages, is a set of words which can be recognized
 
 ## Syntactic Analysis (Pattern Match) In Practice
 ### Type-3 Regular Language: Regular Expression
+> [!links]
 > ↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
 > ↗ [regex (Regular Expression)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/📌%20regex%20(Regular%20Expression)/regex%20(Regular%20Expression).md)
 
@@ -117,6 +119,7 @@ Finally, we have _type 0_ languages, is a set of words which can be recognized
 
 
 ### Type-2 Context-Free Language: Grammars and Parsers 🤔
+> [!links]
 > ↗ [Context-Free Languages (CFL) & Push-Down Automata (PDA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Free%20Languages%20(CFL)%20&%20Push-Down%20Automata%20(PDA).md)
 > 
 > 🔗 [Backus–Naur form - Wikipedia](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form)
@@ -156,6 +159,7 @@ You can write your own queries using the [Query Syntax](https://tree-sitter.git
 
 
 ### Type-1 Context-Sensitive Language: Trees 🤔
+> [!links]
 > ↗ [Context-Sensitive Languages (CSL) & Linear-Bounded Automata (LBA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Sensitive%20Languages%20(CSL)%20&%20Linear-Bounded%20Automata%20(LBA).md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html#sec:3.3
@@ -184,6 +188,7 @@ public class Simple {
 
 We call recursively matching a pattern on a tree structure a fold. Actually, there is whole discipline in math devoted to this problem called Abstract Algebra (↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)). Here they have spend a lot of effort categorizing all kinds of folds (and unfolds). Here we refer to patterns as _Initial Algebras_, and we can see them as the nodes of the tree, where each edge is replaced by a hole. E.g ., the initial algebra of a list of $x$'s $[x]$ is $F[x]a=(x,a)+⊥$. The most common is called a catamorphism: $$𝚌𝚊𝚝𝚊:(F_Xa→a)→X→a$$which says I can reduce any structure $X$, with initial algebra $F_X$, given a function that given the algebra with have computed the value for all of your children, what is the value I should replace you with in your parent.
 #### Tree Traversals & Traversal Order
+> [!links]
 > ↗ [Tree Basics](../../../../../../🧮%20Mathematics/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Tree%20Basics.md)
 > ↗ [Basic Searching](../../../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Basic%20Searching/Basic%20Searching.md)
 > 
@@ -241,6 +246,7 @@ int reverse_dfs(node n){
 
 
 ### Type-0 R.E. Language: Bespoke ⭐
+> [!links]
 > ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 > ↗ [SCA (Static Code Analysis) & SAST](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
 > ↗ [Static Code Analysis Tools (SCAT)](../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Static%20Code%20Analysis%20Tools%20(SCAT).md)
