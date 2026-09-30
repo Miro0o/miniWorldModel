@@ -522,7 +522,7 @@ tbd.
 - ↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 ↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
-###### 自我意识的感性与理性 + 个体的思考（认识）与行动（实践）
+###### 「自我意识的」感性与理性 + 「个体的」思考/认识 与行动/实践
 
 > [!links]
 > ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
@@ -550,7 +550,8 @@ or（感性，理性）X （认识，实践）
 - 理性思考
 - 感性思考指导下的行动
 - 理性思考指导下的行动
-###### （信息宇宙 = 观测宇宙 = 自我意识）vs 实际客观宇宙：不可判定性 ⭐
+
+###### 「信息宇宙 = 观测宇宙 = 自我意识」vs 实际客观宇宙：不可判定性 ⭐
 自我意识产生了思考，产生了信息，也自然产生了对实际客观宇宙的投射，即 自我意识对实际客观宇宙的认识（构建世界模型）。对于这种认识（观测宇宙）和实际客观宇宙之间的关系，我的观点如下：
 - 这种自我意识对实际客观宇宙的认识，即人类所理解的宇宙的样貌（观测宇宙/世界模型），与实际的客观宇宙是否相等？这实际是一个不可判定的问题。我们只能提出一些方法去近似地让观测宇宙向实际宇宙逼近，但是我们永远无法确定二者是否重合。
 
@@ -847,13 +848,18 @@ tbd.
 
 ![computing.excalidraw | 800](Assets/Illustrations/Philosophy/computing.excalidraw.md)
 ###### 知识的分类
-- 基于感性的知识 vs 基于理性的知识
+- 基于人的自我意识的特点：
+	- 基于感性的知识 vs 基于理性的知识
+- 基于思考对象的领域：
 	- 艺术文化知识 vs 科学技术知识（包括自然科学和社会科学）
-- 关于人（个体）的知识 vs 关于人（群体）的知识 vs 关于自然（非人）的知识
-- 哲学知识与具体知识：
-	- 哲学是对人类认知边界的思考。人类一切前沿领域的研究都是哲学思考。
-	- 对于人类认知边界范围以内的知识，它们就是我们对宇宙已经建立起的知识，即观测宇宙。这些知识就是我们的具体学科，比如数学，物理，语言，音乐，金融，等等。
-###### 理性的思考与实践：科学与技术
+	- 关于人（个体）的知识 vs 关于人（群体）的知识 vs 关于自然（非人）的知识
+	- 哲学知识与具体知识：
+		- 哲学是对人类认知边界的思考。人类一切前沿领域的研究都是哲学思考。
+		- 对于人类认知边界范围以内的知识，它们就是我们对宇宙已经建立起的知识，即观测宇宙。这些知识就是我们的具体学科，比如数学，物理，语言，音乐，金融，等等。
+- 基于知识检验的方法：
+	- 科学 vs 推理 vs 经验 vs 其他
+---
+**理性的思考与实践：科学与技术**
 ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Academics 🎓 (In CS)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 - ↗ [(CS) Academics Roadmap & Tool Chain](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
@@ -865,10 +871,23 @@ tbd.
 科学知识：经过科学实验得到的信息/知识。
 科学研究：科学实验的过程。一般流程：提出问题，做出假设（提出解决问题的方法），设计实验，进行实验验证假设，实验结果分析，得出结论。
 科学技术：使用科学知识作为理论指导，进行的宇宙/自然的实践活动。
-###### 感性的思考与实践：文化与艺术
+
+---
+**感性的思考与实践：文化与艺术**
 文化：一切与人有关的信息/知识/思想。
 艺术：对文化进行提炼，进行的文化实践活动。
-##### 思考，知识，与学习
+###### 知识的形成与学术研究
+```
+知识的形成 /学术研究：思考（问题驱动）-> 思考的总结（知识）
+
+理论：发现问题 -> 解释框架/方法 -> 解释问题
+												==> 某种检验 + 形成知识/扩充理论
+实践：发现问题 -> 解决框架/方法 -> 解决问题
+
+
+（可以和知识的分类对照来看）
+``` 
+###### 思考，知识，与学习，教育?
 ↗ [Language Learning & (Second) Language Acquisition](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/Language%20Learning%20&%20(Second)%20Language%20Acquisition.md)
 ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Education/Education.md)
 
@@ -877,9 +896,14 @@ tbd.
 
 ↗ [Neuroscience](Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Neuroscience/Neuroscience.md)
 
+> 人是如何学习的？这个过程是怎样的？
 
-人是如何学习的？这个过程是怎样的？
-
+Human Knowledge
+- About the "Truth" and Pursuit-of-Truth
+- Academic Disciplines 🎓
+- Academic Research & Creation of Knowledge
+- Knowledge Learning & Education ⭐
+- Knowledge Management & Explore
 ##### 信息运动的自动化：计算机智能（狭义的智能）👈
 ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
