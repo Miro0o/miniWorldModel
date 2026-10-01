@@ -90,6 +90,11 @@ The Calculus of Computation Decision Procedures with Applications to Verificatio
 Aaron R. Bradley · Zohar Manna
 
 
+https://link.springer.com/book/10.1007/978-3-030-05156-3
+[Flemming Nielson](https://link.springer.com/book/10.1007/978-3-030-05156-3#author-0-0) , [Hanne Riis Nielson](https://link.springer.com/book/10.1007/978-3-030-05156-3#author-0-1)
+Formal Methods: An Appetizer, 2019
+
+
 ### Other Resources
 
 

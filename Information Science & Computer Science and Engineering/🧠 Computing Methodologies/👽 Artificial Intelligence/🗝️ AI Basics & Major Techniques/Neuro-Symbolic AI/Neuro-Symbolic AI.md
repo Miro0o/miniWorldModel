@@ -101,6 +101,12 @@ In 2025, the adoption of neurosymbolic AI, an approach that integrates neural ne
 >original problem (spec) -> search space (state representation) -> generator /proposer /heuristics + search /optimizer + verifier + evaluator (objective)
 >
 >---
+>Research directions /ideas
+>1. how to design better search space /state representation?
+>2. make use of optimizers, not to replace them with llm
+>3. make use of verifier
+>
+>---
 >Proposed problem:
 >- relational verification with program alignment 
 >- abstract-transformer synthesis 

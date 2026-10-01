@@ -14,6 +14,9 @@
 ↗ [GPU (Graphics Processing Unit)](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Accelerators%20%28Coprocessors%29/GPU%20%28Graphics%20Processing%20Unit%29/GPU%20%28Graphics%20Processing%20Unit%29.md)
 ↗ [Compute Unified Device Architecture & CUDA Programming](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20%28IO%20Devices%29%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
 
+↗ [Computer Graphics (CG)](../../../../../🧠%20Computing%20Methodologies/Computer%20Graphics%20%28CG%29/Computer%20Graphics%20%28CG%29.md)
+↗ [Computer Vision (CV)](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Computer%20Vision%20%28CV%29/Computer%20Vision%20%28CV%29.md)
+
 
 ### Other Resources
 [Game Engines | Github Collection](https://github.com/collections/game-engines)

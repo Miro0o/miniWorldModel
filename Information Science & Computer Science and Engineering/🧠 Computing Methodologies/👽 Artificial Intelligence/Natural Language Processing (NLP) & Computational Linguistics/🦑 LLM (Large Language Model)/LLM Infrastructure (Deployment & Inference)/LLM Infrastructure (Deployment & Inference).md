@@ -23,6 +23,8 @@
 ↗ [vLLM](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
 ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
 
+↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
+
 
 ### Papers
 https://github.com/0xSero/turboquant
@@ -134,25 +136,36 @@ https://bojieli.github.io/ai-infra-book/
 更深层的变化是**编程抽象的上移：从操作系统到模型上下文**。传统的操作系统、编译器和硬件要为事先未知的各种程序提供通用能力，系统优化总要在可编程性与性能之间取舍。如今 LLM 成了最重要的应用，从算子执行到分布式调度，都可以针对特定的模型和加速器架构优化；模型设计也开始反过来适应硬件。从某种意义上说，**模型成了 LLM 时代的操作系统，AI Infra 成了 LLM 时代的计算机体系结构**。
 贯穿全书的方法是**从约束推导设计**：先明确任务与质量要求，列出计算、存储、通信和依赖关系，对照硬件的容量、带宽和算力做数量级估算。这类估算人容易出错，AI 也一样：只算权重读取而忘了 KV 缓存，按峰值算力推算速度而不查带宽能否供给，把工作平分给多张卡却遗漏卡间通信，漏掉任何一项，结论都可能偏离几倍甚至几个数量级。从 FPGA 加速 Bing 搜索排序、昇腾 AKG 算子生成到 UB 万卡互联，反复出现的是同一条线索：**数据搬移**。本书因此反复追问五个问题：**搬什么、搬多少、搬几次、经过哪里、谁必须等它。**
 
-|章|主题|主要问题|
-|---|---|---|
-|1|[初识 AI Infra](https://bojieli.github.io/ai-infra-book/manuscripts/01-%E5%88%9D%E8%AF%86%20AI%20Infra.html)|一次生成需要多少显存、计算和数据读写？|
-|2|[模型架构](https://bojieli.github.io/ai-infra-book/manuscripts/02-%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84.html)|注意力、历史状态与专家结构如何改变系统需求？|
-|3|[推理与训练负载](https://bojieli.github.io/ai-infra-book/manuscripts/03-%E6%8E%A8%E7%90%86%E4%B8%8E%E8%AE%AD%E7%BB%83%E8%B4%9F%E8%BD%BD.html)|任务阶段、到达模式和状态寿命如何影响资源需求？|
-|4|[加速器架构](https://bojieli.github.io/ai-infra-book/manuscripts/04-%E5%8A%A0%E9%80%9F%E5%99%A8%E6%9E%B6%E6%9E%84.html)|如何在计算、存储、带宽、功耗与成本之间取舍？|
-|5|[算子与运行时](https://bojieli.github.io/ai-infra-book/manuscripts/05-%E7%AE%97%E5%AD%90%E4%B8%8E%E8%BF%90%E8%A1%8C%E6%97%B6.html)|融合、复用、并发和调度如何减少执行开销？|
-|6|[超节点](https://bojieli.github.io/ai-infra-book/manuscripts/06-%E8%B6%85%E8%8A%82%E7%82%B9.html)|多设备协作如何平衡容量、吞吐和同步代价？|
-|7|[数据中心网络](https://bojieli.github.io/ai-infra-book/manuscripts/07-%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%BD%91%E7%BB%9C.html)|网络带宽、通信方式和拥塞怎样影响计算效率？|
-|8|[推理优化](https://bojieli.github.io/ai-infra-book/manuscripts/08-%E6%8E%A8%E7%90%86%E4%BC%98%E5%8C%96.html)|批处理、KV 管理、卸载与推测解码何时有效？|
-|9|[分布式推理](https://bojieli.github.io/ai-infra-book/manuscripts/09-%E5%88%86%E5%B8%83%E5%BC%8F%E6%8E%A8%E7%90%86.html)|如何放置计算和状态，并处理扩缩容与恢复？|
-|10|[训练系统](https://bojieli.github.io/ai-infra-book/manuscripts/10-%E8%AE%AD%E7%BB%83%E7%B3%BB%E7%BB%9F.html)|怎样安排显存、通信和重算，让训练更高效？|
-|11|[资源调度与运行环境](https://bojieli.github.io/ai-infra-book/manuscripts/11-%E8%B5%84%E6%BA%90%E8%B0%83%E5%BA%A6%E4%B8%8E%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83.html)|模型服务和工具环境如何共享资源，减少等待？|
-|12|[端边云协同](https://bojieli.github.io/ai-infra-book/manuscripts/12-%E7%AB%AF%E8%BE%B9%E4%BA%91%E5%8D%8F%E5%90%8C.html)|任务放在本地、边缘还是云端，怎样兼顾效果、延迟和成本？|
+| 章   | 主题                                                                                                                                                         | 主要问题                        |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| 1   | [初识 AI Infra](https://bojieli.github.io/ai-infra-book/manuscripts/01-%E5%88%9D%E8%AF%86%20AI%20Infra.html)                                                 | 一次生成需要多少显存、计算和数据读写？         |
+| 2   | [模型架构](https://bojieli.github.io/ai-infra-book/manuscripts/02-%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84.html)                                                   | 注意力、历史状态与专家结构如何改变系统需求？      |
+| 3   | [推理与训练负载](https://bojieli.github.io/ai-infra-book/manuscripts/03-%E6%8E%A8%E7%90%86%E4%B8%8E%E8%AE%AD%E7%BB%83%E8%B4%9F%E8%BD%BD.html)                     | 任务阶段、到达模式和状态寿命如何影响资源需求？     |
+| 4   | [加速器架构](https://bojieli.github.io/ai-infra-book/manuscripts/04-%E5%8A%A0%E9%80%9F%E5%99%A8%E6%9E%B6%E6%9E%84.html)                                         | 如何在计算、存储、带宽、功耗与成本之间取舍？      |
+| 5   | [算子与运行时](https://bojieli.github.io/ai-infra-book/manuscripts/05-%E7%AE%97%E5%AD%90%E4%B8%8E%E8%BF%90%E8%A1%8C%E6%97%B6.html)                               | 融合、复用、并发和调度如何减少执行开销？        |
+| 6   | [超节点](https://bojieli.github.io/ai-infra-book/manuscripts/06-%E8%B6%85%E8%8A%82%E7%82%B9.html)                                                             | 多设备协作如何平衡容量、吞吐和同步代价？        |
+| 7   | [数据中心网络](https://bojieli.github.io/ai-infra-book/manuscripts/07-%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%BD%91%E7%BB%9C.html)                               | 网络带宽、通信方式和拥塞怎样影响计算效率？       |
+| 8   | [推理优化](https://bojieli.github.io/ai-infra-book/manuscripts/08-%E6%8E%A8%E7%90%86%E4%BC%98%E5%8C%96.html)                                                   | 批处理、KV 管理、卸载与推测解码何时有效？      |
+| 9   | [分布式推理](https://bojieli.github.io/ai-infra-book/manuscripts/09-%E5%88%86%E5%B8%83%E5%BC%8F%E6%8E%A8%E7%90%86.html)                                         | 如何放置计算和状态，并处理扩缩容与恢复？        |
+| 10  | [训练系统](https://bojieli.github.io/ai-infra-book/manuscripts/10-%E8%AE%AD%E7%BB%83%E7%B3%BB%E7%BB%9F.html)                                                   | 怎样安排显存、通信和重算，让训练更高效？        |
+| 11  | [资源调度与运行环境](https://bojieli.github.io/ai-infra-book/manuscripts/11-%E8%B5%84%E6%BA%90%E8%B0%83%E5%BA%A6%E4%B8%8E%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83.html) | 模型服务和工具环境如何共享资源，减少等待？       |
+| 12  | [端边云协同](https://bojieli.github.io/ai-infra-book/manuscripts/12-%E7%AB%AF%E8%BE%B9%E4%BA%91%E5%8D%8F%E5%90%8C.html)                                         | 任务放在本地、边缘还是云端，怎样兼顾效果、延迟和成本？ |
 
 
 ### Other Resources
 https://faichou.com/posts/llm-cache/
 LLM 缓存机制：从计费到原理
+
+https://www.aleksagordic.com/blog (Aleksa Gordić blog)
+https://www.aleksagordic.com/blog/collective-operations
+Inside TPU and GPU Clusters: The Anatomy of Collective Communication
+- A deep dive into All-Gather, Reduce-Scatter, All-Reduce, and All-to-All across TPU and GPU clusters.
+https://www.aleksagordic.com/blog/matmul
+Inside NVIDIA GPUs: Anatomy of high performance matmul kernels
+- From GPU architecture and PTX/SASS to warp-tiling and deep asynchronous tensor core pipelines
+https://www.aleksagordic.com/blog/vllm
+Inside vLLM: Anatomy of a High-Throughput LLM Inference System
+- From paged attention, continuous batching, prefix caching, specdec, etc. to multi-GPU, multi-node dynamic serving at scale
 
 
 

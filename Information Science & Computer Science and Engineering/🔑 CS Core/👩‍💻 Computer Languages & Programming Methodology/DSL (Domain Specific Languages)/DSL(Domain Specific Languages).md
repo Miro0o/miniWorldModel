@@ -9,10 +9,14 @@
 ↗ [Database Languages](Database%20Languages/Database%20Languages.md)
 ↗ [HDL (Hardware Definition Languages)](../../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20%28Hardware%20Definition%20Languages%29/HDL%20%28Hardware%20Definition%20Languages%29.md)
 ↗ [Web Templating Apps & Frameworks](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Apps%20&%20Frameworks/Web%20Templating%20Apps%20&%20Frameworks.md)
+↗ [AI Compilers & GPU Operators DSL](../🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
 
 ↗ [Media Formats & Standards & Codec (Coder-Decoder)](../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20%28Coder-Decoder%29/Media%20Formats%20&%20Standards%20&%20Codec%20%28Coder-Decoder%29.md)
 
 ↗ [CSS (Cascading Style Sheets)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/CSS%20%28Cascading%20Style%20Sheets%29/CSS%20%28Cascading%20Style%20Sheets%29.md)
+
+
+### Other Resources
 
 
 
