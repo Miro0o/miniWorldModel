@@ -7,23 +7,25 @@
 ## Res
 ### Related Topics
 ↗ [Software Engineering](../../../Software%20Engineering/Software%20Engineering.md)
-- ↗ [The Internet Development (and Web Development)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
+- ↗ [The Internet Development (and Web Development)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/The%20Internet%20Development%20%28and%20Web%20Development%29.md)
 - ↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
-↗ [IDC & Data Center Networking](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
-- ↗ [Google Aquila](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/Google%20Aquila.md)
+↗ [IDC & Data Center Networking](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20%28HPN%29%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
+- ↗ [Google Aquila](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20%28HPN%29%20&%20IDC%20Technologies/Google%20Aquila.md)
 
-↗ [LLM Infrastructure (Deployment & Inference)](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
+↗ [LLM Infrastructure (Deployment & Inference)](../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
 
-↗ [GPU (Graphics Processing Unit)](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
-↗ [ASIC (Application-Specific Integrated Circuit)](../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
-- ↗ [Google TPU (Tensor Processing Unit)](../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Full-Customized%20ASIC/Google%20TPU%20(Tensor%20Processing%20Unit)/Google%20TPU%20(Tensor%20Processing%20Unit).md)
+↗ [GPU (Graphics Processing Unit)](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Accelerators%20%28Coprocessors%29/GPU%20%28Graphics%20Processing%20Unit%29/GPU%20%28Graphics%20Processing%20Unit%29.md)
+↗ [ASIC (Application-Specific Integrated Circuit)](../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/ASIC%20%28Application-Specific%20Integrated%20Circuit%29.md)
+- ↗ [Google TPU (Tensor Processing Unit)](../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/Full-Customized%20ASIC/Google%20TPU%20%28Tensor%20Processing%20Unit%29/Google%20TPU%20%28Tensor%20Processing%20Unit%29.md)
+
+↗ [AI Compilers & GPU Operators DSL](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
 
 ↗ [Distributed Computing & Systems](../../Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 ↗ [Distributed Systems Implementations](../../Distributed%20Computing%20&%20Systems/💸%20Distributed%20Systems%20Implementations/Distributed%20Systems%20Implementations.md)
 
 
 ### AI x Cloud Services (租卡平台)
-↗ [Google Colab](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20Service%20Porviders/Google%20Cloud%20Plantform%20(GCP)/Google%20Computing/Google%20Colab.md)
+↗ [Google Colab](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20Service%20Porviders/Google%20Cloud%20Plantform%20%28GCP%29/Google%20Computing/Google%20Colab.md)
 https://bitdeer.com/en/
 https://autodl.com/login
 阿里云DSW

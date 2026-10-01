@@ -200,19 +200,19 @@ ISSTA 一般读作「一斯塔」。
 
 **获奖论文（研究轨）**
 
-1. [Gleipner - A Benchmark for Gadget Chain Detection in Java Deserialization Vulnerabilities](https://doi.org/10.1145/3715711 )
-2. [Mystique: Automated Vulnerability Patch Porting with Semantic and Syntactic-Enhanced LLM](https://doi.org/10.1145/3715718 )
-3. [UnitCon: Synthesizing Targeted Unit Tests for Java Runtime Exceptions](https://doi.org/10.1145/3729362 )
-4. [COFFE: A Code Efficiency Benchmark for Code Generation](https://doi.org/10.1145/3715727 )
-5. [Pinning Is Futile: You Need More Than Local Dependency Versioning to Defend Against Supply Chain Attacks](https://doi.org/10.1145/3715728 )
-6. [Hallucination Detection in Large Language Models with Metamorphic Relations](https://doi.org/10.1145/3715735 )
-7. [QSF: Multi-Objective Optimization based Efficient Solving for Floating-Point Constraints](https://doi.org/10.1145/3715739 )
-8. [A Causal Learning Framework for Enhancing Robustness of Source Code Models](https://doi.org/10.1145/3729387 )
-9. [Demystifying LLM-based Software Engineering Agents](https://doi.org/10.1145/3715754 )
-10. [PDCAT: Preference-Driven Compiler Auto-Tuning](https://doi.org/10.1145/3715756 )
-11. [Expressing and Checking Statistical Assumptions](https://doi.org/10.1145/3729391 )
-12. [Less is More: On the Importance of Data Quality for Unit Test Generation](https://doi.org/10.1145/3715778 )
-13. [Why the Proof Fails in Different Versions of Theorem Provers: An Empirical Study of Compatibility Issues in Isabelle](https://doi.org/10.1145/3715787 )
+1. [Gleipner - A Benchmark for Gadget Chain Detection in Java Deserialization Vulnerabilities](https://doi.org/10.1145/3715711)
+2. [Mystique: Automated Vulnerability Patch Porting with Semantic and Syntactic-Enhanced LLM](https://doi.org/10.1145/3715718)
+3. [UnitCon: Synthesizing Targeted Unit Tests for Java Runtime Exceptions](https://doi.org/10.1145/3729362)
+4. [COFFE: A Code Efficiency Benchmark for Code Generation](https://doi.org/10.1145/3715727)
+5. [Pinning Is Futile: You Need More Than Local Dependency Versioning to Defend Against Supply Chain Attacks](https://doi.org/10.1145/3715728)
+6. [Hallucination Detection in Large Language Models with Metamorphic Relations](https://doi.org/10.1145/3715735)
+7. [QSF: Multi-Objective Optimization based Efficient Solving for Floating-Point Constraints](https://doi.org/10.1145/3715739)
+8. [A Causal Learning Framework for Enhancing Robustness of Source Code Models](https://doi.org/10.1145/3729387)
+9. [Demystifying LLM-based Software Engineering Agents](https://doi.org/10.1145/3715754)
+10. [PDCAT: Preference-Driven Compiler Auto-Tuning](https://doi.org/10.1145/3715756)
+11. [Expressing and Checking Statistical Assumptions](https://doi.org/10.1145/3729391)
+12. [Less is More: On the Importance of Data Quality for Unit Test Generation](https://doi.org/10.1145/3715778)
+13. [Why the Proof Fails in Different Versions of Theorem Provers: An Empirical Study of Compatibility Issues in Isabelle](https://doi.org/10.1145/3715787)
 
 #### 2024
 
@@ -351,7 +351,7 @@ ISSTA 一般读作「一斯塔」。
 #### 2026
 
 - **Conference:** [ISSTA 2026, October 7–9, Oakland, co-located with SPLASH](https://conf.researchr.org/home/issta-2026)
-- **Submissions → accepted:** the [official program](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers) lists accepted papers, but a final public submission denominator was not available as of 2026-09-26.
+- **Submissions → accepted:** **888 → 210 (23.6%)**, confirmed by [program co-chair Marcel Böhme’s public report](https://www.linkedin.com/posts/marcelboehme1_issta-issta-issta-activity-7477276219525386240-Tt3s); papers are listed in the [official research program](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers).
 - **Award:** ACM SIGSOFT Distinguished Paper Awards — **19 papers** ([official list / program](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers); checked 2026-09-26). The conference is upcoming and its program is still marked tentative.
 - **Format:** oral research-paper sessions plus posters, tool demonstrations, REBASE industry track, artifacts, doctoral symposium, SRC, and shared SPLASH workshops.
 
@@ -386,15 +386,15 @@ ISSTA 一般读作「一斯塔」。
 
 **获奖论文（研究轨）**
 
-1. [LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models](https://doi.org/10.1145/3728885 )
-2. [Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection](https://doi.org/10.1145/3728887 )
-3. [Bridging the Gaps Between Graph Neural Networks and Data-Flow Analysis: The Closer, the Better](https://doi.org/10.1145/3728906 )
-4. [BinDSA: Efficient, Precise Binary-Level Pointer Analysis with Context-Sensitive Heap Reconstruction](https://doi.org/10.1145/3728928 )
-5. [Reinforcement Learning-based Fuzz Testing for the Gazebo Robotic Simulator](https://doi.org/10.1145/3728942 )
-6. [Hulk: Exploring Data-Sensitive Performance Anomalies in DBMSs via Data-Driven Analysis](https://doi.org/10.1145/3728973 )
-7. [SWE-GPT: A Process-Centric Language Model for Automated Software Improvement](https://doi.org/10.1145/3728981 )
-8. [RouthSearch: Inferring PID Parameter Specification for Flight Control Program by Coordinate Search](https://doi.org/10.1145/3728904 )
-9. [Assessing Scene Generation Techniques for Testing COLREGS-Compliance of Autonomous Surface Vehicles](https://doi.org/10.1145/3728919 )
+1. [LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models](https://doi.org/10.1145/3728885)
+2. [Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection](https://doi.org/10.1145/3728887)
+3. [Bridging the Gaps Between Graph Neural Networks and Data-Flow Analysis: The Closer, the Better](https://doi.org/10.1145/3728906)
+4. [BinDSA: Efficient, Precise Binary-Level Pointer Analysis with Context-Sensitive Heap Reconstruction](https://doi.org/10.1145/3728928)
+5. [Reinforcement Learning-based Fuzz Testing for the Gazebo Robotic Simulator](https://doi.org/10.1145/3728942)
+6. [Hulk: Exploring Data-Sensitive Performance Anomalies in DBMSs via Data-Driven Analysis](https://doi.org/10.1145/3728973)
+7. [SWE-GPT: A Process-Centric Language Model for Automated Software Improvement](https://doi.org/10.1145/3728981)
+8. [RouthSearch: Inferring PID Parameter Specification for Flight Control Program by Coordinate Search](https://doi.org/10.1145/3728904)
+9. [Assessing Scene Generation Techniques for Testing COLREGS-Compliance of Autonomous Surface Vehicles](https://doi.org/10.1145/3728919)
 
 #### 2024
 

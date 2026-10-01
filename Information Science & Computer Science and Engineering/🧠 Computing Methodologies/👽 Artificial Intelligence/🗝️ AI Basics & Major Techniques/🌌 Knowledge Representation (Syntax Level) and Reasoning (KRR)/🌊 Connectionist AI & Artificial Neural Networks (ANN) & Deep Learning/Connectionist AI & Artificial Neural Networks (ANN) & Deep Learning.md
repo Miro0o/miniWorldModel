@@ -483,8 +483,8 @@ Regularization tries to stop a model from fitting the training data **too closel
 
 ↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 - ↗ [CNN (Convolutional Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/CNN%20%28Convolutional%20Neural%20Network%29.md)
-	- ↗ [VGGNet](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/VGGNet/VGGNet.md)
-	- ↗ [ResNet (Residual Networks)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/ResNet%20%28Residual%20Networks%29/ResNet%20%28Residual%20Networks%29.md)
+	- ↗ [VGGNet](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/CNN%20Architecture%20Design/VGGNet.md)
+	- ↗ [ResNet (Residual Networks)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/CNN%20Architecture%20Design/ResNet%20%28Residual%20Networks%29.md)
 	- etc.
 - ↗ [RNN (Recurrent Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/RNN%20%28Recurrent%20Neural%20Network%29.md)
 	- ↗ [LSTM (Long-Short Term Memories)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/LSTM%20%28Long-Short%20Term%20Memories%29/LSTM%20%28Long-Short%20Term%20Memories%29.md)

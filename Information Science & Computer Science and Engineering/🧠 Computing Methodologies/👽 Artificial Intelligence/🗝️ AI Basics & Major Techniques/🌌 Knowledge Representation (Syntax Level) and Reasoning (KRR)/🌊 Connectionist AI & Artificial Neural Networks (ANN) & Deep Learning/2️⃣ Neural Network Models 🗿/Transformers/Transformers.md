@@ -57,6 +57,20 @@ logits: (128000,)
 ```
 
 
+https://www.aleksagordic.com/blog (Aleksa Gordić blog)
+https://www.aleksagordic.com/blog/transformer
+Inside the Transformer: The Life of a Token (May 26, 2026)
+- A deep dive into a modern dense transformer: YaRN, hybrid attention, soft capping, QK normalization, FLOPs/token, cluster sizing, and more
+- This post is structured into seven parts:
+	1. [Transformer forward pass](https://www.aleksagordic.com/blog/transformer#cpt1): high-level flow of a token
+	2. [RMSNorm](https://www.aleksagordic.com/blog/transformer#cpt2): the normalization layer
+	3. [GeGLU MLP](https://www.aleksagordic.com/blog/transformer#cpt3): GELU-gated feedforward block
+	4. [MHA](https://www.aleksagordic.com/blog/transformer#cpt4): multi-head self-attention
+	5. [YaRN](https://www.aleksagordic.com/blog/transformer#cpt5): positional embeddings for long context
+	6. [Core Attention](https://www.aleksagordic.com/blog/transformer#cpt6): global + block local
+	7. [Transformer math](https://www.aleksagordic.com/blog/transformer#cpt7): FLOPs/token, cluster sizing, and more
+
+
 
 ## Intro: The Original Transformer Architecture
 > 🔗 https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)
