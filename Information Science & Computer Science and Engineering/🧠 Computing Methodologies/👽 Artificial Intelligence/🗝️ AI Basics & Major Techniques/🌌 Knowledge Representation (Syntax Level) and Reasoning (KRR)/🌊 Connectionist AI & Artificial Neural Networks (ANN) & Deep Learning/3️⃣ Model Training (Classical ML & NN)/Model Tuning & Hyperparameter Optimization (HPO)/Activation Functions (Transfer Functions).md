@@ -13,7 +13,7 @@
 
 
 ## Intro
-> 🤖 GPT5.6-Sol
+> 🤖 GPT5.5-Sol
 
 An **activation function** transforms a neuron’s preactivation and is usually responsible for a network’s nonlinearity. An **output link/normalizer** instead maps logits to the domain required by a prediction distribution, while a **gated unit** combines two learned projections. This distinction matters: softmax is normally an output normalization; GLU/SwiGLU describe a two-branch feed-forward unit; and ReLU6 or hard-swish are hardware-oriented approximations rather than independent modeling paradigms.
 

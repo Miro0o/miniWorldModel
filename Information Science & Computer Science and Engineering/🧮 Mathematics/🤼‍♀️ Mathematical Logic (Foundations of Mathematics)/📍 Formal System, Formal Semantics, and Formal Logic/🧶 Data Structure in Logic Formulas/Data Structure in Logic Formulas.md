@@ -7,7 +7,9 @@
 ## Res
 ### Related Topics
 ↗ [Data Structures](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20&%20Data%20Structure%20Basics/Data%20Structures/Data%20Structures.md)
-↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20(PL)%20-%20(零阶)%20命题逻辑.md)
+
+
+### Other Resources
 
 
 

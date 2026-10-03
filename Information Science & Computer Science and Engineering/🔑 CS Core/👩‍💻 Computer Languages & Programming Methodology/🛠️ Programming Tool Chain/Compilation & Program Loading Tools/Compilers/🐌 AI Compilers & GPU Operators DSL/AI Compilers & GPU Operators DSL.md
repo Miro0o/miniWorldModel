@@ -12,6 +12,7 @@
 
 ↗ [AI (Data) Infrastructure & Techniques Stack](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
 ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
+↗ [Attention & Efficient Operator Implementation](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
 
 ↗ [GPU (Graphics Processing Unit)](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
 ↗ [Compute Unified Device Architecture & CUDA Programming](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
@@ -27,6 +28,268 @@
 
 
 ## Intro
+> 🤖 GPT 6.0 Astra
+
+```
+                  API requests
+                       │
+                       ▼
+              Serving runtime
+           vLLM / TensorRT-LLM
+                       │
+              batching / KV cache
+              request scheduling
+                       │
+                       ▼
+              model computation
+                       │
+                       ▼
+              tensor compiler
+        Inductor / XLA / TensorRT
+                       │
+                       ▼
+                  GPU kernels
+    FlashAttention / GEMM / RMSNorm / MoE
+                       │
+                       ▼
+                 CUDA / GPU
+                       │
+                       ▼
+                  H100/B200...
+
+所以：
+- serving system 决定“哪些 request 什么时候运行”；
+- tensor compiler 决定“model graph 怎么变成高效计算”；
+- kernel 决定“一个具体计算怎样把 GPU 榨干”。
+
+这是三个不同层次。
+
+
+
+
+
+-----
+
+                         ┌───────────────────────────────┐
+                         │           User/API            │
+                         │ prompt / messages / sampling  │
+                         └───────────────┬───────────────┘
+                                         │
+                                         ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  1. API / Frontend                                              │
+│                                                                 │
+│ HTTP / gRPC / OpenAI-compatible API                             │
+│ authentication / rate limit / streaming / request parsing       │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  2. Tokenization + Request Construction                         │
+│                                                                 │
+│ text → token IDs                                                │
+│ sampling params / max_tokens / stop conditions                  │
+│ request metadata                                                │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  3. LLM Serving Engine                                          │
+│                                                                 │
+│ vLLM / TensorRT-LLM / SGLang / etc.                             │
+│                                                                 │
+│ ┌─────────────────────────────────────────────────────────────┐ │
+│ │ Scheduler                                                   │ │
+│ │ waiting queue → running set                                 │ │
+│ │ continuous batching / chunked prefill / priorities          │ │
+│ └─────────────────────────────────────────────────────────────┘ │
+│                                                                 │
+│ ┌─────────────────────────────────────────────────────────────┐ │
+│ │ KV-cache manager                                            │ │
+│ │ blocks/pages / allocation / eviction / prefix caching       │ │
+│ └─────────────────────────────────────────────────────────────┘ │
+│                                                                 │
+│ ┌─────────────────────────────────────────────────────────────┐ │
+│ │ Model runner                                                │ │
+│ │ build tensors / positions / page tables / metadata          │ │
+│ │ invoke model                                                │ │
+│ └─────────────────────────────────────────────────────────────┘ │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                one "engine iteration"
+                               │
+              ┌────────────────┴─────────────────┐
+              │                                  │
+              ▼                                  ▼
+       PREFILL phase                         DECODE phase
+   many prompt tokens/request             ~1 token/request
+   GEMM-heavy                             memory/KV-heavy
+              │                                  │
+              └────────────────┬─────────────────┘
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  4. Transformer computation graph                               │
+│                                                                 │
+│ Embedding                                                       │
+│   ↓                                                             │
+│ [RMSNorm                                                        │
+│   ↓                                                             │
+│ QKV projection ── GEMM                                          │
+│   ↓                                                             │
+│ RoPE                                                            │
+│   ↓                                                             │
+│ Attention ───────── FlashAttention / PagedAttention             │
+│   ↓                                                             │
+│ Output projection ─ GEMM                                        │
+│   ↓                                                             │
+│ Residual                                                        │
+│   ↓                                                             │
+│ RMSNorm                                                         │
+│   ↓                                                             │
+│ MLP: GEMM → activation → GEMM                                   │
+│      or MoE routing → experts → combine                         │
+│ ] × N layers                                                    │
+│   ↓                                                             │
+│ LM head GEMM                                                    │
+│   ↓                                                             │
+│ logits                                                          │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+
+              ┌───────────────────────────────────┐
+              │ 5. Operator / Graph implementation│
+              │                                   │
+              │ THREE paths coexist:              │
+              └───────────────────────────────────┘
+                    │          │           │
+       ┌────────────┘          │           └────────────┐
+       ▼                       ▼                        ▼
+
+  Hand-written /            Tensor compiler        Vendor libraries
+  specialized kernel
+                                                    cuBLAS
+  FlashAttention            TorchInductor           cuBLASLt
+  FlashInfer                XLA                     cuDNN
+  custom CUDA               TensorRT                NCCL
+  CUTLASS                    TensorRT-LLM plugins
+  Triton kernel
+       │                       │                        │
+       └──────────────┬────────┴───────────────┬────────┘
+                      ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  6. Kernel code generation / lowering                           │
+│                                                                 │
+│ e.g. Triton:                                                    │
+│                                                                 │
+│ tensor/loop IR                                                  │
+│       ↓                                                         │
+│ Triton IR                                                       │
+│       ↓                                                         │
+│ GPU-aware IR                                                    │
+│       ↓                                                         │
+│ LLVM/NVVM                                                       │
+│       ↓                                                         │
+│ PTX                                                             │
+│       ↓                                                         │
+│ machine code / cubin                                            │
+│                                                                 │
+│ or CUDA C++ → NVCC → PTX/cubin                                  │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  7. GPU execution runtime                                       │
+│                                                                 │
+│ CUDA Runtime API                                                │
+│ cudaLaunchKernel / cudaMemcpyAsync / CUDA Graph                 │
+│                    ↓                                            │
+│ CUDA Driver API                                                 │
+│ contexts / modules / streams / device memory                    │
+│                    ↓                                            │
+│ NVIDIA kernel driver                                            │
+│                    ↓                                            │
+│ GPU command queues                                              │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  8. GPU hardware                                                │
+│                                                                 │
+│ H100 / B200                                                     │
+│                                                                 │
+│ HBM                                                             │
+│  ↕                                                              │
+│ L2                                                              │
+│  ↕                                                              │
+│ SM ────────────────────────────────────────────────             │
+│ │ registers                                                     │
+│ │ shared memory / L1                                            │
+│ │ warp schedulers                                               │
+│ │ CUDA cores                                                    │
+│ │ Tensor Cores                                                  │
+│ │ load/store units                                              │
+│ │ TMA / async memory machinery                                  │
+│ └────────────────────────────────────────────────               │
+└─────────────────────────────────────────────────────────────────┘
+
+                 multi-GPU 时还横插一层：
+
+              GPU 0 ←→ NVLink/NVSwitch ←→ GPU 1
+                 ↕                         ↕
+                  └──── NCCL collectives ─┘
+               AllReduce / AllGather /
+               ReduceScatter / AllToAll
+```
+
+这里其实存在三个层次的“优化”
+Layer 1：数学 / algorithm optimization
+例如：
+```
+普通 attention
+↓
+FlashAttention
+```
+改变的是**计算组织算法**。
+
+Layer 2：Tensor compiler optimization
+例如：
+```
+MatMul
++
+Bias
++
+Activation
+```
+变成：
+```
+Fused op
+```
+决定：
+```
+fusion
+layout
+scheduling
+memory
+```
+Layer 3：Kernel optimization
+某个 fused operation 已经定了：
+```
+fused_attention
+```
+
+但还要决定：
+```
+tile size
+warps
+register usage
+shared memory
+pipeline stages
+```
+
+最后生成具体 kernel。
+
+三层不是完全分开的，但这个模型很有用。
 
 
 

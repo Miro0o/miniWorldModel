@@ -15,8 +15,16 @@
 ## Intro
 
 
+## Error
+### Training Error
+**Training error**: model error on the training data
 
-## Bias & Variance Tradeoff
+
+### Generalization Error
+**Generalization error**: model error on new data
+
+
+#### Bias & Variance Tradeoff
 > 🔗 https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff
 
 In [statistics](https://en.wikipedia.org/wiki/Statistics "Statistics") and [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning"), the **bias–variance tradeoff** describes the relationship between a model's complexity, the accuracy of its predictions, and how well it can make predictions on previously unseen data that were not used to train the model. In general, as the number of tunable parameters in a model increases, it becomes more flexible, and can better fit a training data set. That is, the model has lower error or lower [bias](https://en.wikipedia.org/wiki/Bias_of_an_estimator "Bias of an estimator"). However, for more flexible models, there will tend to be greater **variance** to the model fit each time we take a set of [samples](https://en.wikipedia.org/wiki/Sample_\(statistics\) "Sample (statistics)") to create a new training data set. It is said that there is greater [variance](https://en.wikipedia.org/wiki/Variance "Variance") in the model's [estimated](https://en.wikipedia.org/wiki/Estimation_theory "Estimation theory") [parameters](https://en.wikipedia.org/wiki/Statistical_parameter "Statistical parameter").
@@ -41,14 +49,34 @@ The **bias–variance decomposition** is a way of analyzing a learning algorit
 ![](../../../../../../../../Assets/Pics/Screenshot%202026-09-22%20at%2016.23.29.png)
 <small>Curves for training risk (dashed line) and test risk (solid line). (a) The classicalU-shaped risk curve arising from the bias-variance trade-off. (b) The double descent risk curve, which incorporates the U-shaped risk curve (i.e., the “classical” regime) together with the observed behavior from using high capacity function classes (i.e., the “modern” interpolating regime), separated by the interpolation threshold. The predictors to the right of the interpolation threshold have zero training risk.</small>
 
+##### Bias–variance Decomposition of MSE (Mean Squared Error)
 
-### Bias–variance Decomposition of MSE (Mean Squared Error)
+##### Approaches
+
+##### Applications
 
 
-### Approaches
+
+## Complexity
+### Model Complexity
+![Screenshot 2023-01-30 at 2.38.33 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.38.33%20PM.png)
 
 
-### Applications
+> [!Example] 🤔 Model Complexity Example: Decision Tree
+> ![Screenshot 2023-01-30 at 2.38.51 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.38.51%20PM.png)
+
+
+### Data Complexity
+![Screenshot 2023-01-30 at 2.39.50 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.39.50%20PM.png)
+
+
+
+## Underfitting & Overfitting
+![Screenshot 2023-01-30 at 2.36.10 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.36.10%20PM.png)
+
+![Screenshot 2023-01-30 at 2.37.22 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.37.22%20PM.png)
+
+↗ [Underfitting & Overfitting](../Underfitting%20&%20Overfitting.md)
 
 
 

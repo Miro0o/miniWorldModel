@@ -263,6 +263,11 @@ To conclude:
 ```
 Also in ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
+> [!quote] GPT 6.0
+> ↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
+> 
+> ![](../../../../Assets/Pics/ChatGPT%20Image%20Oct%202,%202026,%2008_51_24%20PM.png)
+
 > [!TIP]
 > The notations here $\implies$, $\vdash$, $\models$ can be confusing! 
 > We list the truth value of these logic connectives to make things clearer:

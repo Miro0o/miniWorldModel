@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [ResNet (Residual Networks)](../CNN%20(Convolutional%20Neural%20Network)/CNN%20Architecture%20Design/ResNet%20(Residual%20Networks).md)
+↗ [ResNet (Residual Networks)](../../CNN%20(Convolutional%20Neural%20Network)/CNN%20Architecture%20Design/ResNet%20(Residual%20Networks).md)
 
 
 ### Papers

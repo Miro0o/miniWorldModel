@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Boolean Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Boolean%20Algebra/Boolean%20Algebra.md)
+↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20(PL)%20-%20(零阶)%20命题逻辑.md)
 
 
 ### Other Resources
@@ -16,7 +18,7 @@
 > 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
 > Logic and Applications Jussi Rintanen, Department of Computer Science, Aalto University
 
-Any propositional formula can be turned to a case analysis on a single atomic proposition by using the following equivalence-preserving transformation (also known as **Shannon expansion**.)
+Any propositional formula can be turned to a case analysis on a single atomic proposition by using the following **equivalence-preserving transformation** (also known as **Shannon expansion**.)
 
 > 🔗 https://en.wikipedia.org/wiki/Binary_decision_diagram
 

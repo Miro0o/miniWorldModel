@@ -94,6 +94,10 @@ https://link.springer.com/book/10.1007/978-3-030-05156-3
 [Flemming Nielson](https://link.springer.com/book/10.1007/978-3-030-05156-3#author-0-0) , [Hanne Riis Nielson](https://link.springer.com/book/10.1007/978-3-030-05156-3#author-0-1)
 Formal Methods: An Appetizer, 2019
 
+https://www.imm.dtu.dk/~dibj/2025/faoc/main.pdf
+Formal Methods – My 50+ Years as an Engineer, Researcher and Scientist
+DINES BJØRNER, Technical University of Denmark, Denmark
+
 
 ### Other Resources
 
@@ -126,6 +130,7 @@ Formal Methods: An Appetizer, 2019
 
 > [!Summary]
 > ↗ [Formal System, Formal Semantics, and Formal Logic](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) ⭐
+> ↗ [Classical Logic (Standard Formal Logic)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
 >
 > A **formal language** is a precisely defined collection of **symbols** and **rules (grammar /syntax)** for combining those symbols into valid **expressions**.
 > - Formal language = Alphabets + Formal syntax

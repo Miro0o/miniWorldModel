@@ -25,11 +25,18 @@ Gradient Descent Algorithm Survey
 
 
 ## Intro
+Optimizer: 
+- raw gradient  --- optimizer --> update direction
+- $W_{t+1} = W_{t} - \eta (\text{update direction})$
+
+
 ### Problems in Deep Learning Optimization
 1. scalability
-	1. e.g. mini batch gd
+	1. e.g. ↗ [Mini-Batch Stochastic Gradient Methods](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/Stochastic%20Gradient%20Methods/Mini-Batch%20Stochastic%20Gradient%20Methods.md)
 2. efficiency
-	1. e.g. ↗ [Numerical Optimization](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/Numerical%20Optimization.md) "accelerated gd"
+	1. e.g. 
+		1. ↗ [Numerical Optimization](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/Numerical%20Optimization.md) 
+		2. ↗ [First-Order & Gradient Methods](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md) "accelerated gd"
 3. hyperparameter transferability
 	1. e.g. Maximal Update Parameterization（μP）
 
@@ -156,6 +163,37 @@ Notation: $\theta_t$ denotes parameters, $g_t$ a full or stochastic gradient, $\
 - **Optimizer versus distributed system:** ZeRO/FSDP shard states and parameters; FedAvg and PowerSGD specify communication/aggregation around local optimization.
 - **First- versus second-order:** Sophia, K-FAC, Shampoo, SOAP, and Muon use different curvature or matrix geometry; calling all of them “second-order” hides substantial differences.
 - **No universally best optimizer:** architecture, normalization, batch size, sparsity, precision, schedule, and tuning budget can change the ranking. AdamW is a common Transformer default; momentum SGD remains a strong vision/generalization baseline.
+
+
+
+## Gradient Descent & Classical Optimizers
+↗ [First-Order & Gradient Methods](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md)
+
+$x_{k+1}​=x_k​+α_k​d_k​$
+- how to choose direction $d_k$?
+- how to choose step size $\alpha_k$
+- other additional information /structure?
+
+problem: gradients on different directions vary a lot. for a single learning rate, it becomes tough for it to direct all directions.
+idea: 
+1. use momentum to counteract such variance of gradients in different directions; 
+2. use preconditioning to reshape the gradients before applying learning rate to them.
+	1. adam: coordinate-wise adaptive preconditioning-like scaling
+	2. muon: matrix-aware spectral reshaping
+
+
+### Stochastic Gradient Descent SGD
+↗ [Stochastic Gradient Descent (SGD)](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/Stochastic%20Gradient%20Methods/Stochastic%20Gradient%20Descent%20(SGD).md)
+
+
+### Adam
+
+
+### AdamW
+adam + l2 vs adamW
+
+
+### Muon
 
 
 

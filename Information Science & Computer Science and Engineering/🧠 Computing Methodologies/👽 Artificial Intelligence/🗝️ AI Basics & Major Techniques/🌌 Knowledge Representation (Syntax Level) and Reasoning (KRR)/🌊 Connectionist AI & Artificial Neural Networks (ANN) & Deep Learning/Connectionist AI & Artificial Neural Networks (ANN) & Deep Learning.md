@@ -333,11 +333,23 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > [!links]
 > ↗ [Model Training (Classical ML & NN)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Training%20(Classical%20ML%20&%20NN).md)
 > ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
+> ↗ [Model Validation & Metrics](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Validation%20&%20Metrics/Model%20Validation%20&%20Metrics.md)
+#### Loss Function
+> [!links]
+> ↗ [Objective & Cost & Loss Functions](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Objective%20&%20Cost%20&%20Loss%20Functions.md)
+
+A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
+#### Optimization: Gradient Descent & Back-propagation ⭐
+> [!links]
+> ↗ [Differential Calculus & Derivative of Function](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
+> 
+> ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
 > 
 > ![](../../../../../../Assets/Pics/Pasted%20image%2020260809132349.png)
 > <small>Example training process for neural networks supervised learning. <br> <a>https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa</a></small>
+> ↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md)
 > 
-> ↗ [Model Validation & Metrics](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Validation%20&%20Metrics/Model%20Validation%20&%20Metrics.md)
+> ↗ [First-Order & Gradient Methods](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md)
 
 > [!TIP]
 > https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
@@ -353,27 +365,46 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > - micrograd on github: [https://github.com/karpathy/micrograd](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblpTMk9PQTViUGt2RElMcEJNWmRTdkhUNnFRZ3xBQ3Jtc0ttV01BaEUtdW04bHF3UTlXNFQycWFiUUFjWGZ1TDZBWnNCWlA1WHpQckxmWE5rVHRvejNMWnFtd0k1M3JQRTN0RUhJRE5XSkRWeEVxeHNIc1VaTExVaXdxVVVUSUkwZEVJaXB3X3h4b0ZQNUJIR3dTUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fmicrograd&v=VMj-3S1tku0)
 > - jupyter notebooks I built in this video: [https://github.com/karpathy/nn-zero-t...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFxeGdRcGVWdXhjLV9RbHQyZm94djdLYm4tUXxBQ3Jtc0tuS1JKOFBIcTRadWtVY1BBZFUtY3d6U09iZ29FcjR4R2c2MzgtSlRjZWlnOEkxUFUtVUlZaTNXSkFRUXJSaXBxNkVER3NSbTMzbG9iQnBuckl5WWNWU1hOUTdwSGtuNmNLbUhUNWg1c1dWanpCYkZNUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fnn-zero-to-hero%2Ftree%2Fmaster%2Flectures%2Fmicrograd&v=VMj-3S1tku0)
 > - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
-#### Loss Function
-> [!links]
-> ↗ [Objective & Cost & Loss Functions](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Objective%20&%20Cost%20&%20Loss%20Functions.md)
 
-A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
-#### Gradient Descent & Optimization
-> [!links]
-> ↗ [Differential Calculus & Derivative of Function](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
-> 
-> ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
-> ↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md)
+neural net: a function $f_{\theta}(x)$
+- $x$: inputs to the neural net
+- $\theta$: weights (hyper-parameters) of the neural net, determine the function shape.
+- outputs: $\hat{y} = f_{\theta}(x)$
 
-> 🔗 https://en.wikipedia.org/wiki/Gradient_descent
+define the "ground truth": $y$
+define the difference between our prediction and the "truth": the loss function $L(x) = L(\hat{y}, y)$
+- for difference task types, the loss function or objective function varies.
+	- supervised learning
+	- unsupervised learning
+	- reinforcement learning
 
-**Gradient descent** is a method for unconstrained [mathematical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization "Mathematical optimization"). It is a [first-order](https://en.wikipedia.org/wiki/Category:First_order_methods "Category:First order methods") [iterative](https://en.wikipedia.org/wiki/Iterative_algorithm "Iterative algorithm") [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") for minimizing a [differentiable](https://en.wikipedia.org/wiki/Differentiable_function "Differentiable function") [multivariate function](https://en.wikipedia.org/wiki/Multivariate_function "Multivariate function").
+to train the neural net is to find a $\theta$ such that $\mathop{\min}\limits_{\theta} L(f_{\theta}(x), y)$
+- we don't have all the data to train the net, such the above formula is actually a minimum on a limited set of training data.
+	- denote the training data: $(x_1, y_1), (x_2, y_2), \cdots, (x_N, y_N)$
+	- the actual optimization: $\mathop{\min}\limits_{\theta} \frac{1}{N}\Sigma^{N}_{i=1} L(f_{\theta}(x_i), y_i)$
+- therefore, we need to design better neural architecture so that our $f_{\theta}$ have more inductive bias towards the potential problem structure we are going to solve with $f_{\theta}$, i.e. we want it performs well on the un-seen data. 
+	- inductive bias means, because the net cannot see all the data, we want the shape of our neural net function to lean towards those "reasonable" structure so that the model still approximate the perfect shape even with limited training data.
+	- ↗ [Model Validation & Metrics](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Validation%20&%20Metrics/Model%20Validation%20&%20Metrics.md)
+- this is the <a>architecture design</a> problems. (↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md))
 
-The idea is to take repeated steps in the opposite direction of the [gradient](https://en.wikipedia.org/wiki/Gradient "Gradient") (or approximate gradient) of the function at the current point, because this is the direction of steepest descent. Conversely, stepping in the direction of the gradient will lead to a trajectory that maximizes that function; the procedure is then known as _gradient ascent_. It is particularly useful in [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning") and [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence") for minimizing the cost or loss function.[[1]](https://en.wikipedia.org/wiki/Gradient_descent#cite_note-auto-1) Gradient descent should not be confused with [local search](https://en.wikipedia.org/wiki/Local_search_\(optimization\) "Local search (optimization)") algorithms, although both are [iterative methods](https://en.wikipedia.org/wiki/Iterative_method "Iterative method") for [optimization](https://en.wikipedia.org/wiki/Global_optimization "Global optimization").
+note that the neural net is the layered: $f_{\theta} = f_1 \circ f_2 \circ \cdots f_M$, where $f_i$ is the function of each layer.
+therefore, to update the $\theta$ of the whole neural net, we update each layer /function: $f_1 \circ f_2 \circ \cdots f_M$ against the loss function $L(x)$, for the input $x$.
+for each function $f_1 \circ f_2 \circ \cdots f_i \circ \cdots \circ f_M$:
+- denote the $W_i$ is the hyper-parameter for $\theta_i$ of $f_i$
+- therefore $\triangle W_i = \frac{\partial W_i}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}W_{i+2}}\cdot \frac{\partial W_{i+2}}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}W_{i+2}}\cdots \frac{\partial W_{M}}{\mathrm{d}L}$ (the chain rule)
 
-Gradient descent is generally attributed to [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy"), who first suggested it in 1847. [Jacques Hadamard](https://en.wikipedia.org/wiki/Jacques_Hadamard "Jacques Hadamard") independently proposed a similar method in 1907. Its convergence properties for non-linear optimization problems were first studied by [Haskell Curry](https://en.wikipedia.org/wiki/Haskell_Curry "Haskell Curry") in 1944, with the method becoming increasingly well-studied and used in the following decades.
+therefore, to update $\triangle W_i$, we calculate from the last layer (the last function $W_M$), then ==back-propagate== from $W_M$ to $W_{M-1}$, to $W_{M-2}$, ... to $W_{i+1}$, to $W_{i}$.
+through this process, we have the gradients $\triangle W_i$ for all neural net layer $f_i$ when we back-propagate to the first layer $W_0$.
 
-A simple extension of gradient descent, [stochastic gradient descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent "Stochastic gradient descent"), serves as the most basic algorithm used for training most [deep networks](https://en.wikipedia.org/wiki/Deep_neural_network "Deep neural network") today.
+next, we want to update the weights $W_i$ by using information based on $\triangle W_i$, i.e. the idea of ==gradient decent==: $W_i' = W_i - \eta\triangle W_i$. this is the vanilla gradient decent idea.
+- we can also write $W_i' = W_i + \eta\triangle W_i$
+to improve:
+- we want to be smart on choices on the direction of our updates: $\mathcal{D}(\triangle W_i)$
+- also be smart on the learning rate /step size for each update: $\eta$
+- maybe make more use of the structural information? 
+- ...
+all these problems are the <a>optimization problems</a> (↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md)).
+
 #### Normalization, Scaling, & Standardization
 > 🤖 GPT 6.0
 
