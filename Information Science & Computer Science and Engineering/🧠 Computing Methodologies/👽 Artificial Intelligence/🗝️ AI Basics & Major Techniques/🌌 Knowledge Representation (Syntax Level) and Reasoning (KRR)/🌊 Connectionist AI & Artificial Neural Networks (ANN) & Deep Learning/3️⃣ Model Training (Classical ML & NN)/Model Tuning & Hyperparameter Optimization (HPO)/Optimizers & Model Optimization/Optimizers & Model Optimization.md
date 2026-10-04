@@ -167,7 +167,8 @@ Notation: $\theta_t$ denotes parameters, $g_t$ a full or stochastic gradient, $\
 
 
 ## Gradient Descent & Classical Optimizers
-↗ [First-Order & Gradient Methods](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md)
+> [!links]
+> ↗ [First-Order & Gradient Methods](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md) "Accelerated Gradient Descent"
 
 $x_{k+1}​=x_k​+α_k​d_k​$
 - how to choose direction $d_k$?
@@ -187,13 +188,45 @@ idea:
 
 
 ### Adam
+> [!TIP]
+> $m_t=\beta_1m_{t-1}+(1-\beta_1)g_t$; 
+> $v_t=\beta_2v_{t-1}+(1-\beta_2)g_t^2$; 
+> $\theta_{t+1}=\theta_t-\eta\hat m_t/(\sqrt{\hat v_t}+\epsilon)$
+
+> [!quote]
+> https://chatgpt.com/share/6ac1f745-bcfc-83ec-bfd4-4c3367d1af85
 
 
 ### AdamW
+> [!links]
+> ↗ [Regularizers & Dropouts](../Regularizers%20&%20Dropouts.md) "l2 regularization"
+
+> [!TIP]
+> $\theta_{t+1}=(1-\eta_t\lambda)\theta_t-\eta_t\hat m_t/(\sqrt{\hat v_t}+\epsilon)$
+
+> [!quote]
+> https://chatgpt.com/share/6ac1f745-bcfc-83ec-bfd4-4c3367d1af85
+
 adam + l2 vs adamW
 
 
 ### Muon
+> [!links]
+> ↗ [First-Order & Gradient Methods](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md) "Frank–Wolfe algorithm"
+> 
+> ↗ [Singular Value Decomposition (SVD)](../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/📌%20Linear%20Algebra%20Basics/Eigenvalues,%20Eigenvectors,%20and%20Invariant%20Subspaces/Singular%20Value%20Decomposition%20(SVD).md)
+
+> [!TIP]
+> $M_t=\beta M_{t-1}+G_t$; 
+> $O_t\approx UV^T$ via Newton–Schulz;
+> $W_{t+1}=W_t-\eta O_t$
+
+> [!quote]
+> https://chatgpt.com/share/6ac1f745-bcfc-83ec-bfd4-4c3367d1af85
+
+$M=U \cdot \Sigma \cdot V^* \implies M=U \cdot I \cdot V^*$
+$\Sigma \implies I$ means to even the variance of each coordinates of the matrix so that the learning rate applies equally to all directions
+- a design choice: in large neural-network matrix, the majority of variance of gradient magnitude stems from geometry (parameterization, feature scaling, activation correlations, etc.), not necessarily we really need "decent on this direction 30x faster than another".
 
 
 

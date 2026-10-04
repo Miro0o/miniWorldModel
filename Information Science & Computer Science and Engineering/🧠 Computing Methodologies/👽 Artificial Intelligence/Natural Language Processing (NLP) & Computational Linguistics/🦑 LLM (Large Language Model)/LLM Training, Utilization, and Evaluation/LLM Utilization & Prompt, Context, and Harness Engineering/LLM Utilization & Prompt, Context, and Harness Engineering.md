@@ -266,3 +266,5 @@ The “best” way to build agentic systems has changed dramatically over the pa
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020260425205813.png)
 
 [Using Git with coding agents]: https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/
+
+[过去三个月对我帮助最大的一个 skill：grill-me | cnblog]: https://www.cnblogs.com/guangzan/p/20774394

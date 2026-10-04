@@ -97,3 +97,4 @@ The [biconjugate gradient method](https://en.wikipedia.org/wiki/Biconjugate_gra
 
 
 ## Ref
+[Frank–Wolfe algorithm | wikipedia]: https://en.wikipedia.org/wiki/Frank%E2%80%93Wolfe_algorithm

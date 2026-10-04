@@ -379,19 +379,19 @@ define the difference between our prediction and the "truth": the loss function 
 	- reinforcement learning
 
 to train the neural net is to find a $\theta$ such that $\mathop{\min}\limits_{\theta} L(f_{\theta}(x), y)$
-- we don't have all the data to train the net, such the above formula is actually a minimum on a limited set of training data.
+- we don't have all the data to train the net, such the above formula is actually a minimum for the actual problem.
 	- denote the training data: $(x_1, y_1), (x_2, y_2), \cdots, (x_N, y_N)$
-	- the actual optimization: $\mathop{\min}\limits_{\theta} \frac{1}{N}\Sigma^{N}_{i=1} L(f_{\theta}(x_i), y_i)$
-- therefore, we need to design better neural architecture so that our $f_{\theta}$ have more inductive bias towards the potential problem structure we are going to solve with $f_{\theta}$, i.e. we want it performs well on the un-seen data. 
-	- inductive bias means, because the net cannot see all the data, we want the shape of our neural net function to lean towards those "reasonable" structure so that the model still approximate the perfect shape even with limited training data.
+	- the actual optimization: $\mathop{\min}\limits_{\theta} \frac{1}{N}\Sigma^{N}_{i=1} L(f_{\theta}(x_i), y_i)$, meaning a minimum on the training data set.
+- therefore, we need to design better neural architecture so that our $f_{\theta}$ have more **inductive bias** towards the potential problem structure we are going to solve with $f_{\theta}$, i.e. we want it performs well on the un-seen data.
+	- inductive bias explanation: although we cannot provide literally all data, we still want our neural net to be of the "good shape" after limited training data --- approximating the shape it would be if we provided all the data. 
 	- ↗ [Model Validation & Metrics](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Validation%20&%20Metrics/Model%20Validation%20&%20Metrics.md)
-- this is the <a>architecture design</a> problems. (↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md))
+- this is the <a>neural network architecture design</a> problems. (↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md))
 
 note that the neural net is the layered: $f_{\theta} = f_1 \circ f_2 \circ \cdots f_M$, where $f_i$ is the function of each layer.
 therefore, to update the $\theta$ of the whole neural net, we update each layer /function: $f_1 \circ f_2 \circ \cdots f_M$ against the loss function $L(x)$, for the input $x$.
 for each function $f_1 \circ f_2 \circ \cdots f_i \circ \cdots \circ f_M$:
-- denote the $W_i$ is the hyper-parameter for $\theta_i$ of $f_i$
-- therefore $\triangle W_i = \frac{\partial W_i}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}W_{i+2}}\cdot \frac{\partial W_{i+2}}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}W_{i+2}}\cdots \frac{\partial W_{M}}{\mathrm{d}L}$ (the chain rule)
+- denote the $W_i$ as the hyper-parameter $\theta_i$ of $f_i$
+- therefore, $\triangle W_i = \frac{\partial W_i}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}W_{i+2}}\cdot \frac{\partial W_{i+2}}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}W_{i+2}}\cdots \frac{\partial W_{M}}{\mathrm{d}L}$ (the chain rule)
 
 therefore, to update $\triangle W_i$, we calculate from the last layer (the last function $W_M$), then ==back-propagate== from $W_M$ to $W_{M-1}$, to $W_{M-2}$, ... to $W_{i+1}$, to $W_{i}$.
 through this process, we have the gradients $\triangle W_i$ for all neural net layer $f_i$ when we back-propagate to the first layer $W_0$.

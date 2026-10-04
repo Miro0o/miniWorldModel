@@ -304,7 +304,7 @@ specification gaming / reward hacking / Goodhart's law
 
 #### Proposed Potential Thesis?
 - llm + verifier?
-	- relational verification with program alignment
+	- relational verification with program alignment (loop invariant)
 	- SMT proof generation
 - llm + optimizer + verifier?
 	- abstract-transformer synthesis (with equality saturation)
