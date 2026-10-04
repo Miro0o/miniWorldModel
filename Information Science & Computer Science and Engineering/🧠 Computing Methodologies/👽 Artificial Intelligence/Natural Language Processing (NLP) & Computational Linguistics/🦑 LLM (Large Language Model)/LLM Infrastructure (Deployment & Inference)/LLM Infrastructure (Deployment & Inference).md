@@ -438,6 +438,17 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 
 
 ### LLM Serving Engines 
+> [!links]
+> ↗ [Attention & Efficient Operator Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)> 
+> ![Transformer多头注意力流程图](../../../../../../../../../Assets/Pics/Transformer多头注意力流程图.png)
+> 
+> ↗ [vLLM](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
+> ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
+
+> 🤖 GPT6.0 Astra
+> https://chatgpt.com/share/6ac25c7b-bb90-83ec-ba0f-4928d10d5979 (Attention & LLM workload)
+> https://chatgpt.com/share/6ac25911-13a4-83ec-a4d5-c5ec05ce7e64 (Ai compiler)
+
 #### Pre-Fill
 
 #### Decode
@@ -445,9 +456,11 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 
 
 ### Transformer Computation Graph & Operator
+↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
 
 
 ### GPU Kernel & Lowering
+↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
 
 
 

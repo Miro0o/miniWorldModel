@@ -86,6 +86,42 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 
 
 ### Tokenization & Embedding
+> 🤖 GPT-6.0 Astra
+> https://chatgpt.com/share/6ac25d50-45b4-83ec-be26-e304272419c1
+
+```
+原始文本
+"ChatGPT is great!"
+        │
+        ▼
+┌─────────────────┐
+│  Tokenization   │
+│ 文本 → token    │
+└─────────────────┘
+        │
+        ▼
+ [1234, 567, 890]
+   token IDs
+        │
+        ▼
+┌─────────────────┐
+│    Embedding    │
+│ ID → 向量       │
+└─────────────────┘
+        │
+        ▼
+ [0.21, -0.8, ...]
+ [-0.37, 0.12, ...]
+ [0.61,  0.4, ...]
+        │
+        ▼
+ Transformer
+        │
+        ▼
+ Attention / MLP / ...
+```
+
+---
 ↗ [Tokenization Techniques & Tokenizers](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
 - Token IDs & Vocabulary
 - Un-Embedding
@@ -293,7 +329,6 @@ GPT-1 (2018)
 ```
 
 A modern decoder-only Transformer can be read as this pipeline:
-
 ```
 tokens  
 → token embeddings  
