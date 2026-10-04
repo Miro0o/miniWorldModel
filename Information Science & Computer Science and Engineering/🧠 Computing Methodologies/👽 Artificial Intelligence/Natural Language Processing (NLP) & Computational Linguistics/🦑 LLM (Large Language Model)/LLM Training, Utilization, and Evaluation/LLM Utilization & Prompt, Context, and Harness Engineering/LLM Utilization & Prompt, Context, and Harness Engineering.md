@@ -10,14 +10,14 @@
 ↗ [Agentic LLMs & LLM Agent Harness](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
 
 ↗ [LLM Agentic Reasoning](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
-↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
-↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../RLM%20(Reasoning%20Language%20Model)%20&%20LRM%20(Large%20Reasoning%20Model).md)
+↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20%28Decision%20Making%29.md)
+↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../RLM%20%28Reasoning%20Language%20Model%29%20&%20LRM%20%28Large%20Reasoning%20Model%29.md)
 
-↗ [AI4Math](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Math/AI4Math.md)
+↗ [AI4Math](../../../../❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4Math/AI4Math.md)
 ↗ [AI4Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
-↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../../../../Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Engineering and Security/Dossiers/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
+↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/Dossiers/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
 
-↗ [LLM Infrastructure (Deployment & Inference)](../../LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
+↗ [LLM Infrastructure (Deployment & Inference)](../../LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
 
 ↗ [Cybernetics & Control Theory](../../../../../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
 
@@ -63,8 +63,8 @@ System Prompts and Models of AI Tools
 
 ### Model Reasoning
 ↗ [LLM Agentic Reasoning](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
-↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../RLM%20(Reasoning%20Language%20Model)%20&%20LRM%20(Large%20Reasoning%20Model).md)
-↗ [AI4Math](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Math/AI4Math.md)
+↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../RLM%20%28Reasoning%20Language%20Model%29%20&%20LRM%20%28Large%20Reasoning%20Model%29.md)
+↗ [AI4Math](../../../../❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4Math/AI4Math.md)
 ↗ [AI4Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
 
 
@@ -221,10 +221,10 @@ For a variety of applications, basic prompt engineering of a very large LLM can 
 > [!links]
 > ↗ [Agentic LLMs & LLM Agent Harness](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
 > - ↗ [LLM Agentic Reasoning](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
-> - ↗ [MCP (Model Context Protocol)](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/LLM%20Agent%20Protocols/MCP%20(Model%20Context%20Protocol).md)
+> - ↗ [MCP (Model Context Protocol)](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/LLM%20Agent%20Protocols/MCP%20%28Model%20Context%20Protocol%29.md)
 > 
 > ↗ [Agentic AI Workflow Dev](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
-> ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
+> ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS/AI%20Agent%20Assistants%20%28General%20Purpose%29%20&%20LLM%20OS.md)
 
 
 
@@ -266,3 +266,5 @@ The “best” way to build agentic systems has changed dramatically over the pa
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020260425205813.png)
 
 [Using Git with coding agents]: https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/
+
+[过去三个月对我帮助最大的一个 skill：grill-me | cnblog]: https://www.cnblogs.com/guangzan/p/20774394

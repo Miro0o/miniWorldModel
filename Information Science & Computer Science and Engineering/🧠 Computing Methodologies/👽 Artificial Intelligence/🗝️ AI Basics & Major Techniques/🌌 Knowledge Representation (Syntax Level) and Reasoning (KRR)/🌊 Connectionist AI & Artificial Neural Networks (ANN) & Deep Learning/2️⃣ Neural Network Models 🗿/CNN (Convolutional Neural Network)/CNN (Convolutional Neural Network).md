@@ -44,7 +44,6 @@ Convolutional Neural Networks are very similar to ordinary Neural Networks from 
 
 So what changes? ConvNet architectures make the explicit assumption that the inputs are images, which allows us to encode certain properties into the architecture. These then make the forward function more efficient to implement and vastly reduce the amount of parameters in the network.
 
-
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%201.01.11%20AM.png)
 
 ![|200](../../../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%201.04.42%20AM.png)
@@ -75,6 +74,8 @@ There are several architectures in the field of Convolutional Networks that have
 > 🔗 https://en.wikipedia.org/wiki/Convolutional_neural_network#Architecture
 
 A convolutional neural network consists of an input layer, [hidden layers](https://en.wikipedia.org/wiki/Artificial_neural_network#Organization "Artificial neural network") and an output layer. In a convolutional neural network, the hidden layers include one or more layers that perform convolutions. Typically this includes a layer that performs a [dot product](https://en.wikipedia.org/wiki/Dot_product "Dot product") of the convolution kernel with the layer's input matrix. This product is usually the [Frobenius inner product](https://en.wikipedia.org/wiki/Frobenius_inner_product "Frobenius inner product"), and its activation function is commonly [ReLU](https://en.wikipedia.org/wiki/Rectifier_\(neural_networks\) "Rectifier (neural networks)"). As the convolution kernel slides along the input matrix for the layer, the convolution operation generates a feature map, which in turn contributes to the input of the next layer. This is followed by other layers such as [pooling layers](https://en.wikipedia.org/wiki/Pooling_layer "Pooling layer"), fully connected layers, and normalization layers. Here it should be noted how close a convolutional neural network is to a [matched filter](https://en.wikipedia.org/wiki/Matched_filter "Matched filter")
+
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020261004195511.png)
 
 
 ### Architecture Components

@@ -386,7 +386,7 @@ In logical programming the main emphasize is on knowledge base and the problem. 
 ↗ [Logic Programming Languages](GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 - 👉 [Lambda Calculus (λ-Calculus)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 - 👉 [Prolog (Programmation en Logique)](GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Prolog%20%28Programmation%20en%20Logique%29/Prolog%20%28Programmation%20en%20Logique%29.md)
-- 👉 [Datalog (Data Logic)](GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Datalog%20%28Data%20Logic%29/Datalog%20%28Data%20Logic%29.md)
+- 👉 [Datalog (Data Logic)](GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Prolog%20%28Programmation%20en%20Logique%29/Datalog%20%28Data%20Logic%29/Datalog%20%28Data%20Logic%29.md)
 ##### 2. Functional Programming
 e.g.
 - 👉 [ECMAScript-Based Languages & JavaScript](GPL%20%28General%20Purpose%20Languages%29/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md): developed by Brendan Eich

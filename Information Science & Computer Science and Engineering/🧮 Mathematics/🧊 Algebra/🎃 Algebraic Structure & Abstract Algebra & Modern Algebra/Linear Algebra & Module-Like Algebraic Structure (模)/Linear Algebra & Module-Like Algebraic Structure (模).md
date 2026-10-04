@@ -66,6 +66,9 @@ https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=8X1lwkP2
 📖 高等代数学习指导书 by 丘维声
 
 
+### Other Resources
+
+
 
 ## Intro
 ### Linear Algebra

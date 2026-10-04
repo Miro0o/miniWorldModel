@@ -86,13 +86,14 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 
 
 ### Tokenization & Embedding
-#### Un-Embedding
-
-#### Position Encoding
+↗ [Tokenization Techniques & Tokenizers](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
+- Token IDs & Vocabulary
+- Un-Embedding
+- Position Encoding
 
 
 ### Attention
-↗ [Attention & Efficient Operator Implementation](Attention%20&%20Efficient%20Operator%20Implementation.md)
+↗ [Attention & Efficient Operator Implementation](Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png)
 <small><a>https://poloclub.github.io/transformer-explainer/</a></small>
@@ -313,20 +314,19 @@ From DeepSeek V3 to GLM-5: A Look At Modern LLM Architecture Design
 https://sebastianraschka.com/llm-architecture-gallery/
 - This page collects architecture figures and fact sheets from [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison), [From GPT-2 to gpt-oss](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the), [From DeepSeek V3 to V3.2](https://magazine.sebastianraschka.com/p/technical-deepseek), and [A Dream of Spring for Open-Weight LLMs](https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight), plus selected release posts or technical reports when a new architecture has not been covered in one of those articles yet. It focuses on the architecture panels only. Click a figure to enlarge it and use the model title to jump to the corresponding article section.
 - ![](../../../../../../../../Assets/Pics/Pasted%20image%2020260404215455.png)
-#### Dense Decoder vs Sparse Decoder & MoE (Mixture of Experts)
-↗ [MoE (Mixture of Experts) Architecture](Sparse%20&%20Dense%20Decoder%20Architecture/MoE%20%28Mixture%20of%20Experts%29%20Architecture/MoE%20%28Mixture%20of%20Experts%29%20Architecture.md)
+#### Arch Design Paradigm
+Dense Decoder vs Sparse Decoder & MoE (Mixture of Experts)
+↗ [MoE (Mixture of Experts) Architecture](Transformer%20Architecture%20Design/Sparse%20&%20Dense%20Decoder%20Architecture/MoE%20%28Mixture%20of%20Experts%29%20Architecture/MoE%20%28Mixture%20of%20Experts%29%20Architecture.md)
+↗ [Retrieve-Based Architecture](Transformer%20Architecture%20Design/Retrieve-Based%20Architecture/Retrieve-Based%20Architecture.md)
 
 #### Residual Connections
-↗ [Residual Connections](Residual%20Connections.md)
+↗ [Residual Connections](Transformer%20Components%20Design/Residual%20Connections.md)
 
 #### Normalizations
-↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
+↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md) "Normalization, Scaling, & Standardization"
 
 #### Attention Redesign
-↗ [Attention & Efficient Operator Implementation](Attention%20&%20Efficient%20Operator%20Implementation.md)
-
-#### Retrieve-Based Model
-↗ [Retrieve-Based Architecture](Retrieve-Based%20Architecture/Retrieve-Based%20Architecture.md)
+↗ [Attention & Efficient Operator Implementation](Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
 
 
 ### 3️⃣ Encoder-Only Transformer

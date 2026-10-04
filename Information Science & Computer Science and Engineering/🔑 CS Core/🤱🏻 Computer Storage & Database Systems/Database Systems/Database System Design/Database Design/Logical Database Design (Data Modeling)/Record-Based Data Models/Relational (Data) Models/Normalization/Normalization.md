@@ -250,6 +250,10 @@ The potential to violate BCNF may occur when:
 
 
 
+## Advanced Normalization
+
+
+
 ## Ref
 [BCNF 示例]: https://blog.kazge.com/数据库/2011/10/21/bcnf-e7-a4-ba-e4-be-8b/
 

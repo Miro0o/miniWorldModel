@@ -5,11 +5,15 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
+↗ [Database Systems](../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
+↗ [DBMS (DataBase Management System) Implementations](../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20%28DataBase%20Management%20System%29%20Implementations/DBMS%20%28DataBase%20Management%20System%29%20Implementations.md)
+
+↗ [Database Languages](../../../DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Database%20Languages.md)
+↗ [Database System Languages](../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20System%20Languages.md)
+
+
+### Other Resources
 
 
 

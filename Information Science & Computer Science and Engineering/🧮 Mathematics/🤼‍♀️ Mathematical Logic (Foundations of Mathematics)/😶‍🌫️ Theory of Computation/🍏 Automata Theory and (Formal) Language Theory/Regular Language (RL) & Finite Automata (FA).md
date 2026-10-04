@@ -72,4 +72,5 @@ A finite automaton is a 5-tuple $(Q, \Sigma, \delta ,q_{0}, F)$, where
 
 
 ## Ref
-
+[Myhill–Nerode theorem | wiki]: https://en.wikipedia.org/wiki/Myhill%E2%80%93Nerode_theorem
+In the theory of [formal languages](https://en.wikipedia.org/wiki/Formal_language "Formal language"), the **Myhill–Nerode theorem** provides a [necessary and sufficient condition](https://en.wikipedia.org/wiki/Necessary_and_sufficient_conditions "Necessary and sufficient conditions") for a language to be [regular](https://en.wikipedia.org/wiki/Regular_language "Regular language"). The theorem is named for [John Myhill](https://en.wikipedia.org/wiki/John_Myhill "John Myhill") and [Anil Nerode](https://en.wikipedia.org/wiki/Anil_Nerode "Anil Nerode"), who proved it at the [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago "University of Chicago") in 1957.

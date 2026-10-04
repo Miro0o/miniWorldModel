@@ -46,16 +46,30 @@ A simple extension of gradient descent, [stochastic gradient descent](https://e
 
 
 ### 🤔 Accelerated Gradient Descent
+> [!Links]
+> ↗ [Optimizers & Model Optimization](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md)
+
 $x_{k+1}​=x_k​+α_k​d_k​$
 - how to choose direction $d_k$?
 - how to choose step size $\alpha_k$
 - other additional information /structure?
+
+problem: gradients on different directions vary a lot. for a single learning rate, it becomes tough for it to direct all directions.
+idea: 1. use momentum to counteract such variance of gradients in different directions; 2. use preconditioning to reshape the gradients before applying learning rate to them.
+
 #### Momentum
+to make use of history
+
 ##### Polyak Momentum
 
 ##### Nesterov Accelerated Gradient
 
 #### Preconditioning
+to change the geometry /scaling
+
+adam
+adamw
+muon
 
 #### Line Search
 
@@ -83,3 +97,4 @@ The [biconjugate gradient method](https://en.wikipedia.org/wiki/Biconjugate_gra
 
 
 ## Ref
+[Frank–Wolfe algorithm | wikipedia]: https://en.wikipedia.org/wiki/Frank%E2%80%93Wolfe_algorithm

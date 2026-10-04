@@ -6,14 +6,14 @@
 
 ## Res
 ### Related Topics
-↗ [DeepSeek](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
-↗ [Alibaba Qwen](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Alibaba%20Qwen/Alibaba%20Qwen.md)
-↗ [Moonshot Kimi](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Moonshot%20Kimi.md)
-↗ [Zhipu GLM](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Zhipu%20GLM.md)
-↗ [MiniMax](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/MiniMax.md)
-↗ [StepFun](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Other%20Models/StepFun.md)
+↗ [DeepSeek](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
+↗ [Alibaba Qwen](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Alibaba%20Qwen/Alibaba%20Qwen.md)
+↗ [Moonshot Kimi](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Moonshot%20Kimi.md)
+↗ [Zhipu GLM](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Zhipu%20GLM.md)
+↗ [MiniMax](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/MiniMax.md)
+↗ [StepFun](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Other%20Models/StepFun.md)
 
-↗ [LLM Infrastructure (Deployment & Inference)](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
+↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
 
 
 ### Papers
@@ -22,7 +22,7 @@ A Survey of Efficient Attention Methods:   Hardware-efficient, Sparse, Compact, 
 - [Jintao Zhang](https://jt-zhang.github.io/)1, [Rundong Su](https://attention-survey.github.io/#)\*1, [Chunyu Liu](https://attention-survey.github.io/#)\*1, [Jia Wei](https://attention-survey.github.io/#)\*1, [Ziteng Wang](https://attention-survey.github.io/#)*1, [Haoxu Wang](https://attention-survey.github.io/#)\*1, [Pengle Zhang](https://attention-survey.github.io/#)1, [Huiqiang Jiang](https://attention-survey.github.io/#)1, [Haofeng Huang](https://attention-survey.github.io/#)1, [Chendong Xiang](https://attention-survey.github.io/#)1, [Haocheng Xi](https://haochengxi.github.io/)2, [Shuo Yang](https://andy-yang-1.github.io/)2, [Xingyang Li](https://attention-survey.github.io/#)3, [Yuezhou Hu](https://attention-survey.github.io/#)2, [Tianyu Fu](https://github.com/fuvty)1, [Tianchen Zhao](https://attention-survey.github.io/#)1, [Yicheng Zhang](https://attention-survey.github.io/#)1, [Boqun Cao](https://attention-survey.github.io/#)1, [Youhe Jiang](https://attention-survey.github.io/#)1, [Chang Chen](https://attention-survey.github.io/#)1, [Kai Jiang](https://attention-survey.github.io/#)1, [Huayu Chen](https://attention-survey.github.io/#)1, [Min Zhao](https://attention-survey.github.io/#)1, [Xiaoming Xu](https://attention-survey.github.io/#)1, [Yi Wu](https://attention-survey.github.io/#)4, [Fan Bao](https://attention-survey.github.io/#)4, [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/)1, [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/)1
 - 1 Tsinghua University 2 UC Berkeley 3 MIT 4 ShengShu  | \*Co-second authorship
 - In modern transformers, the attention operation is the only component with a time complexity of , whereas all other operations scale linearly as , where  denotes the sequence length. As sequence lengths in generative models (e.g., language and video generation) continue to increase, improving the efficiency of attention has become increasingly critical. Recently, numerous excellent works have been proposed to enhance the computational efficiency of attention operation. Broadly, these works can be classified into four categories: **(1) Hardware-efficient attention**: Optimizing attention computation efficiency by leveraging hardware characteristics. **(2) Sparse attention**: Selectively performing a subset of computations in attention while omitting others. **(3) Compact attention**: Compressing the KV cache of attention by weight sharing or low rank decomposition while keeping computational cost unchanged, as with a full‑sized KV cache. **(4) Linear attention**: Redesigning the computational formulation of attention to achieve  time complexity. In this paper, we present a comprehensive survey of these efficient attention methods.
-- ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-20%20at%2023.40.32.png)
+- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-09-20%20at%2023.40.32.png)
 
 Sparse Attention Mechanism
 Blockwise Attention
@@ -119,7 +119,7 @@ Inspired by ideas about [attention in humans](https://en.wikipedia.org/wiki/Att
 
 > 🔗 https://en.wikipedia.org/wiki/Transformer_(deep_learning)#Scaled_dot-product_attention
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020260404213907.png)
+![](../../../../../../../../../Assets/Pics/Pasted%20image%2020260404213907.png)
 
 
 #### Masked Attention
@@ -144,9 +144,11 @@ Inspired by ideas about [attention in humans](https://en.wikipedia.org/wiki/Att
 
 ## Hardware-Efficient Attention
 > [!links]
-> ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
-> ↗ [vLLM](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
-> ↗ [SGLang](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
+> ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
+> ↗ [vLLM](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
+> ↗ [SGLang](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
+> 
+> ↗ [AI Compilers & GPU Operators DSL](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
 
 
 

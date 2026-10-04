@@ -8,6 +8,7 @@
 ### Related Topics
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
 ↗ [Formal System, Formal Semantics, and Formal Logic](../../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
+↗ [Classical Logic (Standard Formal Logic)](../../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
 
 
 ### Other Resources
@@ -37,6 +38,7 @@ After the operations have been specified, the nature of the algebra is further d
 
 ### Varieties & Equational Class
 > 🔗 https://en.wikipedia.org/wiki/Universal_algebra#Varieties
+> 🔗 https://en.wikipedia.org/wiki/Variety_(universal_algebra)
 
 A collection of algebraic structures defined by identities is called a [variety](https://en.wikipedia.org/wiki/Variety_\(universal_algebra\) "Variety (universal algebra)") or **equational class**.
 
@@ -52,9 +54,8 @@ Not all [algebraic structures](https://en.wikipedia.org/wiki/Algebraic_structur
 The class of [fields](https://en.wikipedia.org/wiki/Field_\(mathematics\) "Field (mathematics)") is not an equational class because there is no type (or "signature") in which all field laws can be written as equations (inverses of elements are defined for all _non-zero_ elements in a field, so inversion cannot be added to the type).
 
 One advantage of this restriction is that the structures studied in universal algebra can be defined in any [category](https://en.wikipedia.org/wiki/Category_theory "Category theory") that has _finite [products](https://en.wikipedia.org/wiki/Product_\(category_theory\) "Product (category theory)")_. For example, a [topological group](https://en.wikipedia.org/wiki/Topological_group "Topological group") is just a group in the category of [topological spaces](https://en.wikipedia.org/wiki/Topological_space "Topological space").
-
-
-> 🔗 https://en.wikipedia.org/wiki/Variety_(universal_algebra)
+#### Birkhoff's Variety Theorem (HSP Theorem)
+> 🔗 https://en.wikipedia.org/wiki/Variety_(universal_algebra)#Birkhoff's_variety_theorem
 
 
 ### Basic Constructions
@@ -101,3 +102,4 @@ In [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathe
 
 
 ## Ref
+[Birkhoff's HSP theorem]: https://ncatlab.org/nlab/show/Birkhoff%27s+HSP+theorem

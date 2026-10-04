@@ -12,7 +12,7 @@
 - ↗ [Model Web Demo & Web Deployment](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/Model%20Web%20Demo%20&%20Web%20Deployment/Model%20Web%20Demo%20&%20Web%20Deployment.md)
 
 ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
-↗ [Attention & Efficient Operator Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Attention%20&%20Efficient%20Operator%20Implementation.md)
+↗ [Attention & Efficient Operator Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
 
 ↗ [AI4SE](../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 - ↗ [Agentic AI Workflow Dev](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
@@ -247,19 +247,207 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 
 
 
-## LLM Inference & KV Caching
+## LLM Inference
 > [!links]
+> ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> ↗ [Attention & Efficient Operator Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
+> 
+> ↗ [Tokenization Techniques & Tokenizers](../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
+> ↗ [BPE (Byte Pair Encoding)](../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/BPE%20%28Byte%20Pair%20Encoding%29.md)
+> 
 > ↗ [vLLM](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
 > ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
->
-> ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
-> ↗ [Attention & Efficient Operator Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Attention%20&%20Efficient%20Operator%20Implementation.md)
+
+> [!links]
+> ↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md) 🤔
+
+> 🤖 GPT 6.0 Astra
+
+```
+                         ┌───────────────────────────────┐
+                         │           User/API            │
+                         │ prompt / messages / sampling  │
+                         └───────────────┬───────────────┘
+                                         │
+                                         ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  1. API / Frontend                                              │
+│                                                                 │
+│ HTTP / gRPC / OpenAI-compatible API                             │
+│ authentication / rate limit / streaming / request parsing       │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  2. Tokenization + Request Construction                         │
+│                                                                 │
+│ text → token IDs                                                │
+│ sampling params / max_tokens / stop conditions                  │
+│ request metadata                                                │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  3. LLM Serving Engine                                          │
+│                                                                 │
+│ vLLM / TensorRT-LLM / SGLang / etc.                             │
+│                                                                 │
+│ ┌─────────────────────────────────────────────────────────────┐ │
+│ │ Scheduler                                                   │ │
+│ │ waiting queue → running set                                 │ │
+│ │ continuous batching / chunked prefill / priorities          │ │
+│ └─────────────────────────────────────────────────────────────┘ │
+│                                                                 │
+│ ┌─────────────────────────────────────────────────────────────┐ │
+│ │ KV-cache manager                                            │ │
+│ │ blocks/pages / allocation / eviction / prefix caching       │ │
+│ └─────────────────────────────────────────────────────────────┘ │
+│                                                                 │
+│ ┌─────────────────────────────────────────────────────────────┐ │
+│ │ Model runner                                                │ │
+│ │ build tensors / positions / page tables / metadata          │ │
+│ │ invoke model                                                │ │
+│ └─────────────────────────────────────────────────────────────┘ │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                one "engine iteration"
+                               │
+              ┌────────────────┴─────────────────┐
+              │                                  │
+              ▼                                  ▼
+       PREFILL phase                         DECODE phase
+   many prompt tokens/request             ~1 token/request
+   GEMM-heavy                             memory/KV-heavy
+              │                                  │
+              └────────────────┬─────────────────┘
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  4. Transformer computation graph                               │
+│                                                                 │
+│ Embedding                                                       │
+│   ↓                                                             │
+│ [RMSNorm                                                        │
+│   ↓                                                             │
+│ QKV projection ── GEMM                                          │
+│   ↓                                                             │
+│ RoPE                                                            │
+│   ↓                                                             │
+│ Attention ───────── FlashAttention / PagedAttention             │
+│   ↓                                                             │
+│ Output projection ─ GEMM                                        │
+│   ↓                                                             │
+│ Residual                                                        │
+│   ↓                                                             │
+│ RMSNorm                                                         │
+│   ↓                                                             │
+│ MLP: GEMM → activation → GEMM                                   │
+│      or MoE routing → experts → combine                         │
+│ ] × N layers                                                    │
+│   ↓                                                             │
+│ LM head GEMM                                                    │
+│   ↓                                                             │
+│ logits                                                          │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+							   
+              ┌───────────────────────────────────┐
+              │ 5. Operator / Graph implementation│
+              │                                   │
+              │ THREE paths coexist:              │
+              └───────────────────────────────────┘
+                    │          │           │
+       ┌────────────┘          │           └────────────┐
+       ▼                       ▼                        ▼
+
+  Hand-written /            Tensor compiler        Vendor libraries
+  specialized kernel
+                                                    cuBLAS
+  FlashAttention            TorchInductor           cuBLASLt
+  FlashInfer                XLA                     cuDNN
+  custom CUDA               TensorRT                NCCL
+  CUTLASS                    TensorRT-LLM plugins
+  Triton kernel
+       │                       │                        │
+       └──────────────┬────────┴───────────────┬────────┘
+                      ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  6. Kernel code generation / lowering                           │
+│                                                                 │
+│ e.g. Triton:                                                    │
+│                                                                 │
+│ tensor/loop IR                                                  │
+│       ↓                                                         │
+│ Triton IR                                                       │
+│       ↓                                                         │
+│ GPU-aware IR                                                    │
+│       ↓                                                         │
+│ LLVM/NVVM                                                       │
+│       ↓                                                         │
+│ PTX                                                             │
+│       ↓                                                         │
+│ machine code / cubin                                            │
+│                                                                 │
+│ or CUDA C++ → NVCC → PTX/cubin                                  │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  7. GPU execution runtime                                       │
+│                                                                 │
+│ CUDA Runtime API                                                │
+│ cudaLaunchKernel / cudaMemcpyAsync / CUDA Graph                 │
+│                    ↓                                            │
+│ CUDA Driver API                                                 │
+│ contexts / modules / streams / device memory                    │
+│                    ↓                                            │
+│ NVIDIA kernel driver                                            │
+│                    ↓                                            │
+│ GPU command queues                                              │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  8. GPU hardware                                                │
+│                                                                 │
+│ H100 / B200                                                     │
+│                                                                 │
+│ HBM                                                             │
+│  ↕                                                              │
+│ L2                                                              │
+│  ↕                                                              │
+│ SM ────────────────────────────────────────────────             │
+│ │ registers                                                     │
+│ │ shared memory / L1                                            │
+│ │ warp schedulers                                               │
+│ │ CUDA cores                                                    │
+│ │ Tensor Cores                                                  │
+│ │ load/store units                                              │
+│ │ TMA / async memory machinery                                  │
+│ └────────────────────────────────────────────────               │
+└─────────────────────────────────────────────────────────────────┘
+
+                 multi-GPU 时还横插一层：
+
+              GPU 0 ←→ NVLink/NVSwitch ←→ GPU 1
+                 ↕                         ↕
+                  └──── NCCL collectives ─┘
+               AllReduce / AllGather /
+               ReduceScatter / AllToAll
+```
 
 
-### Pre-Filling
+### LLM Serving Engines 
+#### Pre-Fill
+
+#### Decode
+↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md) "Decoder-Only Transformer"
 
 
-### Decoding
+### Transformer Computation Graph & Operator
+
+
+### GPU Kernel & Lowering
 
 
 
