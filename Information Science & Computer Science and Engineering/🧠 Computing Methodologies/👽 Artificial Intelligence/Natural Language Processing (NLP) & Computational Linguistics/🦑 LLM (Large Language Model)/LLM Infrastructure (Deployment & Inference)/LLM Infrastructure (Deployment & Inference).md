@@ -170,6 +170,108 @@ Inside vLLM: Anatomy of a High-Throughput LLM Inference System
 
 
 ## Intro
+### Deployment Parameters & Quantization
+> [!links]
+> ↗ [(Text) Data Representations & Storage in Computer](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/%28Text%29%20Data%20Representations%20&%20Storage%20in%20Computer.md)
+> ↗ [Encodings](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
+
+> 🔗 https://huggingface.co/docs/optimum/en/concept_guides/quantization
+
+Quantization is a technique to reduce the computational and memory costs of running inference by representing the weights and activations with low-precision data types like 8-bit integer (`int8`) instead of the usual 32-bit floating point (`float32`).
+
+Reducing the number of bits means the resulting model requires less memory storage, consumes less energy (in theory), and operations like matrix multiplication can be performed much faster with integer arithmetic. It also allows to run models on embedded devices, which sometimes only support integer data types.
+
+> [!quote] 🤖 GPT 6.0 Astra
+> https://chatgpt.com/share/6ac3490d-b4e8-83ec-8e97-5104a27e52ad
+> 
+> 一个量化 Transformer layer 长什么样？
+> 比如原来：
+> ```
+>                 BF16
+>                   │
+>              RMSNorm
+>                   │
+>         ┌─────────┴───────────┐
+>         ↓                     ↓
+>        Wq                    Wk/Wv
+>       BF16                   BF16
+>         ↓                     ↓
+>        Q                     K,V
+>         │
+>         └──── Attention ──────┘
+>                   │
+>                  Wo
+>                 BF16
+>                   │
+>                  MLP
+>             W1 / W2 / W3
+>                BF16
+> ```
+> 
+> 量化以后可能：
+> ```
+>                  BF16 activation
+>                        │
+>                     RMSNorm
+>                        │
+>        ┌───────────────┼───────────────┐
+>        ↓               ↓               ↓
+>      Q_proj           K_proj          V_proj
+>      INT4 W           INT4 W          INT4 W
+>        │               │               │
+>        ↓               ↓               ↓
+>      BF16 Q           FP8 K           FP8 V
+>                        │               │
+>                        └──── KV Cache ─┘
+>                                │
+>                            Attention
+>                                │
+>                            INT4 Wo
+>                                │
+>                               BF16
+>                                │
+>                    ┌───────────┼───────────┐
+>                    ↓           ↓           ↓
+>                   W1          W3          W2
+>                 INT4        INT4        INT4
+> ```
+> 
+> 这就是一个很典型的 serving mixed precision 思路。
+> 
+> ----
+> 现在常见方案可以怎么画成一张地图？
+> 你先记这个：
+> 
+>```
+>                 LLM Quantization
+>                        │
+>          ┌─────────────┴─────────────┐
+>          │                           │
+>       Training                    Inference
+>          │                           │
+>       QAT / QLoRA               PTQ / Runtime
+>                                      │
+>               ┌──────────────────────┼────────────────────┐
+>               │                      │                    │
+>          Weight-only              W + A               KV Cache
+>               │                      │                    │
+>          W4A16 / W8A16          W8A8 / W4A8          FP8 / INT8
+>               │                      │
+>          ┌────┴─────┐          ┌─────┴─────┐
+>          │          │          │           │
+>        GPTQ        AWQ     SmoothQuant    FP8
+> ```
+> 
+> 另外还有：
+> NF4
+> FP4
+> NVFP4
+> MXFP8
+> 这些是不同 number format / scaling strategy。
+> 
+> vLLM 当前公开的量化支持已经覆盖 AutoAWQ、GPTQModel、BitsAndBytes、FP8 W8A8、INT4 W4A16、INT8 W4A8/W8A8、Quantized KV Cache 等路径。[vLLM](https://docs.vllm.ai/en/stable/features/quantization/index.html?utm_source=chatgpt.com)
+
+
 ### Deploy LLM on Different Levels - Desktop and Production
 #vLLM #ollama #LLM #software_deployment
 
@@ -437,7 +539,18 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 ```
 
 
-### LLM Serving Engines 
+### LLM Serving Engines
+> [!links]
+> ↗ [Attention & Efficient Operator Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
+> ![Transformer多头注意力流程图](../../../../../../Assets/Pics/Transformer多头注意力流程图.png)
+> 
+> ↗ [vLLM](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
+> ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
+
+> 🤖 GPT6.0 Astra
+> https://chatgpt.com/share/6ac25c7b-bb90-83ec-ba0f-4928d10d5979 (Attention & LLM workload)
+> https://chatgpt.com/share/6ac25911-13a4-83ec-a4d5-c5ec05ce7e64 (Ai compiler)
+
 #### Pre-Fill
 
 #### Decode
@@ -445,9 +558,11 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 
 
 ### Transformer Computation Graph & Operator
+↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
 
 
 ### GPU Kernel & Lowering
+↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
 
 
 

@@ -58,6 +58,7 @@ Data type is the core of program, while the program is the core of computing. He
 
 
 ## Data Storage
+> [!Links]
 > Also at ↗ [von Neumann Based Microarchitecture /Memory](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
 
 

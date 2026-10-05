@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Computer Graphics (CG)](../../../../../../🧠%20Computing%20Methodologies/Computer%20Graphics%20%28CG%29/Computer%20Graphics%20%28CG%29.md)
+
 ↗ [Computer Graphics Programming](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
 ↗ [Digital & Video Games Development](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Digital%20&%20Video%20Games%20Development/Digital%20&%20Video%20Games%20Development.md)
 ↗ [Media Processing & GUI SDK](../Media%20Processing%20&%20GUI%20SDK.md)

@@ -86,6 +86,42 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 
 
 ### Tokenization & Embedding
+> 🤖 GPT-6.0 Astra
+> https://chatgpt.com/share/6ac25d50-45b4-83ec-be26-e304272419c1
+
+```
+原始文本
+"ChatGPT is great!"
+        │
+        ▼
+┌─────────────────┐
+│  Tokenization   │
+│ 文本 → token    │
+└─────────────────┘
+        │
+        ▼
+ [1234, 567, 890]
+   token IDs
+        │
+        ▼
+┌─────────────────┐
+│    Embedding    │
+│ ID → 向量       │
+└─────────────────┘
+        │
+        ▼
+ [0.21, -0.8, ...]
+ [-0.37, 0.12, ...]
+ [0.61,  0.4, ...]
+        │
+        ▼
+ Transformer
+        │
+        ▼
+ Attention / MLP / ...
+```
+
+---
 ↗ [Tokenization Techniques & Tokenizers](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
 - Token IDs & Vocabulary
 - Un-Embedding
@@ -293,7 +329,6 @@ GPT-1 (2018)
 ```
 
 A modern decoder-only Transformer can be read as this pipeline:
-
 ```
 tokens  
 → token embeddings  
@@ -306,7 +341,7 @@ tokens
 ```
 
 That high-level structure is still very close to GPT. What changed is the **inside of the block**: better normalization, better positional encoding, more inference-efficient attention, and sometimes MoE sparsity.
-#### 📌 LLM Architecture Gallery
+#### 📌 LLM Architecture Gallery 👍
 https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
 The Big LLM Architecture Comparison: 
 From DeepSeek V3 to GLM-5: A Look At Modern LLM Architecture Design

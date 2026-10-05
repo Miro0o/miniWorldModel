@@ -30,6 +30,8 @@
 ↗ [AI4SE](../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 ↗ [AI4Security](../../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
 
+↗ [Exploring Neuro-Symbolic AI](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/Exploring%20Neuro-Symbolic%20AI/Exploring%20Neuro-Symbolic%20AI.md)
+
 
 ### Papers
 https://arxiv.org/abs/2504.04578
@@ -303,90 +305,17 @@ state representation for different CS problems:
 specification gaming / reward hacking / Goodhart's law
 
 #### Proposed Potential Thesis?
-- llm + verifier?
-	- relational verification with program alignment (loop invariant)
-	- SMT proof generation
-- llm + optimizer + verifier?
-	- abstract-transformer synthesis (with equality saturation)
-		- https://chatgpt.com/share/6abe4270-ede8-83ec-98c1-e86bc0c7460c
-	- ai compiler & gpu tensor optimization (with equality saturation)
-		- https://chatgpt.com/share/6abe448c-f8ac-83ec-b768-37c1b5b694a8
+↗ [Exploring Neuro-Symbolic AI](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/Exploring%20Neuro-Symbolic%20AI/Exploring%20Neuro-Symbolic%20AI.md)
 
-
----
-> 🤖 GPT 6.0 Astra
-> https://chatgpt.com/share/6abe448c-f8ac-83ec-b768-37c1b5b694a8
-> (neuro-symbolic in general)
-
-| 方向                                   | Search representation                    | LLM proposal                                      | Search / pruning                      | Verifier               | 我看到的论文空间                     |
-| ------------------------------------ | ---------------------------------------- | ------------------------------------------------- | ------------------------------------- | ---------------------- | ---------------------------- |
-| **Program synthesis / VSA**          | Version Space Algebra                    | subexpression / decomposition / grammar expansion | VSA intersection + A*/DP/CEGIS        | SMT / examples         | **很干净，空间明显**                 |
-| **LLVM / SSA optimization**          | SSA e-graph / egglog                     | local rewrite / rule / frontier expansion         | budgeted eqsat + extraction optimizer | Alive2                 | **很强，systems+PL 味道足**        |
-| **Rewrite-rule discovery**           | term e-graph + rule graph                | rule schema / side condition                      | redundancy pruning + MaxSAT/ILP       | SMT                    | **范围小，容易做干净**                |
-| **(distributed) Protocol synthesis** | TLA+ sketch + remaining candidate region | guard/action/hole filling                         | CEGIS + interpretation reduction      | TLC model checker      | **新颖度高，但工程难**                |
-| Formal theorem proving               | AND–OR proof graph                       | tactic / lemma                                    | MCTS / HTPS / pruning                 | Lean                   | 很成熟，但竞争激烈                    |
-| (Database) Query optimization        | Cascades Memo / relational e-graph       | transformation / physical choice                  | DP/branch-and-bound/RL                | relational equivalence | representation 成熟，novelty 较难 |
-| Hardware synthesis                   | circuit e-graph                          | structural rewrite                                | ILP / SA / gradient extraction        | formal equivalence     | 很合适，但需要硬件背景                  |
-
- > 🤖 GPT 6.0 Astra
- > https://chatgpt.com/share/6abe4270-ede8-83ec-98c1-e86bc0c7460c
- > (neuro-symbolic using e-graph)
- 
-| 工作                                                                          | Venue                  | e-graph 在解决什么                                 | 对你的启发                                         |
-| --------------------------------------------------------------------------- | ---------------------- | --------------------------------------------- | --------------------------------------------- |
-| **babble: Learning Better Abstractions with E-Graphs and Anti-Unification** | POPL 2023              | 自动发现 reusable abstraction / library functions | **e-graph 不只是找最优程序，还能发现“概念”**                 |
-| **Better Together: Datalog + Equality Saturation / egglog**                 | PLDI 2023              | 把关系推理、分析和等价推理统一                               | 可以做更丰富的 verifier / side condition             |
-| **Equality Saturation Theory Exploration à la Carte**                       | OOPSLA 2023            | 自动发现 rewrite rules                            | LLM proposal + symbolic rule validation 的直接前身 |
-| **Guided Equality Saturation**                                              | POPL 2024              | 人给 intermediate sketch，e-graph 自动补中间步骤        | **几乎就是 LLM 应该插入的位置**                          |
-| **CCLemma**                                                                 | ICFP 2024              | 用 e-graph 自动发现 inductive proof 所需 lemma       | LLM 可以做 lemma proposer                        |
-| **SmoothE**                                                                 | ASPLOS 2025，Best Paper | 学习/可微地做 e-graph extraction                    | e-graph 最后的“选哪个”也可以学习                         |
-| **ChopChop**                                                                | POPL 2026              | 用 e-graph 约束 LLM 只生成语义等价程序                    | 已经正式进入 **LLM constrained generation**         |
-| **Geo**                                                                     | OOPSLA 2026            | graph-pattern query optimization              | 展示“找一个新的 DSL 小宇宙”仍能发顶会                        |
-| **Semantic E-Graphs / Quantum EqSat / Optimism in EqSat**                   | PLDI 2026              | EDA、量子电路、SSA 分析                               | e-graph 正在快速扩展到新领域                            |
-|                                                                             |                        |                                               |                                               |
-##### Abstract Transformer Synthesis
-> 🔗 https://chatgpt.com/share/6abe4270-ede8-83ec-98c1-e86bc0c7460c
-
-现在这个方向其实已经经历了四代搜索方法
-我觉得理解这个 evolution 很关键，因为它直接告诉我们还有什么没解决。
-
-| 工作                         | 搜索的对象                          | 搜索方法                   | 它真正解决的问题                              |
-| -------------------------- | ------------------------------ | ---------------------- | ------------------------------------- |
-| AMURTH, OOPSLA'22          | 一个 transformer DSL expression  | synthesis / Sketch     | 自动找 best \(L\)-transformer            |
-| AMURTH2, SAS'24 / TOSEM'26 | reduced-product transformer    | 分解式 synthesis          | product domain 导致的搜索爆炸                |
-| NiceToMeetYou, POPL'26     | 多个 transformer + guards        | MCMC stochastic search | 实际 LLVM transformer 太复杂，枚举/CEGIS 不够用  |
-| SAIL, PLDI'26              | neural verifier transformer    | **LLM**                | 在无限表达式空间里提出复杂候选                       |
-| AbsEvolve, PLDI'26         | sound transformer output space | gradient search        | runtime precision/efficiency tradeoff |
-##### AI Infra & GPU Operator Optimization
-> 🔗 https://chatgpt.com/share/6abe448c-f8ac-83ec-b768-37c1b5b694a8 (main)
-> 🔗 https://chatgpt.com/share/6abe49b2-e9a8-83ec-95ff-403fef16779b (fork, to explain ai compiler / gpu tensor /etc.)
-
-AI infra in general:
-
-|AI infra problem|已有/可能的 Search IR|
-|---|---|
-|Tensor program|TensorIR / schedule tree|
-|GPU kernel|**tile graph / tile e-graph**|
-|Dynamic megakernel|**Event Tensor**|
-|Operator fusion|computation DAG / fusion graph|
-|Distributed training|**Parallel Computation Graph**|
-|Collective communication|communication DAG / DSL / partial-order graph|
-|Tensor layout|layout algebra|
-|Serving|request-resource-state graph|
-|KV cache|block / placement graph|
-
-ai compiler 现有工作：
-
-| 系统                          | Search state                | Search mechanism                  | 主要缺失                                  |
-| --------------------------- | --------------------------- | --------------------------------- | ------------------------------------- |
-| KernelBench / kernel agents | source code                 | LLM iterative generation          | 几乎没有 semantic sharing                 |
-| TensorIR / autotuners       | schedule state              | evolutionary / cost-model search  | 通常固定 computation                      |
-| Mirage                      | ($\mu$)Graph                | enumeration + abstraction pruning | 大空间仍受限制                               |
-| Trinity                     | tile e-graph                | equality saturation               | static case、e-graph explosion         |
-| EqiForge                    | tensor+tile unified e-graph | EqSat + compaction                | 仍主要针对 fixed program instance          |
-| EggMind                     | EqSat strategy DSL          | LLM offline synthesis             | 优化的是 strategy，不是 dynamic kernel space |
-| Event Tensor                | dynamic task dependency IR  | static/dynamic scheduling         | agent/search layer仍开放                 |
-| FlashInfer-Bench            | workload/kernel/eval schema | kernel agent loop                 | representation 主要是完整 kernel           |
+> [!quote]
+> - llm + verifier?
+> 	- relational verification with program alignment (loop invariant)
+> 	- SMT proof generation
+> - llm + optimizer + verifier?
+> 	- abstract-transformer synthesis (with equality saturation)
+> 		- https://chatgpt.com/share/6abe4270-ede8-83ec-98c1-e86bc0c7460c
+> 	- ai compiler & gpu tensor optimization (with equality saturation)
+> 		- https://chatgpt.com/share/6abe448c-f8ac-83ec-b768-37c1b5b694a8
 
 
 ### Approaches
