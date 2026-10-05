@@ -114,6 +114,12 @@ Inspired by ideas about [attention in humans](https://en.wikipedia.org/wiki/Att
 | 2019+       | [Hopfield networks](https://en.wikipedia.org/wiki/Hopfield_network "Hopfield network") were reinterpreted as associative memory-based attention systems,[27](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-ramsauer2021-27) and [vision transformers](https://en.wikipedia.org/wiki/Vision_transformer "Vision transformer") (ViTs) achieved competitive results in image classification.[28](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-dosovitskiy2021-28)<br><br>Transformers were adopted across scientific domains, including [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold "AlphaFold") for protein folding,[29](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-alphafold-29) CLIP for vision-language pretraining,[30](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-clip-30) and attention-based dense segmentation models like CCNet[31](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-ccnet-31) and DANet.[32](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-danet-32) |
 
 ----
+![|500](../../../../../../../../../Assets/Pics/Pasted%20image%2020250920191324.png)
+<small>The Transformer - model architecture. <br> Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. "Attention is all you need." Advances in neural information processing systems 30 (2017).</small>
+
+![](../../../../../../../../../Assets/Pics/Pasted%20image%2020260404215455.png)
+<small><a>https://sebastianraschka.com/llm-architecture-gallery/</a></small>
+
 > [!TIP]
 > 🤖 GPT 6.0 Astra
 > https://chatgpt.com/share/6ac25c7b-bb90-83ec-ba0f-4928d10d5979 

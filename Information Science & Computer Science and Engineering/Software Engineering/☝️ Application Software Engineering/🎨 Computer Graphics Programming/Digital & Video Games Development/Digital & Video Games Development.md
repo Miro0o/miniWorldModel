@@ -66,8 +66,285 @@ A video game genre is a specific category of games related by similar gameplay c
 
 Genres may encompass a wide variety of games, leading to even more specific classifications called subgenres. For example, an action game can be classified into many subgenres such as platform games and fighting games. Some games, most notably browser and mobile games, are commonly classified into multiple genres.[1][2]
 
+### Game Dev Basics
+> 🤖 GPT 6.0 Astra
+> https://chatgpt.com/share/6ac38fde-f864-83ec-88f5-192a634f2373
 
-### Fundamentals of Rendering and Display
+- Game Development Evolution
+    - Early game development
+        - Everything custom-built
+        - Each game developed from scratch
+        - Developers implemented:
+            - Rendering
+            - Physics
+            - Audio
+            - Input
+        - No reusable architecture
+        - Strong platform dependency
+        - Porting often required major code rewrites
+        - Artists/designers heavily depended on programmers
+
+    - Introduction of Game Engines
+        - Became common in the early 1990s
+        - Core idea:
+            - Decouple game data from program logic
+        - Typical structure:
+            - Level Data
+            - Player Input
+            - Game Engine
+            - Display
+        - Enabled specialized roles:
+            - Level Designer
+
+
+- Game Development Software Layers
+    - Game Library
+        - Specialized toolkit for a specific domain
+        - Low-level
+        - Called directly by programmer code
+        - Examples:
+            - OpenGL → Graphics
+            - SDL → Input / Audio
+            - Box2D → Physics
+
+    - Game Framework
+        - Structured reusable foundation
+        - Provides components and development patterns
+        - Does not necessarily include all subsystems
+        - May require integration of:
+            - Physics
+            - Rendering
+            - Asset Management
+        - More flexible than full engines
+        - Requires more setup
+        - Examples:
+            - MonoGame
+            - libGDX
+
+    - Game Engine
+        - Complete software suite for game development
+        - Provides core systems:
+            - Rendering
+            - Physics
+            - Audio
+            - Input
+            - Asset Management
+            - Scripting
+            - Editor
+        - Allows developers to focus more on:
+            - Gameplay
+            - Design
+        - Examples:
+            - Unity
+            - Unreal Engine
+            - Godot
+
+
+- Game Engine Architecture: Frostbite Example
+    - Offline / Development Phase
+        - Editor
+            - Mainly C#
+            - Used to create and configure game content
+        - Pipeline
+            - Mainly C++
+            - Asset processing
+            - Build systems
+            - Prepares content for runtime
+
+    - Runtime / Execution Phase
+        - Game Code
+            - C++
+            - Core gameplay logic
+            - Executed on CPU
+
+        - System CPU Jobs
+            - C++
+            - Physics
+            - AI
+            - Animation
+
+        - System SPU Jobs
+            - C++ / Assembly
+            - Specialized low-level platform tasks
+            - SPU = Synergistic Processing Unit
+
+        - Generated Shaders
+            - HLSL
+            - GPU programs for rendering
+
+        - Compute Kernels
+            - HLSL
+            - GPU parallel computation
+            - Examples:
+                - Physics
+                - Particles
+                - Post-processing
+
+
+- Advantages of Game Engines
+    - Efficient Work Division
+        - Artists/designers:
+            - Level design
+            - Animation
+            - Visual assets
+        - Programmers:
+            - Gameplay logic
+            - Effects
+            - Optimization
+        - Reduced development bottlenecks
+
+    - Rapid Development
+        - Built-in tools:
+            - Editors
+            - Debuggers
+            - Profilers
+        - Faster prototyping
+        - Faster iteration
+        - Asset pipelines reduce repetitive work
+        - Scripting reduces boilerplate code
+
+    - Reusability
+        - Same engine can support multiple games
+        - Different:
+            - Artwork
+            - Story
+            - Levels
+        - Reduced time and development cost
+
+    - Cross-platform Support
+        - Platform abstraction
+        - Common targets:
+            - Windows
+            - macOS
+            - Consoles
+            - Mobile
+        - Minimal platform-specific changes
+
+
+- Disadvantages of Game Engines
+    - Homogenization
+        - Games using the same engine may share:
+            - Rendering styles
+            - Physics behavior
+            - UI paradigms
+
+    - Creativity Constraints
+        - Engine architecture may restrict unusual mechanics
+        - Custom mechanics may require:
+            - Workarounds
+            - Engine-level modifications
+
+    - Performance Overhead
+        - General-purpose engines may include unnecessary systems
+        - Possible consequences:
+            - Larger builds
+            - Runtime inefficiency
+        - Custom engines may be better optimized for specific games
+
+    - Licensing and Cost
+        - Possible:
+            - Subscription fees
+            - Revenue sharing
+        - Legal and financial implications
+
+
+- Game Loop
+    - Core concept
+        - Heartbeat of a real-time game
+        - Continuously repeats:
+            - Process Input
+            - Update Game
+            - Render Frame
+
+    - Basic Structure
+        - while game_is_running:
+            - process_input()
+            - update_game()
+            - render_frame()
+
+
+- Input Processing
+    - process_input()
+        - Captures input
+        - Interprets input
+        - Dispatches input
+
+    - Input Devices
+        - Keyboard
+        - Mouse
+        - Gamepad
+        - Touchscreen
+
+    - Polling
+        - Keyboard keys
+        - Mouse position
+        - Mouse clicks
+        - Gamepad buttons
+        - Analog sticks
+        - Touch gestures
+
+    - Input Mapping
+        - W → Move Forward
+        - Space → Jump
+        - Left Click → Fire Weapon
+
+    - Input State
+        - Movement direction
+        - Action flags
+            - is_jumping
+            - is_shooting
+
+
+- Game Update
+    - update_game()
+        - Core logic-update phase
+        - Handles dynamic changes between frames
+
+    - Player Update
+        - Input handling
+        - Movement
+        - Actions
+        - State transitions
+            - Idle
+            - Running
+            - Attacking
+        - Collision detection
+        - Collision response
+
+    - NPC Update
+        - AI decision-making
+        - Pathfinding
+        - Behavior Trees
+        - State Machines
+        - Interaction with:
+            - Player
+            - Environment
+
+    - World Update
+        - Passive Elements
+            - Walls
+            - Terrain
+            - Platforms
+            - Background layers
+            - Parallax scrolling
+
+        - Active Elements
+            - Doors
+            - Switches
+            - Traps
+            - Moving platforms
+
+        - Environment
+            - Day/night cycle
+            - Weather
+
+        - Events
+            - Trigger zones
+            - Scripted events
+
+        - Physics
+            - Gravity
+            - Collisions
 
 
 

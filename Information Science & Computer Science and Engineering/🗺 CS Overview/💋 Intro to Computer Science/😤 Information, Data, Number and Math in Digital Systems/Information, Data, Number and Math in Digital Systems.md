@@ -19,10 +19,12 @@
 ↗ [Media Formats & Standards & Codec (Coder-Decoder)](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder).md)
 
 
+### Other Resources
 
-## Intro: Information, Data, Number, Digitization, and Math
+
+
+## Intro
 
 
 
 ## Ref
-

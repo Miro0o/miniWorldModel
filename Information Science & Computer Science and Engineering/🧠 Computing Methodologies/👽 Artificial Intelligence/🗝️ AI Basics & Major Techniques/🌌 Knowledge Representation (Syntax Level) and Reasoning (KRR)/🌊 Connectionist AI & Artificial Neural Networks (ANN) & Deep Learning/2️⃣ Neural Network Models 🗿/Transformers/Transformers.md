@@ -341,7 +341,7 @@ tokens
 ```
 
 That high-level structure is still very close to GPT. What changed is the **inside of the block**: better normalization, better positional encoding, more inference-efficient attention, and sometimes MoE sparsity.
-#### 📌 LLM Architecture Gallery
+#### 📌 LLM Architecture Gallery 👍
 https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
 The Big LLM Architecture Comparison: 
 From DeepSeek V3 to GLM-5: A Look At Modern LLM Architecture Design

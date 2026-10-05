@@ -149,8 +149,7 @@ serving → compiler → kernel → CUDA → GPU
                 multi-GPU network
 
 
-
------
+---------------------------------------------
 
                          ┌───────────────────────────────┐
                          │           User/API            │
@@ -354,6 +353,7 @@ layout
 scheduling
 memory
 ```
+
 Layer 3：Kernel optimization
 某个 fused operation 已经定了：
 ```
@@ -374,7 +374,7 @@ pipeline stages
 三层不是完全分开的，但这个模型很有用。
 
 
-### LLM Workload
+### LLM Inference Workload
 > [!links]
 > ↗ [Transformers](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 > 
@@ -534,6 +534,10 @@ prefill 更 compute-bound
 
 
 ## Tensor Compilation & Transformer Computation Graph
+> [!links]
+> ↗ [PyTorch](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/📌%20PyTorch/PyTorch.md)
+> ↗ [Tensorflow](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/Hybrid%20Languages%20&%20Cross%20Platforms/📌%20Tensorflow/Tensorflow.md)
+
 > 🤖 GPT6.0 Astra
 > https://chatgpt.com/share/6ac25911-13a4-83ec-a4d5-c5ec05ce7e64
 
@@ -643,6 +647,11 @@ PyTorch 官方把主要 `torch.compile` 栈概括为 Dynamo、AOTDispatcher/AOTA
 
 
 ## Kernel Engineering & Compiler Lowering
+> [!links]
+> ↗ [GPU (Graphics Processing Unit)](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
+> ↗ [Nvidia Chips](../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Nvidia%20Chips.md)
+> ↗ [Compute Unified Device Architecture & CUDA Programming](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
+
 > 🤖 GPT6.0 Astra
 > https://chatgpt.com/share/6ac25911-13a4-83ec-a4d5-c5ec05ce7e64
 

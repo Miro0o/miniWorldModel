@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Linear Map](../../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/📌%20Linear%20Algebra%20Basics/Linear%20Map.md)
 
 
 ### Learning Resources
@@ -21,21 +22,76 @@ LoRA: Low-Rank Adaptation of Large Language Models
 
 
 ## Intro
-
-
+> [!quote] 🤖 GPT 6.0 Astra
+> https://chatgpt.com/share/6ac339b7-0594-83ec-9040-af3fe3980e92
+> 所以通常有两种部署方式：
+> 
+> ```
+> 方式 A
+> Base Model
+>   +
+> LoRA adapter
+> 
+> 优点：
+> 可以动态切换 LoRA
+> 
+> 方式 B
+> Base Model + LoRA
+>         ↓
+>       Merge
+>         ↓
+> Merged Model
+> 优点：
+> 推理结构更简单
+> ```
 
 
 ## QLoRA
-🏠 
-🚧 https://github.com/artidoro/qlora?tab=readme-ov-file
-📄 https://arxiv.org/abs/2305.14314 (paper)
-🤗 https://huggingface.co/timdettmers (Adapter Weights)
-🚗 https://huggingface.co/timdettmers (demo)
-
+> [!links]
+> 🚧 https://github.com/artidoro/qlora?tab=readme-ov-file
+> 📄 https://arxiv.org/abs/2305.14314 (paper)
+> 🤗 https://huggingface.co/timdettmers (Adapter Weights)
+> 🚗 https://huggingface.co/timdettmers (demo)
 
 "QLoRA: Efficient Finetuning of Quantized LLMs", an effort to democratize access to LLM research.
 
 QLoRA uses [bitsandbytes](https://github.com/TimDettmers/bitsandbytes) for quantization and is integrated with Hugging Face's [PEFT](https://github.com/huggingface/peft) and [transformers](https://github.com/huggingface/transformers/) libraries. QLoRA was developed by members of the [University of Washington's UW NLP group](https://twitter.com/uwnlp?s=20).
+
+ >[!quote] 🤖 GPT 6.0 Astra
+ >https://chatgpt.com/share/6ac339b7-0594-83ec-9040-af3fe3980e92
+ >
+ >QLoRA 可以简单理解成：
+ >$\text{QLoRA} = \text{Quantization} + \text{LoRA}$
+ >
+ >普通 LoRA:
+ >```
+ >Base Model
+ >FP16 / BF16
+ >+
+ >LoRA
+ >FP16/BF16
+ >```
+ >
+ >QLoRA：
+ >```
+ >Base Model
+ >4-bit quantized
+ >冻结
+ >+
+ >LoRA
+ >BF16 / FP16
+ >训练
+ >```
+ >
+ >所以一个 7B 模型：
+ >FP16 权重大约需要：
+ >$7B \times 2 bytes \approx 14GB$
+ >
+ >如果量化到 4-bit，理论权重大小大约：
+ >$7B \times 0.5 bytes \approx 3.5GB$
+ >
+ >再加上量化元数据、激活值等，实际会更多一些。
+ >这也是为什么很多人可以在消费级 GPU 上微调 7B、14B，甚至更大的模型。
 
 
 
