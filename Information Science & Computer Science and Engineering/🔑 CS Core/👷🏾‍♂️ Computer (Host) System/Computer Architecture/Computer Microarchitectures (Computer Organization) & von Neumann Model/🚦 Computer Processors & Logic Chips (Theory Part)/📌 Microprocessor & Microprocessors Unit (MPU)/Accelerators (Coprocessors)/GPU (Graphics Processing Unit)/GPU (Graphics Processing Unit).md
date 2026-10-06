@@ -25,6 +25,8 @@
 ↗ [Nvidia Chips](../../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Nvidia%20Chips.md)
 ↗ [国产芯片](../../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/国产芯片.md)
 
+↗ [HBM (High Bandwidth Memory)](../../../../Computer%20Memory%20&%20Storage/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/🪫%20Semiconductor%20Memory%20Technology%20&%20Memory%20Chips%20&%20RAM/DRAM%20(Dynamic%20RAM)%20Technology/HBM%20(High%20Bandwidth%20Memory).md)
+
 
 ### Learning Resources
 > 🔗 https://github.com/mikeroyal/GPU-Guide#gpu-learning-resources

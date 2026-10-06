@@ -10,6 +10,11 @@
 - ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 
 
+### Other Resources
+From mathematics to philosophy
+Hao Wang
+
+
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Philosophy_of_mathematics#References

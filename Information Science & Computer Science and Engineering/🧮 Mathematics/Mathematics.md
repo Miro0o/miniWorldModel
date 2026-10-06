@@ -47,6 +47,25 @@ Mathematical Reasoning，Writing and Proof | Ted Sundstrom
 📖 https://link.springer.com/book/10.1007/978-3-031-33203-6
 Mathematical Thinking - Why Everyone Should Study Math | Howard Karloff
 - _Mathematical Thinking_ is an ideal textbook for transition courses aimed at undergraduates moving from lower level to more advanced topics, as well as for math recruitment and invitational courses at the freshman or sophomore level. It may also be of interest in computer science departments and can be used as a supplemental text for courses in discrete mathematics and graph theory.
+
+https://www.math.ucdavis.edu/~bxn/applied_analysis.pdf
+https://www.math.ucdavis.edu/~hunter/book/pdfbook.html
+- [Chapter 1: Metric and Normed Spaces](https://www.math.ucdavis.edu/~hunter/book/ch1.pdf) (1–34)  
+- [Chapter 2: Continuous Functions](https://www.math.ucdavis.edu/~hunter/book/ch2.pdf) (35–60)  
+- [Chapter 3: The Contraction Mapping Theorem](https://www.math.ucdavis.edu/~hunter/book/ch3.pdf) (61–79)  
+- [Chapter 4: Topological Spaces](https://www.math.ucdavis.edu/~hunter/book/ch4.pdf) (81–89)  
+- [Chapter 5: Banach Spaces](https://www.math.ucdavis.edu/~hunter/book/ch5.pdf) (91–123)  
+- [Chapter 6: Hilbert Spaces](https://www.math.ucdavis.edu/~hunter/book/ch6.pdf) (125–147)  
+- [Chapter 7: Fourier Series](https://www.math.ucdavis.edu/~hunter/book/ch7.pdf) (149–186)  
+- [Chapter 8: Bounded Linear Operators on a Hilbert Space](https://www.math.ucdavis.edu/~hunter/book/ch8.pdf) (187–214)  
+- [Chapter 9: The Spectrum of Bounded Linear Operators](https://www.math.ucdavis.edu/~hunter/book/ch9.pdf) (215–243)  
+- [Chapter 10: Linear Differential Operators and Green's Functions](https://www.math.ucdavis.edu/~hunter/book/ch10.pdf) (245–286)  
+- [Chapter 11: Distributions and the Fourier Transform](https://www.math.ucdavis.edu/~hunter/book/ch11.pdf) (287–333)  
+- [Chapter 12: Measure Theory and Function Spaces](https://www.math.ucdavis.edu/~hunter/book/ch12.pdf) (335–377)  
+- [Chapter 13: Differential Calculus and Variational Methods](https://www.math.ucdavis.edu/~hunter/book/ch13.pdf) (379–426)
+Applied Analysis
+John K. Hunter, Bruno Nachtergaele
+UC Davis
 #### Other Online Resources
 https://www.3blue1brown.com/
 3blue1brown, or 3b1b for short, is primarily a [YouTube channel](https://www.youtube.com/3blue1brown) about discovery and creativity in math, with an emphasis on visualizations. On this site, you can find written versions of many of these lessons, often with more interactive elements sprinkled in.
@@ -152,25 +171,6 @@ https://www.cnblogs.com/TIMON123/p/16222362.html#/c/subject/p/16222362.html
 
 
 ### Other Resources
-https://www.math.ucdavis.edu/~bxn/applied_analysis.pdf
-https://www.math.ucdavis.edu/~hunter/book/pdfbook.html
-- [Chapter 1: Metric and Normed Spaces](https://www.math.ucdavis.edu/~hunter/book/ch1.pdf) (1–34)  
-- [Chapter 2: Continuous Functions](https://www.math.ucdavis.edu/~hunter/book/ch2.pdf) (35–60)  
-- [Chapter 3: The Contraction Mapping Theorem](https://www.math.ucdavis.edu/~hunter/book/ch3.pdf) (61–79)  
-- [Chapter 4: Topological Spaces](https://www.math.ucdavis.edu/~hunter/book/ch4.pdf) (81–89)  
-- [Chapter 5: Banach Spaces](https://www.math.ucdavis.edu/~hunter/book/ch5.pdf) (91–123)  
-- [Chapter 6: Hilbert Spaces](https://www.math.ucdavis.edu/~hunter/book/ch6.pdf) (125–147)  
-- [Chapter 7: Fourier Series](https://www.math.ucdavis.edu/~hunter/book/ch7.pdf) (149–186)  
-- [Chapter 8: Bounded Linear Operators on a Hilbert Space](https://www.math.ucdavis.edu/~hunter/book/ch8.pdf) (187–214)  
-- [Chapter 9: The Spectrum of Bounded Linear Operators](https://www.math.ucdavis.edu/~hunter/book/ch9.pdf) (215–243)  
-- [Chapter 10: Linear Differential Operators and Green's Functions](https://www.math.ucdavis.edu/~hunter/book/ch10.pdf) (245–286)  
-- [Chapter 11: Distributions and the Fourier Transform](https://www.math.ucdavis.edu/~hunter/book/ch11.pdf) (287–333)  
-- [Chapter 12: Measure Theory and Function Spaces](https://www.math.ucdavis.edu/~hunter/book/ch12.pdf) (335–377)  
-- [Chapter 13: Differential Calculus and Variational Methods](https://www.math.ucdavis.edu/~hunter/book/ch13.pdf) (379–426)
-Applied Analysis
-John K. Hunter, Bruno Nachtergaele
-UC Davis
-
 https://github.com/DxAThing/Gaokao-Math-Problems-Compilation
 中国高考数学题库 PDF ｜ 1952 ～ 2026
 

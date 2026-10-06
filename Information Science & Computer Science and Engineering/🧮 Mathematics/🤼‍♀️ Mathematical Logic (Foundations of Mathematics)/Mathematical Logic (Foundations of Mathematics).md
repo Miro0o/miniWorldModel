@@ -39,6 +39,9 @@ Logic for Applications
 - [Anil Nerode](https://link.springer.com/book/10.1007/978-1-4612-0649-1#author-0-0) , 
 - [Richard A. Shore](https://link.springer.com/book/10.1007/978-1-4612-0649-1#author-0-1)
 
+From mathematics to philosophy
+Hao Wang
+
 
 ### Other Resources
 https://web.ntnu.edu.tw/~algo/Logic.html
