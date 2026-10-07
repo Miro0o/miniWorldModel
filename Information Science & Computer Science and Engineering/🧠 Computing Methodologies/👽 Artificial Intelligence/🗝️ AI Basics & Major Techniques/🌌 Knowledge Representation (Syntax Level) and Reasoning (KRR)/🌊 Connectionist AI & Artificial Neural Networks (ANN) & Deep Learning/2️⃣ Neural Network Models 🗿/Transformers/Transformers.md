@@ -8,6 +8,14 @@
 ### Related Topics
 ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 ↗ [LLM (Large Language Model)](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
+- ↗ [OpenAI GPT](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20GPT.md)
+- ↗ [Anthropic Claude](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Anthropic%20Claude.md)
+- ↗ [DeepSeek](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
+- ↗ [Zhipu GLM](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Zhipu%20GLM.md)
+- ↗ [Moonshot Kimi](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Moonshot%20Kimi.md)
+- ↗ [xAI Grok](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/xAI%20Grok.md)
+- ↗ [Google Gemini](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Google%20Gemini.md)
 
 ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
 
@@ -73,6 +81,37 @@ Inside the Transformer: The Life of a Token (May 26, 2026)
 
 
 ## Intro: The Original Transformer Architecture
+> 🤖 GPT 6.0 Astra
+> https://chatgpt.com/share/6ac505cc-7e9c-83ec-8de1-8ab0731d1161
+
+> [!Quote] Sequence modeling
+> ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../../../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
+> 
+> Sequence modeling:
+> ![](../../../../../../../../Assets/Pics/Screenshot%202026-09-10%20at%2000.27.59.png)
+> 
+> The model only sees present and previous state: 
+> ![](../../../../../../../../Assets/Pics/Screenshot%202026-10-06%20at%2022.30.59.png)
+> 
+> What serves as memory:
+> ![](../../../../../../../../Assets/Pics/Screenshot%202026-10-06%20at%2022.20.54.png)
+> 
+> Maximum path lengths, per-layer complexity and minimum number of sequential operations for different layer types. $n$ is the sequence length, $d$ is the representation dimension, $k$ is the kernel size of convolutions, and $r$ is the size of the neighborhood in restricted self-attention.
+> 
+> | Layer Type | Complexity per Layer | Sequential Operations | Maximum Path Length |
+> |---|---:|---:|---:|
+> | Self-Attention | $O(n^2 \cdot d)$ | $O(1)$ | $O(1)$ |
+> | Recurrent | $O(n \cdot d^2)$ | $O(n)$ | $O(n)$ |
+> | Convolutional | $O(k \cdot n \cdot d^2)$ | $O(1)$ | $O(\log_k(n))$ |
+> | Self-Attention (restricted) | $O(r \cdot n \cdot d)$ | $O(1)$ | $O(n/r)$ |
+
+
+> [!TIP] Motivation of Transformer
+> - **Scalability**: Reduce computational complexity per layer
+> - **Global Context**: Reduce path length between any pair of words to facilitate learning of long-range dependencies.
+> - **Parallelization**: Maximize the amount of computation that can be parallelized
+
+
 > 🔗 https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)
 
 In deep learning, transformer is a neural network architecture based on the multi-head attention mechanism, in which text is converted to numerical representations called tokens, and each token is converted into a vector via lookup from a word embedding table.[1] At each layer, each token is then contextualized within the scope of the context window with other (unmasked) tokens via a parallel multi-head attention mechanism, allowing the signal for key tokens to be amplified and less important tokens to be diminished.
@@ -83,6 +122,10 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020250920191324.png)
 <small>The Transformer - model architecture. <br> Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. "Attention is all you need." Advances in neural information processing systems 30 (2017).</small>
+
+> 🤖 GPT 6.0 Astra
+> https://chatgpt.com/share/6ac5b6ec-8fa8-83ec-a240-bbca6fef466c
+> ![](../../../../../../../../Assets/Pics/Transformer%20Token%20Inference%20Flow%20Diagram.png)
 
 
 ### Tokenization & Embedding
@@ -123,22 +166,66 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 
 ---
 ↗ [Tokenization Techniques & Tokenizers](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
-- Token IDs & Vocabulary
-- Un-Embedding
-- Position Encoding
+from words to tokens 
+- token IDs & vocabulary size
+- special tokens
+
+determine LLM workload
+- prefill
+- kv cache
+- attention
+
+---
+**Embedding**
+from tokens to vectors
+(from one-hot encoding to embedding)
+
+static embedding:
+- the initial embedding vectors /matrices
+- fixed; same token same static embedding
+contextual embedding:
+- the embedding vector /matrices of the token changes as attention computation
+- dynamic, more and more contextual information
+
+positional embedding 
+- to mark the sequence number of the token to its embedding matrix
+sinusoidal positional encoding
+RoPE (rotary position embedding)
+- to encode the positional information in QKV, not adding additional vector
+
+one-hot & embedding look up
+
+Un-Embedding
 
 
-### Attention
+### Attention & QKV
 ↗ [Attention & Efficient Operator Implementation](Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
+🎬 [Attention in transformers, step-by-step | Deep Learning Chapter 6](https://youtu.be/eMlx5fFNoYc?si=UqpVj1vDxOtWAnlc) 3B1B
 
-![](../../../../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png)
-<small><a>https://poloclub.github.io/transformer-explainer/</a></small>
+> [!TIP]
+> Intuition behind attention:
+> - ![](../../../../../../../../Assets/Pics/Screenshot%202026-10-07%20at%2010.43.34.png) ![](../../../../../../../../Assets/Pics/Screenshot%202026-10-07%20at%2010.43.52.png)
+> 
+> Computation behind attention:
+> - ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png) <small><a>https://poloclub.github.io/transformer-explainer/</a></small>
+> 
+> 🤖 GPT 6.0 Astra
+> https://chatgpt.com/share/6ac25c7b-bb90-83ec-ba0f-4928d10d5979 
+> ![Transformer多头注意力流程图](../../../../../../../../../Assets/Pics/Transformer多头注意力流程图.png)
 
 
-### FeedForward Network (MLPs)
+### MLP (Feed-Forward Network, FFN)
 
 
 ### Probability
+
+
+### Encoder & Decoder Arch
+masked attention
+- encoder: not masked (bidirectional attention), one token sees previous & after
+- decoder: masked (causal attention), one token sees itself and the previous.
+
+self-attention & cross attention
 
 
 
@@ -156,6 +243,8 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 > ↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
 > 
 > ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+
+>🤖 https://chatgpt.com/share/69d11f8b-ec20-8397-aa1c-40a5e50d5d61
 
 ```markdown
 Transformer family tree
@@ -221,6 +310,8 @@ Full encoder–decoder Transformer
 > - Use case: machine translation, summarization, text-to-text tasks.
 > - **Key trait**: input processed fully, output generated step by step.
 
+![](../../../../../../../../Assets/Pics/Screenshot%202026-10-06%20at%2023.55.17.png)
+
 > [!Papers]
 > Encoder-decoder architectures:
 > - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf). _M. Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, Luke Zettlemoyer_. ACL 2019. Introduces **BART** from Facebook.
@@ -236,6 +327,8 @@ Full encoder–decoder Transformer
 > ↗ [Zhipu GLM](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Zhipu%20GLM.md)
 > ↗ [MiniMax](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/MiniMax.md)
 > ↗ [Moonshot Kimi](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Moonshot%20Kimi.md)
+
+![](../../../../../../../../Assets/Pics/Screenshot%202026-10-06%20at%2023.55.47.png)
 
 > [!quote]
 > 🤖 ChatGPT 4
@@ -377,15 +470,6 @@ Dense Decoder vs Sparse Decoder & MoE (Mixture of Experts)
 > Encoder-only architectures:
 > - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). _Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova_. NAACL 2019. Introduces **BERT** from Google.
 > - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf). _Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, M. Lewis, Luke Zettlemoyer, Veselin Stoyanov_. 2019. Introduces **RoBERTa** from Facebook.
-
-
-### Tokenization
-> [!Papers]
-> Tokenization:
-> - [Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP](https://arxiv.org/pdf/2112.10508.pdf). _Sabrina J. Mielke, Zaid Alyafeai, Elizabeth Salesky, Colin Raffel, Manan Dey, Matthias Gallé, Arun Raja, Chenglei Si, Wilson Y. Lee, Benoît Sagot, Samson Tan_. 2021. Comprehensive survey of tokenization.
-> - [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf). _Rico Sennrich, B. Haddow, Alexandra Birch_. ACL 2015. Introduces **byte pair encoding** into NLP. Used by GPT-2, GPT-3.
-> - [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144.pdf). _Yonghui Wu, M. Schuster, Z. Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, M. Krikun, Yuan Cao, Qin Gao, Klaus Macherey, J. Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Lukasz Kaiser, Stephan Gouws, Y. Kato, Taku Kudo, H. Kazawa, K. Stevens, George Kurian, Nishant Patil, W. Wang, C. Young, Jason R. Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, G. Corrado, Macduff Hughes, J. Dean_. 2016. Introduces **WordPiece**. Used by BERT.
-> - [SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing](https://arxiv.org/pdf/1808.06226.pdf). _Taku Kudo, John Richardson_. EMNLP 2018. Introduces **SentencePiece**.
 
 
 

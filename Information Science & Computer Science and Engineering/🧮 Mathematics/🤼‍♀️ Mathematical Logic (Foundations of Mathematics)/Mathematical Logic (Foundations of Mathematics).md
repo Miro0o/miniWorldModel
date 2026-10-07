@@ -33,14 +33,159 @@
 
 ↗ [Game Theory & Multi-Agent Decision-Making](../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 
+↗ [AI4Math](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Math/AI4Math.md)
+
 
 ### Learning Resources
 Logic for Applications
 - [Anil Nerode](https://link.springer.com/book/10.1007/978-1-4612-0649-1#author-0-0) , 
 - [Richard A. Shore](https://link.springer.com/book/10.1007/978-1-4612-0649-1#author-0-1)
 
-From mathematics to philosophy
-Hao Wang
+https://api.pageplace.de/preview/DT0400.9781134884339_A27018397/preview-9781134884339_A27018397.pdf
+From Mathematics to Philosophy | Hao Wang
+Preface
+- A note on the text
+- Introduction
+    - 1 Substantial factualism as a method and an antidote
+    - 2 Against positivism
+    - 3 Against linguistic philosophy
+    - 4 Explanatory remarks on substantial factualism
+    - 5 Logic, mathematics, and the scope of this book
+    - Notes
+- I Mathematical logic and philosophy of mathematics
+    - 1 Topics in the philosophy of mathematics
+    - 2 The axiomatic method and abstract structures
+    - 3 Questions of consistency
+    - 4 The deceptive appeal of mathematical logic to philosophers
+    - Notes
+- II Characterization of general mathematical concepts
+    - 1 Natural numbers
+    - 2 The continuum
+    - 3 Mechanical procedures
+        - 3.1 Gödel on mechanical procedures and the perception of concepts
+        - 3.2 General recursive functions
+        - 3.3 Turing machines
+        - 3.4 Constructivity and practical feasibility
+    - Notes
+- III Russell’s logic and some general issues
+    - 1 Principles (1903)
+    - 2 Preludes to Principia (1903–10)
+    - 3 Principia
+        - 3.1 The formal system PM
+    - 4 Wittgenstein and Ramsey
+    - 5 Logical truth and other philosophical matters
+    - 6 Predicative definitions and the vicious-circle principle
+    - Notes
+- IV Logical truth
+    - 1 Presuppositions of Aristotle’s logic
+        - 1.1 Logic and ontology
+        - 1.2 Propositions and the subject-predicate form
+        - 1.3 Attributes and relations
+        - 1.4 Logical form and the use of schematic letters
+        - 1.5 Some explanatory comments
+        - 1.6 Demonstrations, axioms and definitions
+        - 1.7 Truth and correspondence, laws of thought
+        - 1.8 Logic and the philosophy of development
+    - 2 Logical constants and logical truths
+        - 2.1 Logical truths based on current logical constants
+        - 2.2 Completeness of pure logic and Bolzano’s definition of logical validity
+        - 2.3 Additional constants and other logics
+        - 2.4 Philosophical foundations of logic
+    - Notes
+- V Metalogic
+    - 1 Formal languages and formal systems
+        - 1.1 Syntax and semantics
+        - 1.2 Example of a formal system
+        - 1.3 Truth definition for the given language
+    - 2 Origins and influences of metalogic
+        - 2.1 The axiomatic method
+        - 2.2 Logic and metalogic
+        - 2.3 Semiotic
+        - 2.4 Influences in other directions
+    - 3 Exact results on formal mathematical systems
+        - 3.1 General outline
+        - 3.2 The two incompleteness theorems
+        - 3.3 Decidability and undecidability
+        - 3.4 Consistency proofs
+    - 4 Exact results on logical calculi
+        - 4.1 The propositional calculus
+        - 4.2 The (first order) predicate calculus
+        - 4.3 The Löwenheim-Skolem theorem
+        - 4.4 The completeness theorem
+        - 4.5 The undecidability theorem and reduction classes
+    - Notes
+- VI The concept of set
+    - 1 The (maximum) iterative concept
+    - 2 Bankruptcy (contradiction) or misunderstanding (error)?
+    - 3 Objectivism and formalism in set theory
+    - 4 New axioms and criteria of acceptability
+    - 5 Comparisons with geometry and physics
+    - 6 Digression on unbounded quantifications
+    - 7 Extracting axioms of set theory from Cantor’s writings
+    - 8 The hierarchies of Cantor and Mirimanoff
+    - Notes
+- VII Theory and practice in mathematics
+    - 1 Activity and feasibility
+    - 2 Reducing mathematics to logic
+    - 3 What is mathematics?
+    - 4 Practical aspects of mathematics
+    - Notes
+- VIII Necessity, analyticity, and apriority
+    - 1 Homes and assimilations of the three concepts
+    - 2 Suggestions from Kant’s philosophy
+    - 3 From Frege to analytic philosophy
+    - 4 Notes on contemporary discussions
+    - Notes
+- IX Mathematics and computers
+    - 1 New uses of computers
+    - 2 Influence of mathematics on the development of computers
+    - 3 Logical mathematics
+    - 4 Mathematical reasoning as mechanical
+    - 5 Finite computations and infinite mathematics
+        - 5.1 Physical limitations
+        - 5.2 Mathematics and its application
+        - 5.3 Mathematical activity
+    - 6 Logic and computers
+        - 6.1 Historical and philosophical background
+        - 6.2 Between engineering and mathematics
+        - 6.3 Unsolvable problems
+        - 6.4 Formalization
+    - Notes
+- X Minds and machines
+    - 1 Aspects of mechanism
+    - 2 Computers and brains
+    - 3 Artificial or mechanical intelligence
+    - 4 Computer simulation of human thought
+    - 5 Protocols and theoretical psychology
+    - 6 Mathematical arguments
+        - 6.1 Solving the unsolvable
+        - 6.2 Theoretical and practical possibilities
+        - 6.3 Beating all machines at proving theorems
+        - 6.4 Consistency and know thyself
+        - 6.5 Meaning, use, and objectivism
+    - 7 Gödel on minds and machines
+    - Notes
+- XI Notes on knowledge and life
+    - 1 Intrinsic goals and large problems
+    - 2 Relevance and forms of life
+    - 3 Specialization and the unity of knowledge
+    - 4 Bertrand Russell as an example
+    - 5 Life and the pursuit of philosophy
+    - Notes
+- XII Themes and approaches
+    - 1 Scientific studies of matter, mind, and machines
+    - 2 Science and philosophy
+    - 3 Remarks on contemporary philosophy
+    - 4 Respect for gross facts
+    - 5 Looking beyond
+- Appendix Exercises in criticism
+    - 1 Notes on the justification of induction
+    - 2 On skepticism about induction
+    - 3 The existence of material objects
+    - 4 A question on knowledge of knowledge
+    - 5 What is an individual?
+    - Notes
+- Index
 
 
 ### Other Resources

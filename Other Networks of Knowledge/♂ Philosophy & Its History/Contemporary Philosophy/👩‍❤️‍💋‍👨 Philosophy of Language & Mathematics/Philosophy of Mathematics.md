@@ -11,7 +11,11 @@
 
 
 ### Other Resources
-From mathematics to philosophy
+Introduction to Mathematical Philosophy
+Bertrand Russell
+
+https://api.pageplace.de/preview/DT0400.9781134884339_A27018397/preview-9781134884339_A27018397.pdf
+From Mathematics to Philosophy
 Hao Wang
 
 

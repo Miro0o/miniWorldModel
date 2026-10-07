@@ -16,7 +16,16 @@
 ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
 
 
-### Papers
+### Learning Resources
+https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
+Neural networks | 3Blue1Brown
+- [Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://youtu.be/wjZofJX0v4M?si=cLC36CWJiJPKQJgT)
+	- 【【官方双语】GPT是什么？直观解释Transformer | 深度学习第5章-哔哩哔哩】 https://b23.tv/rcO76mO
+- [Attention in transformers, step-by-step | Deep Learning Chapter 6](https://youtu.be/eMlx5fFNoYc?si=UqpVj1vDxOtWAnlc)
+	- 【【官方双语】直观解释注意力机制，Transformer的核心 | 【深度学习第6章】-哔哩哔哩】 https://b23.tv/f0udg4P
+- [How might LLMs store facts | Deep Learning Chapter 7](https://youtu.be/9-Jl0dxWQs8?si=jJPuNPfLV6AtWNJa)
+
+#### Papers
 https://attention-survey.github.io/
 A Survey of Efficient Attention Methods:   Hardware-efficient, Sparse, Compact, and Linear Attention
 - [Jintao Zhang](https://jt-zhang.github.io/)1, [Rundong Su](https://attention-survey.github.io/#)\*1, [Chunyu Liu](https://attention-survey.github.io/#)\*1, [Jia Wei](https://attention-survey.github.io/#)\*1, [Ziteng Wang](https://attention-survey.github.io/#)*1, [Haoxu Wang](https://attention-survey.github.io/#)\*1, [Pengle Zhang](https://attention-survey.github.io/#)1, [Huiqiang Jiang](https://attention-survey.github.io/#)1, [Haofeng Huang](https://attention-survey.github.io/#)1, [Chendong Xiang](https://attention-survey.github.io/#)1, [Haocheng Xi](https://haochengxi.github.io/)2, [Shuo Yang](https://andy-yang-1.github.io/)2, [Xingyang Li](https://attention-survey.github.io/#)3, [Yuezhou Hu](https://attention-survey.github.io/#)2, [Tianyu Fu](https://github.com/fuvty)1, [Tianchen Zhao](https://attention-survey.github.io/#)1, [Yicheng Zhang](https://attention-survey.github.io/#)1, [Boqun Cao](https://attention-survey.github.io/#)1, [Youhe Jiang](https://attention-survey.github.io/#)1, [Chang Chen](https://attention-survey.github.io/#)1, [Kai Jiang](https://attention-survey.github.io/#)1, [Huayu Chen](https://attention-survey.github.io/#)1, [Min Zhao](https://attention-survey.github.io/#)1, [Xiaoming Xu](https://attention-survey.github.io/#)1, [Yi Wu](https://attention-survey.github.io/#)4, [Fan Bao](https://attention-survey.github.io/#)4, [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/)1, [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/)1
@@ -89,6 +98,20 @@ Beyond Residual Connection:
 
 
 ## Intro
+> [!links]
+> ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md) "LLM Serving"
+> ↗ [AI Compilers & GPU Operators DSL](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md) "LLM Inference Workload"
+
+> [!Abstract]
+> ![|500](../../../../../../../../../Assets/Pics/Pasted%20image%2020250920191324.png)
+> <small>The Transformer - model architecture. <br> Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. "Attention is all you need." Advances in neural information processing systems 30 (2017).</small>
+> ---
+> 
+> ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020260404215455.png)
+> <small><a>https://sebastianraschka.com/llm-architecture-gallery/</a></small>
+> ---
+
+
 > 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Dot-product_attention
 > 🔗 https://en.wikipedia.org/wiki/Transformer_(deep_learning)#Scaled_dot-product_attention
 
@@ -113,17 +136,18 @@ Inspired by ideas about [attention in humans](https://en.wikipedia.org/wiki/Att
 | 2019–2020   | Efficient Transformers, including Reformer,[24](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-reformer2020-24) Linformer,[25](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-linformer2020-25) and Performer,[26](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-performer2020-26) introduced scalable approximations of attention for long sequences.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | 2019+       | [Hopfield networks](https://en.wikipedia.org/wiki/Hopfield_network "Hopfield network") were reinterpreted as associative memory-based attention systems,[27](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-ramsauer2021-27) and [vision transformers](https://en.wikipedia.org/wiki/Vision_transformer "Vision transformer") (ViTs) achieved competitive results in image classification.[28](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-dosovitskiy2021-28)<br><br>Transformers were adopted across scientific domains, including [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold "AlphaFold") for protein folding,[29](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-alphafold-29) CLIP for vision-language pretraining,[30](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-clip-30) and attention-based dense segmentation models like CCNet[31](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-ccnet-31) and DANet.[32](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-danet-32) |
 
-----
-![|500](../../../../../../../../../Assets/Pics/Pasted%20image%2020250920191324.png)
-<small>The Transformer - model architecture. <br> Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. "Attention is all you need." Advances in neural information processing systems 30 (2017).</small>
 
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020260404215455.png)
-<small><a>https://sebastianraschka.com/llm-architecture-gallery/</a></small>
 
-> [!TIP]
+## Attention Computation & Architecture
+ Intuition behind attention:
+- ![](../../../../../../../../../Assets/Pics/Screenshot%202026-10-07%20at%2010.43.34.png) ![](../../../../../../../../../Assets/Pics/Screenshot%202026-10-07%20at%2010.43.52.png)
+
+Computation behind attention:
+- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png) <small><a>https://poloclub.github.io/transformer-explainer/</a></small>
+
+
 > 🤖 GPT 6.0 Astra
 > https://chatgpt.com/share/6ac25c7b-bb90-83ec-ba0f-4928d10d5979 
-> 
 > ![Transformer多头注意力流程图](../../../../../../../../../Assets/Pics/Transformer多头注意力流程图.png)
 
 
@@ -143,7 +167,7 @@ Inspired by ideas about [attention in humans](https://en.wikipedia.org/wiki/Att
 > 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Multi-head_attention
 
 
-### Self-Attention & Cross-Attention
+#### Self-Attention & Cross-Attention
 
 
 ### Bahdanau (Additive) Attention

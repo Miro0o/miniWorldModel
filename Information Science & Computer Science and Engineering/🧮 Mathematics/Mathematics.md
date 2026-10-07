@@ -34,12 +34,8 @@
 
 📖 《吴军通识数学讲义》
 
-
 项武义的《基础几何学》
 陶哲轩的《陶哲轩教你学数学》
-
-Introduction to Mathematical Philosophy
-Bertrand Russell
 
 📖 https://www.tedsundstrom.com/mathematical-reasoning-writing-and-proof
 Mathematical Reasoning，Writing and Proof | Ted Sundstrom
@@ -174,13 +170,36 @@ https://www.cnblogs.com/TIMON123/p/16222362.html#/c/subject/p/16222362.html
 https://github.com/DxAThing/Gaokao-Math-Problems-Compilation
 中国高考数学题库 PDF ｜ 1952 ～ 2026
 
+https://shuxueshuo.com/index.html
+初中 · 高中数学交互题库
+通过动态交互、图形与数值联动、步骤同步，在几何与函数题中真正看懂思路，建立自己的解题方法。
+
+Introduction to Mathematical Philosophy
+Bertrand Russell
+
+https://api.pageplace.de/preview/DT0400.9781134884339_A27018397/preview-9781134884339_A27018397.pdf
+From Mathematics to Philosophy
+Hao Wang
+
+👍 https://terrytao.wordpress.com/
+This site is currently hosting
+- [updates on my mathematical research](https://terrytao.wordpress.com/tag/paper "papers");
+- [expository articles](https://terrytao.wordpress.com/tag/expository) (such as [my articles for the Princeton Companion to Mathematics](https://terrytao.wordpress.com/category/paper/companion/), or [for the tricks wiki](https://terrytao.wordpress.com/category/expository/tricks/));
+- [discussion of open problems](https://terrytao.wordpress.com/tag/question "Open questions");
+- [talks that I have given or attended](https://terrytao.wordpress.com/tag/talk/) (such as the [Distinguished Lectures Series at UCLA](https://terrytao.wordpress.com/category/talk/dls/));
+- my [advice on mathematical careers](https://terrytao.wordpress.com/career-advice/) and [mathematical writing](https://terrytao.wordpress.com/advice-on-writing-papers/);
+- [information about my books](https://terrytao.wordpress.com/books/) and [applets](https://terrytao.wordpress.com/applets/);
+- my [lecture notes](https://terrytao.wordpress.com/category/teaching/) on [ergodic theory](https://terrytao.wordpress.com/category/teaching/254a-ergodic-theory/), on [the Poincaré conjecture](https://terrytao.wordpress.com/category/teaching/285g-poincare-conjecture/), on [random matrices](https://terrytao.wordpress.com/category/teaching/254a-random-matrices/), on graduate real analysis ([245A](https://terrytao.wordpress.com/category/teaching/245a-real-analysis/), [245B](https://terrytao.wordpress.com/category/teaching/245b-real-analysis/) and [245C](https://terrytao.wordpress.com/category/teaching/245c-real-analysis/)) and introductory graduate probability ([275A](https://terrytao.wordpress.com/category/teaching/275a-probability-theory/)), on [Hilbert’s fifth problem](https://terrytao.wordpress.com/category/teaching/254a-hilberts-fifth-problem/), on [expansion in finite simple groups of Lie type](https://terrytao.wordpress.com/category/teaching/254b-expansion-in-groups/), on [higher order Fourier analysis](https://terrytao.wordpress.com/category/teaching/254b-higher-order-fourier-analysis/), and on [analytic number theory](https://terrytao.wordpress.com/category/teaching/254a-analytic-prime-number-theory/);
+- and various other topics, usually related to mathematics.
+While most of the posts are aimed at those with a graduate maths background, I will also occasionally have a [number of non-technical posts](https://terrytao.wordpress.com/tag/non-technical "Non-technical") aimed at a lay mathematical audience.  My selection of topics is guided by my own personal taste; I do not take requests for specific topics to post about on this blog.
+
 
 
 ## Intro: Mathematics
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#
 
 ==Mathematics is a field of study that discovers and organizes methods, theories and theorems that are developed and proved for the needs of empirical sciences and mathematics itself. ==There are many areas of mathematics, which include **number theory** (the study of numbers), **algebra** (the study of formulas and related structures), **geometry** (the study of shapes and spaces that contain them), **analysis** (the study of continuous changes), and **set theory** (presently used as a foundation for all mathematics).
-
+j
 Mathematics involves the description and manipulation of abstract objects that consist of either abstractions from nature or—in modern mathematics—purely abstract entities that are stipulated to have certain properties, called **axioms**. Mathematics uses **pure reason** to prove properties of objects, a proof consisting of a succession of applications of deductive rules to already established results. These results include previously proved theorems, axioms, and—in case of abstraction from nature—some basic properties that are considered true starting points of the theory under consideration.
 
 Mathematics is essential in the natural sciences, engineering, medicine, finance, computer science, and the social sciences. Although mathematics is extensively used for modeling phenomena, ==the fundamental truths of mathematics are independent of any scientific experimentation==. Some areas of mathematics, such as statistics and game theory, are developed in close correlation with their applications and are often grouped under **applied mathematics**. Other areas are developed independently from any application (and are therefore called **pure mathematics**) but often later find practical applications.
@@ -1142,11 +1161,14 @@ The **Millennium Prize Problems** are seven well-known complex mathematical pr
 The Clay Mathematics Institute officially designated the title **Millennium Problem** for the seven unsolved mathematical problems, the [Birch and Swinnerton-Dyer conjecture](https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture "Birch and Swinnerton-Dyer conjecture"), [Hodge conjecture](https://en.wikipedia.org/wiki/Hodge_conjecture "Hodge conjecture"), [Navier–Stokes existence and smoothness](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness "Navier–Stokes existence and smoothness"), [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem "P versus NP problem"), [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis "Riemann hypothesis"), [Yang–Mills existence and mass gap](https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap "Yang–Mills existence and mass gap"), and the [Poincaré conjecture](https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture "Poincaré conjecture") at the Millennium Meeting held on May 24, 2000. Thus, on the official website of the Clay Mathematics Institute, these seven problems are officially called the **Millennium Problems**.
 
 As of 2026, the only Millennium Prize problem to have been solved is the Poincaré conjecture. The Clay Institute awarded the monetary prize to Russian mathematician [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman "Grigori Perelman") in 2010. However, he declined the award because it was not also offered to [Richard S. Hamilton](https://en.wikipedia.org/wiki/Richard_S._Hamilton "Richard S. Hamilton"), upon whose work Perelman built.
-#### Using AI Solves The Millennium Prize Problems?
-[On the Navier–Stokes Millennium Prize Problem | OpenAI](https://openai.com/index/navier-stokes-solution/)
 
-[Tristan Buckmaster](https://cims.nyu.edu/~tristanb/)
-- [statement](https://cims.nyu.edu/~tristanb/statement.pdf)
+> [!TIP] **Using AI Solves The Millennium Prize Problems?**
+> ↗ [AI4Math](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Math/AI4Math.md)
+> 
+> 🔗 [On the Navier–Stokes Millennium Prize Problem | OpenAI](https://openai.com/index/navier-stokes-solution/)
+> 
+> 🔗 [Tristan Buckmaster](https://cims.nyu.edu/~tristanb/)
+> - [statement](https://cims.nyu.edu/~tristanb/statement.pdf)
 
 
 

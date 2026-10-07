@@ -7,9 +7,12 @@
 ## Res
 ### Related Topics
 ↗ [Information Theory](../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
-↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
+↗ [Signal Processing](../../../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Signal%20Processing/Signal%20Processing.md)
+
 ↗ [Probability Theory & Statistics](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+↗ [Set Mapping & Function](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
 
 ↗ [Neuroscience](../../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Neuroscience/Neuroscience.md)
 
@@ -218,7 +221,6 @@ https://stanford.edu/~shervine/
 
 ## Intro
 ### Neuron, and The Connection of Information
-
 ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "Artificial Neuron & Neuron Networks"
 
 ![computing.excalidraw | 800](../../../../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
@@ -264,7 +266,7 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 
 
 
-## Neural Network (NN) Basics
+## Neural Network (NN) Basics & Foundations
 > [!links]
 > ↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 
@@ -300,7 +302,8 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020260317221514.png)
 <small><a>https://towardsdatascience.com/the-concept-of-artificial-neurons-perceptrons-in-neural-networks-fab22249cbfc/</a></small>
 ##### Linear Function
-
+↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
+↗ [Linear Map](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/📌%20Linear%20Algebra%20Basics/Linear%20Map.md)
 ##### Activation Function
 ↗ [Activation Functions (Transfer Functions)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Activation%20Functions%20(Transfer%20Functions).md)
 
@@ -334,7 +337,7 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > ↗ [Model Training (Classical ML & NN)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Training%20(Classical%20ML%20&%20NN).md)
 > ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
 > ↗ [Model Validation & Metrics](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Validation%20&%20Metrics/Model%20Validation%20&%20Metrics.md)
-#### Loss Function
+#### Loss Function & Objective Function
 > [!links]
 > ↗ [Objective & Cost & Loss Functions](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Objective%20&%20Cost%20&%20Loss%20Functions.md)
 
@@ -342,12 +345,12 @@ A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $
 #### Optimization: Gradient Descent & Back-propagation ⭐
 > [!links]
 > ↗ [Differential Calculus & Derivative of Function](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
-> 
 > ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
 > 
 > ![](../../../../../../Assets/Pics/Pasted%20image%2020260809132349.png)
 > <small>Example training process for neural networks supervised learning. <br> <a>https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa</a></small>
-> ↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md)
+> 
+> ↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md) ⭐
 > 
 > ↗ [First-Order & Gradient Methods](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md)
 
@@ -383,9 +386,17 @@ to train the neural net is to find a $\theta$ such that $\mathop{\min}\limits_{\
 	- denote the training data: $(x_1, y_1), (x_2, y_2), \cdots, (x_N, y_N)$
 	- the actual optimization: $\mathop{\min}\limits_{\theta} \frac{1}{N}\Sigma^{N}_{i=1} L(f_{\theta}(x_i), y_i)$, meaning a minimum on the training data set.
 - therefore, we need to design better neural architecture so that our $f_{\theta}$ have more **inductive bias** towards the potential problem structure we are going to solve with $f_{\theta}$, i.e. we want it performs well on the un-seen data.
-	- inductive bias explanation: although we cannot provide literally all data, we still want our neural net to be of the "good shape" after limited training data --- approximating the shape it would be if we provided all the data. 
-	- ↗ [Model Validation & Metrics](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Validation%20&%20Metrics/Model%20Validation%20&%20Metrics.md)
+	- inductive bias explanation: although we cannot provide literally all data, we still want our neural net to be of the "good shape" after limited training data --- approximating the shape it would be if we provided all the data. (↗ [Model Validation & Metrics](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Validation%20&%20Metrics/Model%20Validation%20&%20Metrics.md))
+- for different problem modeling, we are faced by different arch design consideration:
+	- sequence modeling: how to use past information for current computation?
+	- grid /spatial modeling: how to use spatial information?
+	- graph /network modeling : how to use graph information?
+	- tabular & structured modeling
+	- multimodal modeling
+	- etc.
 - this is the <a>neural network architecture design</a> problems. (↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md))
+	- how to forward information?
+	- how to backward gradient?
 
 note that the neural net is the layered: $f_{\theta} = f_1 \circ f_2 \circ \cdots f_M$, where $f_i$ is the function of each layer.
 therefore, to update the $\theta$ of the whole neural net, we update each layer /function: $f_1 \circ f_2 \circ \cdots f_M$ against the loss function $L(x)$, for the input $x$.
@@ -401,6 +412,7 @@ next, we want to update the weights $W_i$ by using information based on $\triang
 to improve:
 - we want to be smart on choices on the direction of our updates: $\mathcal{D}(\triangle W_i)$
 - also be smart on the learning rate /step size for each update: $\eta$
+	- **Learning Rate (LR) Schedule**
 - maybe make more use of the structural information? 
 - ...
 all these problems are the <a>optimization problems</a> (↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md)).
@@ -408,7 +420,7 @@ all these problems are the <a>optimization problems</a> (↗ [Optimizers & Model
 #### Normalization, Scaling, & Standardization
 > 🤖 GPT 6.0
 
-Normalization changes the **scale of values**.
+Normalization changes the **scale /distribution of values** so that the training becomes more stable and faster to converge. 
 
 Complete taxonomy:
 - The most important conceptual distinction is therefore **not the formula alone**. Ask:
@@ -474,13 +486,17 @@ RAW DATA
 | **Quantile Transformation** | Modern preprocessing | $x' = F_X(x)$ or $x'=\Phi^{-1}(F_X(x))$ | Uses the empirical CDF $F_X$ to map data to a uniform or Gaussian-like distribution | Handles unusual distributions and outliers effectively | Nonlinear; can distort distances and relationships between observations | Highly skewed or non-Gaussian features |
 ##### Activation /Representation Normalization
 
-| Method | Year | Mathematical Expression | Normalization Scope | Main Idea | Advantages | Limitations | Representative Uses |
-|---|---:|---|---|---|---|---|---|
-| **Batch Normalization (BatchNorm)** | 2015 | $y_i=\gamma\frac{x_i-\mu_B}{\sqrt{\sigma_B^2+\epsilon}}+\beta$ | Batch; typically same channel across batch and spatial dimensions | Normalizes activations using statistics computed from a mini-batch | Often accelerates and stabilizes training; allows larger learning rates | Behavior depends on batch size; requires running statistics for inference; train/inference behavior differs | CNNs, classical deep networks |
-| **Layer Normalization (LayerNorm)** | 2016 | $y_i=\gamma_i\frac{x_i-\mu_L}{\sqrt{\sigma_L^2+\epsilon}}+\beta_i$ | Features within one sample/token | Computes normalization statistics independently for each sample rather than across the batch | Independent of batch size; same behavior during training and inference | Can be less effective than BatchNorm for some CNN architectures | Transformers, RNNs, sequence models |
-| **Instance Normalization (InstanceNorm)** | 2016 | $y_{n,c,h,w}=\gamma_c\frac{x_{n,c,h,w}-\mu_{n,c}}{\sqrt{\sigma_{n,c}^2+\epsilon}}+\beta_c$ | Spatial dimensions of each channel for each individual sample | Normalizes every channel of every sample independently | Removes instance-specific contrast information; independent of batch size | Can remove information useful for discriminative tasks | Neural style transfer, image generation |
-| **Group Normalization (GroupNorm)** | 2018 | $y_i=\gamma_i\frac{x_i-\mu_G}{\sqrt{\sigma_G^2+\epsilon}}+\beta_i$ | Groups of channels within each sample | Divides channels into groups and computes statistics within each group | Stable with small batch sizes; independent of batch statistics | Number of groups becomes a hyperparameter; may not outperform BatchNorm with large batches | Object detection, segmentation, CNNs with small batches |
-| **RMS Normalization (RMSNorm)** | 2019 | $\operatorname{RMS}(x)=\sqrt{\frac{1}{d}\sum_{j=1}^{d}x_j^2+\epsilon}$; $y_i=\gamma_i\frac{x_i}{\operatorname{RMS}(x)}$ | Features within one sample/token | Simplifies LayerNorm by performing rescaling without subtracting the mean | Computationally simpler than LayerNorm; independent of batch size | Does not explicitly re-center activations | Transformers, large language models |
+| Method                                    | Year | Mathematical Expression                                                                                                 | Normalization Scope                                               | Main Idea                                                                                    | Advantages                                                                | Limitations                                                                                                 | Representative Uses                                     |
+| ----------------------------------------- | ---: | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| **Batch Normalization (BatchNorm)**       | 2015 | $y_i=\gamma\frac{x_i-\mu_B}{\sqrt{\sigma_B^2+\epsilon}}+\beta$                                                          | Batch; typically same channel across batch and spatial dimensions | Normalizes activations using statistics computed from a mini-batch                           | Often accelerates and stabilizes training; allows larger learning rates   | Behavior depends on batch size; requires running statistics for inference; train/inference behavior differs | CNNs, classical deep networks                           |
+| **Layer Normalization (LayerNorm)**       | 2016 | $y_i=\gamma_i\frac{x_i-\mu_L}{\sqrt{\sigma_L^2+\epsilon}}+\beta_i$                                                      | Features within one sample/token                                  | Computes normalization statistics independently for each sample rather than across the batch | Independent of batch size; same behavior during training and inference    | Can be less effective than BatchNorm for some CNN architectures                                             | Transformers, RNNs, sequence models                     |
+| **Instance Normalization (InstanceNorm)** | 2016 | $y_{n,c,h,w}=\gamma_c\frac{x_{n,c,h,w}-\mu_{n,c}}{\sqrt{\sigma_{n,c}^2+\epsilon}}+\beta_c$                              | Spatial dimensions of each channel for each individual sample     | Normalizes every channel of every sample independently                                       | Removes instance-specific contrast information; independent of batch size | Can remove information useful for discriminative tasks                                                      | Neural style transfer, image generation                 |
+| **Group Normalization (GroupNorm)**       | 2018 | $y_i=\gamma_i\frac{x_i-\mu_G}{\sqrt{\sigma_G^2+\epsilon}}+\beta_i$                                                      | Groups of channels within each sample                             | Divides channels into groups and computes statistics within each group                       | Stable with small batch sizes; independent of batch statistics            | Number of groups becomes a hyperparameter; may not outperform BatchNorm with large batches                  | Object detection, segmentation, CNNs with small batches |
+| **RMS Normalization (RMSNorm)**           | 2019 | $\operatorname{RMS}(x)=\sqrt{\frac{1}{d}\sum_{j=1}^{d}x_j^2+\epsilon}$; $y_i=\gamma_i\frac{x_i}{\operatorname{RMS}(x)}$ | Features within one sample/token                                  | Simplifies LayerNorm by performing rescaling without subtracting the mean                    | Computationally simpler than LayerNorm; independent of batch size         | Does not explicitly re-center activations                                                                   | Transformers, large language models                     |
+###### RMSNorm (Root Mean Square Normalization)
+$$\operatorname{RMS}(x)=\sqrt{\frac{1}{d}\sum_{j=1}^{d}x_j^2+\epsilon}$$
+$$y_i=\gamma_i\frac{x_i}{\operatorname{RMS}(x)}$$
+
 ##### Probability Normalization
 | Method                               | Year / Era                     | Mathematical Expression                        | Input → Output                                         | Main Idea                                                                | Advantages                                                                 | Limitations                                                                                  | Representative Uses                                               |
 | ------------------------------------ | ------------------------------ | ---------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -488,6 +504,11 @@ RAW DATA
 | **Softmax / Normalized Exponential** | Classical                      | $p_i=\frac{e^{z_i}}{\sum_j e^{z_j}}$           | Arbitrary real logits → positive values summing to $1$ | Exponentiates logits and normalizes them into a categorical distribution | Differentiable; emphasizes larger scores; standard for categorical outputs | Can become overly confident; exponentials can overflow without numerical stabilization       | Multiclass classification, attention, categorical distributions   |
 | **Temperature Softmax**              | Classical / modern usage       | $p_i=\frac{e^{z_i/T}}{\sum_j e^{z_j/T}}$       | Logits → adjustable probability distribution           | Introduces temperature $T$ to control distribution sharpness             | $T>1$ produces softer distributions; $T<1$ produces sharper distributions  | Requires choosing or learning $T$; does not fix all calibration problems                     | Knowledge distillation, calibration, attention, generative models |
 | **Log-Softmax**                      | Modern standard implementation | $\log p_i=z_i-\log\left(\sum_j e^{z_j}\right)$ | Logits → normalized log-probabilities                  | Computes the logarithm of Softmax directly                               | Numerically stable when combined with log-likelihood objectives            | Output is log-probability rather than ordinary probability                                   | Classification, negative log-likelihood loss                      |
+###### Softmax
+$$p_i=\frac{e^{z_i}}{\sum_j e^{z_j}}$$
+
+> 🔗 https://en.wikipedia.org/wiki/Softmax_function
+
 ##### Weight /Parameter Normalization
 
 | Method                                    | Year | Mathematical Expression                                    | What Is Normalized?                     | Main Idea                                                                               | Advantages                                                                                              | Limitations                                                                                         | Representative Uses                                       |
@@ -495,7 +516,6 @@ RAW DATA
 | **Weight Normalization (WeightNorm)**     | 2016 | $w=g\frac{v}{\lVert v\rVert_2}$                            | Individual weight vectors               | Reparameterizes a weight vector into a magnitude $g$ and direction $v/\lVert v\rVert_2$ | Decouples weight magnitude from direction; does not depend on batch statistics                          | Not always as effective as activation normalization; adds reparameterization complexity             | Neural networks, recurrent models, generative models      |
 | **Spectral Normalization (SpectralNorm)** | 2018 | $\bar{W}=\frac{W}{\sigma_{\max}(W)}$                       | Weight matrices                         | Divides a weight matrix by its largest singular value                                   | Controls operator norm and helps constrain Lipschitz behavior; effective for stabilizing discriminators | Estimating the largest singular value adds computation; commonly approximated using power iteration | GAN discriminators, stability-sensitive neural networks   |
 | **Weight Standardization (WS)**           | 2019 | $\hat{W}_{i}=\frac{W_i-\mu_W}{\sqrt{\sigma_W^2+\epsilon}}$ | Weights, commonly convolutional filters | Standardizes weights to approximately zero mean and unit variance before convolution    | Can improve optimization; works well with GroupNorm in small-batch settings                             | Additional computation; benefits depend on architecture and accompanying normalization              | CNNs, micro-batch training, GroupNorm-based architectures |
-#### Learning Rate (LR) Schedule
 
 #### Regularization & Dropouts
 ↗ [Regularizers & Dropouts](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Regularizers%20&%20Dropouts.md)
@@ -518,9 +538,9 @@ Regularization tries to stop a model from fitting the training data **too closel
 	- ↗ [ResNet (Residual Networks)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20Architecture%20Design/ResNet%20(Residual%20Networks).md)
 	- etc.
 - ↗ [RNN (Recurrent Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md)
-	- ↗ [LSTM (Long-Short Term Memories)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/LSTM%20(Long-Short%20Term%20Memories)/LSTM%20(Long-Short%20Term%20Memories).md)
-	- ↗ [RetNet (Retentive Network)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RetNet%20(Retentive%20Network)/RetNet%20(Retentive%20Network).md)
-- ↗ [SSM (State-Space Model)](2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/SSM%20(State-Space%20Model).md)
+	- ↗ [LSTM (Long-Short Term Memories)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20Architecture%20Design/LSTM%20(Long-Short%20Term%20Memories).md)
+	- ↗ [RetNet (Retentive Network)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20Architecture%20Design/RetNet%20(Retentive%20Network).md)
+- ↗ [SSM (State-Space Model)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/SSM%20(State-Space%20Model)/SSM%20(State-Space%20Model).md)
 - ↗ [Transformers](2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md) 🤔
 	- ↗ [LLM (Large Language Model)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 		- ↗ [OpenAI GPT](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20GPT.md)

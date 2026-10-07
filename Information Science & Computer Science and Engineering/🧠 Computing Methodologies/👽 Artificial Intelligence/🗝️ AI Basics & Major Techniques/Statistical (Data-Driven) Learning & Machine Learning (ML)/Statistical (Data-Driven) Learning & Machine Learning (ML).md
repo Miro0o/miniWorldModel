@@ -235,10 +235,21 @@ From a theoretical viewpoint, [probably approximately correct learning](https:/
 		2. ![|400](../../../../../Assets/Pics/Screenshot%202026-09-10%20at%2000.32.13.png)
 		3. ![|400](../../../../../Assets/Pics/Screenshot%202026-09-10%20at%2000.34.07.png)
 4. by task /input data paradigms:
-	1. sequence modeling (e.g. NLP)![](../../../../../Assets/Pics/Screenshot%202026-09-10%20at%2000.27.59.png)
-	2. grid /spatial modeling (e.g. CV)
-	3. graph /network modeling (e.g. GNN)
-	4. tabular & structured modeling (e.g. XGBoost)
+	1. sequence modeling (e.g. ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md), ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md), ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md), ↗ [Attention & Efficient Operator Implementation](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md))
+		1. ![](../../../../../Assets/Pics/Screenshot%202026-09-10%20at%2000.27.59.png)
+		2. The model only sees present and previous state:![](../../../../../../../../Assets/Pics/Screenshot%202026-10-06%20at%2022.30.59.png)
+		3. What serves as the memory:![](../../../../../../../../Assets/Pics/Screenshot%202026-10-06%20at%2022.20.54.png)
+		4. Maximum path lengths, per-layer complexity and minimum number of sequential operations for different layer types. $n$ is the sequence length, $d$ is the representation dimension, $k$ is the kernel size of convolutions, and $r$ is the size of the neighborhood in restricted self-attention.
+
+| Layer Type | Complexity per Layer | Sequential Operations | Maximum Path Length |
+|---|---:|---:|---:|
+| Self-Attention | $O(n^2 \cdot d)$ | $O(1)$ | $O(1)$ |
+| Recurrent | $O(n \cdot d^2)$ | $O(n)$ | $O(n)$ |
+| Convolutional | $O(k \cdot n \cdot d^2)$ | $O(1)$ | $O(\log_k(n))$ |
+| Self-Attention (restricted) | $O(r \cdot n \cdot d)$ | $O(1)$ | $O(n/r)$ |
+	2. grid /spatial modeling (e.g. ↗ [Computer Vision (CV)](../../Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md), ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md))
+	3. graph /network modeling (e.g. ↗ [GNN (Graph Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/GNN%20(Graph%20Neural%20Network)/GNN%20(Graph%20Neural%20Network).md))
+	4. tabular & structured modeling (e.g. ↗ [XGBoost](../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/Hybrid%20Languages%20&%20Cross%20Platforms/XGBoost/XGBoost.md))
 	5. multimodal modeling
 #### Statistical Learning & Machine Learning, Neural Network & Deep Learning, and AI?
 #machine_learning #statistical_learning #neural_networks #deep_learning #AI
@@ -509,7 +520,7 @@ Suggested Notation for Machine Learning
 > [Neural Network Models](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 > - ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
 > - ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md)
-> 	- ↗ [LSTM (Long-Short Term Memories)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/LSTM%20(Long-Short%20Term%20Memories)/LSTM%20(Long-Short%20Term%20Memories).md)
+> 	- ↗ [LSTM (Long-Short Term Memories)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20Architecture%20Design/LSTM%20(Long-Short%20Term%20Memories).md)
 > - ↗ [GNN (Graph Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/GNN%20(Graph%20Neural%20Network)/GNN%20(Graph%20Neural%20Network).md)
 > - ↗ [GAN (Generative Adversarial Network)](Probabilistic%20Modeling%20Distinction/🪽%20(Deep)%20Generative%20Models/GAN%20(Generative%20Adversarial%20Network)/GAN%20(Generative%20Adversarial%20Network).md)
 > - ↗ [Transformers](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)

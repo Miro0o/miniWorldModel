@@ -35,6 +35,9 @@
 | **Elastic Net**                    |                                                 2005 | $L_{\text{total}}=L+\lambda_1\sum_i\lvert w_i\rvert+\lambda_2\sum_iw_i^2$                        | Combines L1 sparsity with L2 shrinkage                             | Can produce sparse models while stabilizing correlated features                               | Combines advantages of L1 and L2; useful with many correlated features           | Introduces additional hyperparameters                                                        | High-dimensional regression, feature selection                          |
 | **Max-Norm Constraint**            | Classical; popularized in deep learning c. 2012–2013 | $\lVert w\rVert_2\leq c$; if $\lVert w\rVert_2>c$, use $w\leftarrow c\frac{w}{\lVert w\rVert_2}$ | Explicitly constrains parameter vectors to a maximum norm          | Prevents weights from becoming excessively large                                              | Simple; works well with techniques such as Dropout                               | Requires selecting maximum norm $c$                                                          | Neural networks, models using Dropout                                   |
 | **Decoupled Weight Decay / AdamW** |                                                 2017 | $w_{t+1}=w_t-\eta\,\operatorname{AdamGrad}_t-\eta\lambda w_t$                                    | Separates weight decay from the gradient-based optimization step   | Controls parameter magnitude without mixing the penalty into Adam's adaptive gradient scaling | More appropriate than naive L2 regularization with Adam; easy to tune            | Still requires choosing decay strength; not normally applied to every parameter              | Transformers, LLMs, modern deep learning                                |
+#### L1 Regularization / Lasso
+
+#### L2 Regularization / Ridge
 
 
 ### Stochastic / Network Regularization
@@ -46,6 +49,7 @@
 | **SpatialDropout / Dropout2D** | 2015 era | $m_c\sim\operatorname{Bernoulli}(1-p)$; $\tilde{X}_{c,:,:}=\frac{m_c}{1-p}X_{c,:,:}$ | Drops entire feature maps/channels rather than individual elements | Prevents strong dependence on particular feature maps | Better suited than element-wise Dropout for strongly correlated CNN activations | Can remove substantial information when $p$ is too high | CNNs, image models |
 | **Stochastic Depth** | 2016 | $h_{l+1}=h_l+b_lF_l(h_l)$, where $b_l\sim\operatorname{Bernoulli}(1-p_l)$ | Randomly skips residual blocks during training | Effectively trains networks of varying depth | Particularly effective for very deep residual networks; reduces training computation | Primarily useful for residual architectures | ResNets, Vision Transformers |
 | **DropBlock** | 2018 | $\tilde{X}=M_{\text{block}}\odot X$ | Drops contiguous regions of feature maps instead of independent activations | Forces CNNs to use spatially distributed evidence | Better suited to convolutional features than ordinary Dropout | Block size and drop rate require tuning | CNNs, image recognition |
+#### Dropout
 
 
 ### Training-Process Regularization

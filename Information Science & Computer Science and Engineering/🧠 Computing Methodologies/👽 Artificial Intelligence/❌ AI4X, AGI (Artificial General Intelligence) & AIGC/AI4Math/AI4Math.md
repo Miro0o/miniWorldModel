@@ -6,6 +6,10 @@
 
 ## Res
 ### Related Topics
+↗ [Philosophy & Its History](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+↗ [Philosophy of Mathematics](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Mathematics.md)
+
+↗ [Mathematics](../../../../🧮%20Mathematics/Mathematics.md)
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 ↗ [Formal System, Formal Semantics, and Formal Logic](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 
@@ -45,6 +49,14 @@ Matlas: A Semantic Search Engine for Mathematics
 
 
 ### Other Resources
+https://github.com/openai/math
+This repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model.
+
+As part of model development, we evaluate our models on open research problems. We expanded these evaluations after performance on our existing mathematical evaluations saturated. Some outputs build upon earlier results produced by the models.
+
+This collection includes results at different stages of verification. Not all have accompanying Lean formalizations. We will continue to update this repository with Lean formalizations as we obtain them.
+
+Some of the unformalized results could have issues. We will endeavor to fix any such issues quickly. We are also exploring community-hosted repositories for these materials.
 
 
 
@@ -53,3 +65,13 @@ Matlas: A Semantic Search Engine for Mathematics
 
 
 ## Ref
+[Ten advances in mathematics and theoretical computer science | OpenAI]: https://openai.com/index/ten-advances-in-mathematics/
+
+[On the Navier–Stokes Millennium Prize Problem | OpenAI]: https://openai.com/index/navier-stokes-solution/
+🔗 [Tristan Buckmaster](https://cims.nyu.edu/~tristanb/)
+[statement](https://cims.nyu.edu/~tristanb/statement.pdf)
+
+[Sharing AI progress in mathematics | OpenAI]: https://openai.com/index/sharing-ai-progress-in-mathematics/
+
+[A Severe Misalignment of AI in Mathematics | Tao]: https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/
+I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have also posted our declaration on [this web page](https://mathandai.org/), and (similarly to the [Leiden declaration](https://leidendeclaration.ai/)) invite further signatures. (It is unfortunate that we did not have the time to have a more consultative process, as with Leiden; but we decided that the urgency of the situation was such that we needed to release a statement sooner rather than later.)
