@@ -155,9 +155,8 @@ What is PLUS times PLUS?
 ### Semantics of Lambda Calculus
 
 
-
-## Visualization of Lambda Calculus
-### Tromp Diagrams
+### Visualization of Lambda Calculus
+#### Tromp Diagrams
 🏠 https://tromp.github.io/cl/diagrams.html
 Lambda Diagrams are a graphical notation for closed lambda terms, in which abstractions (lambdas) are represented by horizontal lines, variables by vertical lines emanating down from their binding lambda, and applications by horizontal links connecting the leftmost variables. In the alternative style, applications link the nearest deepest variables, for a more stylistic, if less uniform, look.
 

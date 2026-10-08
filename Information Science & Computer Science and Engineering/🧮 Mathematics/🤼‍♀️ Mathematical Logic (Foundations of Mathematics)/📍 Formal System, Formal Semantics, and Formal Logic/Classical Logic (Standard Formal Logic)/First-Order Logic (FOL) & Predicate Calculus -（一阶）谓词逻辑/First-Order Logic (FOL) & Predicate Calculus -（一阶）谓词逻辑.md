@@ -62,6 +62,8 @@ First-order logic is the standard for the formalization of mathematics into [ax
 The foundations of first-order logic were developed independently by [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege "Gottlob Frege") and [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce "Charles Sanders Peirce"). For a history of first-order logic and how it came to dominate formal logic, see José Ferreirós (2001).
 
 
+
+## Syntax
 ### Quantification of (Propositional) Logic
 ![](../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2016.44.39.png)
 <small>《离散数学》四川大学计算机学院</small>
@@ -71,9 +73,6 @@ The foundations of first-order logic were developed independently by [Gottlob F
 #### Free Variable & Bound Variable
 
 
-### Predicate Logic Formula & Valuation
-
-
 ### Predicate Logic Equivalent & Normal Form
 ![Screenshot 2023-01-02 at 6.04.59 PM](../../../../../../Assets/Pics/Screenshot%202023-01-02%20at%206.04.59%20PM.png)
 <small>《离散数学》四川大学计算机学院</small>
@@ -81,11 +80,17 @@ The foundations of first-order logic were developed independently by [Gottlob F
 ![Screenshot 2023-01-02 at 6.05.32 PM](../../../../../../Assets/Pics/Screenshot%202023-01-02%20at%206.05.32%20PM.png)
 <small>《离散数学》四川大学计算机学院</small>
 
+#### Negation Normal Form (NNF)
+
+#### Prenex Normal Form (PNF)
+
+#### Skolem Norm
 ![Screenshot 2023-01-02 at 6.06.09 PM](../../../../../../Assets/Pics/Screenshot%202023-01-02%20at%206.06.09%20PM.png)
 <small>《离散数学》四川大学计算机学院</small>
 
 
-### Implication & Entailment of Predicate Logic
+
+## Semantics
 
 
 
@@ -98,7 +103,7 @@ The foundations of first-order logic were developed independently by [Gottlob F
 ↗ [Logic And Mechanized (Formal) Reasoning /Formalized Deduction](../../../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md#Formalized%20Deduction)
 
 
-### Reasoning Rules in Predicate Logic
+### Proof Systems & Inference Rules
 ![Screenshot 2023-01-02 at 6.11.02 PM](../../../../../../Assets/Pics/Screenshot%202023-01-02%20at%206.11.02%20PM.png)
 <small>《离散数学》四川大学计算机学院</small>
 

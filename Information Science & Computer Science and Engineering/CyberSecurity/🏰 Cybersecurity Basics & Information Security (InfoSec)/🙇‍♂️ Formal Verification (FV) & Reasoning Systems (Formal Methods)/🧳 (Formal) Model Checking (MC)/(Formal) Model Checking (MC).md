@@ -1,4 +1,4 @@
-# (Formal) Model Checking
+# (Formal) Model Checking (MC)
 
 [TOC]
 

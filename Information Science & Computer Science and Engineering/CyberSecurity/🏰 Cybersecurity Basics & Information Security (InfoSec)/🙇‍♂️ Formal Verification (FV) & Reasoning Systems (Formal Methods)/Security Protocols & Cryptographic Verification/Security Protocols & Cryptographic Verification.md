@@ -9,7 +9,7 @@
 ↗ [Protocol & Policy Security](../../🗂️%20Protocol%20&%20Policy%20Security/Protocol%20&%20Policy%20Security.md)
 
 ↗ [Mathematical Modeling & Abstraction](../../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
-↗ [(Formal) Model Checking](../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [(Formal) Model Checking (MC)](../🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
 ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md)
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
@@ -84,7 +84,7 @@ Dhirubhai Ambani Institute of Information and Communication Technology
 
 ## Intro
 > [!links]
-> ↗ [(Formal) Model Checking](../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [(Formal) Model Checking (MC)](../🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
 > ↗ [Constraint Solving & Theorem Proving](../🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 > 
 > ↗ [Problem Solving & Search-Based Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
@@ -439,7 +439,7 @@ Overview of Problem Areas
 ## 2️⃣ Automated Verification of Security Protocols
 > [!links]
 > ↗ [Program (Formal) Verification](../Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
-> ↗ [(Formal) Model Checking](../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [(Formal) Model Checking (MC)](../🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
 
 
 

@@ -77,6 +77,8 @@ AgentGym: Evolving Large Language Model-based Agents across Diverse Environments
 - [Jiabin Tang](https://arxiv.org/search/cs?searchtype=author&query=Tang,+J), [Lianghao Xia](https://arxiv.org/search/cs?searchtype=author&query=Xia,+L), [Zhonghang Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+Z), [Chao Huang](https://arxiv.org/search/cs?searchtype=author&query=Huang,+C)
 - The powerful reasoning capabilities of Large Language Models (LLMs) in mathematics and coding, combined with their ability to automate complex tasks through agentic frameworks, present unprecedented opportunities for accelerating scientific innovation. In this paper, we introduce AI-Researcher, a fully autonomous research system that transforms how AI-driven scientific discovery is conducted and evaluated. Our framework seamlessly orchestrates the complete research pipeline--from literature review and hypothesis generation to algorithm implementation and publication-ready manuscript preparation--with minimal human intervention. To rigorously assess autonomous research capabilities, we develop Scientist-Bench, a comprehensive benchmark comprising state-of-the-art papers across diverse AI research domains, featuring both guided innovation and open-ended exploration tasks. Through extensive experiments, we demonstrate that AI-Researcher achieves remarkable implementation success rates and produces research papers that approach human-level quality. This work establishes new foundations for autonomous scientific innovation that can complement human researchers by systematically exploring solution spaces beyond cognitive limitations.
 
+https://github.com/OpenCoworkAI/open-cowork
+
 
 ### Agentic (M)LLM Products
 https://labs.google.com/mariner/landing

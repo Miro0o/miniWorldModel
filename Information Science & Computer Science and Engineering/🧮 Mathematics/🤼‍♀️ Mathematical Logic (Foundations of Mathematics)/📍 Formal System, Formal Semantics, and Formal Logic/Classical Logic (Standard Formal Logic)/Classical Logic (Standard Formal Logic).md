@@ -25,7 +25,7 @@
 > ↗ [Logic (and Critical Thinking) / Logical Reasoning](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Logical%20Reasoning)
 > Among various methods of logical reasoning, deductive reasoning is deemed to be the best. Among various methods of deductive reasoning, classical logic (standard formal logic) lays the foundation of all other methods of deductions. 
 
-> [!quote] GPT 6.0
+> [!quote] GPT 6.0 Astra
 > https://chatgpt.com/share/6abfada4-0500-83ec-a068-c4896dd9161d
 > https://chatgpt.com/share/6abfadb2-47f4-83ec-8b4a-27d20510d311
 > 

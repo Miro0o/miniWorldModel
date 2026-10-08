@@ -18,9 +18,6 @@
 
 
 ### Other Resources
-https://deepeval.com/
-
-https://artificialanalysis.ai/trends
 
 
 
@@ -256,7 +253,8 @@ Humanity's Last Exam
 
 
 ### Benchmarks & Leaderboards ⭐
-https://lmarena.ai/
+https://lmarena.ai/ (old)
+https://arena.ai/ (new)
 Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots
 - Chatbot Arena is an open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley [SkyLab](https://sky.cs.berkeley.edu/) and [LMArena](https://blog.lmarena.ai/about/). We open-source the [FastChat](https://github.com/lm-sys/FastChat) project at GitHub and release open datasets. We always welcome contributions from the community. If you're interested in collaboration, we'd love to hear from you!
 
@@ -275,6 +273,8 @@ https://livebench.ai/#/
 https://llm-stats.com/
 
 https://scale.com/leaderboard
+
+https://deepeval.com/
 
 https://gorilla.cs.berkeley.edu/leaderboard.html
 BFCL: From Tool Use to Agentic Evaluation of Large Language Models
@@ -298,6 +298,7 @@ We present **ScreenSpot-Pro**—a benchmark designed to evaluate GUI grounding 
 
 https://nof1.ai/
 **Alpha Arena** is the first benchmark designed to measure AI's investing abilities. Each model is given $10,000 of **real money**, in **real markets**, with the aim of maximizing trading profits over the course of 2 weeks. Each model must generate alpha, size trades, time trades and manage risk, completely autonomously.
+
 
 ---
 > 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-leaderboard (2025.01)

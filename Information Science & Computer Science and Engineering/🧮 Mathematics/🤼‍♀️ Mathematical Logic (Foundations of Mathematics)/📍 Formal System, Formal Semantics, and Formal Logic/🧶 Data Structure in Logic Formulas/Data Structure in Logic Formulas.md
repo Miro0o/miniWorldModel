@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Data Structures](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20&%20Data%20Structure%20Basics/Data%20Structures/Data%20Structures.md)
+↗ [Models of Computation & Abstract Machines](../../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
 
 
 ### Other Resources

@@ -47,7 +47,7 @@ by Alessandro Armando, David Basin, Jorge Cuellar, Michael Rusinowitch and Luca 
 
 ## Intro
 > [!links]
-> ↗ [(Formal) Model Checking](../../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [(Formal) Model Checking (MC)](../../🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
 > ↗ [Constraint Solving & Theorem Proving](../../🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 > 
 > ↗ [Problem Solving & Search-Based Methods](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
@@ -722,7 +722,7 @@ We define the intuition of "learning nothing new" using two formulae (in Herbran
 > 
 > e.g. Formula α≡x[1],x[2],x[3] ∈{0,1}∧x[1] + x[2] + x[3] = 1. What are the models of α?
 > 
-> More: ↗ [(Formal) Model Checking](../../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> More: ↗ [(Formal) Model Checking (MC)](../../🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
 
 > [!QUOTE] Definition (Model-theoretic Definition of $\alpha$-$\beta$-privacy)
 > Every $\Sigma_0$-model of $\alpha$ can be extended to a $\Sigma$-model of $\beta$.
@@ -1655,7 +1655,7 @@ guess good cryptographic keys), but one can do a few things to mitigate the risk
 ## 2️⃣ Automated Verification of Security Protocols
 > [!links]
 > ↗ [Program (Formal) Verification](../../Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
-> ↗ [(Formal) Model Checking](../../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [(Formal) Model Checking (MC)](../../🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
 
 
 ### Introduction
