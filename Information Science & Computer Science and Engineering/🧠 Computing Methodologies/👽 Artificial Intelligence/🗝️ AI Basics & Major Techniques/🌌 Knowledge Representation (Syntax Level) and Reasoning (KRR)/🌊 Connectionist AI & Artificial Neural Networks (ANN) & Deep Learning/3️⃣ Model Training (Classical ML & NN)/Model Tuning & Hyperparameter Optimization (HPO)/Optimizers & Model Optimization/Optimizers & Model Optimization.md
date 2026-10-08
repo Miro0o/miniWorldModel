@@ -231,8 +231,71 @@ $\Sigma \implies I$ means to even the variance of each coordinates of the matrix
 
 
 ## Hyperparameter Transferability
+### Standard Parameterization (SP)
+Optimal Learning Rate is Architecture-dependent:
+![](../../../../../../../../../Assets/Pics/Screenshot%202026-10-07%20at%2021.41.36.png)
+
+
 ### Maximal Update Parameterization（μP）
-Yang, Ge, et al. "Tuning large neural networks via zero-shot hyperparameter transfer." _Advances in Neural Information Processing Systems_ 34 (2021): 17084-17097.
+> [!links]
+> ↗ [Singular Value Decomposition (SVD)](../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/📌%20Linear%20Algebra%20Basics/Eigenvalues,%20Eigenvectors,%20and%20Invariant%20Subspaces/Singular%20Value%20Decomposition%20(SVD).md)
+> 
+> ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+> ↗ [Random Walk](../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Random%20Walk/Random%20Walk.md)
+> 
+> ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../../Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md) "normalization - RMSNorm"
+
+> [!TIP] 🤖 GPT 6.0 Astra
+> https://chatgpt.com/share/6ac646c9-21c8-83ec-a729-c7b2505c6c2c
+> 
+> Probabilistic perspective:
+> ... tbd
+> 
+> Geometry perspective:
+> $$\operatorname{RMS}(y) \le \underbrace{ \sqrt{ \frac{d_{\text{in}}}{d_{\text{out}}} } }_{\text{dimension effect}} \cdot \underbrace{ \|W\|_2 }_{\text{matrix amplification}} \cdot \underbrace{ \operatorname{RMS}(x) }_{\text{input scale}}.$$
+> output scale 来自三件事：
+> 1. 输入本身有多大；
+> 2. 矩阵有多能放大；
+> 3. input/output width 比例是多少。
+> 
+> μP 真正研究的就是：
+> - 当模型 width 改变时，learning rate、初始化、weight update 应该怎样随 width 缩放，才能保持相似的 training dynamics？
+> - 当 $d_{\text{in}}$、$d_{\text{out}}$ 改变时，$\|W\|_2$应该怎么跟着变，才能让 output RMS 保持稳定？
+> 	- Stable features: $\operatorname{RMS}(Wx)=O(1)$
+> - 对于 $\|\Delta W\|_2$ 同理
+> 	- non-vanishing learning: $\operatorname{RMS}(\Delta Wx)=O(1)$
+
+ >📄 Yang, Ge, et al. "Tuning large neural networks via zero-shot hyperparameter transfer." _Advances in Neural Information Processing Systems_ 34 (2021): 17084-17097.
+
+
+---
+**Motivation**: 
+- Stable optimum hyperparameters across scale (μTransfer)
+- Improved loss at large scale due to improved hyperparameter tuning
+- Stable training – significantly decreased danger of instability at large scale
+- More predictable scaling due to μTransfer
+
+**Basic idea**: if every operation in a model is controlled such that the outputs do not scale with model width, then we can change the model width without changing overall training dynamics.
+- Forward activation calculation
+- Backward gradient propagation
+- Updates of the weights
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202026-10-07%20at%2021.49.09.png)
+
+**Approach**
+- Controlling the initialization
+- Controlling the training
+
+Deriving the maximal update principle
+- **Stable features**: Their typical size stays bounded as width increases.
+- **Non-vanishing learning**: A step still changes features by a useful amount.
+- “Maximal” means the largest stable order as width grows.
+
+**Solution**:
+- control $\|\Delta W\|$ and $\|W\|$.
+Deriving the $\mu P$ principle:
+- $\operatorname{RMS}(y) \le \underbrace{ \sqrt{ \frac{d_{\text{in}}}{d_{\text{out}}} } }_{\text{dimension effect}} \cdot \underbrace{ \|W\|_2 }_{\text{matrix amplification}} \cdot \underbrace{ \operatorname{RMS}(x) }_{\text{input scale}} \implies \|W\|_2=\Theta\left( \frac{d_{out}}{d_{in}} \right)$
+- $\operatorname{RMS}(y) \le \underbrace{ \sqrt{ \frac{d_{\text{in}}}{d_{\text{out}}} } }_{\text{dimension effect}} \cdot \underbrace{ \|\Delta W\|_2 }_{\text{matrix amplification}} \cdot \underbrace{ \operatorname{RMS}(x) }_{\text{input scale}} \implies \|\Delta W\|_2=\Theta\left( \frac{d_{out}}{d_{in}} \right)$
 
 
 

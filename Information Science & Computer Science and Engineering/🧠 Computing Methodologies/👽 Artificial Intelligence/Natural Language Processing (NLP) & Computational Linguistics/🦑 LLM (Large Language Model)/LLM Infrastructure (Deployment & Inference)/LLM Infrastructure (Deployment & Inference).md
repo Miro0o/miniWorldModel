@@ -7,6 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [AI (Data) Infrastructure & Techniques Stack](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
+- ↗ [ML Programming & Frameworks](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/ML%20Programming%20&%20Frameworks.md)
+	- ↗ [RAY](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/RAY/RAY.md)
 - ↗ [Foundation Models & Development & SDKs](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/Foundation%20Models%20&%20Development%20&%20SDKs.md)
 - ↗ [Model Monitoring & Observability](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/Model%20Monitoring%20&%20Observability/Model%20Monitoring%20&%20Observability.md)
 - ↗ [Model Web Demo & Web Deployment](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/Model%20Web%20Demo%20&%20Web%20Deployment/Model%20Web%20Demo%20&%20Web%20Deployment.md)
@@ -23,7 +25,17 @@
 ↗ [vLLM](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
 ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
 
+↗ [GPU (Graphics Processing Unit)](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
 ↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
+
+↗ [Compute Unified Device Architecture & CUDA Programming](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md) ⭐
+
+↗ [Cloud Computing & Cloud Native](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
+↗ [Cloud Operating System & Platform (System Level Engineering)](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering).md)
+↗ [Orchestration & Management](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/Orchestration%20&%20Management.md)
+↗ [Cluster Scheduling & Orchestration](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/Cluster%20Scheduling%20&%20Orchestration/Cluster%20Scheduling%20&%20Orchestration.md)
+↗ [Kubernetes (K8S)](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/Cluster%20Scheduling%20&%20Orchestration/🏗️%20Kubernetes%20(K8S)/Kubernetes%20(K8S).md)
+↗ [Volcano](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/Cluster%20Scheduling%20&%20Orchestration/Volcano/Volcano.md)
 
 
 ### Papers
@@ -563,6 +575,11 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 
 ### GPU Kernel & Lowering
 ↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
+
+
+
+## Distributed Training & Inference
+### Tensor Parallel (TP)
 
 
 

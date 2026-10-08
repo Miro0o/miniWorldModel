@@ -442,9 +442,20 @@ From DeepSeek V3 to GLM-5: A Look At Modern LLM Architecture Design
 https://sebastianraschka.com/llm-architecture-gallery/
 - This page collects architecture figures and fact sheets from [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison), [From GPT-2 to gpt-oss](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the), [From DeepSeek V3 to V3.2](https://magazine.sebastianraschka.com/p/technical-deepseek), and [A Dream of Spring for Open-Weight LLMs](https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight), plus selected release posts or technical reports when a new architecture has not been covered in one of those articles yet. It focuses on the architecture panels only. Click a figure to enlarge it and use the model title to jump to the corresponding article section.
 - ![](../../../../../../../../Assets/Pics/Pasted%20image%2020260404215455.png)
+##### GPT-2 XL (1.5B)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020261007131337.png)
+##### DeepSeek-V3/R1 (671B)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020261007131511.png)
+##### DeepSeek V4-Pro (1.6T)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020261007132747.png)
+##### Kimi K3 (2.8T)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020261007132322.png)
+##### Qwen3.8-Flash-Next (125B-A6B)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020261007131433.png)
+
 #### Arch Design Paradigm
 Dense Decoder vs Sparse Decoder & MoE (Mixture of Experts)
-↗ [MoE (Mixture of Experts) Architecture](Transformer%20Architecture%20Design/Sparse%20&%20Dense%20Decoder%20Architecture/MoE%20(Mixture%20of%20Experts)%20Architecture/MoE%20(Mixture%20of%20Experts)%20Architecture.md)
+↗ [MoE (Mixture of Experts) Architecture](Transformer%20Architecture%20Design/Sparse%20&%20Dense%20Decoder%20Architecture/MoE%20(Mixture%20of%20Experts)%20Architecture.md)
 ↗ [Retrieve-Based Architecture](Transformer%20Architecture%20Design/Retrieve-Based%20Architecture/Retrieve-Based%20Architecture.md)
 
 #### Residual Connections

@@ -10,7 +10,7 @@
 - ↗ [x86 Architecture Family (80x86, 8086 family)](../../CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
 ↗ [RISC (Reduced Instruction Set Computer)](../../RISC%20(Reduced%20Instruction%20Set%20Computer)/RISC%20(Reduced%20Instruction%20Set%20Computer).md)
 - ↗ [ARM Architecture Family](../../RISC%20(Reduced%20Instruction%20Set%20Computer)/ARM%20Architecture%20Family/ARM%20Architecture%20Family.md)
-- ↗ [JVM Instrument Set & Java Bytecode](../../RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+- ↗ [JVM Instrument Set & Java Bytecode](../../CISC%20(Complex%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
 ↗ [VLIW (Very Long Instruction Word)](../../VLIW%20(Very%20Long%20Instruction%20Word)/VLIW%20(Very%20Long%20Instruction%20Word).md)
 - ↗ [IA-64](../../VLIW%20(Very%20Long%20Instruction%20Word)/IA-64.md)
 

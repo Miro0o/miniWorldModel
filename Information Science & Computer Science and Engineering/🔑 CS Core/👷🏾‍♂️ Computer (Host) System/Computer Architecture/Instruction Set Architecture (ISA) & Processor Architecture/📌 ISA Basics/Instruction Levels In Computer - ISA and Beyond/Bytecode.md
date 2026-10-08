@@ -7,12 +7,15 @@
 ## Res
 ### Related Topics
 ↗ [Java Bytecode](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
-↗ [JVM Instrument Set & Java Bytecode](../../RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+↗ [JVM Instrument Set & Java Bytecode](../../CISC%20(Complex%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
 
 ↗ [Ark Bytecode](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Ark%20Bytecode/Ark%20Bytecode.md)
 ↗ [Smali Code](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Smali%20Code/Smali%20Code.md)
 
 ↗ [ASM (Assembly Languages)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ASM%20(Assembly%20Languages).md)
+
+
+### Other Resources
 
 
 

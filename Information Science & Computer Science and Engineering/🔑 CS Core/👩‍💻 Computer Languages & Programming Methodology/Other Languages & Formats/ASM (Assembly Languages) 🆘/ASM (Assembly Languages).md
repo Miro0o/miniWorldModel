@@ -127,7 +127,7 @@ add 对应的 MIPS 指令里 opcode 是 0，rs 代表第一个寄存器 s1 的�
 
 > ↗ [Bytecode](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Bytecode.md)
 > ↗ [Java Bytecode](🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
-> ↗ [JVM Instrument Set & Java Bytecode](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+> ↗ [JVM Instrument Set & Java Bytecode](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
 > 
 > ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
 

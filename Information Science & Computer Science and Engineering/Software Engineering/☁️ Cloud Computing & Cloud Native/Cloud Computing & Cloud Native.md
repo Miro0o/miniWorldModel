@@ -80,6 +80,9 @@ Open Infrastructure Summit
 📖 阿里云运维架构实践秘籍 - 乔锐杰
 
 
+### Other Resources
+
+
 
 ## Intro
 ![](../../../Assets/Pics/Screen%20Shot%202022-09-02%20at%201.24.17%20AM-2053065.png)
@@ -147,37 +150,23 @@ Many modern providers offer "Cloud VPS" solutions, which blend the easy, fixed-p
 ## Ref
 Cloud Stack
 [Cilium](https://docs.cilium.io/en/stable/)
-
 [Quarkus](https://quarkus.io)
-
 [openstack](https://www.openstack.org)
-
 [nacos](https://github.com/alibaba/nacos)
-
 [drone](https://github.com/harness/drone)
-
 [filebeat](https://www.elastic.co/beats/filebeat)
-
 [Puppet Forge](https://forge.puppet.com)
-
 [Stackify Retrace](https://docs.stackify.com/v1/docs?_ga=2.2045431.795068548.1606150356-1374364069.1597069964)
-
 [heroku](https://elements.heroku.com)
-
 ...
 
 ---
 [What is SRE (Site Reliability Engineering)](https://www.redhat.com/en/topics/devops/what-is-sre)
-
 [KVM](https://www.linux-kvm.org/page/Main_Page)
-
 ↗ [Serverless](🌵%20Cloud%20Native%20Overview/Cloud%20System%20Software%20Architectures/Serverless/Serverless.md)
-
 ↗ [Dev(Sec)Ops (Application Level Engineering)](Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
-
 Agile Dev
 
-阿里如何实现100%容器化镜像化？八年技术演进之路回顾 - 阿里云云栖号的文章 - 知乎
-https://zhuanlan.zhihu.com/p/45467643
+[阿里如何实现100%容器化镜像化？八年技术演进之路回顾 - 阿里云云栖号的文章 - 知乎]: https://zhuanlan.zhihu.com/p/45467643
 
 [👍 2023 年全国职业院校技能大赛（高职组） “云计算应用”赛项赛卷 B部分解析 | CSDN]: http://t.csdnimg.cn/qjqFN

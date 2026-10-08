@@ -19,6 +19,9 @@
 ↗ [Parallel Computing & Programming](../../../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing%20&%20Programming/Parallel%20Computing%20&%20Programming.md)
 ↗ [Parallel Programming Libraries & SDK](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/👯‍♀️%20Parallel%20Programming%20Libraries%20&%20SDK/Parallel%20Programming%20Libraries%20&%20SDK.md)
 
+↗ [CUDA C++](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Lowering/CUDA%20C++/CUDA%20C++.md)
+↗ [Nvidia PTX (Parallel Thread Execution)](../../../../Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/Nvidia%20PTX%20(Parallel%20Thread%20Execution)/Nvidia%20PTX%20(Parallel%20Thread%20Execution).md)
+
 
 ### Learning Resources
 https://jasonkayzk.github.io/2025/07/29/%E4%B8%80%E3%80%81%E5%B9%B6%E8%A1%8C%E7%BC%96%E7%A8%8B%E5%AF%BC%E8%AE%BA%E4%B8%8ECUDA%E5%85%A5%E9%97%A8/

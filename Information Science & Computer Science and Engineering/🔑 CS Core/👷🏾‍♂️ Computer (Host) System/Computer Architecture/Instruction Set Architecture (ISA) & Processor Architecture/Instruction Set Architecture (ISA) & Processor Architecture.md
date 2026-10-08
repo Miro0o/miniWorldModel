@@ -18,6 +18,11 @@ ISA is implemented and largely relies on the implementation of ↗ [Computer Mic
 ↗ [System Call Interfaces (SCI)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/System%20Call%20Interfaces%20(SCI).md)
 ↗ [Machine Code](📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Machine%20Code.md)
 
+↗ [WASM (WebAssembly)](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns/🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
+
+↗ [IR (Intermediate Representation) & IR Generation](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/2️⃣%20IR%20(Intermediate%20Representation)%20&%20IR%20Generation/IR%20(Intermediate%20Representation)%20&%20IR%20Generation.md)
+↗ [MLIR (Multi-Level Intermediate Representation)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/🦅%20LLVM/MLIR%20(Multi-Level%20Intermediate%20Representation)/MLIR%20(Multi-Level%20Intermediate%20Representation).md)
+
 
 ### Learning Resources
 https://www.intel.com/content/www/us/en/resources-documentation/developer.html

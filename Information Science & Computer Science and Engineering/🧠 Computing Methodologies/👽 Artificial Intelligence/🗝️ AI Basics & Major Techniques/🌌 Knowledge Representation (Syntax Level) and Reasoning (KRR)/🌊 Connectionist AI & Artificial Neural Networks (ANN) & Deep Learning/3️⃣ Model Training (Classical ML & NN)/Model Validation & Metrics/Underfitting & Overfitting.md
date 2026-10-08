@@ -30,10 +30,8 @@ If we notice that a model performs much better on a training dataset than on the
 ### 1️⃣ Dropout Layers
 
 
-
 ### 2️⃣ Noise Layers
 🔗 https://keras.io/layers/noise/
-
 
 
 ### 3️⃣ Regularizers
@@ -44,8 +42,6 @@ Regularizers are added to individual layers:
 - kernel_regularizer: Controls the main weights (lines connecting the green nodes)
 - bias_regularizer: Controls the bias weights (lines connecting the orange nodes)
 - activity_regularizer: Controls based on layer output (o1 and o2)
-
-
 #### L1 and L2 regularization as penalties against model complexity
 
 We defined the squared L2 norm of our weight vector, w, as follows:
@@ -73,4 +69,3 @@ An alternative way to reduce the complexity of the model and avoid overfitting i
 
 ## Ref
 [Overfitting and Underfitting | Kaggle]: https://www.kaggle.com/code/ryanholbrook/overfitting-and-underfitting#
-

@@ -15,14 +15,33 @@
 ## Intro
 
 
+
 ## Error
 ### Training Error
+> [!links]
+> ↗ [Objective & Cost & Loss Functions](../Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Objective%20&%20Cost%20&%20Loss%20Functions.md)
+> 
+> | Major category                                 | Explicit subcategories                                                                                       | Main purpose                                                                      | Representative canonical losses/objectives                                                                                                                                         | Important aliases, instances, or composites                                                                  | Key milestones                                                                                   |
+> | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+> | **1. Classical supervised and probabilistic**  | Regression; robust regression; classification; probabilistic prediction; imbalance/calibration; distillation | Fit labels or conditional distributions                                           | L1/MAE, L2/MSE, Gaussian/Poisson NLL, Huber, quantile, cross-entropy, hinge, Brier, focal, label-smoothed CE, distillation KL                                                      | Logistic loss = binary cross-entropy; softmax CE = categorical NLL                                           | Least squares; maximum likelihood; information theory; SVMs; calibrated probabilistic prediction |
+> | **2. Ranking and metric learning**             | Pairwise/listwise ranking; sample-based metric learning; proxy/angular margin                                | Order candidates and structure embedding spaces                                   | RankNet, ListNet, BPR, contrastive, triplet, lifted structured, N-pair, center, Proxy-NCA, CosFace, ArcFace, Circle, supervised contrastive                                        | Siamese/triplet networks specify sampling and architecture as well as a loss                                 | Learning to rank; face recognition; retrieval                                                    |
+> | **3. Self-supervised representation learning** | Contrastive; self-distillation; redundancy reduction; clustering; masked reconstruction                      | Learn transferable representations without semantic labels                        | InfoNCE, NT-Xent, BYOL regression, SimSiam cosine loss, SwAV swapped prediction, DINO cross-entropy, Barlow Twins, VICReg, masked reconstruction                                   | CPC uses InfoNCE; SimCLR uses NT-Xent; MoCo uses queue-based InfoNCE                                         | Contrastive predictive coding; joint-embedding SSL; masked autoencoding                          |
+> | **4. Generative-model objectives**             | AE/VAE; GAN; EBM/flow; diffusion/score; flow matching/consistency                                            | Learn a data distribution or transport noise into data                            | Reconstruction, ELBO, GAN minimax/non-saturating, LSGAN, Wasserstein critic, exact flow NLL, NCE, score matching, DDPM simple loss, EDM weighting, flow matching, consistency loss | WGAN-GP adds gradient penalty; DDIM normally reuses a DDPM-trained model and is not a distinct loss          | VAE/GAN; normalizing flows; diffusion; continuous-time transport                                 |
+> | **5. Vision-specific**                         | Segmentation; detection/localization; restoration/perceptual quality                                         | Optimize spatial overlap, boxes, boundaries, or visual fidelity                   | Dice, generalized Dice, Tversky, focal Tversky, IoU/GIoU/DIoU/CIoU, Lovász-Softmax, Smooth L1, focal, quality focal, perceptual, SSIM                                              | Detection systems usually use a weighted classification + localization composite                             | Medical segmentation; dense detection; perceptual synthesis                                      |
+> | **6. NLP and sequence**                        | Token prediction; structured sequence models; alignment-free labeling; sequence-level generation             | Model tokens, align variable-length sequences, or optimize whole-sequence quality | Autoregressive NLL, masked-LM CE, CRF NLL, CTC, sampled softmax/NCE, minimum-risk training, policy-gradient/SCST, unlikelihood                                                     | “Language-model loss” and teacher-forced seq2seq loss are token cross-entropy, not new mathematical families | Neural language modeling; CTC; seq2seq; Transformer pretraining                                  |
+> | **7. Multimodal foundation models**            | Image-text contrast; matching; generative/composite pretraining                                              | Align modalities and learn conditional generation                                 | CLIP symmetric InfoNCE, SigLIP sigmoid loss, image-text matching BCE, captioning/conditional NLL, masked multimodal reconstruction                                                 | ALIGN uses a CLIP-like contrastive objective; ALBEF/BLIP combine several losses                              | CLIP/ALIGN; fusion encoders; vision-language assistants                                          |
+> | **8. LLM alignment and reasoning**             | SFT/RM/RLHF; offline preference optimization; on-policy RL; verifiers/RLVR                                   | Make generations preferred, safe, or verifiably correct                           | SFT NLL, Bradley–Terry reward loss, KL-regularized RL, PPO clipped surrogate, DPO, IPO, KTO, ORPO, SimPO, RLOO, GRPO, DAPO, GSPO, outcome/process verifier losses                  | RLHF and RLVR are training paradigms; GRPO/DAPO/GSPO are related policy-optimization objectives              | Deep RL from preferences; InstructGPT; DPO; DeepSeekMath/R1; process supervision                 |
+
+
 **Training error**: model error on the training data
 
 
 ### Generalization Error
-**Generalization error**: model error on new data
+> [!Links]
+> ↗ [K-Folds Cross Validation](General%20Evaluation%20Metrics/K-Folds%20Cross%20Validation.md)
+> ↗ [Supervised Learning Evaluation Metrics](General%20Evaluation%20Metrics/Supervised%20Learning%20Evaluation%20Metrics.md)
 
+**Generalization error**: model error on new data
 
 #### Bias & Variance Tradeoff
 > 🔗 https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff
@@ -56,22 +75,7 @@ The **bias–variance decomposition** is a way of analyzing a learning algorit
 ##### Applications
 
 
-
-## Complexity
-### Model Complexity
-![Screenshot 2023-01-30 at 2.38.33 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.38.33%20PM.png)
-
-
-> [!Example] 🤔 Model Complexity Example: Decision Tree
-> ![Screenshot 2023-01-30 at 2.38.51 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.38.51%20PM.png)
-
-
-### Data Complexity
-![Screenshot 2023-01-30 at 2.39.50 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.39.50%20PM.png)
-
-
-
-## Underfitting & Overfitting
+### Underfitting & Overfitting
 ![Screenshot 2023-01-30 at 2.36.10 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.36.10%20PM.png)
 
 ![Screenshot 2023-01-30 at 2.37.22 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.37.22%20PM.png)
@@ -130,8 +134,17 @@ These definitions reduce to the classical binary versions when $x_i,y_i \in {0,1
 
 
 
-## Cross-Validation
-↗ [K-Folds Cross Validation](General%20Evaluation%20Metrics/K-Folds%20Cross%20Validation.md)
+## Complexity
+### Model Complexity
+![Screenshot 2023-01-30 at 2.38.33 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.38.33%20PM.png)
+
+
+> [!Example] 🤔 Model Complexity Example: Decision Tree
+> ![Screenshot 2023-01-30 at 2.38.51 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.38.51%20PM.png)
+
+
+### Data Complexity
+![Screenshot 2023-01-30 at 2.39.50 PM](../../../../../../../../../Assets/Pics/Screenshot%202023-01-30%20at%202.39.50%20PM.png)
 
 
 

@@ -416,7 +416,7 @@ C 程序的状态机模型3 (语义，semantics)
 > [!links]
 > ↗ [Java](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 > ↗ [Java Bytecode](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
-> ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+> ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
 > 
 > ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
 
@@ -448,7 +448,7 @@ There are many formal semantics. Small step semantics is a kind of operational s
 		- $\iota$ is a single stack value $\iota \in V_\sigma$ representing PC (the value of memory address of next instruction to be executed).
 	- Frame stack $\mu$ consists of stacks of frames $\{⟨\lambda_i, \sigma_i,\iota_i⟩\}$.
 **Transition**: execution of one instruction of PC ($\iota$): $V \overset{bc[\iota]}{\to} V'$, or $⟨\eta, \ \mu⟩ \overset{bc[\iota]}{\to} ⟨\eta, \ \mu⟩'$
-- Different instructions have different behaviors in changing $V$ to $V'$. See ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md) for the instruction set.
+- Different instructions have different behaviors in changing $V$ to $V'$. See ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md) for the instruction set.
 
 For example, we look at below decompiled `.class` file of java bytecde:
 TBD.

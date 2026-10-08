@@ -369,13 +369,20 @@ A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $
 > - jupyter notebooks I built in this video: [https://github.com/karpathy/nn-zero-t...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFxeGdRcGVWdXhjLV9RbHQyZm94djdLYm4tUXxBQ3Jtc0tuS1JKOFBIcTRadWtVY1BBZFUtY3d6U09iZ29FcjR4R2c2MzgtSlRjZWlnOEkxUFUtVUlZaTNXSkFRUXJSaXBxNkVER3NSbTMzbG9iQnBuckl5WWNWU1hOUTdwSGtuNmNLbUhUNWg1c1dWanpCYkZNUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fnn-zero-to-hero%2Ftree%2Fmaster%2Flectures%2Fmicrograd&v=VMj-3S1tku0)
 > - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
 
-neural net: a function $f_{\theta}(x)$
+in DL, we view everything as a function. (computation as function?)
+neuron: a function
+perceptron: a function composed of multiple functions
+neural layer: a function composed of multiple neurons /perceptrons
+
+neural net: a function of layer: $f_{\theta}(x)$
 - $x$: inputs to the neural net
-- $\theta$: weights (hyper-parameters) of the neural net, determine the function shape.
+- $\theta$: weights of the neural net, determine the function shape.
+	- Note weights $w\in W$ as a matrix: $w= \begin{pmatrix} w_{11}&w_{12}\\ w_{21}&w_{22} \end{pmatrix}$, $w_{ij}$ is a **coordinate**.
+	- make $z = w\cdot x$, $z$ is a **feature**, while the unit that computes this process is a **neuron**.
 - outputs: $\hat{y} = f_{\theta}(x)$
 
 define the "ground truth": $y$
-define the difference between our prediction and the "truth": the loss function $L(x) = L(\hat{y}, y)$
+define the difference between our prediction and the "truth": the **loss function $L(x) = L(\hat{y}, y)$**
 - for difference task types, the loss function or objective function varies.
 	- supervised learning
 	- unsupervised learning
@@ -401,8 +408,14 @@ to train the neural net is to find a $\theta$ such that $\mathop{\min}\limits_{\
 note that the neural net is the layered: $f_{\theta} = f_1 \circ f_2 \circ \cdots f_M$, where $f_i$ is the function of each layer.
 therefore, to update the $\theta$ of the whole neural net, we update each layer /function: $f_1 \circ f_2 \circ \cdots f_M$ against the loss function $L(x)$, for the input $x$.
 for each function $f_1 \circ f_2 \circ \cdots f_i \circ \cdots \circ f_M$:
-- denote the $W_i$ as the hyper-parameter $\theta_i$ of $f_i$
-- therefore, $\triangle W_i = \frac{\partial W_i}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}W_{i+2}}\cdot \frac{\partial W_{i+2}}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}W_{i+2}}\cdots \frac{\partial W_{M}}{\mathrm{d}L}$ (the chain rule)
+- denote the $W_i$ as the weight of layer $f_i(x)$: $z = W_ix + b$
+	- upstream gradient: $g_z=\frac{\partial L}{\partial z}$
+	- $\frac{\partial L}{\partial W} = g_z x^T$
+	- $\frac{\partial L}{\partial b} = g_z$
+	- $\frac{\partial L}{\partial x} = W^T g_z$
+- therefore, the gradient of $W_i$ against loss $\nabla_W L = \frac{\partial L}{\partial W_i} = \frac{\partial W_{i+1}}{\partial{W_{i}}}\cdot \frac{\partial L}{\partial{W_{i+1}}} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}W_{i+2}}\cdot \frac{\partial W_{i+2}}{\mathrm{d}L} = \frac{\partial W_i}{\mathrm{d}W_{i+1}}\cdot \frac{\partial W_{i+1}}{\mathrm{d}W_{i+2}}\cdots \frac{\partial W_{M}}{\mathrm{d}L}$ (the chain rule)
+(tbd..... error)
+
 
 therefore, to update $\triangle W_i$, we calculate from the last layer (the last function $W_M$), then ==back-propagate== from $W_M$ to $W_{M-1}$, to $W_{M-2}$, ... to $W_{i+1}$, to $W_{i}$.
 through this process, we have the gradients $\triangle W_i$ for all neural net layer $f_i$ when we back-propagate to the first layer $W_0$.
@@ -410,7 +423,7 @@ through this process, we have the gradients $\triangle W_i$ for all neural net l
 next, we want to update the weights $W_i$ by using information based on $\triangle W_i$, i.e. the idea of ==gradient decent==: $W_i' = W_i - \eta\triangle W_i$. this is the vanilla gradient decent idea.
 - we can also write $W_i' = W_i + \eta\triangle W_i$
 to improve:
-- we want to be smart on choices on the direction of our updates: $\mathcal{D}(\triangle W_i)$
+- we want to be smart on choices on the direction of our updates: $\mathcal{D}(\triangle W_i)$ (not the raw gradients)
 - also be smart on the learning rate /step size for each update: $\eta$
 	- **Learning Rate (LR) Schedule**
 - maybe make more use of the structural information? 
