@@ -26,11 +26,11 @@
 
 ↗ [Software (Program) Techniques & Binary Engineering](../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
 - ↗ [Program Analysis Basics](../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
-- ↗ [Program Synthesis & Code Generation](../../🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
+- ↗ [Program Synthesis & Code Generation](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
 
 ↗ [Programming Language Processing & Program Execution](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
-↗ [Program Optimization](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Program%20Optimization/Program%20Optimization.md)
+↗ [Code (Program) Optimization](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Code%20%28Program%29%20Optimization.md)
 
 ↗ [Neuro-Symbolic AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
 
@@ -100,7 +100,7 @@ COS 516/ECE 516: Automated Reasoning about Software, Fall 2026
 			- Proof Assistant; ↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
 			- Proof Checker;
 		- Applicable if: system has form a systematical theory
-	- ↗ [(Formal) Model Checking](../🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md):
+	- ↗ [(Formal) Model Checking (MC)](../🧳%20%28Formal%29%20Model%20Checking%20%28MC%29/%28Formal%29%20Model%20Checking%20%28MC%29.md):
 		- Method: systematic check on P in ALL STATES
 		- Tool: model checker
 		- Applicable if: system generates (finite) behavioural model

@@ -9,6 +9,7 @@
 
 
 ### Related Topics
+↗ [IR (Intermediate Representation) & IR Generation](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/2️⃣%20IR%20%28Intermediate%20Representation%29%20&%20IR%20Generation/IR%20%28Intermediate%20Representation%29%20&%20IR%20Generation.md)
 
 
 ### Other Resources

@@ -209,7 +209,9 @@ export function inspectLink(link, source, index, config, { repairStale = false, 
     : encodedSeparator ? rawPath.replace(/%2f/gi, '/') + fragment : null;
   // Equivalent URI spellings must compare equally during three-way merging.
   // This opt-in does not change ordinary audit/repair output for valid links.
-  if (resolved && normalizeEncoding && link.kind !== 'wiki') {
+  // Missing/private and ambiguous targets still have equivalent URI spellings.
+  // Normalize syntax without choosing or changing their filesystem target.
+  if (normalizeEncoding && link.kind !== 'wiki') {
     replacement = encode(newPath) + fragment;
     if (replacement === link.raw) replacement = null;
     else if (category === 'resolved') category = 'equivalent-encoding';

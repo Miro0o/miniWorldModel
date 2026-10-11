@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Normed Vector Space](../../🛸%20Hybrid%20Algebraic%20Structures/Normed%20Vector%20Space.md)
 
 
 ### Learning Resources

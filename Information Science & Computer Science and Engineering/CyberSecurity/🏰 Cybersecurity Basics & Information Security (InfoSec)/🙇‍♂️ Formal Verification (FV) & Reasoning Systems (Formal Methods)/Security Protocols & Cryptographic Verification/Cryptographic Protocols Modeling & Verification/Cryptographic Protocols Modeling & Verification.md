@@ -47,7 +47,7 @@ by Alessandro Armando, David Basin, Jorge Cuellar, Michael Rusinowitch and Luca 
 
 ## Intro
 > [!links]
-> ↗ [(Formal) Model Checking](../../🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
+> ↗ [(Formal) Model Checking (MC)](../../🧳%20%28Formal%29%20Model%20Checking%20%28MC%29/%28Formal%29%20Model%20Checking%20%28MC%29.md)
 > ↗ [Constraint Solving & Theorem Proving](../../🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 > 
 > ↗ [Problem Solving & Search-Based Methods](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
@@ -460,7 +460,7 @@ One of the most cited papers of protocol verification is one by Danny Dolev and 
 
 > [!definition]
 > **Definition 8.**  (Dolev-Yao Closure)
-> (↗ [Functions & Closures](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms/Functions%20&%20Closures.md), ↗ [Number Sets & Field Construction (Completion) and Extension](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension.md))
+> (↗ [Functions & Closures](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms/Functions%20&%20Closures.md), ↗ [Number Sets & Field Construction (Completion) and Extension](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20%28Completion%29%20and%20Extension.md))
 > 
 > *We define $\vdash$ as the least relation that satisfies the following rules:*
 > $$
@@ -722,7 +722,7 @@ We define the intuition of "learning nothing new" using two formulae (in Herbran
 > 
 > e.g. Formula α≡x[1],x[2],x[3] ∈{0,1}∧x[1] + x[2] + x[3] = 1. What are the models of α?
 > 
-> More: ↗ [(Formal) Model Checking](../../🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
+> More: ↗ [(Formal) Model Checking (MC)](../../🧳%20%28Formal%29%20Model%20Checking%20%28MC%29/%28Formal%29%20Model%20Checking%20%28MC%29.md)
 
 > [!QUOTE] Definition (Model-theoretic Definition of $\alpha$-$\beta$-privacy)
 > Every $\Sigma_0$-model of $\alpha$ can be extended to a $\Sigma$-model of $\beta$.
@@ -1655,7 +1655,7 @@ guess good cryptographic keys), but one can do a few things to mitigate the risk
 ## 2️⃣ Automated Verification of Security Protocols
 > [!links]
 > ↗ [Program (Formal) Verification](../../Program%20%28Formal%29%20Verification/Program%20%28Formal%29%20Verification.md)
-> ↗ [(Formal) Model Checking](../../🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
+> ↗ [(Formal) Model Checking (MC)](../../🧳%20%28Formal%29%20Model%20Checking%20%28MC%29/%28Formal%29%20Model%20Checking%20%28MC%29.md)
 
 
 ### Introduction

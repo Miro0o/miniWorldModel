@@ -143,7 +143,7 @@ We formalize now the cryptographic abilities of the intruder according in the st
 
 ### Automating Dolev-Yao Deduction
 > [!links]
-> ↗ [(Formal) Model Checking](../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/%28Formal%29%20Model%20Checking.md)
+> ↗ [(Formal) Model Checking (MC)](../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking%20%28MC%29/%28Formal%29%20Model%20Checking%20%28MC%29.md)
 
 Goal: design (in pseudocode) a decision procedure for Dolev-Yao:
 - Given a finite set M of messages (the intruder knowledge)

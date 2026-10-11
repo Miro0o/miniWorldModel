@@ -38,6 +38,8 @@ DRAM had a 47% increase in the price-per-bit in 2017, the largest jump in 30 yea
 
 ### 1️⃣ ADRAM (Asynchronous Dynamic RAM)
 The original DRAM, now known by the retronym asynchronous DRAM was the first type of DRAM in use. From its origins in the late 1960s, it was commonplace in computing up until around 1997, when it was mostly replaced by synchronous DRAM. In the present day, manufacture of asynchronous RAM is relatively rare.
+
+
 ### 2️⃣ SDRAM (Synchronous Dynamic RAM)
 Synchronous dynamic RAM (SDRAM) significantly revises the asynchronous memory interface, adding a clock (and a clock enable) line. All other signals are received on the rising edge of the clock.
 
@@ -86,17 +88,19 @@ Synchronous dynamic RAM (SDRAM) significantly revises the asynchronous memory in
 
 #### SDR SDRAM /SDR (Single Data Rate SDRAM)
 #### DDR SDRAM /DDR (Double Data Rate SDRAM) ✅
-↗ [DDR (Double Data Rate) SDRAM](DDR%20(Double%20Data%20Rate)%20SDRAM.md)
+↗ [DDR (Double Data Rate) SDRAM](DDR%20%28Double%20Data%20Rate%29%20SDRAM.md)
 #### DRDRAM (Direct RAMBUS DRAM)
 #### RLDRAM (Reduced Latency DRAM)
-### 3️⃣ Graphic RAM (ADRAM or SDRAM)
+
+
+### Graphic RAM (ADRAM or SDRAM)
 Graphics RAMs are asynchronous and synchronous DRAMs designed for graphics-related tasks such as texture memory and framebuffers, found on video cards.
 #### VRAM (Video DRAM)
 #### WRAM (Window DRAM)
 #### MDRAN (Multibank DRAM)
 #### SGRAM (Synchronous Graphics RAM)
 #### GDDR SDRAM (Graphics Double Data Rate SDRAM) ✅
-↗ [GDDR (Graphics DDR) SDRAM](GDDR%20(Graphics%20DDR)%20SDRAM.md)
+↗ [GDDR (Graphics DDR) SDRAM](GDDR%20%28Graphics%20DDR%29%20SDRAM.md)
 #### PSRAM /PSDRAM (Pseudostatic RAM)
 > 🔗 https://en.wikipedia.org/wiki/Dynamic_random-access_memory#Graphics_double_data_rate_SDRAM
 
@@ -107,6 +111,9 @@ Some DRAM components have a self-refresh mode. While this involves much of the s
 An embedded variant of PSRAM was sold by MoSys under the name 1T-SRAM. It is a set of small DRAM banks with an SRAM cache in front to make it behave much like a true SRAM. It is used in Nintendo GameCube and Wii video game consoles.
 
 Cypress Semiconductor's HyperRAM  is a type of PSRAM supporting a JEDEC-compliant 8-pin HyperBus or Octal xSPI interface.
+
+#### HBM (High Bandwidth Memory)
+↗ [HBM (High Bandwidth Memory)](HBM%20%28High%20Bandwidth%20Memory%29.md)
 
 
 

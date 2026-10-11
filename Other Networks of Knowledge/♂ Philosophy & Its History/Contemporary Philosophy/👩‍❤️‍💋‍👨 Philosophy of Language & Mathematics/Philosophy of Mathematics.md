@@ -7,7 +7,16 @@
 ## Res
 ### Related Topics
 ↗ [Mathematics](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
-- ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+- ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
+
+
+### Other Resources
+Introduction to Mathematical Philosophy
+Bertrand Russell
+
+https://api.pageplace.de/preview/DT0400.9781134884339_A27018397/preview-9781134884339_A27018397.pdf
+From Mathematics to Philosophy
+Hao Wang
 
 
 

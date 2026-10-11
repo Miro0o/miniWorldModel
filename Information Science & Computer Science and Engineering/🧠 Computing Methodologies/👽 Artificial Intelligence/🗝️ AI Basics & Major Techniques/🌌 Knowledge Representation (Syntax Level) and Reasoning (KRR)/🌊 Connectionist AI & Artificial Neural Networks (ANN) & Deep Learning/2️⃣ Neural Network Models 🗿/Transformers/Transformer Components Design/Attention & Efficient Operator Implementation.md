@@ -16,13 +16,20 @@
 ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
 
 
-### Papers
+### Learning Resources
+https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
+Neural networks | 3Blue1Brown
+- [Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://youtu.be/wjZofJX0v4M?si=cLC36CWJiJPKQJgT)
+	- 【【官方双语】GPT是什么？直观解释Transformer | 深度学习第5章-哔哩哔哩】 https://b23.tv/rcO76mO
+- [Attention in transformers, step-by-step | Deep Learning Chapter 6](https://youtu.be/eMlx5fFNoYc?si=UqpVj1vDxOtWAnlc)
+	- 【【官方双语】直观解释注意力机制，Transformer的核心 | 【深度学习第6章】-哔哩哔哩】 https://b23.tv/f0udg4P
+- [How might LLMs store facts | Deep Learning Chapter 7](https://youtu.be/9-Jl0dxWQs8?si=jJPuNPfLV6AtWNJa)
+
+#### Papers
 https://attention-survey.github.io/
 A Survey of Efficient Attention Methods:   Hardware-efficient, Sparse, Compact, and Linear Attention
 - [Jintao Zhang](https://jt-zhang.github.io/)1, [Rundong Su](https://attention-survey.github.io/#)\*1, [Chunyu Liu](https://attention-survey.github.io/#)\*1, [Jia Wei](https://attention-survey.github.io/#)\*1, [Ziteng Wang](https://attention-survey.github.io/#)*1, [Haoxu Wang](https://attention-survey.github.io/#)\*1, [Pengle Zhang](https://attention-survey.github.io/#)1, [Huiqiang Jiang](https://attention-survey.github.io/#)1, [Haofeng Huang](https://attention-survey.github.io/#)1, [Chendong Xiang](https://attention-survey.github.io/#)1, [Haocheng Xi](https://haochengxi.github.io/)2, [Shuo Yang](https://andy-yang-1.github.io/)2, [Xingyang Li](https://attention-survey.github.io/#)3, [Yuezhou Hu](https://attention-survey.github.io/#)2, [Tianyu Fu](https://github.com/fuvty)1, [Tianchen Zhao](https://attention-survey.github.io/#)1, [Yicheng Zhang](https://attention-survey.github.io/#)1, [Boqun Cao](https://attention-survey.github.io/#)1, [Youhe Jiang](https://attention-survey.github.io/#)1, [Chang Chen](https://attention-survey.github.io/#)1, [Kai Jiang](https://attention-survey.github.io/#)1, [Huayu Chen](https://attention-survey.github.io/#)1, [Min Zhao](https://attention-survey.github.io/#)1, [Xiaoming Xu](https://attention-survey.github.io/#)1, [Yi Wu](https://attention-survey.github.io/#)4, [Fan Bao](https://attention-survey.github.io/#)4, [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/)1, [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/)1
 - 1 Tsinghua University 2 UC Berkeley 3 MIT 4 ShengShu  | \*Co-second authorship
-- In modern transformers, the attention operation is the only component with a time complexity of , whereas all other operations scale linearly as , where  denotes the sequence length. As sequence lengths in generative models (e.g., language and video generation) continue to increase, improving the efficiency of attention has become increasingly critical. Recently, numerous excellent works have been proposed to enhance the computational efficiency of attention operation. Broadly, these works can be classified into four categories: **(1) Hardware-efficient attention**: Optimizing attention computation efficiency by leveraging hardware characteristics. **(2) Sparse attention**: Selectively performing a subset of computations in attention while omitting others. **(3) Compact attention**: Compressing the KV cache of attention by weight sharing or low rank decomposition while keeping computational cost unchanged, as with a full‑sized KV cache. **(4) Linear attention**: Redesigning the computational formulation of attention to achieve  time complexity. In this paper, we present a comprehensive survey of these efficient attention methods.
-- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-09-20%20at%2023.40.32.png)
 
 Sparse Attention Mechanism
 Blockwise Attention
@@ -32,6 +39,12 @@ Ring Attention
 Longformer
 Adaptive Sparse Span
 Mamba
+
+
+https://arxiv.org/abs/2507.19595
+Efficient Attention Mechanisms for Large Language Models: A Survey (2026.Feb)
+[Yutao Sun](https://arxiv.org/search/cs?searchtype=author&query=Sun,+Y), [Zhenyu Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+Z), [Yike Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang,+Y), [Tengyu Pan](https://arxiv.org/search/cs?searchtype=author&query=Pan,+T), [Bowen Dong](https://arxiv.org/search/cs?searchtype=author&query=Dong,+B), [Yuyi Guo](https://arxiv.org/search/cs?searchtype=author&query=Guo,+Y), [Jianyong Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang,+J)
+
 
 https://arxiv.org/abs/2603.15031
 Attention Residuals
@@ -89,6 +102,20 @@ Beyond Residual Connection:
 
 
 ## Intro
+> [!links]
+> ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md) "LLM Serving"
+> ↗ [AI Compilers & GPU Operators DSL](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md) "LLM Inference Workload"
+
+> [!Abstract]
+> ![|500](../../../../../../../../../Assets/Pics/Pasted%20image%2020250920191324.png)
+> <small>The Transformer - model architecture. <br> Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. "Attention is all you need." Advances in neural information processing systems 30 (2017).</small>
+> ---
+> 
+> ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020260404215455.png)
+> <small><a>https://sebastianraschka.com/llm-architecture-gallery/</a></small>
+> ---
+
+
 > 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Dot-product_attention
 > 🔗 https://en.wikipedia.org/wiki/Transformer_(deep_learning)#Scaled_dot-product_attention
 
@@ -113,21 +140,20 @@ Inspired by ideas about [attention in humans](https://en.wikipedia.org/wiki/Att
 | 2019–2020   | Efficient Transformers, including Reformer,[24](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-reformer2020-24) Linformer,[25](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-linformer2020-25) and Performer,[26](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-performer2020-26) introduced scalable approximations of attention for long sequences.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | 2019+       | [Hopfield networks](https://en.wikipedia.org/wiki/Hopfield_network "Hopfield network") were reinterpreted as associative memory-based attention systems,[27](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-ramsauer2021-27) and [vision transformers](https://en.wikipedia.org/wiki/Vision_transformer "Vision transformer") (ViTs) achieved competitive results in image classification.[28](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-dosovitskiy2021-28)<br><br>Transformers were adopted across scientific domains, including [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold "AlphaFold") for protein folding,[29](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-alphafold-29) CLIP for vision-language pretraining,[30](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-clip-30) and attention-based dense segmentation models like CCNet[31](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-ccnet-31) and DANet.[32](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)#cite_note-danet-32) |
 
-----
-![|500](../../../../../../../../../Assets/Pics/Pasted%20image%2020250920191324.png)
-<small>The Transformer - model architecture. <br> Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. "Attention is all you need." Advances in neural information processing systems 30 (2017).</small>
 
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020260404215455.png)
-<small><a>https://sebastianraschka.com/llm-architecture-gallery/</a></small>
+### 🤔 Standard Attention Computation & Architecture
+ Intuition behind attention:
+- ![](../../../../../../../../../Assets/Pics/Screenshot%202026-10-07%20at%2010.43.34.png) ![](../../../../../../../../../Assets/Pics/Screenshot%202026-10-07%20at%2010.43.52.png)
 
-> [!TIP]
+Computation behind attention:
+- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png) <small><a>https://poloclub.github.io/transformer-explainer/</a></small>
+
+
 > 🤖 GPT 6.0 Astra
 > https://chatgpt.com/share/6ac25c7b-bb90-83ec-ba0f-4928d10d5979 
-> 
 > ![Transformer多头注意力流程图](../../../../../../../../../Assets/Pics/Transformer多头注意力流程图.png)
 
-
-### Standard Scaled Dot-Product Attention (SDPA) (Attention is All You Need)
+#### Standard Scaled Dot-Product Attention (SDPA) (Attention is All You Need)
 > 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Standard_scaled_dot-product_attention
 
 > 🔗 https://en.wikipedia.org/wiki/Transformer_(deep_learning)#Scaled_dot-product_attention
@@ -135,45 +161,138 @@ Inspired by ideas about [attention in humans](https://en.wikipedia.org/wiki/Att
 ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020260404213907.png)
 
 
-#### Masked Attention
+##### Masked Attention
 > 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Masked_attention
 
 
-#### Multi-Head Attention (MHA)
+##### Multi-Head Attention (MHA)
 > 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Multi-head_attention
 
 
-### Self-Attention & Cross-Attention
+##### Self-Attention & Cross-Attention
 
 
-### Bahdanau (Additive) Attention
+#### Bahdanau (Additive) Attention
 > 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Bahdanau_(additive)_attention
 
 
-### Luong Attention (general)
+#### Luong Attention (general)
 > 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Luong_attention_(general)
+
+
+### 🤓 Efficient Attention Implementation
+> https://attention-survey.github.io/
+> A Survey of Efficient Attention Methods:   Hardware-efficient, Sparse, Compact, and Linear Attention
+> - [Jintao Zhang](https://jt-zhang.github.io/)1, [Rundong Su](https://attention-survey.github.io/#)\*1, [Chunyu Liu](https://attention-survey.github.io/#)\*1, [Jia Wei](https://attention-survey.github.io/#)\*1, [Ziteng Wang](https://attention-survey.github.io/#)*1, [Haoxu Wang](https://attention-survey.github.io/#)\*1, [Pengle Zhang](https://attention-survey.github.io/#)1, [Huiqiang Jiang](https://attention-survey.github.io/#)1, [Haofeng Huang](https://attention-survey.github.io/#)1, [Chendong Xiang](https://attention-survey.github.io/#)1, [Haocheng Xi](https://haochengxi.github.io/)2, [Shuo Yang](https://andy-yang-1.github.io/)2, [Xingyang Li](https://attention-survey.github.io/#)3, [Yuezhou Hu](https://attention-survey.github.io/#)2, [Tianyu Fu](https://github.com/fuvty)1, [Tianchen Zhao](https://attention-survey.github.io/#)1, [Yicheng Zhang](https://attention-survey.github.io/#)1, [Boqun Cao](https://attention-survey.github.io/#)1, [Youhe Jiang](https://attention-survey.github.io/#)1, [Chang Chen](https://attention-survey.github.io/#)1, [Kai Jiang](https://attention-survey.github.io/#)1, [Huayu Chen](https://attention-survey.github.io/#)1, [Min Zhao](https://attention-survey.github.io/#)1, [Xiaoming Xu](https://attention-survey.github.io/#)1, [Yi Wu](https://attention-survey.github.io/#)4, [Fan Bao](https://attention-survey.github.io/#)4, [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/)1, [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/)1
+> - 1 Tsinghua University 2 UC Berkeley 3 MIT 4 ShengShu  | \*Co-second authorship
+
+In modern transformers, the attention operation is the only component with a time complexity of , whereas all other operations scale linearly as , where  denotes the sequence length. As sequence lengths in generative models (e.g., language and video generation) continue to increase, improving the efficiency of attention has become increasingly critical. Recently, numerous excellent works have been proposed to enhance the computational efficiency of attention operation. Broadly, these works can be classified into four categories: **(1) Hardware-efficient attention**: Optimizing attention computation efficiency by leveraging hardware characteristics. **(2) Sparse attention**: Selectively performing a subset of computations in attention while omitting others. **(3) Compact attention**: Compressing the KV cache of attention by weight sharing or low rank decomposition while keeping computational cost unchanged, as with a full‑sized KV cache. **(4) Linear attention**: Redesigning the computational formulation of attention to achieve  time complexity. In this paper, we present a comprehensive survey of these efficient attention methods.
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-09-20%20at%2023.40.32.png)
+
+
+---
+> 🤖 GPT 6.0 Astra
+> https://chatgpt.com/share/6acb5da7-95d4-83ec-b1b4-3763ed192d6e
+
+它的四大类可以这样理解：
+Standard Attention: $$\operatorname{softmax}(QK^\top/\sqrt d)V$$
+Hardware-efficient
+- 不改变需要关注的 token
+- 把原来的计算做得更快
+
+Compact
+- 降低历史 K/V 的存储量
+- 少存、少搬 KV
+
+Sparse
+- 不再关注所有历史 token
+- 只计算被选中的位置
+
+Linear
+- 重新设计 Attention 公式
+- 将历史压缩到递归状态
+
+
+四大技术路线的本质区别
+
+|路线|优化什么|主要收益|是否通常需要改模型|
+|---|---|---|---|
+|Hardware-efficient|GPU 计算和访存|延迟、吞吐、峰值显存|不需要|
+|Compact|KV Cache 容量与带宽|Decode、长上下文、大 Batch|GQA/MLA 通常需要|
+|Sparse|实际执行的 Attention 计算|长上下文 Prefill/Decode|视方法而定|
+|Linear|Attention 数学结构|长序列计算、缓存扩展性|通常需要|
+
+这四类不是互斥的。例如：
+DeepSeek 的一套 Attention 实现可以同时具有 MLA 的 KV 压缩、DSA 的动态稀疏，以及 FlashMLA 的 GPU Kernel 优化。
+
+所以我更建议你从两条维度理解现在的 Attention 技术：
+模型算法层决定“需要计算什么”，Kernel/Runtime 层决定“在 GPU 上怎么高效完成”。
+
+下面逐类展开。
 
 
 
 ## Hardware-Efficient Attention
 > [!links]
 > ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
-> ↗ [vLLM](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
-> ↗ [SGLang](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
-> 
 > ↗ [AI Compilers & GPU Operators DSL](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
+
+
+### FlashAttention
+> 🤖 GPT 6.0 Astra
+> https://chatgpt.com/share/6acb5da7-95d4-83ec-b1b4-3763ed192d6e
+
+
+### SageAttention
+
+
+### FlashInfer
 
 
 
 ## Compact Attention
+### GQA (Group Query Attention)
+
+
+### MQA (Multi Query Attention)
+
+
+### MLA (Multi-head Latent Attention)
 
 
 
 ## Sparse Attention
+### StreamingLLM
+
+
+### MInference
+
+
+### NSA
+
+
+### DSA (DeepSeek Sparse Attention)
+
+
+### MoBA
+
+
+### MSA (MiniMax Sparse Attention)
+
+
+### QSA (Qwen Sparse Attention)
 
 
 
 ## Linear Attention
+### DeltaNet /Gated DeltaNet
+
+
+### KDA (Kimi Delta Attention)
+
+
+### Kimi Linear
 
 
 

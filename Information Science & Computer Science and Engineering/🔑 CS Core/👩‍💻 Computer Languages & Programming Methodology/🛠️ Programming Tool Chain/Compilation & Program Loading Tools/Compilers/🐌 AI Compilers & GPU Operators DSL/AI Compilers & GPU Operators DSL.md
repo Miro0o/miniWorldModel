@@ -9,18 +9,93 @@
 ↗ [Programming Language Processing & Program Execution](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
 ↗ [Compilation Phase](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/Compilation%20Phase.md)
+↗ [Program Synthesis & Code Generation](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
+↗ [Code (Program) Optimization](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Code%20%28Program%29%20Optimization.md)
+
+↗ [Software (Program) Techniques & Binary Engineering](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
+↗ [Program Analysis Basics](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+
+↗ [Compilation & Program Loading Tools](../../Compilation%20&%20Program%20Loading%20Tools.md)
+↗ [LLVM](../../🦅%20LLVM/LLVM.md)
+↗ [MLIR (Multi-Level Intermediate Representation)](../../🦅%20LLVM/MLIR%20%28Multi-Level%20Intermediate%20Representation%29/MLIR%20%28Multi-Level%20Intermediate%20Representation%29.md)
 
 ↗ [AI (Data) Infrastructure & Techniques Stack](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack.md)
+- ↗ [ML Programming & Frameworks](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/ML%20Programming%20&%20Frameworks.md)
+- ↗ [Python Based ML Libraries](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/Python%20Based%20ML%20Libraries.md)
 ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
+- ↗ [Nvidia Megatron](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/Parallel%20&%20Distributed%20Training%20&%20Inference/Nvidia%20Megatron.md)
+- ↗ [Microsoft DeepSpeed](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/Parallel%20&%20Distributed%20Training%20&%20Inference/Microsoft%20DeepSpeed.md)
 ↗ [Attention & Efficient Operator Implementation](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
 
 ↗ [GPU (Graphics Processing Unit)](../../../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Accelerators%20%28Coprocessors%29/GPU%20%28Graphics%20Processing%20Unit%29/GPU%20%28Graphics%20Processing%20Unit%29.md)
-↗ [Compute Unified Device Architecture & CUDA Programming](../../../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20%28IO%20Devices%29%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
+↗ [Compute Unified Device Architecture & CUDA Programming](../../../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20%28IO%20Devices%29%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md) ⭐
 
 ↗ [DSL(Domain Specific Languages)](../../../../DSL%20%28Domain%20Specific%20Languages%29/DSL%28Domain%20Specific%20Languages%29.md)
 
 ↗ [Parallel Computing & Programming](../../../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing%20&%20Programming/Parallel%20Computing%20&%20Programming.md)
 ↗ [Parallel Programming Libraries & SDK](../../../🚠%20Application%20Runtimes%20&%20SDKs/👯‍♀️%20Parallel%20Programming%20Libraries%20&%20SDK/Parallel%20Programming%20Libraries%20&%20SDK.md)
+
+↗ [Nvidia PTX (Parallel Thread Execution)](../../../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/RISC%20%28Reduced%20Instruction%20Set%20Computer%29/Nvidia%20PTX%20%28Parallel%20Thread%20Execution%29/Nvidia%20PTX%20%28Parallel%20Thread%20Execution%29.md)
+
+
+### Learning Resources
+https://github.com/mlc-ai/modern-gpu-programming-for-mlsys
+https://mlc.ai/modern-gpu-programming-for-mlsys/
+Modern GPU Programming For MLSys
+Part I, Understanding the GPU
+- [GPU Execution Model](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_background/index.html)
+- [What Makes a Kernel Fast](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_performance/index.html)
+- [Data Layout and Its Notation](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_data_layout/index.html)
+- [The Evolution of Tensor Core Data Layouts](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_layout_generations/index.html)
+- [Async Data Movement: TMA](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_tma/index.html)
+- [Blackwell Tensor Core: `tcgen05.mma`](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_tensor_cores/index.html)
+- [Tensor Memory (TMEM)](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_tmem/index.html)
+- [Async Coordination: mbarrier](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_async_barriers/index.html)
+- [Advanced Scheduling: Cluster Launch Control](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_clc/index.html)
+Part II, TIRx Overview
+- [Introduction to TIRx](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_intro_tirx/index.html)
+- [TIRx Layout API](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_tirx_layout_api/index.html)
+Part III, GEMM: Tiled to SOTA
+- [Building a Tiled GEMM](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_basics/index.html)
+    - [GEMM](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_basics/index.html#gemm)
+    - [Optimization Path](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_basics/index.html#optimization-path)
+    - [Step 1: Sequential Single-Tile GEMM](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_basics/index.html#step-1-sequential-single-tile-gemm)
+    - [Step 2: K-Loop Accumulation](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_basics/index.html#step-2-k-loop-accumulation)
+    - [Step 3: Spatial Tiling (Multi-CTA)](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_basics/index.html#step-3-spatial-tiling-multi-cta)
+    - [Exercises](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_basics/index.html#exercises)
+- [Pipelining GEMM with TMA](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_async/index.html)
+    - [Step 4: TMA Async Load](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_async/index.html#step-4-tma-async-load)
+    - [Step 5: Software Pipeline (PIPE_DEPTH=2)](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_async/index.html#step-5-software-pipeline-pipe-depth-2)
+    - [Step 6: Persistent Kernel + Tile Scheduler](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_async/index.html#step-6-persistent-kernel-tile-scheduler)
+    - [Exercises](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_async/index.html#exercises)
+- [Scaling GEMM with Warp Specialization and Clusters](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_advanced/index.html)
+    - [Step 7: Warp Specialization](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_advanced/index.html#step-7-warp-specialization)
+    - [Step 8: Two-CTA Cluster](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_advanced/index.html#step-8-two-cta-cluster)
+    - [Step 9: Multi-Consumer Warp Specialization](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_advanced/index.html#step-9-multi-consumer-warp-specialization)
+    - [End-to-End Results](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_advanced/index.html#end-to-end-results)
+    - [Exercises](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_gemm_advanced/index.html#exercises)
+Part IV, Flash Attention 4
+- [Flash Attention 4](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html)
+    - [Algorithm Structure](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#algorithm-structure)
+    - [Tile Primitive Data Flow](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#tile-primitive-data-flow)
+    - [Warp Roles and Scope](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#warp-roles-and-scope)
+    - [Conventions for Reading the Code](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#conventions-for-reading-the-code)
+    - [QKᵀ MMA and PV MMA](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#qk-mma-and-pv-mma)
+    - [TMEM Layout and Reuse](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#tmem-layout-and-reuse)
+    - [Key Barrier Protocols](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#key-barrier-protocols)
+    - [Pipeline Timeline](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#pipeline-timeline)
+    - [Rescaling and Writeback](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#rescaling-and-writeback)
+    - [Causal Masking](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#causal-masking)
+    - [GQA Support](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#gqa-support)
+    - [Tile Scheduling](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#tile-scheduling)
+    - [Compile and Verify](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#compile-and-verify)
+    - [Exercises](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_flash_attention/index.html#exercises)
+Appendices
+- [Overview](https://mlc.ai/modern-gpu-programming-for-mlsys/appendix/index.html)
+- [TIRx Language Reference](https://mlc.ai/modern-gpu-programming-for-mlsys/tirx_guide/language_reference/index.html)
+- [Measuring and Analyzing GPU Kernel Performance](https://mlc.ai/modern-gpu-programming-for-mlsys/appendix/benchmarking_gpu_kernels.html)
+- [Compiler Internals](https://mlc.ai/modern-gpu-programming-for-mlsys/tirx_guide/arch/index.html)
+- [Debugging Warp-Specialized Kernels](https://mlc.ai/modern-gpu-programming-for-mlsys/appendix/debugging_warp_specialized.html)
 
 
 ### Other Resources
@@ -33,7 +108,6 @@
 > ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md) ⭐
 > 
 > ↗ [Transformers](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md) ⭐
-
 
 > 🤖 GPT 6.0 Astra
 > https://chatgpt.com/share/6ac25911-13a4-83ec-a4d5-c5ec05ce7e64
@@ -535,6 +609,8 @@ prefill 更 compute-bound
 
 ## Tensor Compilation & Transformer Computation Graph
 > [!links]
+> ↗ [Attention & Efficient Operator Implementation](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
+> 
 > ↗ [PyTorch](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/📌%20PyTorch/PyTorch.md)
 > ↗ [Tensorflow](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/Hybrid%20Languages%20&%20Cross%20Platforms/📌%20Tensorflow/Tensorflow.md)
 
@@ -642,7 +718,7 @@ GPU kernels
 
 PyTorch 官方把主要 `torch.compile` 栈概括为 Dynamo、AOTDispatcher/AOTAutograd 和 Inductor；Inductor 再把 ATen/Prim 级别图 lower 到更接近 loop 的表示。[PyTorch Developer Mailing List](https://dev-discuss.pytorch.org/t/higher-order-operators-2023-10/1565?utm_source=chatgpt.com)
 
-目前 PyTorch 的 NVIDIA GPU compiler 路径也大量依赖 Triton
+目前 PyTorch 的 NVIDIA GPU compiler 路径也大量依赖 Triton.
 
 
 
@@ -651,6 +727,10 @@ PyTorch 官方把主要 `torch.compile` 栈概括为 Dynamo、AOTDispatcher/AOTA
 > ↗ [GPU (Graphics Processing Unit)](../../../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Accelerators%20%28Coprocessors%29/GPU%20%28Graphics%20Processing%20Unit%29/GPU%20%28Graphics%20Processing%20Unit%29.md)
 > ↗ [Nvidia Chips](../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/Nvidia%20Chips.md)
 > ↗ [Compute Unified Device Architecture & CUDA Programming](../../../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20%28IO%20Devices%29%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
+> ↗ [CUDA C++](Lowering/CUDA%20C++/CUDA%20C++.md)
+> 
+> ↗ [OpenAI Triton](Lowering/OpenAI%20Triton/OpenAI%20Triton.md)
+> ![](../../../../../../../Assets/Pics/Pasted%20image%2020261011163729.png) <small>Basic architecture of a GPU.</small>
 
 > 🤖 GPT6.0 Astra
 > https://chatgpt.com/share/6ac25911-13a4-83ec-a4d5-c5ec05ce7e64

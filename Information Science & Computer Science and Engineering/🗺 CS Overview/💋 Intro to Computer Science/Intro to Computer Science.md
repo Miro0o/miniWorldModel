@@ -18,7 +18,7 @@
 
 ↗ [History of Computing](../../🧠%20Computing%20Methodologies/History%20of%20Computing.md)
 ↗ [World's Science & Technology History](../../../Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
-↗ [News Focus (IT-exclusive)](../../../Assets/World%20Chronology/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
+↗ [News Focus (IT-exclusive)](../../../Assets/World%20Chronology/News%20Focus%20%28IT-exclusive%29/News%20Focus%20%28IT-exclusive%29.md)
 
 
 ### Courses
@@ -579,7 +579,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 					1. ↗ [Algorithms Implementation For Classical Problems](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Algorithms%20Implementation%20For%20Classical%20Problems.md)
 				2. ↗ [C & CPP](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 				3. ↗ [Java](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
-					1. ↗ [JVM Instrument Set & Java Bytecode](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/RISC%20%28Reduced%20Instruction%20Set%20Computer%29/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+					1. ↗ [JVM Instrument Set & Java Bytecode](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/CISC%20%28Complex%20Instruction%20Set%20Computer%29/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
 					2. ↗ [Java Virtual Machine (JVM)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20%28JRE%20&%20JDKs%20Tools%29/Java%20Virtual%20Machine%20%28JVM%29/Java%20Virtual%20Machine%20%28JVM%29.md)
 				4. ↗ [Python](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/Python.md)
 				5. ↗ [ECMAScript-Based Languages & JavaScript](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md)
@@ -758,7 +758,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 ↗ [IT Laws & Institutions in China](../Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇨🇳%20IT%20Laws%20&%20Institutions%20in%20China/IT%20Laws%20&%20Institutions%20in%20China.md)
 ##### IT Academia
 ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20%28In%20CS%29/Academics%20🎓%20%28In%20CS%29.md)
-↗ [(CS) Master & PhD Guide - Preparation & Application](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
+↗ [(CS) Master & PhD Guide - Preparation & Application](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/%28CS%29%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/%28CS%29%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 ↗ [(CS) Academics Roadmap & Tool Chain](../../Academics%20🎓%20%28In%20CS%29/🚸%20%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain/%28CS%29%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 #### Explore other parts of the Universe!
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)

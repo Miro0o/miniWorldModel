@@ -6,8 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [AI Embodiment & World Model (WM)](../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
+↗ [AI Embodiment & World Model (WM)](../../❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20%28WM%29/AI%20Embodiment%20&%20World%20Model%20%28WM%29.md)
 ↗ [AI4SE](../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
+
+↗ [Vision Transformer (ViT)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Vision%20Transformer%20%28ViT%29.md)
 
 
 ### List of Multimodal Models

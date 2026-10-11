@@ -7,16 +7,16 @@
 ## Res
 ### Related Topics
 ↗ [Computer Virtualization](../🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
-↗ [Network Virtualization (NV)](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/Network%20Virtualization%20(NV).md)
+↗ [Network Virtualization (NV)](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20%28NV%29/Network%20Virtualization%20%28NV%29.md)
 
 ↗ [Cloud Security](../../CyberSecurity/System%20Security/Cloud%20Security/Cloud%20Security.md)
 ↗ [Edge & Frog Computing](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenarios%20&%20Embedded%20Systems/Edge%20&%20Frog%20Computing/Edge%20&%20Frog%20Computing.md)
 
 ↗ [Distributed Computing & Systems](../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 ↗ [High Performance Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
-↗ [High Performance Storage (HPS)](../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20(HPS)/High%20Performance%20Storage%20(HPS).md)
-↗ [High Performance Network (HPN) & IDC Technologies](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies.md)
-↗ [Datacenter](../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20(HPS)/Datacenter.md)
+↗ [High Performance Storage (HPS)](../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20%28HPS%29/High%20Performance%20Storage%20%28HPS%29.md)
+↗ [High Performance Network (HPN) & IDC Technologies](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20%28HPN%29%20&%20IDC%20Technologies/High%20Performance%20Network%20%28HPN%29%20&%20IDC%20Technologies.md)
+↗ [Datacenter](../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20%28HPS%29/Datacenter.md)
 
 
 ### Cloud Native Computing Foundation (CNCF)
@@ -80,6 +80,9 @@ Open Infrastructure Summit
 📖 阿里云运维架构实践秘籍 - 乔锐杰
 
 
+### Other Resources
+
+
 
 ## Intro
 ![](../../../Assets/Pics/Screen%20Shot%202022-09-02%20at%201.24.17%20AM-2053065.png)
@@ -100,14 +103,14 @@ Open Infrastructure Summit
 > 云的技术特点：
 > 虚拟化 + 分布式 + 自动化
 
-Start form ↗ [Cloud Computing](🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Cloud%20Computing/Cloud%20Computing.md)
+Start form ↗ [Cloud Computing](🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20%28Delivery%29%20Models/SaaS%20%28Software%20as%20a%20Service%29/Cloud%20Computing/Cloud%20Computing.md)
 
 
 ### Cloud Computing and VPS (Virtual Personal Server)
 #cloud #VPS 
 
  >[!links]
- >↗ [VPS (Virtual Private Server)](VPS%20(Virtual%20Private%20Server).md)
+ >↗ [VPS (Virtual Private Server)](VPS%20%28Virtual%20Private%20Server%29.md)
 
 > 🤖 Google AI Search result
 
@@ -135,7 +138,7 @@ Many modern providers offer "Cloud VPS" solutions, which blend the easy, fixed-p
 ## Cloud Native Architectures
 ↗ [Cloud Computing Security Architecture](🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Computing%20Security%20Architecture.md)
 ↗ [Cloud Deployment Models](🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Deployment%20Models.md)
-↗ [Cloud Service (Delivery) Models](🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/Cloud%20Service%20(Delivery)%20Models.md)
+↗ [Cloud Service (Delivery) Models](🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20%28Delivery%29%20Models/Cloud%20Service%20%28Delivery%29%20Models.md)
 
 
 
@@ -147,37 +150,23 @@ Many modern providers offer "Cloud VPS" solutions, which blend the easy, fixed-p
 ## Ref
 Cloud Stack
 [Cilium](https://docs.cilium.io/en/stable/)
-
 [Quarkus](https://quarkus.io)
-
 [openstack](https://www.openstack.org)
-
 [nacos](https://github.com/alibaba/nacos)
-
 [drone](https://github.com/harness/drone)
-
 [filebeat](https://www.elastic.co/beats/filebeat)
-
 [Puppet Forge](https://forge.puppet.com)
-
 [Stackify Retrace](https://docs.stackify.com/v1/docs?_ga=2.2045431.795068548.1606150356-1374364069.1597069964)
-
 [heroku](https://elements.heroku.com)
-
 ...
 
 ---
 [What is SRE (Site Reliability Engineering)](https://www.redhat.com/en/topics/devops/what-is-sre)
-
 [KVM](https://www.linux-kvm.org/page/Main_Page)
-
 ↗ [Serverless](🌵%20Cloud%20Native%20Overview/Cloud%20System%20Software%20Architectures/Serverless/Serverless.md)
-
-↗ [Dev(Sec)Ops (Application Level Engineering)](Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
-
+↗ [Dev(Sec)Ops (Application Level Engineering)](Dev%28Sec%29Ops%20%28Application%20Level%20Engineering%29/Dev%28Sec%29Ops%20%28Application%20Level%20Engineering%29.md)
 Agile Dev
 
-阿里如何实现100%容器化镜像化？八年技术演进之路回顾 - 阿里云云栖号的文章 - 知乎
-https://zhuanlan.zhihu.com/p/45467643
+[阿里如何实现100%容器化镜像化？八年技术演进之路回顾 - 阿里云云栖号的文章 - 知乎]: https://zhuanlan.zhihu.com/p/45467643
 
 [👍 2023 年全国职业院校技能大赛（高职组） “云计算应用”赛项赛卷 B部分解析 | CSDN]: http://t.csdnimg.cn/qjqFN

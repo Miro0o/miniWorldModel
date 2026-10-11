@@ -11,26 +11,32 @@
 ↗ [Classical Logic (Standard Formal Logic)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
-↗ [Problem Solving & Search-Based Methods](../Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
-↗ [Symbolic AI & Logic Programs](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🦴%20Symbolic%20AI%20&%20Logic%20Programs/Symbolic%20AI%20&%20Logic%20Programs.md)
-
-↗ [Software (Program) Techniques & Binary Engineering](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
-
 ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
 ↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
 ↗ [Generic & Automated Theorem Provers (ATP)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Theorem%20Provers%20&%20Constraint%20Solvers/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29.md)
 ↗ [SMT Solving & Algorithms](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)
 
+↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md)
+
+↗ [Software (Program) Techniques & Binary Engineering](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
+
 ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29.md)
-↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
-↗ [Neural Network Models](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+- ↗ [Symbolic AI & Logic Programs](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🦴%20Symbolic%20AI%20&%20Logic%20Programs/Symbolic%20AI%20&%20Logic%20Programs.md)
+- ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
+- ↗ [Neural Network Models](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+↗ [Problem Solving & Search-Based Methods](../Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
+↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
 
 ↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20%28Large%20Language%20Model%29.md)
 ↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20%28Reasoning%20Language%20Model%29%20&%20LRM%20%28Large%20Reasoning%20Model%29.md)
 ↗ [AI4SE](../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 ↗ [AI4Security](../../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
 
-↗ [Exploring Neuro-Symbolic AI](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/Exploring%20Neuro-Symbolic%20AI/Exploring%20Neuro-Symbolic%20AI.md)
+↗ [Programming Language Processing & Program Execution](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
+↗ [Code (Program) Optimization](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Code%20%28Program%29%20Optimization.md)
+
+↗ [Exploring Neuro-Symbolic AI](../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/Exploring%20Neuro-Symbolic%20AI/Exploring%20Neuro-Symbolic%20AI.md)
 
 
 ### Papers
@@ -94,7 +100,7 @@ Secondly, there should be some simple, fast methods to deterministically verify 
 Thirdly, we use neural-system (LLM?) as the search heuristic /proposer, then verify the answer with verifiers. In addition, ==↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/Mathematical%20Optimization%20%28Programming%29.md) ==methods can help as well!
 
 > [!Or?]
-> Besides trying to applied such paradiam to an existing search problem, another direction is to try to find a transformation of the original problem into such search problem, thus enabling us switching imperative solution to a declarative way, like ↗ [Equality Saturation (EqSat)](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Program%20Optimization/Equality%20Saturation%20%28EqSat%29/Equality%20Saturation%20%28EqSat%29.md) in ↗ [Program Optimization](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Program%20Optimization/Program%20Optimization.md).
+> Besides trying to applied such paradiam to an existing search problem, another direction is to try to find a transformation of the original problem into such search problem, thus enabling us switching imperative solution to a declarative way, like ↗ [Equality Saturation (EqSat)](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Machine-Independent%20Optimization/Equality%20Saturation%20%28EqSat%29/Equality%20Saturation%20%28EqSat%29.md) in ↗ [Code (Program) Optimization](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Code%20%28Program%29%20Optimization.md).
 > 
 > There are already successful examples: 
 > - ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
@@ -241,7 +247,7 @@ state representation for different CS problems:
 | **Lifted Probabilistic Inference**                 | 大量结构相同 individuals 的 ground model                              | exchangeability、automorphism                                         | lifted variable elimination、lifted MCMC                        | 用一组代表性变量代替大量 indistinguishable ground variables                                  |
 | **Factorized Planning / Factored MDP**             | 完整 global state 是多个 local states 的 Cartesian product           | decomposability、conditional independence                             | factored MDP、factored planning                                 | 利用变量依赖图，仅在局部 factor 上进行 transition / value computation                           |
 | **Branch-and-Bound Search**                        | combinatorial candidate tree                                   | lower bound / dominance                                              | branch-and-bound                                               | 若某 subtree 的 best possible bound 已经差于当前解，则整个 subtree 删除                          |
-| __A_ / Heuristic Search_*                          | 大型 state graph                                                 | dominance + admissible lower bound + duplicate detection             | A*、closed lists、pattern database heuristics                    | 相同 state merge；$g+h$ 下界使不可能产生更优解的区域延后或跳过                                         |
+| A/ Heuristic Search*                               | 大型 state graph                                                 | dominance + admissible lower bound + duplicate detection             | A*、closed lists、pattern database heuristics                    | 相同 state merge；$g+h$ 下界使不可能产生更优解的区域延后或跳过                                         |
 | **Program Synthesis**                              | 巨大 program grammar / expression space                          | semantic equivalence、observational equivalence、version-space sharing | enumerative synthesis、version space algebra、e-graphs           | 将对 examples 行为相同或语义等价的 candidate programs 合并表示                                   |
 | **Superoptimization**                              | instruction sequences 指数增长                                     | semantic equivalence、dominance、cost-guided search                    | stochastic superoptimization、SMT-based superoptimization、EqSat | semantic equality 用于合并/验证；cost 决定最终 extraction                                   |
 | **Hardware Synthesis**                             | algebraic transforms × implementation choices                  | equivalence、dominance、multi-objective cost                           | e-graph-based synthesis、ILP/MILP extraction                    | e-graph 表示等价 circuits；solver 按 area / latency / power 选择实现                       |
@@ -305,7 +311,7 @@ state representation for different CS problems:
 specification gaming / reward hacking / Goodhart's law
 
 #### Proposed Potential Thesis?
-↗ [Exploring Neuro-Symbolic AI](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/Exploring%20Neuro-Symbolic%20AI/Exploring%20Neuro-Symbolic%20AI.md)
+↗ [Exploring Neuro-Symbolic AI](../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/Exploring%20Neuro-Symbolic%20AI/Exploring%20Neuro-Symbolic%20AI.md)
 
 > [!quote]
 > - llm + verifier?

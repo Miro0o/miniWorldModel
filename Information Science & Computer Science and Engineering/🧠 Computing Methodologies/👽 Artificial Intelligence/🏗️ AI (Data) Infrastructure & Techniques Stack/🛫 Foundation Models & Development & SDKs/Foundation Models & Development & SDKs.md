@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## Intro
 
@@ -28,4 +31,3 @@
 4. 大模型有两个比较大的特点：
     1. 模型结构收敛到Transformer，而且大部分是decoder only的架构；
     2. 模型的规模大，达到百亿/千亿级别，训练推理成本高，训练时间长。
-

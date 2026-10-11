@@ -8,15 +8,20 @@
 ### Related Topics
 Dive deep beginning with ↗ [ISA Instruction Formats](📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Formats.md)
 
-The implementation of an ISA is referred to as "Microprocessor". This part is available at ↗ [Microcomputer Principles & Interfaces /Computer Microarchitectures](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md).
+The implementation of an ISA is referred to as "Microprocessor". This part is available at ↗ [Microcomputer Principles & Interfaces /Computer Microarchitectures](../Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model.md).
 
-Instruction in action: ↗ [Instruction Execution](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+Instruction in action: ↗ [Instruction Execution](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Instruction%20Execution.md)
 
-ISA is implemented and largely relies on the implementation of ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md), especially ↗ [Computer Processors & Logic Chips (Theory Part)](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part).md) or ↗ [CPU (Central Processing Unit)](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md) in most occasions.
+ISA is implemented and largely relies on the implementation of ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model.md), especially ↗ [Computer Processors & Logic Chips (Theory Part)](../Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29.md) or ↗ [CPU (Central Processing Unit)](../Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/CPU%20%28Central%20Processing%20Unit%29.md) in most occasions.
 
-↗ [ASM (Assembly Languages)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ASM%20(Assembly%20Languages).md)
-↗ [System Call Interfaces (SCI)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/System%20Call%20Interfaces%20(SCI).md)
+↗ [ASM (Assembly Languages)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/ASM%20%28Assembly%20Languages%29.md)
+↗ [System Call Interfaces (SCI)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20%28SCI%29/System%20Call%20Interfaces%20%28SCI%29.md)
 ↗ [Machine Code](📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Machine%20Code.md)
+
+↗ [WASM (WebAssembly)](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns/🚜%20WASM%20%28WebAssembly%29/WASM%20%28WebAssembly%29.md)
+
+↗ [IR (Intermediate Representation) & IR Generation](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/2️⃣%20IR%20%28Intermediate%20Representation%29%20&%20IR%20Generation/IR%20%28Intermediate%20Representation%29%20&%20IR%20Generation.md)
+↗ [MLIR (Multi-Level Intermediate Representation)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/🦅%20LLVM/MLIR%20%28Multi-Level%20Intermediate%20Representation%29/MLIR%20%28Multi-Level%20Intermediate%20Representation%29.md)
 
 
 ### Learning Resources
@@ -30,19 +35,19 @@ AMD Documentation Center
 
 ## Overview
 > [!links]
-> 👉 quick look at [👧🏽 MARIE](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/👧🏽%20MARIE.md) for gists of ISA
+> 👉 quick look at [👧🏽 MARIE](../Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/👧🏽%20MARIE.md) for gists of ISA
 > 
 > ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
 > 
-> ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+> ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 The **Instruction Set Architecture (ISA)** of a machine is a critical abstraction layer in computer architecture that specifies the instructions that the computer can perform and the format for each instruction, along with the associated rules for how those instructions interact with the processor’s state (registers, memory, etc.). The ISA is essentially an interface between the software and the hardware. Some ISAs include hundreds of instructions.
 
 The ISA serves as the boundary between software (such as operating systems and applications) and hardware (the physical CPU and memory). Programmers and compilers write code that adheres to the ISA, which ensures that the code can be executed on any hardware that implements that ISA.
 
 ISA can be seen as the programmer-visible model of the computer (which is turing-complete), while the internal implementation differs with actual hardware implementation -- CPU and microarchitecture.
-- ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
-- ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+- ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model.md)
+- ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
 <small>Instruction Processing Level</small>
@@ -50,7 +55,7 @@ ISA can be seen as the programmer-visible model of the computer (which is turing
 
 ### Components Defined by an ISA
 > 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
-> ↗ [x86 Architecture Family (80x86, 8086 family)](CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md) for an instance
+> ↗ [x86 Architecture Family (80x86, 8086 family)](CISC%20%28Complex%20Instruction%20Set%20Computer%29/x86%20Architecture%20Family%20%2880x86,%208086%20family%29/x86%20Architecture%20Family%20%2880x86,%208086%20family%29.md) for an instance
 > ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
 
 1. **Instruction Set**:
@@ -128,7 +133,7 @@ For an instruction like `ADD R1, R2, R3` (where R1 = R2 + R3):
 Machine code is the actual binary instruction executed by CPU. ISA defines the format, structure, and organization of each binary instruction and give them mnemonics. ASM, based on those mnemonics, adds more language-related grammars, like pseudo-instruction, to better serve the assembler and programmer.  
 -- personal understanding
 
-↗ [ASM (Assembly Languages)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ASM%20(Assembly%20Languages).md)
+↗ [ASM (Assembly Languages)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/ASM%20%28Assembly%20Languages%29.md)
 
 
 ### Brief History of ISA Development

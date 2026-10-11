@@ -436,8 +436,8 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 - Attention
 - Probability
 
-↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/RWKV%20%28Receptance%20Weighted%20Key%20Value%29/RWKV%20%28Receptance%20Weighted%20Key%20Value%29.md)
-↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/SSM%20%28State-Space%20Model%29/Mamba.md)
+↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/RNN%20Architecture%20Design/RWKV%20%28Receptance%20Weighted%20Key%20Value%29.md)
+↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20%28Recurrent%20Neural%20Network%29/SSM%20%28State-Space%20Model%29/Mamba.md)
 
 
 ### LLM Training, Utilization, and Evaluation

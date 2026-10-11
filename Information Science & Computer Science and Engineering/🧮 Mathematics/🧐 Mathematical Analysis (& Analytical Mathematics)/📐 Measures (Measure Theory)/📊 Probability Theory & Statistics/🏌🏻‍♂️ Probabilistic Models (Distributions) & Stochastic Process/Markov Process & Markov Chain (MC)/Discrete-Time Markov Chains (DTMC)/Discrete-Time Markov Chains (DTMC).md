@@ -119,7 +119,7 @@ Simulating a 6-faced dice with a coin:
 ### DTMC with Rewards /Costs
 ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../Markov%20Decision%20Processes%20%28MDP%29%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20%28MDP%29%20&%20Stochastic%20Dynamic%20Program.md)
 
-↗ [MC Algorithms For PCTL](../../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family/MC%20Algorithms%20For%20PCTL.md)
+↗ [MC Algorithms For PCTL](../../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking%20%28MC%29/MC%20Algorithms/MC%20Algorithms%20For%20CTLstar%20Family/MC%20Algorithms%20For%20PCTL.md)
 ↗ [Markov Reward Model (MRM)](../Markov%20Reward%20Model%20%28MRM%29.md)
 
 ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making.md)

@@ -11,6 +11,16 @@
 - ↗ [Ark Bytecode](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Ark%20Bytecode/Ark%20Bytecode.md)
 - ↗ [Smali Code](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Smali%20Code/Smali%20Code.md)
 
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
+↗ [ASM (Assembly Languages)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/ASM%20%28Assembly%20Languages%29.md)
+
+↗ [MLIR (Multi-Level Intermediate Representation)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/🦅%20LLVM/MLIR%20%28Multi-Level%20Intermediate%20Representation%29/MLIR%20%28Multi-Level%20Intermediate%20Representation%29.md)
+
+↗ [AI Compilers & GPU Operators DSL](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
+↗ [OpenAI Triton](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Lowering/OpenAI%20Triton/OpenAI%20Triton.md)
+↗ [TileLang (Tile-AI)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Lowering/OpenAI%20Triton/TileLang%20%28Tile-AI%29.md)
+↗ [NVIDIA TensorRT & TensorRT-LLM](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/NVIDIA%20TensorRT%20&%20TensorRT-LLM/NVIDIA%20TensorRT%20&%20TensorRT-LLM.md)
+
 
 ### Other Resources
 [LLVM-IR](https://llvm.org/devmtg/2017-06/1-Davis-Chisnall-LLVM-2017.pdf)
@@ -43,7 +53,7 @@ In [functional language](https://en.wikipedia.org/wiki/Functional_language "Func
 
 ### Java Bytecode
 ↗ [Java Bytecode](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
-↗ [JVM Instrument Set & Java Bytecode](../../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/RISC%20%28Reduced%20Instruction%20Set%20Computer%29/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+↗ [JVM Instrument Set & Java Bytecode](../../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/CISC%20%28Complex%20Instruction%20Set%20Computer%29/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
 
 
 
