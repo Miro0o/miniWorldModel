@@ -21,9 +21,9 @@
 
 ↗ [Programming Language Processing & Program Execution](../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time).md)
-↗ [Program Optimization](../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Program%20Optimization/Program%20Optimization.md)
-↗ [Equality Saturation (EqSat)](../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Program%20Optimization/Equality%20Saturation%20(EqSat)/Equality%20Saturation%20(EqSat).md)
-↗ [E-Graph & Egg](../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Program%20Optimization/Equality%20Saturation%20(EqSat)/E-Graph%20&%20Egg.md)
+↗ [Code (Program) Optimization](../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Code%20(Program)%20Optimization.md)
+↗ [Equality Saturation (EqSat)](../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Machine-Independent%20Optimization/Equality%20Saturation%20(EqSat)/Equality%20Saturation%20(EqSat).md)
+↗ [E-Graph & Egg](../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Machine-Independent%20Optimization/Equality%20Saturation%20(EqSat)/E-Graph%20&%20Egg.md)
 
 ↗ [Database Languages](../../../DSL%20(Domain%20Specific%20Languages)/Database%20Languages/Database%20Languages.md)
 ↗ [Datalog (Data Logic)](../../../GPL%20(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Datalog%20(Data%20Logic)/Datalog%20(Data%20Logic).md)

@@ -28,7 +28,7 @@ Beer Together: Unifying Datalog and Equality Saturation
 
 
 ### Related Topics
-↗ [Datalog (Data Logic)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Datalog%20(Data%20Logic)/Datalog%20(Data%20Logic).md)
+↗ [Datalog (Data Logic)](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Datalog%20(Data%20Logic)/Datalog%20(Data%20Logic).md)
 
 
 ### Other Resources
@@ -39,7 +39,6 @@ Beer Together: Unifying Datalog and Equality Saturation
 > 🔗 https://en.wikipedia.org/wiki/E-graph
 
 In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), an **e-graph** is a [data structure](https://en.wikipedia.org/wiki/Data_structure "Data structure") that stores an [equivalence relation](https://en.wikipedia.org/wiki/Equivalence_relation "Equivalence relation") over [terms](https://en.wikipedia.org/wiki/Term_\(logic\) "Term (logic)") of some [language](https://en.wikipedia.org/wiki/Formal_language "Formal language").
-
 
 > 🤖 GPT 6.0 Astra
 
@@ -170,6 +169,7 @@ cost model 怎么得到？
 
 
 ### Application of E-Graph & Egg
+> 🤖 GPT 6.0 Astra
 
 | 领域                              | e-graph 在做什么                                      |
 | ------------------------------- | ------------------------------------------------- |
@@ -184,6 +184,7 @@ cost model 怎么得到？
 | **Theorem proving / SMT**       | 维护 equality / congruence，这是 e-graph 的历史来源         |
 | **Query optimization**          | 把等价 query/plan 放进共同搜索空间，再按成本选择                    |
 
+Related papers:
 
 
 

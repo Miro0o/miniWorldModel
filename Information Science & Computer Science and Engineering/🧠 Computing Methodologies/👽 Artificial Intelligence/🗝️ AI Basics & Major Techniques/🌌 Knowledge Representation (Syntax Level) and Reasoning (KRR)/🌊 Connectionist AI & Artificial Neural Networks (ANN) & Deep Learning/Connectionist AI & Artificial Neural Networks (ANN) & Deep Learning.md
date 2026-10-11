@@ -342,7 +342,7 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > ↗ [Objective & Cost & Loss Functions](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Objective%20&%20Cost%20&%20Loss%20Functions.md)
 
 A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
-#### Optimization: Gradient Descent & Back-propagation ⭐
+#### Optimization: Gradient Descent & Back-propagation ⭐ ⭐
 > [!links]
 > ↗ [Differential Calculus & Derivative of Function](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 > ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
@@ -368,6 +368,8 @@ A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $
 > - micrograd on github: [https://github.com/karpathy/micrograd](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblpTMk9PQTViUGt2RElMcEJNWmRTdkhUNnFRZ3xBQ3Jtc0ttV01BaEUtdW04bHF3UTlXNFQycWFiUUFjWGZ1TDZBWnNCWlA1WHpQckxmWE5rVHRvejNMWnFtd0k1M3JQRTN0RUhJRE5XSkRWeEVxeHNIc1VaTExVaXdxVVVUSUkwZEVJaXB3X3h4b0ZQNUJIR3dTUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fmicrograd&v=VMj-3S1tku0)
 > - jupyter notebooks I built in this video: [https://github.com/karpathy/nn-zero-t...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFxeGdRcGVWdXhjLV9RbHQyZm94djdLYm4tUXxBQ3Jtc0tuS1JKOFBIcTRadWtVY1BBZFUtY3d6U09iZ29FcjR4R2c2MzgtSlRjZWlnOEkxUFUtVUlZaTNXSkFRUXJSaXBxNkVER3NSbTMzbG9iQnBuckl5WWNWU1hOUTdwSGtuNmNLbUhUNWg1c1dWanpCYkZNUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fnn-zero-to-hero%2Ftree%2Fmaster%2Flectures%2Fmicrograd&v=VMj-3S1tku0)
 > - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
+
+> 🤖 GPT polished
 
 In DL, a useful view is to treat a neural network as a **parameterized function**, built from simpler computations:
 - neuron: typically $a = \phi(w^T x + b)$, a weighted sum plus a bias, followed by an activation function $\phi()$.

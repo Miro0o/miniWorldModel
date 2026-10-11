@@ -1,4 +1,4 @@
-# Operators on Complex Vector Spaces
+# Finite-Dimensional Vector Space
 
 [TOC]
 

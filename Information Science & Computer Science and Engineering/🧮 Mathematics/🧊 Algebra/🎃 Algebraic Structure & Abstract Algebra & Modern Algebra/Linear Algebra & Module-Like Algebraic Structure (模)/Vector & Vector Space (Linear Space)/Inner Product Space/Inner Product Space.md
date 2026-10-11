@@ -1,4 +1,4 @@
-# Inner Product Spaces
+# Inner Product Space
 
 [TOC]
 

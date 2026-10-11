@@ -1,4 +1,4 @@
-# Operators on Inner Product Spaces
+# Operators on Inner Product Space
 
 [TOC]
 

@@ -23,7 +23,7 @@ $\Sigma= \operatorname{diag} (\sigma_1,\sigma_2,\ldots)$
 singular values: $(\sigma_1,\sigma_2,\ldots)$
 spectral norm = the maximal singular value: $\|M\|_2 = \sigma_{\max}(M)$
 
-\*norm: 
+\*norm:  (↗ [Norm (Vector Space)](../../Vector%20&%20Vector%20Space%20(Linear%20Space)/Norm%20(Vector%20Space).md))
 - $|x|$: the absolute value of x (x is a number)
 - $\|x\|$: 
 	- x is a vector

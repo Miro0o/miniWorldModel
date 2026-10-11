@@ -36,8 +36,12 @@
 | **Max-Norm Constraint**            | Classical; popularized in deep learning c. 2012–2013 | $\lVert w\rVert_2\leq c$; if $\lVert w\rVert_2>c$, use $w\leftarrow c\frac{w}{\lVert w\rVert_2}$ | Explicitly constrains parameter vectors to a maximum norm          | Prevents weights from becoming excessively large                                              | Simple; works well with techniques such as Dropout                               | Requires selecting maximum norm $c$                                                          | Neural networks, models using Dropout                                   |
 | **Decoupled Weight Decay / AdamW** |                                                 2017 | $w_{t+1}=w_t-\eta\,\operatorname{AdamGrad}_t-\eta\lambda w_t$                                    | Separates weight decay from the gradient-based optimization step   | Controls parameter magnitude without mixing the penalty into Adam's adaptive gradient scaling | More appropriate than naive L2 regularization with Adam; easy to tune            | Still requires choosing decay strength; not normally applied to every parameter              | Transformers, LLMs, modern deep learning                                |
 #### L1 Regularization / Lasso
+> [!links]
+> ↗ [Norm (Vector Space)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Vector%20&%20Vector%20Space%20(Linear%20Space)/Norm%20(Vector%20Space).md)
 
 #### L2 Regularization / Ridge
+> [!links]
+> ↗ [Norm (Vector Space)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Vector%20&%20Vector%20Space%20(Linear%20Space)/Norm%20(Vector%20Space).md)
 
 
 ### Stochastic / Network Regularization

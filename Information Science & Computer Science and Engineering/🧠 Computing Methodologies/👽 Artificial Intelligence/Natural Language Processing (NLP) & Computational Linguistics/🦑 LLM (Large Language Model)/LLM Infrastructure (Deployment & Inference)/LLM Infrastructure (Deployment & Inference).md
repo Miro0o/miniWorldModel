@@ -27,6 +27,10 @@
 
 ↗ [GPU (Graphics Processing Unit)](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
 ↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
+- ↗ [NVIDIA TensorRT & TensorRT-LLM](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/NVIDIA%20TensorRT%20&%20TensorRT-LLM/NVIDIA%20TensorRT%20&%20TensorRT-LLM.md)
+- ↗ [Google XLA & OpenXLA](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/Google%20XLA%20&%20OpenXLA.md)
+- ↗ [Apache TVM](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/Apache%20TVM.md)
+- ↗ [TorchInductor](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/TorchInductor.md)
 
 ↗ [Compute Unified Device Architecture & CUDA Programming](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md) ⭐
 
@@ -374,6 +378,8 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 
 > [!links]
 > ↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md) 🤔
+> "Map: LLM Inference & AI Compilation"
+> "LLM Inference Workload"
 
 > 🤖 GPT 6.0 Astra
 
@@ -551,7 +557,7 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 ```
 
 
-### LLM Serving Engines
+### LLM Serving
 > [!links]
 > ↗ [Attention & Efficient Operator Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
 > ![Transformer多头注意力流程图](../../../../../../../../../Assets/Pics/Transformer多头注意力流程图.png)
@@ -579,10 +585,30 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 
 
 ## Distributed Training & Inference
+> [!links]
+> ↗ [Nvidia Megatron](Parallel%20&%20Distributed%20Training%20&%20Inference/Nvidia%20Megatron.md)
+> ↗ [Microsoft DeepSpeed](Parallel%20&%20Distributed%20Training%20&%20Inference/Microsoft%20DeepSpeed.md)
+
+
+### Data Parallelism (DP)
+
+
 ### Tensor Parallel (TP)
+
+
+### Pipeline Parallelism (PP)
+
+
+### Sequence Parallelism (SP)
+
+
+### Expert Parallelism (EP)
 
 
 
 ## Ref
 [KV Caching in LLMs, Clearly Explained]: https://x.com/_avichawla/status/2034902650534187503?s=20
 ![](../../../../../../Assets/Pics/Screenshot%202026-04-26%20at%2017.44.28.png)
+
+
+[大模型训练并行技术理解-DP/TP/PP/SP/EP - 哈密瓜的文章 - 知乎]: https://zhuanlan.zhihu.com/p/1904506837543420662

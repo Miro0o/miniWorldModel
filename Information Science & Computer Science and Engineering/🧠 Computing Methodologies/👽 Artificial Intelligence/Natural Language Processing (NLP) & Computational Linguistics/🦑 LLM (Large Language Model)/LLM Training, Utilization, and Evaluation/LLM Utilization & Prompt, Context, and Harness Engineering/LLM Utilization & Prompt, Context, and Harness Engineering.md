@@ -268,3 +268,5 @@ The “best” way to build agentic systems has changed dramatically over the pa
 [Using Git with coding agents]: https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/
 
 [过去三个月对我帮助最大的一个 skill：grill-me | cnblog]: https://www.cnblogs.com/guangzan/p/20774394
+[Skills for Real Engineers. Straight from my .agents directory.]: https://github.com/mattpocock/skills
+[grill-me]: https://www.skills.sh/mattpocock/skills/grill-me
