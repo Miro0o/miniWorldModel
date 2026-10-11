@@ -236,6 +236,34 @@ test('equivalent parenthesis encoding does not conflict with an adjacent main ed
   assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[Updated A](A%20%28One%29.md)\n[B](B%20%28Two%29.md)\n');
 });
 
+test('missing link encoding does not conflict with an adjacent renamed link and label edit', async t => {
+  const f = await fixture(t, {
+    'Note.md': '[Private](Private%20(In%20CS)/Missing.md#Heading)\n[Old](Old.md)\n\nbody\n\nlast\n',
+    'Old.md': '# Target\n'
+  });
+  await write(f.target, 'Note.md', '[Private](Private%20%28In%20CS%29/Missing.md#Heading)\n[Old](Old.md)\n\nmanual body\n\nlast\n');
+  const manual = commit(f.target, 'Windows encoding and manual body');
+  run(f.source, ['mv', 'Old.md', 'New.md']);
+  await write(f.source, 'Note.md', '[Private](Private%20(In%20CS)/Missing.md#Heading)\n[New](New.md)\n\nbody\n\nlast\n');
+  const incoming = commit(f.source, 'rename adjacent target and edit label');
+  await sync(f);
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), '[Private](Private%20%28In%20CS%29/Missing.md#Heading)\n[New](New.md)\n\nmanual body\n\nlast\n');
+  assert.equal(JSON.parse(await fs.readFile(path.join(f.target, STATE))).last_synced_main, incoming);
+  const generated = commit(f.target, 'generated rename');
+  assert.equal(run(f.target, ['rev-parse', generated + '^']), manual);
+});
+
+test('different missing link targets still conflict without advancing the sync state', async t => {
+  const f = await fixture(t, { 'Note.md': '[Private](Missing%20(Base).md)\n' });
+  await write(f.target, 'Note.md', '[Private](Missing%20%28Windows%29.md)\n');
+  commit(f.target, 'different private target on Windows');
+  await write(f.source, 'Note.md', '[Private](Missing%20(Main).md)\n');
+  commit(f.source, 'different private target on main');
+  await assert.rejects(sync(f), /overlapping changes/);
+  assert.equal(run(f.target, ['status', '--porcelain']), '');
+  assert.equal(JSON.parse(await fs.readFile(path.join(f.target, STATE))).last_synced_main, f.initialMain);
+});
+
 test('moving a source note resolves relative links from its original folder', async t => {
   const f = await fixture(t, {
     'Old/Source.md': '# Source\n\n[x](Target.md)\n\nbody\n\nlast\n',

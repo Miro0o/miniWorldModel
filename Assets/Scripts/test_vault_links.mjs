@@ -45,6 +45,19 @@ test('requires opt-in for stale paths and never guesses ambiguous or missing tar
   assert.equal(fix(text, 'Math/Source.md', { repairStale: true }).text, '[u](../New/Unique.md) [d](../Old/Duplicate.md) [m](Missing.md)');
 });
 
+test('opt-in encoding normalization preserves missing and ambiguous targets without guessing', () => {
+  const idx = new VaultIndex(['One/Note (Private).md', 'Two/Note (Private).md']);
+  const text = '[missing](Private%20(In%20CS)/Missing.md#Keep(foo))\n[ambiguous](Old/Note%20(Private).md)\n[[Missing (Private)|Alias]]\n[web](https://example.com/a(b))\n';
+  const result = repairText(text, 'Source.md', idx, {}, { normalizeEncoding: true, repairStale: true });
+  assert.equal(result.text, '[missing](Private%20%28In%20CS%29/Missing.md#Keep(foo))\n[ambiguous](Old/Note%20%28Private%29.md)\n[[Missing (Private)|Alias]]\n[web](https://example.com/a(b))\n');
+  assert.equal(result.issues[0].category, 'missing');
+  assert.equal(result.issues[0].resolved, null);
+  assert.equal(result.issues[1].category, 'ambiguous');
+  assert.equal(result.issues[1].resolved, null);
+  assert.equal(repairText(text, 'Source.md', idx, {}, { repairStale: true }).text, text);
+  assert.equal(repairText(result.text, 'Source.md', idx, {}, { normalizeEncoding: true, repairStale: true }).text, result.text);
+});
+
 test('leaves valid paths and shortest-name wiki links unchanged', () => {
   const text = '[[Unique]] [image](../Assets/Pics/a%20(1).png)';
   assert.equal(fix(text, 'Math/Source.md', { repairStale: true }).text, text);
