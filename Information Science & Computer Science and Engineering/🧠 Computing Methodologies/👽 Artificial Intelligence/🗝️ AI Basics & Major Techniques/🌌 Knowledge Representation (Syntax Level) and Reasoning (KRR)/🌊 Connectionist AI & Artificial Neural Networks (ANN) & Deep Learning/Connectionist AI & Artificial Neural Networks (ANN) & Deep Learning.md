@@ -461,6 +461,9 @@ $$
 - $\nabla_{W_i}J$ is the **gradient**, whereas $\Delta W_i = W_i^{\mathrm{new}} - W_i = -\eta\nabla_{W_i}J$ is the **parameter update**.
 - We may write $W_i^{\mathrm{new}} = W_i + \Delta W_i$, but adding the positive gradient with a positive learning rate would be gradient ascent, not descent.
 - Using a mini-batch gradient gives a stochastic gradient descent (SGD) update.
+- Epoch and update: 
+	- epoch: one feed round of the whole training set
+	- update: one gradient update (for one feed input)
 
 More generally, write $\theta_{t+1} = \theta_t + \eta_t d_t$, where $d_t$ is the update direction; vanilla gradient descent uses $d_t = -\nabla_{\theta}J(\theta_t)$. To improve optimization:
 - choose the update direction using gradient history or adaptive scaling, e.g. momentum or Adam.
