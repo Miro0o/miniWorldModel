@@ -31,6 +31,10 @@ Synthesizing structured CAD models with equality saturation and inverse transfor
 https://ieeexplore.ieee.org/document/10247797
 Automating Constraint-Aware Datapath Optimization using E-Graphs
 
+https://arxiv.org/abs/2511.20782
+Optimism in Equality Saturation
+[Russel Arbore](https://arxiv.org/search/cs?searchtype=author&query=Arbore,+R), [Alvin Cheung](https://arxiv.org/search/cs?searchtype=author&query=Cheung,+A), [Max Willsey](https://arxiv.org/search/cs?searchtype=author&query=Willsey,+M)
+
 
 ### Other Resources
 https://inst.eecs.berkeley.edu/~cs294-260/sp24/
