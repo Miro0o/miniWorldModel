@@ -26,11 +26,11 @@
 ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
 
 ↗ [GPU (Graphics Processing Unit)](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
-↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
-- ↗ [NVIDIA TensorRT & TensorRT-LLM](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/NVIDIA%20TensorRT%20&%20TensorRT-LLM/NVIDIA%20TensorRT%20&%20TensorRT-LLM.md)
-- ↗ [Google XLA & OpenXLA](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/Google%20XLA%20&%20OpenXLA.md)
-- ↗ [Apache TVM](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/Apache%20TVM.md)
-- ↗ [TorchInductor](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/TorchInductor.md)
+↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL.md)
+- ↗ [NVIDIA TensorRT & TensorRT-LLM](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/NVIDIA%20TensorRT%20&%20TensorRT-LLM/NVIDIA%20TensorRT%20&%20TensorRT-LLM.md)
+- ↗ [Google XLA & OpenXLA](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/Google%20XLA%20&%20OpenXLA.md)
+- ↗ [Apache TVM](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/Apache%20TVM.md)
+- ↗ [TorchInductor](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/TorchInductor.md)
 
 ↗ [Compute Unified Device Architecture & CUDA Programming](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md) ⭐
 
@@ -186,6 +186,197 @@ Inside vLLM: Anatomy of a High-Throughput LLM Inference System
 
 
 ## Intro
+> [!links]
+> ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> ↗ [Attention & Efficient Operator Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
+> (LLM Workload)
+> ![Transformer多头注意力流程图](../../../../../../../../../Assets/Pics/Transformer多头注意力流程图.png)
+> 
+> ↗ [Tokenization Techniques & Tokenizers](../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
+> ↗ [BPE (Byte Pair Encoding)](../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/BPE%20(Byte%20Pair%20Encoding).md)
+> 
+> ↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL.md) 🤔
+> "Map: LLM Inference & AI Compilation"
+> "LLM Inference Workload"
+
+> 🤖 GPT 6.0 Astra
+> (mix compilation and serving /inference)
+> for separate view see below "A Complete LLM Inference Process ⭐"
+
+```
+                         ┌───────────────────────────────┐
+                         │           User/API            │
+                         │ prompt / messages / sampling  │
+                         └───────────────┬───────────────┘
+                                         │
+                                         ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  1. API / Frontend                                              │
+│                                                                 │
+│ HTTP / gRPC / OpenAI-compatible API                             │
+│ authentication / rate limit / streaming / request parsing       │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  2. Tokenization + Request Construction                         │
+│                                                                 │
+│ text → token IDs                                                │
+│ sampling params / max_tokens / stop conditions                  │
+│ request metadata                                                │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  3. LLM Serving Engine                                          │
+│                                                                 │
+│ vLLM / TensorRT-LLM / SGLang / etc.                             │
+│                                                                 │
+│ ┌─────────────────────────────────────────────────────────────┐ │
+│ │ Scheduler                                                   │ │
+│ │ waiting queue → running set                                 │ │
+│ │ continuous batching / chunked prefill / priorities          │ │
+│ └─────────────────────────────────────────────────────────────┘ │
+│                                                                 │
+│ ┌─────────────────────────────────────────────────────────────┐ │
+│ │ KV-cache manager                                            │ │
+│ │ blocks/pages / allocation / eviction / prefix caching       │ │
+│ └─────────────────────────────────────────────────────────────┘ │
+│                                                                 │
+│ ┌─────────────────────────────────────────────────────────────┐ │
+│ │ Model runner                                                │ │
+│ │ build tensors / positions / page tables / metadata          │ │
+│ │ invoke model                                                │ │
+│ └─────────────────────────────────────────────────────────────┘ │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                one "engine iteration"
+                               │
+              ┌────────────────┴─────────────────┐
+              │                                  │
+              ▼                                  ▼
+       PREFILL phase                         DECODE phase
+   many prompt tokens/request             ~1 token/request
+   GEMM-heavy                             memory/KV-heavy
+              │                                  │
+              └────────────────┬─────────────────┘
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  4. Transformer computation graph                               │
+│                                                                 │
+│ Embedding                                                       │
+│   ↓                                                             │
+│ [RMSNorm                                                        │
+│   ↓                                                             │
+│ QKV projection ── GEMM                                          │
+│   ↓                                                             │
+│ RoPE                                                            │
+│   ↓                                                             │
+│ Attention ───────── FlashAttention / PagedAttention             │
+│   ↓                                                             │
+│ Output projection ─ GEMM                                        │
+│   ↓                                                             │
+│ Residual                                                        │
+│   ↓                                                             │
+│ RMSNorm                                                         │
+│   ↓                                                             │
+│ MLP: GEMM → activation → GEMM                                   │
+│      or MoE routing → experts → combine                         │
+│ ] × N layers                                                    │
+│   ↓                                                             │
+│ LM head GEMM                                                    │
+│   ↓                                                             │
+│ logits                                                          │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+							   
+              ┌───────────────────────────────────┐
+              │ 5. Operator / Graph implementation│
+              │                                   │
+              │ THREE paths coexist:              │
+              └───────────────────────────────────┘
+                    │          │           │
+       ┌────────────┘          │           └────────────┐
+       ▼                       ▼                        ▼
+
+  Hand-written /            Tensor compiler        Vendor libraries
+  specialized kernel
+                                                    cuBLAS
+  FlashAttention            TorchInductor           cuBLASLt
+  FlashInfer                XLA                     cuDNN
+  custom CUDA               TensorRT                NCCL
+  CUTLASS                    TensorRT-LLM plugins
+  Triton kernel
+       │                       │                        │
+       └──────────────┬────────┴───────────────┬────────┘
+                      ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  6. Kernel code generation / lowering                           │
+│                                                                 │
+│ e.g. Triton:                                                    │
+│                                                                 │
+│ tensor/loop IR                                                  │
+│       ↓                                                         │
+│ Triton IR                                                       │
+│       ↓                                                         │
+│ GPU-aware IR                                                    │
+│       ↓                                                         │
+│ LLVM/NVVM                                                       │
+│       ↓                                                         │
+│ PTX                                                             │
+│       ↓                                                         │
+│ machine code / cubin                                            │
+│                                                                 │
+│ or CUDA C++ → NVCC → PTX/cubin                                  │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  7. GPU execution runtime                                       │
+│                                                                 │
+│ CUDA Runtime API                                                │
+│ cudaLaunchKernel / cudaMemcpyAsync / CUDA Graph                 │
+│                    ↓                                            │
+│ CUDA Driver API                                                 │
+│ contexts / modules / streams / device memory                    │
+│                    ↓                                            │
+│ NVIDIA kernel driver                                            │
+│                    ↓                                            │
+│ GPU command queues                                              │
+└──────────────────────────────┬──────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  8. GPU hardware                                                │
+│                                                                 │
+│ H100 / B200                                                     │
+│                                                                 │
+│ HBM                                                             │
+│  ↕                                                              │
+│ L2                                                              │
+│  ↕                                                              │
+│ SM ────────────────────────────────────────────────             │
+│ │ registers                                                     │
+│ │ shared memory / L1                                            │
+│ │ warp schedulers                                               │
+│ │ CUDA cores                                                    │
+│ │ Tensor Cores                                                  │
+│ │ load/store units                                              │
+│ │ TMA / async memory machinery                                  │
+│ └────────────────────────────────────────────────               │
+└─────────────────────────────────────────────────────────────────┘
+
+                 multi-GPU 时还横插一层：
+
+              GPU 0 ←→ NVLink/NVSwitch ←→ GPU 1
+                 ↕                         ↕
+                  └──── NCCL collectives ─┘
+               AllReduce / AllGather /
+               ReduceScatter / AllToAll
+```
+
+
 ### Deployment Parameters & Quantization
 > [!links]
 > ↗ [(Text) Data Representations & Storage in Computer](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
@@ -364,204 +555,17 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 ↗ [AI API Call & AI Gateway](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20API%20Call%20&%20AI%20Gateway.md)
 
 
+### LLM Compilation
+↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL.md)
+- Transformer Computation Graph & Operator
+	- static compilation
+	- dynamic compilation
+	- multi-versioning
+- GPU Kernel & Lowering
 
-## LLM Inference
+
+### LLM Serving Process
 > [!links]
-> ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
-> ↗ [Attention & Efficient Operator Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
-> 
-> ↗ [Tokenization Techniques & Tokenizers](../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
-> ↗ [BPE (Byte Pair Encoding)](../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/BPE%20(Byte%20Pair%20Encoding).md)
-> 
-> ↗ [vLLM](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
-> ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
-
-> [!links]
-> ↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md) 🤔
-> "Map: LLM Inference & AI Compilation"
-> "LLM Inference Workload"
-
-> 🤖 GPT 6.0 Astra
-
-```
-                         ┌───────────────────────────────┐
-                         │           User/API            │
-                         │ prompt / messages / sampling  │
-                         └───────────────┬───────────────┘
-                                         │
-                                         ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  1. API / Frontend                                              │
-│                                                                 │
-│ HTTP / gRPC / OpenAI-compatible API                             │
-│ authentication / rate limit / streaming / request parsing       │
-└──────────────────────────────┬──────────────────────────────────┘
-                               │
-                               ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  2. Tokenization + Request Construction                         │
-│                                                                 │
-│ text → token IDs                                                │
-│ sampling params / max_tokens / stop conditions                  │
-│ request metadata                                                │
-└──────────────────────────────┬──────────────────────────────────┘
-                               │
-                               ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  3. LLM Serving Engine                                          │
-│                                                                 │
-│ vLLM / TensorRT-LLM / SGLang / etc.                             │
-│                                                                 │
-│ ┌─────────────────────────────────────────────────────────────┐ │
-│ │ Scheduler                                                   │ │
-│ │ waiting queue → running set                                 │ │
-│ │ continuous batching / chunked prefill / priorities          │ │
-│ └─────────────────────────────────────────────────────────────┘ │
-│                                                                 │
-│ ┌─────────────────────────────────────────────────────────────┐ │
-│ │ KV-cache manager                                            │ │
-│ │ blocks/pages / allocation / eviction / prefix caching       │ │
-│ └─────────────────────────────────────────────────────────────┘ │
-│                                                                 │
-│ ┌─────────────────────────────────────────────────────────────┐ │
-│ │ Model runner                                                │ │
-│ │ build tensors / positions / page tables / metadata          │ │
-│ │ invoke model                                                │ │
-│ └─────────────────────────────────────────────────────────────┘ │
-└──────────────────────────────┬──────────────────────────────────┘
-                               │
-                one "engine iteration"
-                               │
-              ┌────────────────┴─────────────────┐
-              │                                  │
-              ▼                                  ▼
-       PREFILL phase                         DECODE phase
-   many prompt tokens/request             ~1 token/request
-   GEMM-heavy                             memory/KV-heavy
-              │                                  │
-              └────────────────┬─────────────────┘
-                               ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  4. Transformer computation graph                               │
-│                                                                 │
-│ Embedding                                                       │
-│   ↓                                                             │
-│ [RMSNorm                                                        │
-│   ↓                                                             │
-│ QKV projection ── GEMM                                          │
-│   ↓                                                             │
-│ RoPE                                                            │
-│   ↓                                                             │
-│ Attention ───────── FlashAttention / PagedAttention             │
-│   ↓                                                             │
-│ Output projection ─ GEMM                                        │
-│   ↓                                                             │
-│ Residual                                                        │
-│   ↓                                                             │
-│ RMSNorm                                                         │
-│   ↓                                                             │
-│ MLP: GEMM → activation → GEMM                                   │
-│      or MoE routing → experts → combine                         │
-│ ] × N layers                                                    │
-│   ↓                                                             │
-│ LM head GEMM                                                    │
-│   ↓                                                             │
-│ logits                                                          │
-└──────────────────────────────┬──────────────────────────────────┘
-                               │
-                               ▼
-							   
-              ┌───────────────────────────────────┐
-              │ 5. Operator / Graph implementation│
-              │                                   │
-              │ THREE paths coexist:              │
-              └───────────────────────────────────┘
-                    │          │           │
-       ┌────────────┘          │           └────────────┐
-       ▼                       ▼                        ▼
-
-  Hand-written /            Tensor compiler        Vendor libraries
-  specialized kernel
-                                                    cuBLAS
-  FlashAttention            TorchInductor           cuBLASLt
-  FlashInfer                XLA                     cuDNN
-  custom CUDA               TensorRT                NCCL
-  CUTLASS                    TensorRT-LLM plugins
-  Triton kernel
-       │                       │                        │
-       └──────────────┬────────┴───────────────┬────────┘
-                      ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  6. Kernel code generation / lowering                           │
-│                                                                 │
-│ e.g. Triton:                                                    │
-│                                                                 │
-│ tensor/loop IR                                                  │
-│       ↓                                                         │
-│ Triton IR                                                       │
-│       ↓                                                         │
-│ GPU-aware IR                                                    │
-│       ↓                                                         │
-│ LLVM/NVVM                                                       │
-│       ↓                                                         │
-│ PTX                                                             │
-│       ↓                                                         │
-│ machine code / cubin                                            │
-│                                                                 │
-│ or CUDA C++ → NVCC → PTX/cubin                                  │
-└──────────────────────────────┬──────────────────────────────────┘
-                               │
-                               ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  7. GPU execution runtime                                       │
-│                                                                 │
-│ CUDA Runtime API                                                │
-│ cudaLaunchKernel / cudaMemcpyAsync / CUDA Graph                 │
-│                    ↓                                            │
-│ CUDA Driver API                                                 │
-│ contexts / modules / streams / device memory                    │
-│                    ↓                                            │
-│ NVIDIA kernel driver                                            │
-│                    ↓                                            │
-│ GPU command queues                                              │
-└──────────────────────────────┬──────────────────────────────────┘
-                               │
-                               ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  8. GPU hardware                                                │
-│                                                                 │
-│ H100 / B200                                                     │
-│                                                                 │
-│ HBM                                                             │
-│  ↕                                                              │
-│ L2                                                              │
-│  ↕                                                              │
-│ SM ────────────────────────────────────────────────             │
-│ │ registers                                                     │
-│ │ shared memory / L1                                            │
-│ │ warp schedulers                                               │
-│ │ CUDA cores                                                    │
-│ │ Tensor Cores                                                  │
-│ │ load/store units                                              │
-│ │ TMA / async memory machinery                                  │
-│ └────────────────────────────────────────────────               │
-└─────────────────────────────────────────────────────────────────┘
-
-                 multi-GPU 时还横插一层：
-
-              GPU 0 ←→ NVLink/NVSwitch ←→ GPU 1
-                 ↕                         ↕
-                  └──── NCCL collectives ─┘
-               AllReduce / AllGather /
-               ReduceScatter / AllToAll
-```
-
-
-### LLM Serving
-> [!links]
-> ↗ [Attention & Efficient Operator Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
-> ![Transformer多头注意力流程图](../../../../../../../../../Assets/Pics/Transformer多头注意力流程图.png)
-> 
 > ↗ [vLLM](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
 > ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
 
@@ -574,13 +578,16 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 #### Decode
 ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md) "Decoder-Only Transformer"
 
+#### \* A Complete LLM Inference Process ⭐
+> 🤖 GPT 6.1 Sol
+> (separate phases in LLM deployment)
 
-### Transformer Computation Graph & Operator
-↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
+![](../../../../../../Assets/Pics/LLM在线推理系统全景图.png)
 
+![](../../../../../../Assets/Pics/LLM推理服务全流程信息图.png)
 
-### GPU Kernel & Lowering
-↗ [AI Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/AI%20Compilers%20&%20GPU%20Operators%20DSL.md)
+> 🤖 GPT 6.1 Sol
+> https://chatgpt.com/share/6acfa59a-9294-83ec-85ff-274de63347a9
 
 
 
@@ -608,9 +615,22 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 
 
 
+## Performance Metrics & Cost Models
+### Roofline Model
+
+
+### Analytical Model
+
+
+### Learned Cost Model
+
+
+### Hybrid Model
+
+
+
 ## Ref
 [KV Caching in LLMs, Clearly Explained]: https://x.com/_avichawla/status/2034902650534187503?s=20
 ![](../../../../../../Assets/Pics/Screenshot%202026-04-26%20at%2017.44.28.png)
-
 
 [大模型训练并行技术理解-DP/TP/PP/SP/EP - 哈密瓜的文章 - 知乎]: https://zhuanlan.zhihu.com/p/1904506837543420662

@@ -217,8 +217,8 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 
 
 ### 🎯 Model-Free RL
-↗ [Statistics (Data) Analyzing Methods & Statistical Model](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
-- ↗ [Monte Carlo Methods](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Monte%20Carlo%20Methods/Monte%20Carlo%20Methods.md)
+↗ [Statistical Models & Statistical Inference](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistical%20Models%20&%20Statistical%20Inference/Statistical%20Models%20&%20Statistical%20Inference.md)
+- ↗ [Monte Carlo Methods](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistical%20Models%20&%20Statistical%20Inference/Monte%20Carlo%20Methods/Monte%20Carlo%20Methods.md)
 ↗ [Monte Carlo Based RL](📌%20RL%20Basics%20-%20Markovian%20Based%20RL/Value-Based%20RL/Monte%20Carlo%20Based%20RL.md)
 #### Non-Incremental RL
 

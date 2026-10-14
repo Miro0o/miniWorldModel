@@ -502,13 +502,24 @@ A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $
 \end{document}
 ```
 
+---
 > 🤖 GPT polished
 
-In DL, a useful view is to treat a neural network as a **parameterized function**, built from simpler computations:
+Artificial intelligence (AI): to re-create human intelligence.
+
+
+The idea of **(machine) learning** based AI: to build a system such that it can learn rules automatically from the environment /data. Therefore, big data techniques or data-driven methods.
+- This is like statistics and probability theory: from data to learn a statistical model, treat that statistical model as the probabilistic model, and use the probabilistic model to predict next move.
+- Against the idea of symbolic based AI: to manually design rules for a system to execute that handle the (specific) task well. It is natural to think that it is easy to design algorithm for a specific task, while it is very hard if we want to design rules for a very generalized task.
+
+
+The intuition of **deep learning (DL)**, is to model such a learnable system as a neural network, and feed tons of data to it to learn such a pattern, since (we hypothesize) this resembles how human intelligence works in principle. More formally (mathematically), a neural network is a **parameterized function**, built from simpler computations:
 - neuron: typically $a = \phi(w^T x + b)$, a weighted sum plus a bias, followed by an activation function $\phi()$.
-- perceptron: a particular neuron with a hard threshold activation. The classical perceptron is not trained by ordinary backpropagation through that threshold; modern networks usually use differentiable or almost-everywhere differentiable activations.
+	- perceptron: a particular neuron with a hard threshold activation. The classical perceptron is not trained by ordinary backpropagation through that threshold; modern networks usually use differentiable or almost-everywhere differentiable activations.
+	- multi-layer perceptron (MLP).
 - neural layer: a vector-valued function, often computing multiple neurons in parallel, e.g. $h = \phi(Wx + b)$.
-- neural net: a composition of layers (more generally, a computational graph), denoted by $f_{\theta}(x)$.
+- neural net: a composition of layers (more generally, a **computational graph**), denoted by $f_{\theta}(x)$.
+
 
 For the neural net:
 - $x$: input to the neural net.
@@ -517,7 +528,9 @@ For the neural net:
 	- For a fully connected layer, $z = Wx + b$ is the **pre-activation vector**, and $h = \phi(z)$ is the **activation /representation**. A component of $h$ can be interpreted as a learned **feature**; the unit computing $h_j = \phi(w_j^T x + b_j)$ is a **neuron**.
 - $\hat{y} = f_{\theta}(x)$: model output /prediction.
 
-Define the target ("ground truth") as $y$, and a scalar **loss function** $\ell(\hat{y}, y)$ that measures how undesirable the prediction is relative to the target. For one example, write $L(\theta; x,y) = \ell(f_{\theta}(x), y)$ to make its dependence on the parameters explicit.
+
+For the neural net to actually learn something:
+- Define the target ("ground truth") as $y$, and a scalar **loss function** $\ell(\hat{y}, y)$ that measures how undesirable the prediction is relative to the target. For one example, write $L(\theta; x,y) = \ell(f_{\theta}(x), y)$ to make its dependence on the parameters explicit.
 - The objective depends on the task and learning setting:
 	- **supervised learning**: use input-target pairs, e.g. classification or regression losses.
 	- **unsupervised learning**: use **objectives** such as reconstruction or likelihood; an external ground-truth label $y$ is not generally required.
@@ -525,7 +538,9 @@ Define the target ("ground truth") as $y$, and a scalar **loss function** $\ell(
 - 1️⃣ This is the ↗ [Representation (Feature) Learning](../../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Representation%20(Feature)%20Learning.md) problem --  to determine what exactly the learning objective is & what is the good representation of that objective?
 	- ↗ [Objective & Cost & Loss Functions](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Objective%20&%20Cost%20&%20Loss%20Functions.md)
 
-Using supervised learning as the running example, the ideal goal is to minimize the **population risk** over the target data distribution $\mathcal{P}$:
+
+To design a good neural net towards that learning objective:
+- Using supervised learning as the running example, the ideal goal is to minimize the **population risk** over the target data distribution $\mathcal{P}$:
 $$
 \min_{\theta} R(\theta), \qquad R(\theta) = \mathbb{E}_{(x,y)\sim\mathcal{P}}[\ell(f_{\theta}(x), y)].
 $$
@@ -534,9 +549,8 @@ $$
 \min_{\theta} J(\theta), \qquad J(\theta) = \frac{1}{N}\sum_{n=1}^{N}\ell(f_{\theta}(x_n), y_n).
 $$
 	- Training aims to reduce this objective; it does not generally guarantee finding a global minimum.
-	- A regularization term may be added, e.g. $J(\theta) + \lambda\Omega(\theta)$. In practice, gradients are often estimated from mini-batches.
-- Low training loss alone does not guarantee good performance on unseen data. We want **generalization** to the target distribution.
-- **Inductive bias** means the assumptions or preferences that guide learning beyond the observed data. Architecture, regularization, and the training procedure can all introduce inductive biases.
+	- A **regularization** term may be added, e.g. $J(\theta) + \lambda\Omega(\theta)$. In practice, gradients are often estimated from mini-batches.
+- Low training loss alone does not guarantee good performance on unseen data. We want **generalization** to the target distribution. **Inductive bias** means the assumptions or preferences that guide learning beyond the observed data. Architecture, regularization, and the training procedure can all introduce inductive biases.
 	- The goal is a bias that matches useful structure in the problem, rather than simply "more bias". It helps the model learn from limited data, but does not guarantee recovering the function it would learn from unlimited data. (↗ [Model Validation & Metrics](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Validation%20&%20Metrics/Model%20Validation%20&%20Metrics.md))
 - Different problems motivate different architecture considerations:
 	- sequence modeling: how to use context, and how to respect causality when the task requires it?
@@ -550,11 +564,15 @@ $$
 	- ⭐️ **How do gradients flow back through that computation during training?**
 	- This is about ↗ [Information Theory](../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md) & ↗ [Representation (Feature) Learning](../../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Representation%20(Feature)%20Learning.md).
 
+
+To effectively train a neural net towards that learning objective:
+- typically use gradient descent & back-propagation
+
 For a simple feedforward network with $M$ layers, define:
 $$
 h_0 = x, \qquad h_i = f_i(h_{i-1};\theta_i), \qquad \hat{y} = h_M.
 $$
-Then $f_{\theta} = f_M \circ f_{M-1} \circ \cdots \circ f_1$: **the rightmost function is applied first**. For the following derivation, use one example and write $L = \ell(h_M,y)$; all activation vectors and their gradients are column vectors.
+Then the whole neural net is written $f_{\theta} = f_M \circ f_{M-1} \circ \cdots \circ f_1$: **the rightmost function is applied first**. For the following derivation, use one example and write $L = \ell(h_M,y)$; all activation vectors and their gradients are column vectors.
 
 ==Backpropagation== computes gradients of the loss with respect to the parameters by applying the chain rule backward through the computational graph. **Adjacent layers' weights are independent parameters; the chain rule follows intermediate activations, not a dependency $W_i \to W_{i+1}$.**
 
@@ -601,7 +619,7 @@ $$
 	- epoch: one feed round of the whole training set
 	- update: one gradient update (for one feed input)
 
-More generally, write $\theta_{t+1} = \theta_t + \eta_t d_t$, where $d_t$ is the update direction; vanilla gradient descent uses $d_t = -\nabla_{\theta}J(\theta_t)$. To improve optimization:
+More generally, write $\theta_{t+1} = \theta_t + \eta_t d_t$, where $d_t$ is the update direction (contain raw gradient information); vanilla gradient descent uses $d_t = -\nabla_{\theta}J(\theta_t)$. To improve optimization:
 - choose the update direction using gradient history or adaptive scaling, e.g. momentum or Adam.
 - choose the learning rate /step size $\eta_t$, possibly using a **Learning Rate (LR) Schedule**.
 - use curvature or other structural information where appropriate.

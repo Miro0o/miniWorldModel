@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Measures (Measure Theory)](../../📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
 ↗ [Probability Theory & Statistics](../../📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
-↗ [Statistics (Data) Analyzing Methods & Statistical Model](../../📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+↗ [Statistical Models & Statistical Inference](../../📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistical%20Models%20&%20Statistical%20Inference/Statistical%20Models%20&%20Statistical%20Inference.md)
 
 
 ### Other Resources

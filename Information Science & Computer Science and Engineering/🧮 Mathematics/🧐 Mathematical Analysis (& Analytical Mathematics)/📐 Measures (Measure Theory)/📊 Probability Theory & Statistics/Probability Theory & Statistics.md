@@ -397,13 +397,13 @@ In simple terms, instead of looking at data in isolation, Bayesian statistics al
 ↗ [Bayesian Statistics & Statistical Analysis](Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
 
 ↗ [Descriptive Statistics (Analysis)](Bayesian%20Statistics%20&%20Statistical%20Analysis/Descriptive%20Statistics%20(Analysis)/Descriptive%20Statistics%20(Analysis).md)
-- ↗ [Statistics (Data) Analyzing Methods & Statistical Model](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+- ↗ [Statistical Models & Statistical Inference](🏒%20Statistical%20Models%20&%20Statistical%20Inference/Statistical%20Models%20&%20Statistical%20Inference.md)
 
 ↗ [Inferential Statistics (Analysis) & Statistical Inference](Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference.md)
-- ↗ [Statistics (Data) Analyzing Methods & Statistical Model](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
-	- ↗ [Estimation Theory (Parametric Estimation)](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/📌%20Estimation%20Theory%20(Parametric%20Estimation)/Estimation%20Theory%20(Parametric%20Estimation).md)
-	- ↗ [Statistical Hypothesis (Significance) Test](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/📌%20Statistical%20Hypothesis%20(Significance)%20Test/Statistical%20Hypothesis%20(Significance)%20Test.md)
-	- ↗ [Regression (Correlation) Analysis](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Regression%20(Correlation)%20Analysis/Regression%20(Correlation)%20Analysis.md)
+- ↗ [Statistical Models & Statistical Inference](🏒%20Statistical%20Models%20&%20Statistical%20Inference/Statistical%20Models%20&%20Statistical%20Inference.md)
+	- ↗ [Estimation Theory (Parametric Estimation)](🏒%20Statistical%20Models%20&%20Statistical%20Inference/📌%20Estimation%20Theory%20(Parametric%20Estimation)/Estimation%20Theory%20(Parametric%20Estimation).md)
+	- ↗ [Statistical Hypothesis (Significance) Test](🏒%20Statistical%20Models%20&%20Statistical%20Inference/📌%20Statistical%20Hypothesis%20(Significance)%20Test/Statistical%20Hypothesis%20(Significance)%20Test.md)
+	- ↗ [Regression (Correlation) Analysis](🏒%20Statistical%20Models%20&%20Statistical%20Inference/Regression%20(Correlation)%20Analysis/Regression%20(Correlation)%20Analysis.md)
 
 
 

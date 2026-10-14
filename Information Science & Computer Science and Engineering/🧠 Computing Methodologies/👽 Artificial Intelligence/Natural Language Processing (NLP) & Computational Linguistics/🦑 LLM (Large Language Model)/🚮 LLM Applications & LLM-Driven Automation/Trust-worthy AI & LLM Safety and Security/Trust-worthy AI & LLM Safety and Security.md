@@ -36,6 +36,13 @@ Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply C
 
 
 ### Other Resources
+https://github.com/morluto/rea
+REA: Reverse Engineer Anything
+One MCP for reverse engineering across binaries, applications, and runtime behavior.
+
+https://github.com/wuyoscar/Internal-Safety-Collapse
+[Neruips 2026] We built an adversarial codespace setup. Place any AI agent into a normal workflow inside it, and the agent will fill in whatever is missing.
+
 https://www.anthropic.com/threat-intelligence-report-september-2026
 Detecting and countering misuse of AI: September 2026
 - Cyber operations | [Read more](https://www.anthropic.com/threat-intelligence-report-september-2026#cyber-operations-sep-26)

@@ -159,16 +159,31 @@ Loss functions and training objectives
 > [!links]
 > ↗ [Norm (Vector Space)](../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Vector%20&%20Vector%20Space%20(Linear%20Space)/Norm%20(Vector%20Space).md)
 
+MAE /L1: $\mathcal L=\frac1N\sum_i\lVert y_i-\hat y_i\rVert_1$
+
+MSE /L2: $\mathcal L=\frac1N\sum_i(y_i-\hat y_i)^2$
 ##### Maximal Likelihood & Negative Log-Likelihood (NLL)
+> [!links]
+> ↗ [Point Estimation](../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistical%20Models%20&%20Statistical%20Inference/📌%20Estimation%20Theory%20(Parametric%20Estimation)/Point%20Estimation.md)
+
 $\mathcal L=-\sum_i\log p_\theta(y_i\mid x_i)$
-
 ##### KL (Kullback-Leibler) Divergence
-$D_{\mathrm{KL}}(P\parallel Q)=\sum_xP(x)\log\frac{P(x)}{Q(x)}$
+> [!links]
+> ↗ [Information Theory](../../../../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 
+> 🤖 GPT-6.1 Sol
+> https://chatgpt.com/share/6ace2bdd-05a0-83ec-8ecc-c4ab93fd08dd
+
+$D_{\mathrm{KL}}(P\parallel Q)=\sum_xP(x)\log\frac{P(x)}{Q(x)}$
 ##### Cross Entropy (CE) & Softmax CE
+> [!links]
+> ↗ [Information Theory](../../../../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
+
+> 🤖 GPT-6.1 Sol
+> https://chatgpt.com/share/6ace2bdd-05a0-83ec-8ecc-c4ab93fd08dd
+
 CE = Entropy + KL
 $H(P,Q)=H(P)+D_{KL}(P\parallel Q)$
-
 #### Ranking and Metric
 
 | Subcategory           | Loss or objective                       | Year | Canonical form (schematic)                                                                                 | What it contributes / important caveat                                                  | Original or milestone literature                                                                                      |

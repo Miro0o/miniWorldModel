@@ -105,11 +105,16 @@ Appendices
 
 
 ## Intro
+### AL Compilers for Traditional ML /DL
 > [!links]
 > ↗ [AI (Data) Infrastructure & Techniques Stack](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
-> ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md) ⭐
-> 
-> ↗ [Transformers](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md) ⭐
+
+
+### AI Compilers for LLM
+> [!links]
+> ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
+> ↗ [Transformers](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> ↗ [Attention & Efficient Operator Implementation](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
 
 > 🤖 GPT 6.0 Astra
 > https://chatgpt.com/share/6ac25911-13a4-83ec-a4d5-c5ec05ce7e64
@@ -156,9 +161,7 @@ Appendices
    algorithm？
    scheduling？
    hardware-specific mapping？
-
-
-### Map: LLM Inference & AI Compilation
+#### Map: LLM Inference /Serving & AI Compilation
 > [!links]
 > ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
 
@@ -446,11 +449,8 @@ pipeline stages
 ```
 
 最后生成具体 kernel。
-
 三层不是完全分开的，但这个模型很有用。
-
-
-### LLM Inference Workload
+#### LLM Inference Workload ⭐
 > [!links]
 > ↗ [Transformers](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 > 
@@ -617,8 +617,80 @@ prefill 更 compute-bound
 > ↗ [Tensorflow](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/Hybrid%20Languages%20&%20Cross%20Platforms/📌%20Tensorflow/Tensorflow.md)
 
 > 🤖 GPT6.0 Astra
-> https://chatgpt.com/share/6ac25911-13a4-83ec-a4d5-c5ec05ce7e64
+> https://chatgpt.com/share/6acf2ea8-81a0-83ec-95d5-71a281e2bbe1
 
+我认为这是你目前最应该记住的一张图：
+
+```
+             LLM mathematical workload
+        RMSNorm / Attention / MLP / MoE
+                       │
+                       ▼
+              Tensor operators
+      matmul / reduce / softmax / add...
+                       │
+                       ▼
+             Computation Graph
+                       │
+                       ▼
+┌──────────────────────────────────────────┐
+│          Tensor / Graph Compiler         │
+│                                          │
+│ capture                                  │
+│ decomposition                            │
+│ canonicalization                         │
+│ pattern recognition                      │
+│ fusion                                   │
+│ layout                                   │
+│ shape specialization                     │
+│ memory planning                          │
+│ kernel selection                         │
+│ scheduling                               │
+└────────────────────┬─────────────────────┘
+                     │
+       ┌─────────────┼─────────────┐
+       │             │             │
+       ▼             ▼             ▼
+ generate kernel   library       specialized
+                   kernel          kernel
+
+ Inductor→Triton   cuBLASLt       FlashAttention
+                   cuDNN          FlashInfer
+                                  custom CUDA
+       │             │             │
+       └─────────────┼─────────────┘
+                     ▼
+               Kernel Graph
+                     │
+                     ▼
+┌──────────────────────────────────────────┐
+│             Kernel Compiler              │
+│                                          │
+│ tiling                                   │
+│ thread/warp/block mapping                │
+│ memory mapping                           │
+│ pipelining                               │
+│ instruction selection                    │
+│                                          │
+│ Triton compiler / LLVM / NVVM            │
+└────────────────────┬─────────────────────┘
+                     │
+                     ▼
+                PTX / cubin
+                     │
+                     ▼
+              CUDA Runtime
+                     │
+                     ▼
+                   GPU
+```
+
+这张图里：
+**上半部分**是你现在问的 `tensor compilation / computation graph`。
+**中间**就是你说的 `GPU 算子/kernel`。
+**下面**才逐渐进入 GPU compiler backend 和硬件。
+
+---
 以把这一层展开成：
 ```
               Model / PyTorch Program
