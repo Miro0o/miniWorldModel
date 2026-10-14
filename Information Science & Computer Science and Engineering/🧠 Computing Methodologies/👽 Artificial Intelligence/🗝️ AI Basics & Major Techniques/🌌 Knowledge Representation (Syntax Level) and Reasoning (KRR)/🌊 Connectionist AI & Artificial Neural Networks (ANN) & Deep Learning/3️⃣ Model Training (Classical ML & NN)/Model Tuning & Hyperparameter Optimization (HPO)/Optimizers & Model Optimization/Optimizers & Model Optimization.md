@@ -245,8 +245,15 @@ Optimal Learning Rate is Architecture-dependent:
 > 
 > ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../../Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md) "normalization - RMSNorm"
 
+> [!links]
+> 🔗 maximal update parametrization (µP)
+> https://github.com/microsoft/mup
+> 
+> [arxiv.org/abs/2203.03466](https://arxiv.org/abs/2203.03466)
+ >📄 Yang, Ge, et al. "Tuning large neural networks via zero-shot hyperparameter transfer." _Advances in Neural Information Processing Systems_ 34 (2021): 17084-17097.
+ 
 > [!TIP] 🤖 GPT 6.0 Astra
-> https://chatgpt.com/share/6ac646c9-21c8-83ec-a729-c7b2505c6c2c
+> https://chatgpt.com/share/6ac646c9-21c8-83ec-a729-c7b2505c6c2c (lec4 optimization)
 > 
 > Probabilistic perspective:
 > ... tbd
@@ -265,10 +272,6 @@ Optimal Learning Rate is Architecture-dependent:
 > - 对于 $\|\Delta W\|_2$ 同理
 > 	- non-vanishing learning: $\operatorname{RMS}(\Delta Wx)=O(1)$
 
- >📄 Yang, Ge, et al. "Tuning large neural networks via zero-shot hyperparameter transfer." _Advances in Neural Information Processing Systems_ 34 (2021): 17084-17097.
-
-
----
 **Motivation**: 
 - Stable optimum hyperparameters across scale (μTransfer)
 - Improved loss at large scale due to improved hyperparameter tuning

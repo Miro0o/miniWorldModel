@@ -161,7 +161,7 @@ Computation behind attention:
 ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020260404213907.png)
 
 
-##### Masked Attention
+##### Masked Attention & Causal Attention
 > 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Masked_attention
 
 
@@ -263,13 +263,39 @@ DeepSeek 的一套 Attention 实现可以同时具有 MLA 的 KV 压缩、DSA �
 
 
 ## Sparse Attention
+> [!links]
+> From Dense Attention to Sparse Attention
+> ↗ [MoE (Mixture of Experts) Architecture](../Transformer%20Architecture%20Design/MoE%20%28Mixture%20of%20Experts%29%20Architecture.md)
+
+> 🤖 GPT 6.1 Sol
+> https://chatgpt.com/share/6ace59a4-16f0-83ec-91ba-bcb18bbb172b (lec9)
+
+
+Sliding Window Attention
+
+
+Retained Attention Mass
+
+
+Fixed selection
+- Fixed attention
+	- Longformer
+	- BigBird
+- Strided attention
+Dynamic selection
+- Top-K Selection
+- LSH（Locality-Sensitive Hashing）
+- Cluster-based Routing
+
+
+
 ### StreamingLLM
 
 
-### MInference
+### MInference /FlexPrefill
 
 
-### NSA
+### NSA (Native Sparse Attention）
 
 
 ### DSA (DeepSeek Sparse Attention)
@@ -286,6 +312,18 @@ DeepSeek 的一套 Attention 实现可以同时具有 MLA 的 KV 压缩、DSA �
 
 
 ## Linear Attention
+> [!links]
+> ↗ [RNN (Recurrent Neural Network)](../../RNN%20%28Recurrent%20Neural%20Network%29/RNN%20%28Recurrent%20Neural%20Network%29.md)
+> ↗ [GRU (Gated Recurrent Units)](../../RNN%20%28Recurrent%20Neural%20Network%29/RNN%20Architecture%20Design/GRU%20%28Gated%20Recurrent%20Units%29.md)
+> 
+> ↗ [SSM (State-Space Model)](../../RNN%20%28Recurrent%20Neural%20Network%29/SSM%20%28State-Space%20Model%29/SSM%20%28State-Space%20Model%29.md)
+> ↗ [S4 (Structured State Space Sequence)](../../RNN%20%28Recurrent%20Neural%20Network%29/SSM%20%28State-Space%20Model%29/S4%20%28Structured%20State%20Space%20Sequence%29.md)
+> ↗ [Mamba](../../RNN%20%28Recurrent%20Neural%20Network%29/SSM%20%28State-Space%20Model%29/Mamba.md)
+
+> 🤖 GPT 6.1 Sol
+> https://chatgpt.com/share/6ace59a4-16f0-83ec-91ba-bcb18bbb172b (lec9)
+
+
 ### DeltaNet /Gated DeltaNet
 
 

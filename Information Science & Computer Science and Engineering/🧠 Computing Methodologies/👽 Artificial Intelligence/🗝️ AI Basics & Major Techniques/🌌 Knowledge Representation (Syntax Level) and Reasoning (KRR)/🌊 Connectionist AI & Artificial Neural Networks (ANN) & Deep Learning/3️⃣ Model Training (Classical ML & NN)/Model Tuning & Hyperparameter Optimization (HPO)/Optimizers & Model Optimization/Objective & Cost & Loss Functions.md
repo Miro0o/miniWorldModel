@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+↗ [Information Theory](../../../../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
+↗ [Representation (Feature) Learning](../../../../../Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Representation%20%28Feature%29%20Learning.md)
+
 ↗ [Regularizers & Dropouts](Regularizers%20&%20Dropouts.md)
 
 
@@ -14,6 +17,43 @@
 
 
 ## Intro
+> [!TIP] 🤖 GPT 6.0 Astra
+> https://chatgpt.com/share/6ace2bdd-05a0-83ec-8ecc-c4ab93fd08dd
+> 
+> ↗ [Information Theory](../../../../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
+> 
+> ---
+> 
+> 从 Cross-Entropy 到 VAE、Information Bottleneck：深度学习中的信息论
+> 
+> 这五个概念其实不是相互独立的。它们有一条非常清晰的数学主线： $\boxed{ \text{Entropy} \rightarrow \text{KL Divergence} \rightarrow \text{Variational Inference} \rightarrow \text{VAE} }$
+> 
+> 另一条主线是：$\boxed{ \text{Mutual Information} \rightarrow \text{Information Bottleneck} \rightarrow \text{Representation Learning} }$
+> 
+> 两条主线最终会交汇：我们既希望神经网络学到有用的信息，又需要设计一个能够通过 Gradient Descent 和 Backpropagation 实际优化的目标函数。
+> 
+> ...
+>
+> 到现在你应该已经发现，这些方法背后存在同一个基本模式：
+> $\boxed{ \text{定义概率模型} \rightarrow \text{构造可计算的 Loss} \rightarrow \text{通过 Backpropagation 优化参数} }$
+> 
+> 但是每种方法选择优化的对象不同。
+> 
+> 
+> | 概念                      | 核心问题                      | 主要数学工具                  |
+> | ----------------------- | ------------------------- | ----------------------- |
+> | Cross-Entropy           | 如何让预测符合真实标签？              | Negative Log-Likelihood |
+> | KL Divergence           | 如何让两个概率分布接近？              | $D_{\mathrm{KL}}(P\\Q)$ |
+> | Variational Inference   | 如何近似难以计算的后验分布？            | $ELBO$                  |
+> | VAE                     | 如何学习能生成数据的潜变量模型？          | Reconstruction + KL     |
+> | Information Bottleneck  | 什么信息值得 Representation 保留？ | $I(X;Z)$、$I(Z;Y)$       |
+> | Representation Learning | 如何学习对任务有用的内部特征？           | 多种训练目标与约束               |
+>
+> ....
+> 
+> 因此，我们可以把几者的关系进一步概括成：$\boxed{ \underbrace{\text{Information Theory}}_{\text{定义信息和约束}} + \underbrace{\text{Probability Theory}}_{\text{构造概率模型}} + \underbrace{\text{Optimization}}_{\text{寻找最优参数}} + \underbrace{\text{Neural Networks}}_{\text{提供函数表达能力}} }$
+> 
+> 最终得到现代深度学习中的大量方法。
 
 
 
@@ -115,6 +155,20 @@ Loss functions and training objectives
 | Imbalanced classification | **Focal loss**                                         |  2017 | $\mathcal L=-\alpha_t(1-p_t)^\gamma\log p_t$                                                          | Downweights easy examples; central to dense detection and useful for imbalance.                            | [Lin et al. (2017)](https://arxiv.org/abs/1708.02002)                               |
 | Imbalanced classification | **Class-balanced loss weighting**                      |  2019 | $w_y=(1-\beta)/(1-\beta^{n_y}),\quad\mathcal L=w_y\ell$                                               | Effective-number weighting applicable to CE or focal loss; it is a weighting scheme.                       | [Cui et al. (2019)](https://arxiv.org/abs/1901.05555)                               |
 | Multi-label imbalance     | **Asymmetric loss**                                    |  2021 | $-y(1-p)^{\gamma_+}\log p-(1-y)p_m^{\gamma_-}\log(1-p_m)$                                             | Uses asymmetric focusing and negative-probability shifting for multi-label imbalance.                      | [Ridnik et al. (2021)](https://arxiv.org/abs/2009.14119)                            |
+##### MAE /L1 & MSE /L2
+> [!links]
+> ↗ [Norm (Vector Space)](../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29/Vector%20&%20Vector%20Space%20%28Linear%20Space%29/Norm%20%28Vector%20Space%29.md)
+
+##### Maximal Likelihood & Negative Log-Likelihood (NLL)
+$\mathcal L=-\sum_i\log p_\theta(y_i\mid x_i)$
+
+##### KL (Kullback-Leibler) Divergence
+$D_{\mathrm{KL}}(P\parallel Q)=\sum_xP(x)\log\frac{P(x)}{Q(x)}$
+
+##### Cross Entropy (CE) & Softmax CE
+CE = Entropy + KL
+$H(P,Q)=H(P)+D_{KL}(P\parallel Q)$
+
 #### Ranking and Metric
 
 | Subcategory           | Loss or objective                       | Year | Canonical form (schematic)                                                                                 | What it contributes / important caveat                                                  | Original or milestone literature                                                                                      |
@@ -214,6 +268,16 @@ Loss functions and training objectives
 | Image-text contrast   | **SigLIP sigmoid loss**                     | 2023 | $-\sum_{ij}\log\sigma(z_{ij}[-t e^{\tau}x_i^\top y_j+b])$                             | Independent pairwise sigmoid classification; removes global softmax normalization.                 | [Zhai et al. (2023)](https://arxiv.org/abs/2303.15343)       |
 | Generative            | **Visual instruction / captioning NLL**     | 2023 | $-\sum_t\log p_\theta(y_t\mid y_{<t},\text{image},x)$                                 | Standard conditional token NLL applied to multimodal instruction following; not a new loss family. | [Liu et al., LLaVA (2023)](https://arxiv.org/abs/2304.08485) |
 #### LLM Alignment and Reasoning
+> [!links]
+> ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../../../../Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making.md)
+> 
+> ↗ [Post-Training & Fine Tuning](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
+> ↗ [Instruction Tuning](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/Instruction%20Tuning.md)
+> ↗ [LLM Adaptation & Alignment Tuning](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
+> 
+> ↗ [RLFT (Reinforcement Learning Fine Tuning)](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20%28Reinforcement%20Learning%20Fine%20Tuning%29/RLFT%20%28Reinforcement%20Learning%20Fine%20Tuning%29.md)
+> ↗ [SFT (Supervised Fine Tuning)](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/SFT%20%28Supervised%20Fine%20Tuning%29/SFT%20%28Supervised%20Fine%20Tuning%29.md)
+
 
 | Subcategory             | Loss or objective                                                  |      Year | Canonical form (schematic)                                                                                                         | What it contributes / important caveat                                                                                | Original or milestone literature                                     |
 | ----------------------- | ------------------------------------------------------------------ | --------: | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |

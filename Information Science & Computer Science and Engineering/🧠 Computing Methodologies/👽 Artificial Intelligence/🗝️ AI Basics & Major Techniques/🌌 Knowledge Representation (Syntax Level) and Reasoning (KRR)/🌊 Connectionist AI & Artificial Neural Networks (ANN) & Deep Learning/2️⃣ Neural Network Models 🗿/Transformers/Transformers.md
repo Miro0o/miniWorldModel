@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md)
-↗ [LLM (Large Language Model)](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20%28Large%20Language%20Model%29.md)
+↗ [LLM (Large Language Model)](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20%28Large%20Language%20Model%29.md) ⭐
 ↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
 - ↗ [OpenAI GPT](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20GPT.md)
 - ↗ [Anthropic Claude](../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Anthropic%20Claude.md)
@@ -455,8 +455,8 @@ https://sebastianraschka.com/llm-architecture-gallery/
 
 #### Arch Design Paradigm
 Dense Decoder vs Sparse Decoder & MoE (Mixture of Experts)
-↗ [MoE (Mixture of Experts) Architecture](Transformer%20Architecture%20Design/Sparse%20&%20Dense%20Decoder%20Architecture/MoE%20%28Mixture%20of%20Experts%29%20Architecture.md)
-↗ [Retrieve-Based Architecture](Transformer%20Architecture%20Design/Retrieve-Based%20Architecture/Retrieve-Based%20Architecture.md)
+↗ [MoE (Mixture of Experts) Architecture](Transformer%20Architecture%20Design/MoE%20%28Mixture%20of%20Experts%29%20Architecture.md)
+↗ [Retrieve-Based Architecture](Transformer%20Architecture%20Design/Retrieve-Based%20Architecture.md)
 
 #### Residual Connections
 ↗ [Residual Connections](Transformer%20Components%20Design/Residual%20Connections.md)

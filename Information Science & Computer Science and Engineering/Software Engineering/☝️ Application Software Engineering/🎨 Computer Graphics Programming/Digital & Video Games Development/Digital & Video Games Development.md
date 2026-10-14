@@ -66,6 +66,7 @@ A video game genre is a specific category of games related by similar gameplay c
 
 Genres may encompass a wide variety of games, leading to even more specific classifications called subgenres. For example, an action game can be classified into many subgenres such as platform games and fighting games. Some games, most notably browser and mobile games, are commonly classified into multiple genres.[1][2]
 
+
 ### Game Dev Basics
 > 🤖 GPT 6.0 Astra
 > https://chatgpt.com/share/6ac38fde-f864-83ec-88f5-192a634f2373

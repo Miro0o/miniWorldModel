@@ -15,6 +15,9 @@
 - ↗ [Pointer Analysis & Alias Analysis](../../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/Memory%20&%20Heap%20Analysis/Pointer%20Analysis%20&%20Alias%20Analysis/Pointer%20Analysis%20&%20Alias%20Analysis.md)
 
 
+### Other Resources
+
+
 
 ## Intro
 
