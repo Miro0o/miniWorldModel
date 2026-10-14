@@ -11,6 +11,8 @@
 
 ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 
+↗ [Data Science](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/Data%20Science.md)
+
 
 ### Other Resources
 

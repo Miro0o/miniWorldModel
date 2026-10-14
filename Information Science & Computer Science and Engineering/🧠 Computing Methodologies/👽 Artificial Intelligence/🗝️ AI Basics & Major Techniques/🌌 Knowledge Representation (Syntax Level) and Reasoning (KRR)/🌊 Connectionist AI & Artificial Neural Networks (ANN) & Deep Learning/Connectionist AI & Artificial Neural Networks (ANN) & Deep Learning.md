@@ -342,8 +342,12 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > ↗ [Objective & Cost & Loss Functions](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Objective%20&%20Cost%20&%20Loss%20Functions.md)
 
 A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
-#### Optimization: Gradient Descent & Back-propagation ⭐ ⭐
+#### Optimization: Gradient Descent & Back-propagation (and Beyond)⭐ ⭐
 > [!links]
+> ↗ [Information Theory](../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
+> 
+> ---
+> 
 > ↗ [Differential Calculus & Derivative of Function](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 > ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
 > 
@@ -351,6 +355,7 @@ A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $
 > <small>Example training process for neural networks supervised learning. <br> <a>https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa</a></small>
 > 
 > ↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md) ⭐
+> ↗ [Objective & Cost & Loss Functions](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Objective%20&%20Cost%20&%20Loss%20Functions.md)
 > 
 > ↗ [First-Order & Gradient Methods](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md)
 
@@ -369,6 +374,134 @@ A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $
 > - jupyter notebooks I built in this video: [https://github.com/karpathy/nn-zero-t...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFxeGdRcGVWdXhjLV9RbHQyZm94djdLYm4tUXxBQ3Jtc0tuS1JKOFBIcTRadWtVY1BBZFUtY3d6U09iZ29FcjR4R2c2MzgtSlRjZWlnOEkxUFUtVUlZaTNXSkFRUXJSaXBxNkVER3NSbTMzbG9iQnBuckl5WWNWU1hOUTdwSGtuNmNLbUhUNWg1c1dWanpCYkZNUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fnn-zero-to-hero%2Ftree%2Fmaster%2Flectures%2Fmicrograd&v=VMj-3S1tku0)
 > - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
 
+> 🤖 GPT 6.1 Sol
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[
+    section/.style={
+        draw=gray,
+        line width=0.9pt,
+        rounded corners=3pt,
+        align=center,
+        text width=4.4cm,
+        minimum height=2.65cm,
+        inner sep=6pt
+    },
+    stage/.style={
+        draw=gray,
+        line width=0.9pt,
+        rounded corners=3pt,
+        align=center,
+        text width=5.1cm,
+        minimum height=1.2cm,
+        inner sep=6pt
+    },
+    theory/.style={
+        draw=gray,
+        line width=0.9pt,
+        rounded corners=3pt,
+        align=center,
+        text width=4.4cm,
+        minimum height=1.7cm,
+        inner sep=6pt
+    },
+    connector/.style={
+        ->,
+        draw=gray,
+        line width=1.0pt
+    }
+]
+
+% Title
+\node[font=\large\bfseries] at (0,6.0) {
+    Learning Framework
+};
+
+% Learning Goals
+\node[section] (goals) at (-3.1,4.5) {};
+
+\node[align=center] at (-3.1,4.88) {
+    \textbf{Learning Goals}\\[4pt]
+    {\footnotesize Learning outcomes and}\\
+    {\footnotesize evaluation criteria}
+};
+
+% Representation Learning
+\node[
+    draw=gray,
+    line width=0.7pt,
+    rounded corners=2pt,
+    align=center,
+    minimum width=3.65cm,
+    minimum height=0.53cm,
+    font=\small
+] at (-3.1,3.78) {
+    Representation Learning
+};
+
+% Model / Architecture
+\node[section] (model) at (3.1,4.5) {
+    \textbf{Model / Architecture}\\[6pt]
+    {\footnotesize Hypothesis space}\\
+    {\footnotesize and parameterization}
+};
+
+% Training Objective
+\node[stage] (objective) at (0,2.05) {
+    \textbf{Training Objective}\\[5pt]
+    $\mathcal{L}(\theta;\mathcal{D})$
+};
+
+% Optimization
+\node[stage] (optimization) at (0,0.24) {
+    \textbf{Optimization}\\[5pt]
+    $\theta^\star\in
+    \arg\min_{\theta\in\Theta}
+    \mathcal{L}(\theta;\mathcal{D})$
+};
+
+% Main workflow
+\draw[connector]
+    (goals.south) -- (objective.north west);
+
+\draw[connector]
+    (model.south) -- (objective.north east);
+
+\draw[connector]
+    (objective.south) -- (optimization.north);
+
+% Theoretical Foundations
+\draw[
+    gray,
+    dashed,
+    line width=0.8pt
+] (-5.7,-0.83) -- (5.7,-0.83);
+
+\node[font=\bfseries] at (0,-1.30) {
+    Cross-Cutting Theoretical Foundations
+};
+
+% Probability Theory
+\node[theory] at (-3.1,-2.65) {
+    \textbf{Probability Theory}\\[5pt]
+    {\footnotesize Randomness and distributions}\\[2pt]
+    {\footnotesize Conditional dependence}\\[2pt]
+    {\footnotesize Probabilistic inference}
+};
+
+% Information Theory
+\node[theory] at (3.1,-2.65) {
+    \textbf{Information Theory}\\[5pt]
+    {\footnotesize Uncertainty and information}\\[2pt]
+    {\footnotesize Statistical dependence}\\[2pt]
+    {\footnotesize Capacity and constraints}
+};
+
+\end{tikzpicture}
+\end{document}
+```
+
 > 🤖 GPT polished
 
 In DL, a useful view is to treat a neural network as a **parameterized function**, built from simpler computations:
@@ -386,9 +519,11 @@ For the neural net:
 
 Define the target ("ground truth") as $y$, and a scalar **loss function** $\ell(\hat{y}, y)$ that measures how undesirable the prediction is relative to the target. For one example, write $L(\theta; x,y) = \ell(f_{\theta}(x), y)$ to make its dependence on the parameters explicit.
 - The objective depends on the task and learning setting:
-	- supervised learning: use input-target pairs, e.g. classification or regression losses.
-	- unsupervised learning: use **objectives** such as reconstruction or likelihood; an external ground-truth label $y$ is not generally required.
-	- reinforcement learning: typically maximize **expected return**, often using surrogate losses for policy and value learning; it does not generally reduce to comparing every prediction with a fixed ground-truth label.
+	- **supervised learning**: use input-target pairs, e.g. classification or regression losses.
+	- **unsupervised learning**: use **objectives** such as reconstruction or likelihood; an external ground-truth label $y$ is not generally required.
+	- **reinforcement learning**: typically maximize **expected return**, often using surrogate losses for policy and value learning; it does not generally reduce to comparing every prediction with a fixed ground-truth label.
+- 1️⃣ This is the ↗ [Representation (Feature) Learning](../../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Representation%20(Feature)%20Learning.md) problem --  to determine what exactly the learning objective is & what is the good representation of that objective?
+	- ↗ [Objective & Cost & Loss Functions](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Objective%20&%20Cost%20&%20Loss%20Functions.md)
 
 Using supervised learning as the running example, the ideal goal is to minimize the **population risk** over the target data distribution $\mathcal{P}$:
 $$
@@ -410,9 +545,10 @@ $$
 	- tabular & structured modeling
 	- multimodal modeling
 	- etc.
-- These are <a>neural network architecture design</a> problems. (↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md))
-	- How does information flow in the forward computation?
-	- How do gradients flow through that computation during training?
+- 2️⃣ These are <a>neural network architecture design</a> problems. (↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md))
+	- ⭐️ **How does information flow in the forward computation?**
+	- ⭐️ **How do gradients flow back through that computation during training?**
+	- This is about ↗ [Information Theory](../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md) & ↗ [Representation (Feature) Learning](../../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Representation%20(Feature)%20Learning.md).
 
 For a simple feedforward network with $M$ layers, define:
 $$
@@ -470,7 +606,7 @@ More generally, write $\theta_{t+1} = \theta_t + \eta_t d_t$, where $d_t$ is the
 - choose the learning rate /step size $\eta_t$, possibly using a **Learning Rate (LR) Schedule**.
 - use curvature or other structural information where appropriate.
 - ...
-These are <a>optimization problems</a> (↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md)).
+3️⃣ These are <a>optimization problems</a> (↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md)).
 
 #### Normalization, Scaling, & Standardization
 > 🤖 GPT 6.0

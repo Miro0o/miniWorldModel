@@ -8,8 +8,17 @@
 ### Related Topics
 ↗ [Measures (Measure Theory)](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
 - ↗ [Probability Theory & Statistics](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+- ↗ [Bayesian Statistics & Statistical Analysis](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
 
+↗ [Bayesian Networks (Belief Networks)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Probabilistic%20Graphical%20Models/Bayesian%20Networks%20(Belief%20Networks)/Bayesian%20Networks%20(Belief%20Networks).md)
+
+↗ [Information, Data, Number and Math in Digital Systems](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
+↗ [(Text) Data Representations & Storage in Computer](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
+
+↗ [Cryptology & Secure Communication](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 ↗ [Information Flow & Information Flow Control (IFC)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Information%20Flow%20&%20Information%20Flow%20Control%20(IFC)/Information%20Flow%20&%20Information%20Flow%20Control%20(IFC).md)
+
+↗ [History of Information Systems & Security Systems](../../CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 
 
 ### Learning Resources
@@ -54,12 +63,85 @@ https://iest2.ie.cuhk.edu.hk/~whyeung/post/draft2.pdf
 > [53] R. Calderbank and N. J. A. Sloane, “Obituary: Claude Shannon (1916-2001),” Nature, 410: 768, April 12, 2001.
 > [307] N. J. A. Sloane and A. D. Wyner, Ed., Claude Elwood Shannon Collected Papers, IEEE Press, New York, 1993.
 
+
 Information, Physics, and Computation
 https://web.stanford.edu/~montanar/RESEARCH/book.html
 This is an introduction to a rich and rapidly evolving research field at the interface between statistical physics, theretical computer science, discrete mathematics, and coding information theory. It should be accessible to graduate students and researchers without specific training in any of these three fields.
 
+https://www.inference.org.uk/itprnn/book.pdf
+Information Theory, Inference, and Learning Algorithms
+David J.C. MacKay
+- Preface
+- Introduction to Information Theory
+- Probability, Entropy, and Inference
+- More about Inference
+- Data Compression
+    - The Source Coding Theorem
+    - Symbol Codes
+    - Stream Codes
+    - Codes for Integers
+- Noisy-Channel Coding
+    - Dependent Random Variables
+    - Communication over a Noisy Channel
+    - The Noisy-Channel Coding Theorem
+    - Error-Correcting Codes and Real Channels
+- Further Topics in Information Theory
+    - Hash Codes: Codes for Efficient Information Retrieval
+    - Binary Codes
+    - Very Good Linear Codes Exist
+    - Further Exercises on Information Theory
+    - Message Passing
+    - Communication over Constrained Noiseless Channels
+    - Crosswords and Codebreaking
+    - Why have Sex? Information Acquisition and Evolution
+- Probabilities and Inference
+    - An Example Inference Task: Clustering
+    - Exact Inference by Complete Enumeration
+    - Maximum Likelihood and Clustering
+    - Useful Probability Distributions
+    - Exact Marginalization
+    - Exact Marginalization in Trellises
+    - Exact Marginalization in Graphs
+    - Laplace’s Method
+    - Model Comparison and Occam’s Razor
+    - Monte Carlo Methods
+    - Efficient Monte Carlo Methods
+    - Ising Models
+    - Exact Monte Carlo Sampling
+    - Variational Methods
+    - Independent Component Analysis and Latent Variable Modelling
+    - Random Inference Topics
+    - Decision Theory
+    - Bayesian Inference and Sampling Theory
+- Neural Networks
+    - Introduction to Neural Networks
+    - The Single Neuron as a Classifier
+    - Capacity of a Single Neuron
+    - Learning as Inference
+    - Hopfield Networks
+    - Boltzmann Machines
+    - Supervised Learning in Multilayer Networks
+    - Gaussian Processes
+    - Deconvolution
+- Sparse Graph Codes
+    - Low-Density Parity-Check Codes
+    - Convolutional Codes and Turbo Codes
+    - Repeat–Accumulate Codes
+    - Digital Fountain Codes
+- Appendices
+    - Notation
+    - Some Physics
+    - Some Mathematics
+- Bibliography
+- Index
+![](../../../Assets/Pics/Screenshot%202026-10-13%20at%2017.07.59.png)
+
 
 ### Other Resource
+https://ieeexplore.ieee.org/abstract/document/6773024?casa_token=YPMQ0SLSgWkAAAAA:QEFmdqih9gIY6SVdaxEQZ5gmdv1cYoJ3oskJFka8Qt62VsZSa4YP3IVbPxR3Oc49rIJ3BjtM
+C. E. Shannon, "A mathematical theory of communication," in The Bell System Technical Journal, vol. 27, no. 3, pp. 379-423, July 1948, doi: 10.1002/j.1538-7305.1948.tb01338.x.
+
+👍 https://henrypinkard.github.io/blog/visual-info-theory/
 📄 https://arxiv.org/pdf/2206.07867
 A visual introduction to information theory 
 Henry Pinkard, and Laura Waller
@@ -76,6 +158,17 @@ Stanford University
 > [!quote]
 > Information & AI and Machine Learning
 > https://chatgpt.com/share/69712203-8028-800f-8e3f-4d56ba7e49bf
+> 
+> https://chatgpt.com/share/6ace2bdd-05a0-83ec-8ecc-c4ab93fd08dd
+> 把整篇论文浓缩成五个核心公式
+> 
+> |核心概念|数学公式|回答的问题|
+> |---|---|---|
+> |Information|$-\log_2 p(x)$|一个具体结果有多令人意外？|
+> |Entropy|$H(X)=\mathbb E[-\log_2p(X)]$|一个变量平均有多不确定？|
+> |Mutual Information|$I(X;Y)=H(X)-H(X\mid Y)$|一个变量提供了多少关于另一个变量的信息？|
+> |Rate-Distortion|$R(D)=\min I(X;\hat X)$（满足失真约束）|允许一定误差后，数据最少需要多少信息？|
+> |Channel Capacity|$C=\max_{p_X}I(X;Y)$|一个带噪信道最多能可靠传输多少信息？|
 
 
 

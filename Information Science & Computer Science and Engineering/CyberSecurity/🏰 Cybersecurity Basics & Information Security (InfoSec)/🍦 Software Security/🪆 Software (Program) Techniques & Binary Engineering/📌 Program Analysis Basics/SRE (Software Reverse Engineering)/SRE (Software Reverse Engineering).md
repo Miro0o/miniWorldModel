@@ -19,6 +19,12 @@
 ↗ [Anti-Reverse Engineering & Software Protection](../../Anti-Reverse%20Engineering%20&%20Software%20Protection/Anti-Reverse%20Engineering%20&%20Software%20Protection.md)
 
 
+### Other Resources
+https://github.com/morluto/rea
+REA: Reverse Engineer Anything
+One MCP for reverse engineering across binaries, applications, and runtime behavior.
+
+
 
 ## Intro
 
@@ -42,4 +48,3 @@
 反编译的精度取决于反编译工具的算法和实现，以及原始程序的结构和逻辑。一些特定的结构和逻辑可能无法被正确地反编译出来。反汇编的精度取决于反汇编工具的算法和实现，以及汇编代码的结构和逻辑。反汇编的精度通常比反编译高一些，因为汇编代码更加直观和可读。
 
 总之，反编译和反汇编的主要区别在于它们生成的代码类型以及处理的对象。反编译生成高级编程语言的源代码，易于理解，但可能丢失一些底层细节；反汇编生成汇编语言代码，分析难度较大，但提供了更详细的信息。
-
