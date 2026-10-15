@@ -35,7 +35,6 @@ Randal E. Bryant. Graph-based algorithms for boolean function manipulation. IEEE
 > - Some formulas have exponentially large sizes for all orderings
 >  - Others are polynomial for some ordering and exponential for others
 
-
 > 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
 > Logic and Applications Jussi Rintanen, Department of Computer Science, Aalto University
 

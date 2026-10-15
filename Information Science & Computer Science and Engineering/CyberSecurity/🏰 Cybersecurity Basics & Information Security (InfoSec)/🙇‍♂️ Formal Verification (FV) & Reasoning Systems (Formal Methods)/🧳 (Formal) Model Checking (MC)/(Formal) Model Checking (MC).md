@@ -31,11 +31,11 @@
 ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
 ↗ [Static Code Analysis Tools (SCAT)](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Static%20Code%20Analysis%20Tools%20(SCAT).md)
 - model checkers
-	- ↗ [PRISM](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker/PRISM.md)
-	- ↗ [TLA+](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker/TLA+.md)
-	- ↗ [SPIN](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker/SPIN.md)
-	- ↗ [ESBMC (Efficient SMT-Based Model Checker)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker/ESBMC%20(Efficient%20SMT-Based%20Model%20Checker).md)
-	- ↗ [CBMC (C Bounded Model Checker)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker/CBMC%20(C%20Bounded%20Model%20Checker).md)
+	- ↗ [PRISM](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/PRISM.md)
+	- ↗ [TLA+](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/TLA+.md)
+	- ↗ [SPIN](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/SPIN.md)
+	- ↗ [ESBMC (Efficient SMT-Based Model Checker)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/ESBMC%20(Efficient%20SMT-Based%20Model%20Checker).md)
+	- ↗ [CBMC (C Bounded Model Checker)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/CBMC%20(C%20Bounded%20Model%20Checker).md)
 - theorem solvers (proof assistant)
 	- ↗ [SMT Solving & Algorithms](../🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)
 	- ↗ [SAT Solving & Algorithms](../🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md)
@@ -107,6 +107,140 @@ Model Checking - An Overview
 ## Intro
 > [!links]
 > ↗ [Formal System, Formal Semantics, and Formal Logic](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) "satisfiability"
+>
+> ```tikz
+> \usepackage{amsmath,amssymb}
+> \usetikzlibrary{calc}
+> \begin{document}
+> \begin{tikzpicture}[
+>   scale=0.90, transform shape,
+>   font=\small,
+>   mainbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+>                   minimum width=4.25cm, minimum height=6.55cm, align=center},
+>   consequence/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+>                       minimum width=3.10cm, minimum height=1.25cm, align=center},
+>   logicbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+>                    minimum height=1.05cm, align=center},
+>   arr/.style={->, >=stealth, line width=.6pt},
+>   relation/.style={->, >=stealth, line width=.55pt},
+>   linklabel/.style={font=\scriptsize, inner sep=0pt},
+>   smallnote/.style={font=\scriptsize, align=center}
+> ]
+>
+> % =========================
+> % Added logic layer (outside the original four-box structure)
+> % =========================
+> \node[logicbox, minimum width=4.25cm] (ordinarylogic) at (0,4.95)
+>   {\textbf{Ordinary logic}\\[-1pt]{\scriptsize informal / natural-language reasoning}};
+>
+> \node[logicbox, minimum width=8.95cm] (formallogic) at (11.875,4.95)
+>   {\textbf{Formal logic}\\[-1pt]{\scriptsize formal study of inference and logical consequence}};
+>
+> \draw[arr] (ordinarylogic.east) -- (formallogic.west)
+>   node[midway,above=2.2pt,linklabel] {formalize};
+>
+> % =========================
+> % Original four-column structure — preserved
+> % =========================
+> \node[mainbox] (ordinary) at (0,0) {};
+> \node[mainbox] (axiomatic) at (4.75,0) {};
+> \node[mainbox] (formal) at (9.50,0) {};
+> \node[mainbox] (semantic) at (14.25,0) {};
+>
+> % Titles
+> \node[font=\bfseries\large, align=center, text width=3.7cm] at (0,2.45)
+>   {Ordinary\\mathematical\\activity};
+> \node[font=\bfseries\large, align=center, text width=3.7cm] at (4.75,2.45)
+>   {Axiomatic\\presentation};
+> \node[font=\bfseries\large, align=center, text width=3.7cm] at (9.50,2.55)
+>   {Formal system};
+> \node[font=\bfseries, align=center] at (9.50,2.12)
+>   {syntactic side};
+> \node[font=\bfseries\large, align=center, text width=3.7cm] at (14.25,2.45)
+>   {Model-theoretic\\semantics};
+>
+> % Top row content
+> \node[align=center, text width=3.55cm] (mathlang) at (0,.75)
+>   {Mathematical\\language\\[-1pt]{\scriptsize natural / semi-formal}};
+> \node[align=center, text width=3.55cm] (specified) at (4.75,.75)
+>   {Specified language\\and primitive notions};
+> \node[align=center, text width=3.55cm] (flang) at (9.50,.75)
+>   {Formal language $\mathcal L$};
+> \node[align=center, text width=3.55cm] (models) at (14.25,.75)
+>   {Structures /\\interpretations};
+>
+> % Bottom row content
+> \node[align=center, text width=3.55cm] (reason) at (0,-1.55)
+>   {Reasoning and proof\\[-1pt]{\scriptsize ordinary practice}};
+> \node[align=center, text width=3.55cm] (axioms) at (4.75,-1.55)
+>   {Axioms and accepted\\proof methods};
+> \node[align=center, text width=3.55cm] (calculus) at (9.50,-1.55)
+>   {Formal calculus $S$\\[-1pt]{\scriptsize axioms $+$ inference rules}};
+> \node[align=center, text width=3.55cm] (sat) at (14.25,-1.55)
+>   {Satisfaction relation\\[-1pt]$\mathcal M \models \varphi$};
+>
+> % Original vertical arrows
+> \draw[arr] (mathlang.south) -- (reason.north);
+> \draw[arr] (specified.south) -- (axioms.north);
+> \draw[arr] (flang.south) -- (calculus.north);
+> \draw[arr] (models.south) -- (sat.north);
+>
+> % Original horizontal arrows and labels — restored exactly
+> \draw[arr] (mathlang.east) -- (specified.west)
+>   node[midway,above=2.2pt,linklabel] {systematize};
+> \draw[arr] (reason.east) -- (axioms.west)
+>   node[midway,above=2.2pt,linklabel] {axiomatize};
+> \draw[arr] (specified.east) -- (flang.west)
+>   node[midway,above=2.2pt,linklabel] {formalize};
+> \draw[arr] (axioms.east) -- (calculus.west)
+>   node[midway,above=2.2pt,linklabel] {formalize};
+> \draw[arr] (flang.east) -- (models.west)
+>   node[midway,above=2.2pt,linklabel] {interpret};
+>
+> % =========================
+> % Added relation of logic layer to original diagram
+> % =========================
+> % Ordinary logic informs ordinary mathematical reasoning.
+> \draw[relation,dashed] (ordinarylogic.south) -- ($(ordinary.north)+(0,0.02)$)
+>   node[midway,font=\scriptsize,align=center,text width=2.25cm] {used in mathematical reasoning};
+>
+> % Formal logic spans the proof-theoretic and semantic sides.
+> \draw[gray!70, line width=.55pt] (7.26,3.62) -- (16.49,3.62);
+> \draw[gray!70, line width=.55pt] (7.26,3.62) -- (7.26,3.45);
+> \draw[gray!70, line width=.55pt] (16.49,3.62) -- (16.49,3.45);
+> \node[smallnote, fill=white, inner sep=1pt] at (11.875,3.62)
+>   {proof-theoretic / syntactic side \quad + \quad model-theoretic / semantic side};
+> \draw[relation] (formallogic.south) -- (11.875,3.82);
+>
+> % =========================
+> % Original consequence boxes
+> % =========================
+> \node[consequence] (syncon) at (9.50,-4.33)
+>   {$\Gamma \vdash_{S} \varphi$\\[-1pt]{\scriptsize syntactic consequence}};
+> \node[consequence] (semcon) at (14.25,-4.33)
+>   {$\Gamma \models \varphi$\\[-1pt]{\scriptsize semantic consequence}};
+> \draw[arr] (formal.south) -- (syncon.north);
+> \draw[arr] (semantic.south) -- (semcon.north);
+>
+> % =========================
+> % Added soundness / completeness bridges
+> % Restored to the earlier lower-bridge layout; formulas sit with the arrows.
+> % =========================
+> \draw[arr] (syncon.south) -- (9.50,-5.60) -- (14.25,-5.60) -- (semcon.south);
+> \node[font=\scriptsize,above=2.2pt] at (11.875,-5.60)
+>   {soundness: $\Gamma\vdash_S\varphi \Rightarrow \Gamma\models\varphi$};
+>
+> \draw[arr] (semcon.south) -- (14.25,-6.36) -- (9.50,-6.36) -- (syncon.south);
+> \node[font=\scriptsize,above=2.2pt] at (11.875,-6.36)
+>   {completeness: $\Gamma\models\varphi \Rightarrow \Gamma\vdash_S\varphi$};
+>
+> \node[smallnote] at (11.875,-6.96)
+>   {if both hold: $\Gamma\vdash_S\varphi \iff \Gamma\models\varphi$};
+>
+> \end{tikzpicture}
+> \end{document}
+> ```
+> 
 > ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20(PL)%20-%20(零阶)%20命题逻辑.md) "satisfiability"
 >
 > The SAT problem: does there exist a model $M$ that satisfies $\Phi$? $$\exists M. M\models\Phi ?$$
@@ -239,7 +373,7 @@ Model checking. Model checking originates from the independent work of two pairs
 
 
 
-## 1️⃣ System Modeling
+## 1️⃣ System Modeling (Semantic)
 > [!links]
 > ↗ [Mathematical Modeling & Abstraction](../../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 > ↗ [Theory of Computation](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
@@ -254,64 +388,30 @@ Model checking. Model checking originates from the independent work of two pairs
 
 
 ### (Symbolic) Transition Systems
-↗ [Models of Computation & Abstract Machines](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md#Symbolic%20Transition%20System%20⭐)
+↗ [Models of Computation & Abstract Machines](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md#Symbolic%20Transition%20System%20⭐) "transition system"
 
-
-**Semantics of Transition System**
+Semantics of Transition System
 - execution
 - trace
 - computational tree
 
 
-**Execution**
-An execution fragment is a sequence of transitions.
-$s_0\overset{click}{\to}s_1\overset{click}{\to}s_2...$
-
-An execution is finite/infinite if the sequence is finite/infinite.
-$s_0\overset{click}{\to}s_1 \text{ or }(s_2\overset{click}{\to}s_2)^w$
-
-An execution is initial if the first state of the sequence is in I.
-
-An execution is maximal if it cannot be extended: either it is finite and the last state is a terminal state, or it is infinite.
-
-NOTE: by our assumption of “no terminal state”, only the second case applies.
-NOTE: often, we drop the arrows.
-
-
-**Trace**
-Executions may contain too much information, i.e. actual states.
-Often, one is interested in the **atomic properties** of states.
-Replacing every state in an execution by its atomic properties yields a trace.
-
-We may even drop the transitions and their actions.
-
-
-**Computational Tree**
-Executions and traces can be seen as the system running with a fixed scheduler.
-They are not appropriate if we want to see how the system makes choices.
-Computation trees can save the day!
-
-**A computation tree is a tree whose nodes are states of a TS (or their atomic propositions).**
-
-The successor of each state in the computation tree is the immediate successor of the state as it appears in the TS.
-A computation tree is the unfolding of the transition system.
-
-![](../../../../../../../../Assets/Pics/Screenshot%202025-12-08%20at%2012.19.55.png)
-
-#### Automata-Based Models
-↗ [Automata Theory and (Formal) Language Theory](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-- ↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
-- ↗ [Context-Free Languages (CFL) & Push-Down Automata (PDA)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Free%20Languages%20(CFL)%20&%20Push-Down%20Automata%20(PDA).md)
-- ↗ [Context-Sensitive Languages (CSL) & Linear-Bounded Automata (LBA)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Sensitive%20Languages%20(CSL)%20&%20Linear-Bounded%20Automata%20(LBA).md)
-- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-
-↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-
-
-### (Mathematical) Symbolic Models
+### Mathematical Models & Symbolic Model Checking 🤔
 > [!links]
+> ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
+> 
 > ↗ [Data Structure in Logic Formulas](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
 > ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md)
+> ↗ [PDAG (Propositional Directed Acyclic Graph)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🧶%20Data%20Structure%20in%20Logic%20Formulas/PDAG%20(Propositional%20Directed%20Acyclic%20Graph).md)
+> 
+> ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Theorem%20Provers%20&%20Constraint%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+> ↗ [CBMC (C Bounded Model Checker)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/CBMC%20(C%20Bounded%20Model%20Checker).md)
+
+> [!TIP]
+> $$\boxed{ \text{State Set} \longleftrightarrow \text{Characteristic Function} \longleftrightarrow \text{Boolean Formula} }$$
+> 
+> Pre-image & symbolic backward traversal
+> ↗ [MC Algorithms](MC%20Algorithms/MC%20Algorithms.md)
 
 > 🤖 Google AI Mode
 
@@ -340,6 +440,11 @@ Symbolic models in model checking are a technique that uses mathematical symbol
 > [!links]
 > ↗ [Process Calculi (Process Algebras)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Concurrent%20Computation%20Models/Process%20Calculi%20(Process%20Algebras).md)
 > ↗ [Actor Model & Actor Model Theory](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Concurrent%20Computation%20Models/Actor%20Model%20&%20Actor%20Model%20Theory.md)
+> 
+> ↗ [Concurrency Control](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/Concurrency%20Control.md)
+> ↗ [Concurrent Computing](../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Concurrent%20Computing/Concurrent%20Computing.md)
+> ↗ [Concurrent Programming](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrent%20Programming.md)
+> ↗ [Concurrency Analysis](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Concurrency%20Analysis/Concurrency%20Analysis.md)
 
 > 🤖 Google AI Mode
 
@@ -364,8 +469,8 @@ These models are used to analyze multi-agent systems where multiple independent 
 
 
 
-## 2️⃣ Properties and Property Specialization
-### Logic Languages
+## 2️⃣ Properties and Property Specialization (Syntax)
+### (Modal) Logic Languages
 > foundations for property specialization
 
 ↗ [Classical Logic (Standard Formal Logic)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
@@ -376,13 +481,16 @@ These models are used to analyze multi-agent systems where multiple independent 
 
 ↗ [Modal Logic (模态逻辑)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Modal%20Logic%20(模态逻辑).md)
 - ↗ [Dynamic Logic (DL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Dynamic%20Logic%20(DL)/Dynamic%20Logic%20(DL).md)
-- ↗ [Computation-Tree Logic (CTL*) Family](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
-	- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Linear%20Temporal%20Logic%20(LTL).md)
-	- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
-#### Semantics of Property Language over Transition System
-↗ [Computation-Tree Logic (CTL*) Family](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
-- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Linear%20Temporal%20Logic%20(LTL).md)
-- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+- ↗ [Temporal Logic (时态逻辑)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Temporal%20Logic%20(时态逻辑).md)
+	- ↗ [Computation-Tree Logic (CTL*) Family](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
+		- ↗ [Linear Temporal Logic (LTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Linear%20Temporal%20Logic%20(LTL).md)
+		- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+		- ↗ [Probabilistic CTL (PCTL)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Probabilistic%20CTL%20(PCTL).md)
+
+
+---
+semantic model satisfies syntactic specification
+
 
 We define the satisfaction set of a formula as the set of states that satisfy the formula
 $$sat(ϕ) = {s ∣ s ⊧ ϕ}$$
@@ -394,11 +502,32 @@ A state satisfies a formula if all paths starting from $s$ satisfy the formula
 $$s ⊧ ϕ \iff ∀π ∈ Paths(s) . π ⊧ ϕ$$
 
 
-### Properties
+### Properties 🤔
 > what kinds of properties we have?
 
 Linear-Time Properties
 Regular Properties
+
+---
+Safety:
+- “Nothing bad will happen.”
+- S is a safety property iff every infinite path π violating S has a **finite prefix** π' such that every extension of π' violates S.
+- **Mutual exclusion:** P1 and P2 will _never_ be in their critical regions simultaneously.
+- ![](../../../../../Assets/Pics/Screenshot%202026-10-15%20at%2021.04.01.png)
+
+
+Liveness:
+- “Something good will happen.”
+- L is a liveness property iff every finite path (prefix) π can be extended so that it satisfies L.
+- **Starvation freedom:** whenever P1 is ready to enter its critical section, it will _eventually_ succeed.
+
+Fairness: (cannot be expressed in CTL\*)
+
+| Fairness          | 意义                                   | LTL 描述                            |
+| ----------------- | ------------------------------------ | --------------------------------- |
+| Absolute fairness | \(P\) 必须无限次执行                        | \(GF\,exec\)                      |
+| Strong fairness   | 如果 \(P\) 无限次 ready，则必须无限次执行          | \(GF\,ready\Rightarrow GF\,exec\) |
+| Weak fairness     | 如果 \(P\) 从某一时刻开始始终 ready，则必须持续获得执行机会 | \(FG\,ready\Rightarrow GF\,exec\) |
 
 
 ### Property Specification
@@ -406,13 +535,15 @@ Regular Properties
 
 
 
-## 3️⃣ Model Checking System & SAT Problem
+## 3️⃣ Model Checking Algorithms
 ↗ [Formal System, Formal Semantics, and Formal Logic](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) "satisfiability and SAT problem"
-↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20(PL)%20-%20(零阶)%20命题逻辑.md)
+- The SAT problem: does there exist a model $M$ that satisfies $\Phi$? $$\exists M. M\models\Phi ?$$
+- The model checking problem:  given $M$ and $\Phi$ decide $$M\models\Phi ?$$
+↗ [MC Algorithms](MC%20Algorithms/MC%20Algorithms.md) ⭐
+- choose system model  -> $M$
+- choose logic language -> $\Phi$
+- apply mc algorithm of the logic language on $M$ for $\Phi$
 
-↗ [Complexity Theory & Computational Complexity](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
-
-↗ [MC Algorithms](MC%20Algorithms/MC%20Algorithms.md)
 
 ↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
 - ↗ [Generic & Automated Theorem Provers (ATP)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Theorem%20Provers%20&%20Constraint%20Solvers/Generic%20&%20Automated%20Theorem%20Provers%20(ATP)/Generic%20&%20Automated%20Theorem%20Provers%20(ATP).md)
@@ -491,8 +622,18 @@ Rare events
 
 
 ### States Explosion & Reduction
+↗ [MC Algorithms](MC%20Algorithms/MC%20Algorithms.md)
+
+---
 ↗ [Software Analysis Basics /Program State Space & State Explosion](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Program%20State%20Space%20&%20State%20Explosion)
+↗ [Program Abstraction & Abstract Interpretation](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+
 ↗ [Lattice (Order Theory)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+partial order reduction
+
+symbolic model checking
+
+compositional reasoning
 
 
 

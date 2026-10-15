@@ -11,6 +11,7 @@
 
 
 ### Learning Resources
+https://dl.acm.org/doi/pdf/10.1145/1995376.1995394
 Leonardo de Moura and Nikolaj Bjorner. Satisfiability Modulo Theories: Introduction and Applications. Communications of the ACM, vol. 54, no. 9, 2011.
 gentle introduction
 

@@ -259,13 +259,11 @@ Transition systems can be represented as **directed graphs**.
 
 ### Syntax (Formal Definition) of Transition System
 **Formal Definition of Transition System**
-
 Formally, a **transition system** is a pair $(S,T)$ where $S$ is a set of states and $T$, the _transition relation_, is a subset of $S\times S$. We say that there is a transition from state $p$ to state $q$ if $(p,q)\in T$, and denote it $p\to q$.
 
 A **labelled transition system** is a tuple $(S,\Lambda,T)$ where $S$ is a set of states, $\Lambda$ is a set of labels, and $T$, the _labelled transition relation_, is a subset of $S\times\Lambda\times S$. We say that there is a transition from state $p$ to state $q$ with label $\alpha \iff (p,\alpha ,q)\in T$ and denote it $p\xrightarrow {\alpha } q$.
 
 Labels can represent different things depending on the language of interest. Typical uses of labels include representing input expected, conditions that must be true to trigger the transition, or actions performed during the transition. Labelled transitions systems were originally introduced as _named_ transition systems.
-
 
 **Special cases**
 - If, for any given $p$ and $\alpha$, there exists only a single tuple $(p,α,q)$ in $T$, then one says that $α$ is ==deterministic (for $p$)==.
@@ -279,7 +277,7 @@ In other words, a labelled state transition system is a [coalgebra](https://en.
 In [model checking](https://en.wikipedia.org/wiki/Model_checking "Model checking"), a transition system is sometimes defined to include an additional labeling function for the states as well, resulting in a notion that encompasses that of [Kripke structure](https://en.wikipedia.org/wiki/Kripke_structure "Kripke structure").
 
 
-**Forward and backwards reachability**
+**Forward and backwards reachability** (↗ [(Formal) Model Checking (MC)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md))
 We sometimes need to talk about how states can reach each other.
 The set of direct successors of a state s is defined as $𝑃𝑜𝑠𝑡(𝑠) = {𝑠 ∣ ∃𝛼. 𝑠 𝛼→𝑠′}$
 Similarly, we can define the direct predecessors of a state s as $𝑃𝑟𝑒(𝑠) = {𝑠 ∣ ∃𝛼. 𝑠′ 𝛼→𝑠}$
@@ -289,6 +287,7 @@ The above definitions can be lifted to sets of states A.
 Successors/predecessors in any number of transitions can be defined likewise.
 On a related note, one is typically interested in the part of a transition system that is
 reachable from the initial state(s).
+![](../../../../../Assets/Pics/Screenshot%202026-10-15%20at%2021.04.01.png)
 
 
 **Non-deterministic & Deterministic Transition System**
@@ -307,11 +306,18 @@ We can write this formally in several ways: a state s is terminal iff
 Terminal states usually represent final states (the system finished doing its job)
 …or deadlock states (the system is stuck).
 
+
 **Transition systems with no terminals**
 From now on we consider w.l.o.g. transition systems with no terminal states.
 If you have a terminal state, just add a self-loop.
 If you are interested in marking the state as “terminal” and distinguish it from proper self-loops, just add as special label to it.
 ####  Kripke Structure (of Transition System)
+> [!links]
+> ↗ [(Formal) Model Checking (MC)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
+
+> [!TIP]
+> $\boxed{ \text{Kripke Structure} = \text{Transition System} + \text{Atomic Proposition Labeling} }$
+
 > 🔗 https://en.wikipedia.org/wiki/Kripke_structure_(model_checking)
 
 A **Kripke structure** is a variation of the [transition system](https://en.wikipedia.org/wiki/Transition_system "Transition system"), originally proposed by [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke "Saul Kripke"), used in [model checking](https://en.wikipedia.org/wiki/Model_checking "Model checking") to represent the behavior of a system. It consists of a [graph](https://en.wikipedia.org/wiki/Graph_\(discrete_mathematics\) "Graph (discrete mathematics)") whose nodes represent the reachable states of the system and whose edges represent state transitions, together with a labelling function which maps each node to a set of properties that hold in the corresponding state. [Temporal logics](https://en.wikipedia.org/wiki/Temporal_logic "Temporal logic") are traditionally interpreted in terms of Kripke structures.
@@ -350,7 +356,7 @@ The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions t
 ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
 > [!quote]
-> Transition systems coincide mathematically with [abstract rewriting systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system "Abstract rewriting system") (as explained further in this article) and [directed graphs](https://en.wikipedia.org/wiki/Directed_graph "Directed graph"). They differ from [finite-state automata](https://en.wikipedia.org/wiki/Finite-state_automata "Finite-state automata") in several ways:
+> Transition systems coincide mathematically with [abstract rewriting systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system "Abstract rewriting system") (as explained further in this md note) and [directed graphs](https://en.wikipedia.org/wiki/Directed_graph "Directed graph"). They differ from [finite-state automata](https://en.wikipedia.org/wiki/Finite-state_automata "Finite-state automata") in several ways:
 > - The set of states is not necessarily finite, or even countable.
 > - The set of transitions is not necessarily finite, or even countable.
 > - No "start" state or "final" states are given.
@@ -388,6 +394,9 @@ Replacing every state in an execution by its atomic properties yields a trace.
 
 We may even drop the transitions and their actions.
 #### Computational Tree
+> [!links]
+> ↗ [Computation-Tree Logic (CTL*) Family](../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
+
 Executions and traces can be seen as the system running with a fixed scheduler.
 They are not appropriate if we want to see how the system makes choices.
 Computation trees can save the day!

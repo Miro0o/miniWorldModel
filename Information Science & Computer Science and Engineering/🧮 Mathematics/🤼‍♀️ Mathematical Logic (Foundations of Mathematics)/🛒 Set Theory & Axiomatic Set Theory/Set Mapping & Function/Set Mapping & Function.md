@@ -169,6 +169,10 @@ g f n = case n of
 
 ![|400](../../../../../Assets/Pics/Pasted%20image%2020260121151600.png)
 <small>Fixed point (mathematics) - Wikipedia</small>
+
+> [!TIP]
+> Greatest fixed point vs Least fixed point?
+
 ##### Solving Fixed-point & Fixed-point Combinator (不动点算子/组合子)
 > 🔗 https://thzt.github.io/2017/03/14/recursive-function-7/
 
@@ -270,8 +274,8 @@ fact' = y $ \fact -> \n -> case n of
 
 那么，什么样的 $g$ 才能保证这个集合具有最小上界呢？**序理论**指出，完全偏序集上的序保持自映射具有最小不动点。
 
-为此，我们需要先认识什么是偏序集，什么是连续函数。==使用完全偏序集上的连续函数解释程序中函数的方式，称为 **[域论模型](https://zh.wikipedia.org/wiki/%E5%9F%9F%E7%90%86%E8%AE%BA)** (Domain Theory Model)。
-- ↗ [Domain Theory](../👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Domain%20Theory/Domain%20Theory.md)==
+为此，我们需要先认识什么是偏序集，什么是连续函数。==使用完全偏序集上的连续函数解释程序中函数的方式，称为 **[域论模型](https://zh.wikipedia.org/wiki/%E5%9F%9F%E7%90%86%E8%AE%BA)** (Domain Theory Model)。==
+- ↗ [Domain Theory](../👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Domain%20Theory/Domain%20Theory.md)
 
 ↗ [Partial Order & Order Theory](../👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
 ↗ [Lattice (Order Theory)](../👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
