@@ -172,7 +172,7 @@ Generally speaking, each arrow involves the addition of some new symbols and the
 ↗ [Probabilistic Models (Distributions) & Stochastic Process](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process.md)
 ↗ [Bayesian Statistics & Statistical Analysis](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
 
-🤔 ↗ [Statistics (Data) Analyzing Methods & Statistical Model](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20%28Data%29%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20%28Data%29%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+🤔 ↗ [Statistical Models & Statistical Inference](🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistical%20Models%20&%20Statistical%20Inference/Statistical%20Models%20&%20Statistical%20Inference.md)
 
 
 ### Logics-Based Models & Drift Models

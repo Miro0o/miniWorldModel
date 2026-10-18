@@ -22,6 +22,18 @@
 
 ![](../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2020.13.26.png)
 ![](../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2020.13.36.png)
+
+About Util:
+- strong Util
+- weak Util
+
+| 执行路径                        | \(pUq\) | \(pWq\) |
+| --------------------------- | ------- | ------- |
+| $p,p,q,\ldots$              | True    | True    |
+| $p,p,p,p,\ldots$ 永远只有 \(p\) | False   | True    |
+| $p,\neg p,\neg q,\ldots$    | False   | False   |
+| 当前 $q$ 已成立                  | True    | True    |
+
 #### Minimal Syntax of LTL
 
 

@@ -452,18 +452,14 @@ https://sebastianraschka.com/llm-architecture-gallery/
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020261007132322.png)
 ##### Qwen3.8-Flash-Next (125B-A6B)
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020261007131433.png)
-
 #### Arch Design Paradigm
 Dense Decoder vs Sparse Decoder & MoE (Mixture of Experts)
 ↗ [MoE (Mixture of Experts) Architecture](Transformer%20Architecture%20Design/MoE%20%28Mixture%20of%20Experts%29%20Architecture.md)
 ↗ [Retrieve-Based Architecture](Transformer%20Architecture%20Design/Retrieve-Based%20Architecture.md)
-
 #### Residual Connections
 ↗ [Residual Connections](Transformer%20Components%20Design/Residual%20Connections.md)
-
 #### Normalizations
 ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md) "Normalization, Scaling, & Standardization"
-
 #### Attention Redesign
 ↗ [Attention & Efficient Operator Implementation](Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
 

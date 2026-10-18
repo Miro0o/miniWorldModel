@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Discrete Probability Distribution](../../Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution/Discrete%20Probability%20Distribution/Discrete%20Probability%20Distribution.md)
-↗ [Continuous Probability Distribution](../../Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution/Continuous%20Probability%20Distribution/Continuous%20Probability%20Distribution.md)
+↗ [Discrete Probability Distribution](../../Random%20%28Stochastic%29%20Variable%20&%20Probability%20Distribution/Discrete%20Probability%20Distribution/Discrete%20Probability%20Distribution.md)
+↗ [Continuous Probability Distribution](../../Random%20%28Stochastic%29%20Variable%20&%20Probability%20Distribution/Continuous%20Probability%20Distribution/Continuous%20Probability%20Distribution.md)
 
 
 ### Other Resources

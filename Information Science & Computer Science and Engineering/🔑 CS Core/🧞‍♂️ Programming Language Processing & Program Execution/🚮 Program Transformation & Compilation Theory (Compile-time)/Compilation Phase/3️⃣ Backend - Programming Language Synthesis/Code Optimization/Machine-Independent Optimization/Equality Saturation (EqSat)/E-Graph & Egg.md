@@ -154,18 +154,16 @@ Layer 2 + 一种 Layer 3 策略。
 Layer 2 + Layer 3 的高效基础设施，同时开放 Layer 1 和 Layer 4 给用户。
 ```
 
-
-
 cost model 怎么得到？
 
-|方法|思路|例子|
-|---|---|---|
-|手工 cost|人定义每个 operator 的成本|AST size、instruction count|
-|analytic model|数学估算 hardware cost|latency、area、memory traffic|
-|profiling|真正在机器上跑|GPU kernel latency|
-|learned cost model|ML 预测性能|tensor compiler、autotuning|
-|solver-based|把全局约束交给 solver|ILP/MILP extraction|
-|multi-objective|同时考虑多个指标|latency + area + energy|
+| 方法                 | 思路                 | 例子                          |
+| ------------------ | ------------------ | --------------------------- |
+| 手工 cost            | 人定义每个 operator 的成本 | AST size、instruction count  |
+| analytic model     | 数学估算 hardware cost | latency、area、memory traffic |
+| profiling          | 真正在机器上跑            | GPU kernel latency          |
+| learned cost model | ML 预测性能            | tensor compiler、autotuning  |
+| solver-based       | 把全局约束交给 solver     | ILP/MILP extraction         |
+| multi-objective    | 同时考虑多个指标           | latency + area + energy     |
 
 
 ### Application of E-Graph & Egg

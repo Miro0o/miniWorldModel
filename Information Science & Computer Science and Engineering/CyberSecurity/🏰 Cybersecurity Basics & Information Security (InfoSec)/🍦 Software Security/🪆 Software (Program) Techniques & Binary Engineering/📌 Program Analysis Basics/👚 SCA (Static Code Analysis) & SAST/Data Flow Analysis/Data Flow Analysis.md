@@ -64,7 +64,7 @@ In the case of [electric fields](https://en.wikipedia.org/wiki/Electric_field "
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.14.29.png)
 
 ↗ [Reaching Definition Analysis](Intra-procedural%20Analysis/Reaching%20Definition%20Analysis.md)
-↗ [Live Variable Analysis](Intra-procedural%20Analysis/Live%20Variable%20Analysis.md)
+↗ [Live-variable (Liveness) Analysis](Intra-procedural%20Analysis/Live-variable%20%28Liveness%29%20Analysis.md)
 ↗ [Available Expressions Analysis](Intra-procedural%20Analysis/Available%20Expressions%20Analysis.md)
 
 

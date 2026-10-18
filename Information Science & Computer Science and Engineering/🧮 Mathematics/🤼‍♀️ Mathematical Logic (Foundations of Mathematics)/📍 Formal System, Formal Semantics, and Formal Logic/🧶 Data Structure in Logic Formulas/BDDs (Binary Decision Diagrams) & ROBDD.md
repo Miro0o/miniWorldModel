@@ -13,7 +13,8 @@
 
 
 ### Learning Resources
-Randal E. Bryant. Graph-based algorithms for boolean function manipulation. IEEE Transactions on Computers, 100 (8), 677-691, 1986
+https://ieeexplore.ieee.org/abstract/document/1676819
+Bryant, "Graph-Based Algorithms for Boolean Function Manipulation," in IEEE Transactions on Computers, vol. C-35, no. 8, pp. 677-691, Aug. 1986, doi: 10.1109/TC.1986.1676819.
 
 
 ### Other Resources
@@ -34,7 +35,6 @@ Randal E. Bryant. Graph-based algorithms for boolean function manipulation. IEEE
 > BDD size depends on the variable ordering
 > - Some formulas have exponentially large sizes for all orderings
 >  - Others are polynomial for some ordering and exponential for others
-
 
 > 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
 > Logic and Applications Jussi Rintanen, Department of Computer Science, Aalto University

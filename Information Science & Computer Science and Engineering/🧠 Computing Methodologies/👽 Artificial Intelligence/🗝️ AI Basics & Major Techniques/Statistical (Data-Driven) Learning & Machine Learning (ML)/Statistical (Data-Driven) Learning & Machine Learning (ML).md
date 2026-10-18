@@ -722,9 +722,9 @@ Hidden variables are important, but they do complicate the learning problem. In 
 
 ## Dimensionality Reduction
 > [!links]
-> ↗ [Statistics (Data) Analyzing Methods & Statistical Model](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20%28Data%29%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20%28Data%29%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+> ↗ [Statistical Models & Statistical Inference](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistical%20Models%20&%20Statistical%20Inference/Statistical%20Models%20&%20Statistical%20Inference.md)
 > ↗ [Dimensionality Reduction (Data Compression)](Unsupervised%20Learning/Dimensionality%20Reduction%20%28Data%20Compression%29/Dimensionality%20Reduction%20%28Data%20Compression%29.md)
-> ↗ [Principal Component Analysis (PCA)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20%28Data%29%20Analyzing%20Methods%20&%20Statistical%20Model/Principal%20Component%20Analysis%20%28PCA%29/Principal%20Component%20Analysis%20%28PCA%29.md)
+> ↗ [Principal Component Analysis (PCA)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistical%20Models%20&%20Statistical%20Inference/Principal%20Component%20Analysis%20%28PCA%29/Principal%20Component%20Analysis%20%28PCA%29.md)
 
 > 🔗 https://probml.github.io/pml-book/toc1.pdf
 > Probabilistic Machine Learning: An Introduction | 20. Dimensionality Reduction

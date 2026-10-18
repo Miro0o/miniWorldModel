@@ -76,6 +76,9 @@ The Z3 distribution also contains the **C**, **.Net** and **OCaml** APIs. T
 
 
 ## Intro
+> [!links]
+> ↗ [First Order Theory (FOT) & Satisfiability Modulo Theories (SMT)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20%28Standard%20Formal%20Logic%29/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First%20Order%20Theory%20%28FOT%29%20&%20Satisfiability%20Modulo%20Theories%20%28SMT%29.md)
+
 > [!Abstract] 🤖 GPT 6.0 Astra
 > https://chatgpt.com/share/6ac79f7b-8098-83ec-b872-fb9aac05d70d
 > 
@@ -108,7 +111,6 @@ Z3 also provides a strategy language that lets users control how the solver atta
 | Floating point                     | `FPSort`                |
 | Algebraic datatypes                | `Datatype`              |
 | Strings / sequences                | `StringSort`, `SeqSort` |
-
 
 #### Function, Array, and Lambda
 > [!Links]

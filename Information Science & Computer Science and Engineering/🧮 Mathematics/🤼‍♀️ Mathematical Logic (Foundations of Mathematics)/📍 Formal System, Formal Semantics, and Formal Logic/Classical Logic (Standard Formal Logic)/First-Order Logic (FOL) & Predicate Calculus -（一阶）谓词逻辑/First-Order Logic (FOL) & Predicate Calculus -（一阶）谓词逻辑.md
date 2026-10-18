@@ -72,6 +72,26 @@ The foundations of first-order logic were developed independently by [Gottlob F
 <small>《离散数学》四川大学计算机学院</small>
 #### Free Variable & Bound Variable
 
+#### Substitution
+**FOL Quantifier Scopes: Safe (Capture-Avoiding) Substitution**
+Example:
+$\underbrace{(\forall x.\ \overbrace{P(\underbrace{x}_{\text{bound}},\underbrace{y}_{\text{free}})}^{\text{scope of }\forall x})}_{\vphantom{X}} \to Q(f(\underbrace{y}_{\text{free}}),\underbrace{x}_{\text{free}})$
+
+Substitution:
+$\sigma : \{x \mapsto g(x), y \mapsto f(x), Q(f(y),x) \mapsto H(x,y)\}$
+1. Rename bound variable using fresh variable $z$:
+   $(\forall z.P(z,y)) \to Q(f(y),x)$
+2. Perform (simultaneous) substitution:
+   $(\forall z.P(z,f(x))) \to H(x,y)$
+
+> **Important:** No free variable becomes bound (i.e., captured) during substitution.
+
+
+**Formula substitution:**
+Let $\sigma$ be the substitution $\{F_1 \mapsto G_1, \ldots, F_n \mapsto G_n\}$
+such that $F_i \equiv G_i$ for $1 \leq i \leq n$.
+If $F\sigma$ is a safe substitution, then $F \equiv F\sigma$.
+
 
 ### Predicate Logic Equivalent & Normal Form
 ![Screenshot 2023-01-02 at 6.04.59 PM](../../../../../../Assets/Pics/Screenshot%202023-01-02%20at%206.04.59%20PM.png)
@@ -91,10 +111,70 @@ The foundations of first-order logic were developed independently by [Gottlob F
 
 
 ## Semantics
+> [!quote] GPT 6.0
+> ↗ [Classical Logic (Standard Formal Logic)](../Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+> 
+> ![](../../../../../../Assets/Pics/ChatGPT%20Image%20Oct%202,%202026,%2008_51_24%20PM.png)
+
+
+As with PL, semantics of a formula is given by an interpretation.
+
+An **interpretation $I : (D_I, \alpha_I)$** consists of:
+- **Domain $D_I$:** a *non-empty* set of values or objects
+	- cardinality $|D_I|$ may be finite (e.g., 52 cards), countably infinite (e.g., integers), or uncountably infinite (e.g., reals)
+- **Assignment $\alpha_I$**
+	- each variable $x$ assigned a value $x_I \in D_I$
+	- each n-ary function $f$ assigned a function value $f_I : D_I^n \to D_I$
+	  (in particular, each constant $a$ is assigned a value $a_I \in D_I$)
+	- each n-ary predicate $p$ assigned a function that maps to Booleans
+	  $p_I : D_I^n \to \{\underline{\text{true}}, \underline{\text{false}}\}$
+	  (in particular, each propositional variable $P$ is assigned a truth value $\underline{\text{true}}$ or $\underline{\text{false}}$)
+
+
+---
+Let $x$ be a variable. An **x-variant of interpretation** $I$ is an interpretation $J : (D_J, \alpha_J)$ such that:
+- $D_I = D_J$
+- $\alpha_I[y] = \alpha_J[y]$ for all symbols $y$ that are not $x$
+
+That is, $I$ and $J$ agree on everything except possibly $x$
+
+Let $I \triangleleft \{x \mapsto v\}$ be the x-variant of $I$ in which $\alpha_{I \triangleleft \{x \mapsto v\}} = v$ for some $v \in D_I$.
+Then we have that
+- $I \models \forall x.F$ iff **for all** $v \in D_I$, $I \triangleleft \{x \mapsto v\} \models F$
+- $I \models \exists x.F$ iff **there exists** $v \in D_I$ such that $I \triangleleft \{x \mapsto v\} \models F$
+
+
+---
+**Structure**
+Let $\Sigma = \langle F, R, ar \rangle$ be a first-order signature.
+A $\Sigma$-structure $M$ consists of:
+- a *non-empty* set $U^M$ (the *domain* or *universe* of $M$)
+- a function $f^M : \underbrace{U^M \times \cdots \times U^M}_{ar(f)\text{ times}} \to U^M$
+  for each function symbol $f \in F$
+
+- a relation $r^M \subseteq \underbrace{U^M \times \cdots \times U^M}_{ar(r)\text{ times}}$
+  for each relation symbol $r \in R$
+
+**Structure Example:**
+The signature for linear integer arithmetic $\Sigma_{LIA}$ is $(+/2, -/1, 0/0, 1/0; </2, =/2)$
+The *standard model* of linear integer arithmetic is the following structure $\mathbb{Z}$ over $\Sigma_{LIA}$:
+- $U^M$ is the set of all integers
+- $+^M$ is integer addition
+- $-^M$ is negation
+- $0^M$ is zero
+- $1^M$ is one
+- $<^M$ is the less-than relation
+- $=^M$ is the equality relation
+Note that the standard model is *not* the only interpretation:
+- $+^M$ could instead be integer multiplication
+- $0^M$ could instead be thirteen
+- $<^M$ could instead be the divisibility relation
+- $U^M$ could instead be the set of real numbers
+- etc.
 
 
 
-## Reasoning in Predicate Logic
+## Reasoning in Frist-Order Logic
 > [!links]
 > ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
@@ -106,6 +186,102 @@ The foundations of first-order logic were developed independently by [Gottlob F
 ### Proof Systems & Inference Rules
 ![Screenshot 2023-01-02 at 6.11.02 PM](../../../../../../Assets/Pics/Screenshot%202023-01-02%20at%206.11.02%20PM.png)
 <small>《离散数学》四川大学计算机学院</small>
+
+
+Inference rules provide a means to reason over statements (e.g., formulas) in a formal language (e.g., FOL): $$\frac{\text{premises}}{\text{conclusions}}$$
+- premises are 0 or more statements
+- conclusion is a single formula
+- an axiom is an inference rule with an empty set of premises
+
+#### Derivations
+A *derivation* is comprised of a number of inference steps, e.g.:
+$\dfrac{\dfrac{\neg\neg P}{P} \qquad \dfrac{\neg R \lor Q}{Q}}{P \land Q}$
+
+This derivation is not *complete* because it has *open branches*:
+- no derivation of $\neg\neg P$ nor of $\neg R \lor Q$
+
+We can *assume* that they hold and use this assumption using the following rules:
+$\overline{[P]} \qquad \dfrac{[P]}{P}$
+##### Assumptions & Axiom
+**Assumptions**
+We can then complete the derivation:
+
+$\dfrac{\dfrac{\dfrac{[\neg\neg P]}{\neg\neg P}}{P} \qquad \dfrac{\dfrac{[\neg R \lor Q]}{\neg R \lor Q}}{Q}}{P \land Q}$
+
+Note: we omit the horizontal line for axioms
+
+Our derivation is now complete!
+
+
+**Axiom**
+An axiom is an inference rule with no premises $\dfrac{\ }{P}$
+Can use axioms determine the denotation (meaning) of non-logical symbols (constants, functions, predicates)
+
+Axioms denote tautologies in a given *theory*, e.g.,
+$\forall x,y.(x+y)=(y+x)$
+$\forall x.\mathrm{even}(x)\lor\mathrm{odd}(x)$
+$\forall x.\mathrm{prime}(x)\leftrightarrow((x>1)\land\neg\exists i,j.(x=i\times j)\land(i>1)\land(j>1))$
+
+#### Derivability Judgment
+We write $P \vdash Q$ if $Q$ can be derived from premise $P$.
+
+As can be be seen below, $\neg\neg P \land \neg R \land Q \vdash P \land Q$:
+
+$\dfrac{\dfrac{\dfrac{\dfrac{[\neg\neg P \land \neg R \land Q]}{\neg\neg P \land \neg R \land Q}}{\neg\neg P}}{P} \qquad \dfrac{\dfrac{\dfrac{[\neg\neg P \land \neg R \land Q]}{\neg\neg P \land \neg R \land Q}}{\neg R \lor Q}}{Q}}{P \land Q}$
+
+"If we assume $\neg\neg P \land \neg R \lor Q$ holds, then we can prove $P \land Q$."
+#### (Safe) Substitution
+==We use $P[t/x]$ to denote the safe substitution $P\{x \mapsto t\}$.== The following inference rules are sound:
+
+$\dfrac{\forall x.P}{P[t/x]}$ (universal instantiation)
+
+$\dfrac{P[c/x]}{\exists x.P}$ (existential generalization)
+
+
+Example 1: $\dfrac{\forall x.\mathrm{even}(x)\lor\mathrm{odd}(x)}{\mathrm{even}(1)\lor\mathrm{odd}(1)}$
+
+Example 2: $\dfrac{\forall x.\exists y.x=y}{\exists y.x=y[y+1/x]}$ i.e., $\dfrac{\forall x.\exists y.x=y}{\exists z.y+1=z}$
+
+NB: that this does **not** result in the following! $\dfrac{\forall x.\exists y.x=y}{\exists y.y+1=y}$
+#### Proof Systems and Proof Systems about Proof Systems
+There are different kinds of proof systems for reasoning about FOL formulas and meta-level reasoning
+- Reasoning about FOL formulas, as seen in natural deduction systems, e.g., $\dfrac{P \to Q \qquad P}{Q}$
+- Reasoning about derivability, e.g., $\dfrac{P \vdash Q \qquad P \vdash \neg Q}{\vdash \neg P}, \dfrac{P \vdash Q}{\vdash P \to Q}, \dfrac{\vdash P \lor Q \qquad P \vdash R \qquad Q \vdash R}{\vdash R}$
+- Semantic reasoning, e.g., $\dfrac{I \models \neg F}{I \not\models F}, \dfrac{I \not\models \neg F}{I \models F}, \dfrac{I \models F \land G}{I \models F}, \dfrac{I \models F \land G}{I \models G}$ etc.
+
+
+
+## First-Order Theory & SMT
+↗ [First Order Theory (FOT) & Satisfiability Modulo Theories (SMT)](First%20Order%20Theory%20%28FOT%29%20&%20Satisfiability%20Modulo%20Theories%20%28SMT%29.md)
+
+
+
+## Properties of First-Order Logic
+### Soundness & Completeness
+A proof method or system is sound if every formula that can be proven true is valid
+- e.g., a proof system for FOL is sound if for all valid $F$ , $⊢F$
+- e.g., the semantic argument proof method is sound
+	- method: assume $I ̸⊨F$ for some $I$ , and derive contradiction $I ⊨⊥$in all branches
+	- if every branch of a semantic argument proof reaches $I ⊨⊥$, then F is valid
+
+A proof method or system is complete if every valid formula has a proof
+- e.g., a proof system for FOL is sound if $⊢F$ implies that $F$ is valid
+- e.g., the semantic argument proof method is complete
+	- each valid formula F has a semantic argument proof in which every branch reaches $I⊨⊥$
+
+NB: there are different proof systems for FOL that are both sound and complete!
+$$\frac{P ⊢Q →R}{P ⊢¬Q ∨R} \text{vs.} \frac{P ⊢Q →R P ⊢Q}{P ⊢R}$$
+
+
+### Decidability
+FOL is undecidable (Turing & Church)
+There exists no algorithm for deciding if a FOL formula F is valid, i.e., always halt and say “yes” if F is valid or say “no” if F is invalid
+
+FOL is semi-decidable
+There is a procedure that always halts and says “yes” if F is valid, but may not halt if F is invalid
+
+
+### Coherence /Consistence
 
 
 

@@ -1,4 +1,4 @@
-# Statistics (Data) Analyzing Methods & Statistical Model
+# Statistical Models & Statistical Inference
 
 [TOC]
 

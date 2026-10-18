@@ -9,15 +9,14 @@
 ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../../../Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20%28PL%29%20-%20%28零阶%29%20命题逻辑.md)
 
 
+### Other Resources
+
+
 
 ## Intro
 ### Syntax of CTL
+↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Propositional Formula & Syntax](../../../Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20%28PL%29%20-%20%28零阶%29%20命题逻辑.md#Propositional%20Formula%20&%20Syntax)
 ↗ [Computation-Tree Logic (CTL*) /Syntax & Notation of CLT*](Computation-Tree%20Logic%20%28CTLstar%29%20Family.md#Syntax%20&%20Notation%20of%20CTL*)
-
-> ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Propositional Formula & Syntax](../../../Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20%28PL%29%20-%20%28零阶%29%20命题逻辑.md#Propositional%20Formula%20&%20Syntax)
-> ![](../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2013.23.22.png)
-> 
-
 
 ![](../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2018.53.45.png)
 

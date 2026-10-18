@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [GPU (Graphics Processing Unit)](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Accelerators%20%28Coprocessors%29/GPU%20%28Graphics%20Processing%20Unit%29/GPU%20%28Graphics%20Processing%20Unit%29.md)
 ↗ [Compute Unified Device Architecture & CUDA Programming](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20%28IO%20Devices%29%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
-↗ [CUDA C++](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20Compilers%20&%20GPU%20Operators%20DSL/Lowering/CUDA%20C++/CUDA%20C++.md)
+↗ [CUDA C++](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Lowering/CUDA%20C++/CUDA%20C++.md)
 
 
 ### Other Resources
@@ -60,6 +60,15 @@ Ada Lovelace, also referred to simply as Lovelace,[1] is a graphics processing u
 The Ada Lovelace architecture follows on from the Ampere architecture that was released in 2020. The Ada Lovelace architecture was announced by Nvidia CEO [Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang "Jensen Huang") during a GTC 2022 keynote on September 20, 2022, with the architecture powering Nvidia's GPUs for gaming, workstations and datacenters.
 
 
+> 🔗 https://images.nvidia.com/aem-dam/Solutions/geforce/ada/nvidia-ada-gpu-architecture.pdf
+
+![](../../../../../Assets/Pics/Screenshot%202026-10-14%20at%2016.58.35.png)
+<small>Figure 1. AD102 GPU Full-Chip Block Diagram.</small>
+
+![|500](../../../../../Assets/Pics/Screenshot%202026-10-14%20at%2016.59.09.png)
+<small>Figure 5. Ada Streaming Multiprocessor (SM)</small>
+
+
 ### Blackwell
 > 🏠 https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/
 > 📄 https://resources.nvidia.com/en-us-blackwell-architecture
@@ -69,6 +78,14 @@ The Ada Lovelace architecture follows on from the Ampere architecture that was r
 **Blackwell** is a [graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit "Graphics processing unit") (GPU) [microarchitecture](https://en.wikipedia.org/wiki/Microarchitecture "Microarchitecture") developed by [Nvidia](https://en.wikipedia.org/wiki/Nvidia "Nvidia") as the successor to the [Hopper](https://en.wikipedia.org/wiki/Hopper_\(microarchitecture\) "Hopper (microarchitecture)") and [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace_\(microarchitecture\) "Ada Lovelace (microarchitecture)") microarchitectures.
 
 Named after statistician and mathematician [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell "David Blackwell"), the name of the Blackwell architecture was leaked in 2022 with the B40 and B100 accelerators being confirmed in October 2023 with an official Nvidia [roadmap](https://en.wikipedia.org/wiki/Technology_roadmap "Technology roadmap") shown during an investors presentation. It was officially announced at Nvidia's GTC 2024 keynote on March 18, 2024.
+
+> 🔗 https://images.nvidia.com/aem-dam/Solutions/geforce/blackwell/nvidia-rtx-blackwell-gpu-architecture.pdf
+
+![](../../../../../Assets/Pics/Screenshot%202026-10-14%20at%2017.01.17.png)
+<small>Figure 3. GB202 GPU block diagram (full chip).</small>
+
+![|500](../../../../../Assets/Pics/Screenshot%202026-10-14%20at%2017.01.54.png)
+<small>Figure 5. The Blackwell Streaming Multiprocessor (SM)</small>
 
 
 
@@ -93,13 +110,13 @@ Named after statistician and mathematician [David Blackwell](https://en.wikiped
 
 
 ### Data Center GPUs
-#### A2 /A10 /A16 /A30 /A40 /A100
+#### A2 /A10 /A16 /A30 /A40 /A100 (Ampere)
 
-#### H100 /H200 /H800
+#### H100 /H200 /H800 (Hopper)
 
-#### L40 /L4
+#### L40 /L4 (Ada)
 
-#### B100 /B200 /B300
+#### B100 /B200 /B300 (Blackwell)
 
 
 ### Console/handheld GPUs

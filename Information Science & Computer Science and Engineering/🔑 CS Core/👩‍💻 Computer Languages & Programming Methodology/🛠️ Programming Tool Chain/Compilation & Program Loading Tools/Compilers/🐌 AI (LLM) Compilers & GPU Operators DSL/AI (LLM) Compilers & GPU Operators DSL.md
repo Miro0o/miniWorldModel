@@ -105,11 +105,17 @@ Appendices
 
 
 ## Intro
+### AL Compilers for Traditional ML /DL
 > [!links]
 > ↗ [AI (Data) Infrastructure & Techniques Stack](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack.md)
-> ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md) ⭐
+
+
+### AI Compilers for LLM
+> [!links]
+> ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md) 🤔
 > 
-> ↗ [Transformers](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md) ⭐
+> ↗ [Transformers](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> ↗ [Attention & Efficient Operator Implementation](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
 
 > 🤖 GPT 6.0 Astra
 > https://chatgpt.com/share/6ac25911-13a4-83ec-a4d5-c5ec05ce7e64
@@ -156,9 +162,7 @@ Appendices
    algorithm？
    scheduling？
    hardware-specific mapping？
-
-
-### Map: LLM Inference & AI Compilation
+#### Map: LLM Inference /Serving & AI Compilation
 > [!links]
 > ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
 
@@ -446,11 +450,8 @@ pipeline stages
 ```
 
 最后生成具体 kernel。
-
 三层不是完全分开的，但这个模型很有用。
-
-
-### LLM Inference Workload
+#### LLM Inference Workload ⭐
 > [!links]
 > ↗ [Transformers](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 > 
@@ -592,20 +593,24 @@ prefill 更 compute-bound
 
 最后先记住一个最核心的表
 
-|workload|主要特征|常见瓶颈|
-|---|---|---|
-|Prefill GEMM|大矩阵|Tensor Core / compute|
-|Decode GEMM|skinny matrix|HBM bandwidth|
-|Prefill Attention|Q/K/V 都很长|compute + memory IO|
-|Decode Attention|1 个 Q 扫历史 KV|KV/HBM bandwidth|
-|RMSNorm|reduction + elementwise|memory bandwidth|
-|RoPE|elementwise|memory bandwidth|
-|Activation|elementwise|memory / launch|
-|KV cache|大量 persistent state|capacity + bandwidth|
-|MoE|irregular grouped GEMM|load balance + communication|
-|Tensor Parallel|collective communication|NVLink / network|
-|Sampling|reduction/selection|launch + memory|
-|Batching|改变 tensor shape|latency ↔ throughput tradeoff|
+| workload          | 主要特征                     | 常见瓶颈                          |
+| ----------------- | ------------------------ | ----------------------------- |
+| Prefill GEMM      | 大矩阵                      | Tensor Core / compute         |
+| Decode GEMM       | skinny matrix            | HBM bandwidth                 |
+| Prefill Attention | Q/K/V 都很长                | compute + memory IO           |
+| Decode Attention  | 1 个 Q 扫历史 KV             | KV/HBM bandwidth              |
+| RMSNorm           | reduction + elementwise  | memory bandwidth              |
+| RoPE              | elementwise              | memory bandwidth              |
+| Activation        | elementwise              | memory / launch               |
+| KV cache          | 大量 persistent state      | capacity + bandwidth          |
+| MoE               | irregular grouped GEMM   | load balance + communication  |
+| Tensor Parallel   | collective communication | NVLink / network              |
+| Sampling          | reduction/selection      | launch + memory               |
+| Batching          | 改变 tensor shape          | latency ↔ throughput tradeoff |
+
+
+### Performance Metrics & Cost Models
+↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
 
 
 
@@ -617,8 +622,80 @@ prefill 更 compute-bound
 > ↗ [Tensorflow](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/Hybrid%20Languages%20&%20Cross%20Platforms/📌%20Tensorflow/Tensorflow.md)
 
 > 🤖 GPT6.0 Astra
-> https://chatgpt.com/share/6ac25911-13a4-83ec-a4d5-c5ec05ce7e64
+> https://chatgpt.com/share/6acf2ea8-81a0-83ec-95d5-71a281e2bbe1
 
+我认为这是你目前最应该记住的一张图：
+
+```
+             LLM mathematical workload
+        RMSNorm / Attention / MLP / MoE
+                       │
+                       ▼
+              Tensor operators
+      matmul / reduce / softmax / add...
+                       │
+                       ▼
+             Computation Graph
+                       │
+                       ▼
+┌──────────────────────────────────────────┐
+│          Tensor / Graph Compiler         │
+│                                          │
+│ capture                                  │
+│ decomposition                            │
+│ canonicalization                         │
+│ pattern recognition                      │
+│ fusion                                   │
+│ layout                                   │
+│ shape specialization                     │
+│ memory planning                          │
+│ kernel selection                         │
+│ scheduling                               │
+└────────────────────┬─────────────────────┘
+                     │
+       ┌─────────────┼─────────────┐
+       │             │             │
+       ▼             ▼             ▼
+ generate kernel   library       specialized
+                   kernel          kernel
+
+ Inductor→Triton   cuBLASLt       FlashAttention
+                   cuDNN          FlashInfer
+                                  custom CUDA
+       │             │             │
+       └─────────────┼─────────────┘
+                     ▼
+               Kernel Graph
+                     │
+                     ▼
+┌──────────────────────────────────────────┐
+│             Kernel Compiler              │
+│                                          │
+│ tiling                                   │
+│ thread/warp/block mapping                │
+│ memory mapping                           │
+│ pipelining                               │
+│ instruction selection                    │
+│                                          │
+│ Triton compiler / LLVM / NVVM            │
+└────────────────────┬─────────────────────┘
+                     │
+                     ▼
+                PTX / cubin
+                     │
+                     ▼
+              CUDA Runtime
+                     │
+                     ▼
+                   GPU
+```
+
+这张图里：
+**上半部分**是你现在问的 `tensor compilation / computation graph`。
+**中间**就是你说的 `GPU 算子/kernel`。
+**下面**才逐渐进入 GPU compiler backend 和硬件。
+
+---
 以把这一层展开成：
 ```
               Model / PyTorch Program
@@ -676,51 +753,8 @@ prefill 更 compute-bound
 
 这就是 tensor compiler 的主要世界。
 
-
----
-PyTorch compile 栈可以这样理解
-今天比较重要的一条路径大概是：
-
-```
-Python PyTorch model
-        │
-        ▼
-    TorchDynamo
-        │
-        │ graph capture
-        ▼
-      FX graph
-        │
-        ▼
- AOTAutograd /
- AOTDispatcher
-        │
-        │ functionalization
-        │ decomposition
-        ▼
-   ATen-level graph
-        │
-        ▼
-    TorchInductor
-        │
-        │ fusion
-        │ scheduling
-        │ layout
-        │ codegen
-        ▼
- ┌─────────────┬─────────────┐
- │             │             │
-Triton      extern call    C++ etc.
- │            │
- │          cuBLAS
- │          ...
- ▼
-GPU kernels
-```
-
-PyTorch 官方把主要 `torch.compile` 栈概括为 Dynamo、AOTDispatcher/AOTAutograd 和 Inductor；Inductor 再把 ATen/Prim 级别图 lower 到更接近 loop 的表示。[PyTorch Developer Mailing List](https://dev-discuss.pytorch.org/t/higher-order-operators-2023-10/1565?utm_source=chatgpt.com)
-
-目前 PyTorch 的 NVIDIA GPU compiler 路径也大量依赖 Triton.
+> 🤖 GPT 6.1 Sol
+> https://chatgpt.com/share/6acfa59a-9294-83ec-85ff-274de63347a9
 
 
 

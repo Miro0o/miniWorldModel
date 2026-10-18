@@ -9,11 +9,11 @@
 ↗ [Information Theory](../../../🥸%20Information%20Theory/Information%20Theory.md)
 
 ↗ [Mathematical Modeling & Abstraction](../../../Mathematical%20Modeling%20&%20Abstraction.md)
-↗ [Models of Computation & Abstract Machines](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+↗ [Models of Computation & Abstract Machines](../../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 ↗ [AI Basics & Major Techniques](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
-↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
-- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
+- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making.md)
 
 ↗ [Data-Oriented & Human-Centered Technologies](../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
 - ↗ [Data Science](../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/Data%20Science.md)
@@ -322,10 +322,10 @@ Posterior Probability（后验概率）
 
 
 ### Random Variables & Probabilistic Distribution ⭐
-↗ [Random (Stochastic) Variable & Probability Distribution](Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution/Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution.md)
+↗ [Random (Stochastic) Variable & Probability Distribution](Random%20%28Stochastic%29%20Variable%20&%20Probability%20Distribution/Random%20%28Stochastic%29%20Variable%20&%20Probability%20Distribution.md)
 
-↗ [Continuous Probability Distribution](Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution/Continuous%20Probability%20Distribution/Continuous%20Probability%20Distribution.md)
-↗ [Discrete Probability Distribution](Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution/Discrete%20Probability%20Distribution/Discrete%20Probability%20Distribution.md)
+↗ [Continuous Probability Distribution](Random%20%28Stochastic%29%20Variable%20&%20Probability%20Distribution/Continuous%20Probability%20Distribution/Continuous%20Probability%20Distribution.md)
+↗ [Discrete Probability Distribution](Random%20%28Stochastic%29%20Variable%20&%20Probability%20Distribution/Discrete%20Probability%20Distribution/Discrete%20Probability%20Distribution.md)
 
 
 ### Law of Large Numbers ⭐
@@ -396,14 +396,14 @@ In simple terms, instead of looking at data in isolation, Bayesian statistics al
 
 ↗ [Bayesian Statistics & Statistical Analysis](Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
 
-↗ [Descriptive Statistics (Analysis)](Bayesian%20Statistics%20&%20Statistical%20Analysis/Descriptive%20Statistics%20(Analysis)/Descriptive%20Statistics%20(Analysis).md)
-- ↗ [Statistics (Data) Analyzing Methods & Statistical Model](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+↗ [Descriptive Statistics (Analysis)](Bayesian%20Statistics%20&%20Statistical%20Analysis/Descriptive%20Statistics%20%28Analysis%29/Descriptive%20Statistics%20%28Analysis%29.md)
+- ↗ [Statistical Models & Statistical Inference](🏒%20Statistical%20Models%20&%20Statistical%20Inference/Statistical%20Models%20&%20Statistical%20Inference.md)
 
-↗ [Inferential Statistics (Analysis) & Statistical Inference](Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference.md)
-- ↗ [Statistics (Data) Analyzing Methods & Statistical Model](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
-	- ↗ [Estimation Theory (Parametric Estimation)](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/📌%20Estimation%20Theory%20(Parametric%20Estimation)/Estimation%20Theory%20(Parametric%20Estimation).md)
-	- ↗ [Statistical Hypothesis (Significance) Test](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/📌%20Statistical%20Hypothesis%20(Significance)%20Test/Statistical%20Hypothesis%20(Significance)%20Test.md)
-	- ↗ [Regression (Correlation) Analysis](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Regression%20(Correlation)%20Analysis/Regression%20(Correlation)%20Analysis.md)
+↗ [Inferential Statistics (Analysis) & Statistical Inference](Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20%28Analysis%29%20&%20Statistical%20Inference/Inferential%20Statistics%20%28Analysis%29%20&%20Statistical%20Inference.md)
+- ↗ [Statistical Models & Statistical Inference](🏒%20Statistical%20Models%20&%20Statistical%20Inference/Statistical%20Models%20&%20Statistical%20Inference.md)
+	- ↗ [Estimation Theory (Parametric Estimation)](🏒%20Statistical%20Models%20&%20Statistical%20Inference/📌%20Estimation%20Theory%20%28Parametric%20Estimation%29/Estimation%20Theory%20%28Parametric%20Estimation%29.md)
+	- ↗ [Statistical Hypothesis (Significance) Test](🏒%20Statistical%20Models%20&%20Statistical%20Inference/📌%20Statistical%20Hypothesis%20%28Significance%29%20Test/Statistical%20Hypothesis%20%28Significance%29%20Test.md)
+	- ↗ [Regression (Correlation) Analysis](🏒%20Statistical%20Models%20&%20Statistical%20Inference/Regression%20%28Correlation%29%20Analysis/Regression%20%28Correlation%29%20Analysis.md)
 
 
 
