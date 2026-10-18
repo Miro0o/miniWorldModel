@@ -688,6 +688,19 @@ $$
 
 
 
+## Properties of Propositional Logic
+### Soundness & Completeness
+
+
+### Decidability
+PL is decidable: there exists an algorithm for determining if a PL formula F is valid
+e.g., truth-table method
+
+
+### Coherence /Consistence
+
+
+
 ## Ref
 [In what sense is propositional logic "zeroth-order logic?" | Mathematics]: https://math.stackexchange.com/a/2472352/1230830
 So to tie it all together:

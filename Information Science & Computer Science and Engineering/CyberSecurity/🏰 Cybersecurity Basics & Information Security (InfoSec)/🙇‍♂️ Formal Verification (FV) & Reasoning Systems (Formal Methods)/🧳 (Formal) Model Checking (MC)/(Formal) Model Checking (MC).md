@@ -86,6 +86,14 @@ Citations included in these slides (and other talks on this site) refer to keys 
 
 
 ### Research Papers
+https://dl.acm.org/doi/pdf/10.1145/5397.5399
+Automatic Verification of Finite-State Concurrent Systems Using Temporal Logic Specifications
+E. M. CLARKE Carnegie Mellon University
+E. A. EMERSON University of Texas, Austin
+and
+A. P. SISTLA GTE Laboratories, Inc.
+
+
 🎬【\[EuroSys'24\] SandTable: Scalable Distributed System Model Checking】 https://www.bilibili.com/video/BV1c1421i7iG/
 🏠 https://github.com/tangruize/SandTable
 

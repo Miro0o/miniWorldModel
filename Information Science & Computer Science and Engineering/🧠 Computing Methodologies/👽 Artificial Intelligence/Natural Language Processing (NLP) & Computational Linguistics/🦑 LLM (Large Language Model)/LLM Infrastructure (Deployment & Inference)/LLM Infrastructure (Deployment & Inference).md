@@ -379,6 +379,8 @@ Inside vLLM: Anatomy of a High-Throughput LLM Inference System
 
 ### Deployment Parameters & Quantization
 > [!links]
+> ↗ [Tensor & Tensor Space (Outer Product Space)](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Vector%20&%20Vector%20Space%20(Linear%20Space)/Tensor%20&%20Tensor%20Space%20(Outer%20Product%20Space)/Tensor%20&%20Tensor%20Space%20(Outer%20Product%20Space).md)
+> 
 > ↗ [(Text) Data Representations & Storage in Computer](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
 > ↗ [Encodings](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
@@ -555,7 +557,7 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 ↗ [AI API Call & AI Gateway](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20API%20Call%20&%20AI%20Gateway.md)
 
 
-### LLM Compilation
+### 1️⃣ LLM Compilation
 ↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL.md)
 - Transformer Computation Graph & Operator
 	- static compilation
@@ -564,7 +566,7 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 - GPU Kernel & Lowering
 
 
-### LLM Serving Process
+### 2️⃣ LLM Serving Process
 > [!links]
 > ↗ [vLLM](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
 > ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
@@ -579,6 +581,9 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md) "Decoder-Only Transformer"
 
 #### \* A Complete LLM Inference Process ⭐
+> [!links]
+> ↗ [Exploring Neuro-Symbolic AI](../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/Exploring%20Neuro-Symbolic%20AI/Exploring%20Neuro-Symbolic%20AI.md)
+
 > 🤖 GPT 6.1 Sol
 > (separate phases in LLM deployment)
 

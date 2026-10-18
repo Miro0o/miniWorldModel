@@ -112,7 +112,8 @@ Appendices
 
 ### AI Compilers for LLM
 > [!links]
-> ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
+> ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md) 🤔
+> 
 > ↗ [Transformers](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 > ↗ [Attention & Efficient Operator Implementation](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
 
@@ -592,20 +593,24 @@ prefill 更 compute-bound
 
 最后先记住一个最核心的表
 
-|workload|主要特征|常见瓶颈|
-|---|---|---|
-|Prefill GEMM|大矩阵|Tensor Core / compute|
-|Decode GEMM|skinny matrix|HBM bandwidth|
-|Prefill Attention|Q/K/V 都很长|compute + memory IO|
-|Decode Attention|1 个 Q 扫历史 KV|KV/HBM bandwidth|
-|RMSNorm|reduction + elementwise|memory bandwidth|
-|RoPE|elementwise|memory bandwidth|
-|Activation|elementwise|memory / launch|
-|KV cache|大量 persistent state|capacity + bandwidth|
-|MoE|irregular grouped GEMM|load balance + communication|
-|Tensor Parallel|collective communication|NVLink / network|
-|Sampling|reduction/selection|launch + memory|
-|Batching|改变 tensor shape|latency ↔ throughput tradeoff|
+| workload          | 主要特征                     | 常见瓶颈                          |
+| ----------------- | ------------------------ | ----------------------------- |
+| Prefill GEMM      | 大矩阵                      | Tensor Core / compute         |
+| Decode GEMM       | skinny matrix            | HBM bandwidth                 |
+| Prefill Attention | Q/K/V 都很长                | compute + memory IO           |
+| Decode Attention  | 1 个 Q 扫历史 KV             | KV/HBM bandwidth              |
+| RMSNorm           | reduction + elementwise  | memory bandwidth              |
+| RoPE              | elementwise              | memory bandwidth              |
+| Activation        | elementwise              | memory / launch               |
+| KV cache          | 大量 persistent state      | capacity + bandwidth          |
+| MoE               | irregular grouped GEMM   | load balance + communication  |
+| Tensor Parallel   | collective communication | NVLink / network              |
+| Sampling          | reduction/selection      | launch + memory               |
+| Batching          | 改变 tensor shape          | latency ↔ throughput tradeoff |
+
+
+### Performance Metrics & Cost Models
+↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
 
 
 
@@ -748,51 +753,8 @@ prefill 更 compute-bound
 
 这就是 tensor compiler 的主要世界。
 
-
----
-PyTorch compile 栈可以这样理解
-今天比较重要的一条路径大概是：
-
-```
-Python PyTorch model
-        │
-        ▼
-    TorchDynamo
-        │
-        │ graph capture
-        ▼
-      FX graph
-        │
-        ▼
- AOTAutograd /
- AOTDispatcher
-        │
-        │ functionalization
-        │ decomposition
-        ▼
-   ATen-level graph
-        │
-        ▼
-    TorchInductor
-        │
-        │ fusion
-        │ scheduling
-        │ layout
-        │ codegen
-        ▼
- ┌─────────────┬─────────────┐
- │             │             │
-Triton      extern call    C++ etc.
- │            │
- │          cuBLAS
- │          ...
- ▼
-GPU kernels
-```
-
-PyTorch 官方把主要 `torch.compile` 栈概括为 Dynamo、AOTDispatcher/AOTAutograd 和 Inductor；Inductor 再把 ATen/Prim 级别图 lower 到更接近 loop 的表示。[PyTorch Developer Mailing List](https://dev-discuss.pytorch.org/t/higher-order-operators-2023-10/1565?utm_source=chatgpt.com)
-
-目前 PyTorch 的 NVIDIA GPU compiler 路径也大量依赖 Triton.
+> 🤖 GPT 6.1 Sol
+> https://chatgpt.com/share/6acfa59a-9294-83ec-85ff-274de63347a9
 
 
 

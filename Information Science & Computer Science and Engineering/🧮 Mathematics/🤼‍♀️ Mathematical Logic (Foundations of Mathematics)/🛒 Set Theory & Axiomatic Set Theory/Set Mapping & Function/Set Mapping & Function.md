@@ -32,6 +32,9 @@
 
 
 ### Set Mapping
+↗ [Relation & Relation Theory](../👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
+↗ [Number Sets & Field Construction (Completion) and Extension](../Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
+
 Injection
 Surjection
 Bijection

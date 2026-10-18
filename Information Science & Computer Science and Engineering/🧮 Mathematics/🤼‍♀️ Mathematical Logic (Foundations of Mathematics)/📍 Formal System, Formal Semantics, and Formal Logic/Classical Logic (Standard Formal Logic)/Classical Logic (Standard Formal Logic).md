@@ -30,6 +30,7 @@
 > https://chatgpt.com/share/6abfadb2-47f4-83ec-8b4a-27d20510d311
 > 
 > ![](../../../../../Assets/Pics/ChatGPT%20Image%20Oct%202,%202026,%2008_51_24%20PM.png)
+> ![](../../../../../Assets/Pics/Logic%20and%20Model%20Theory%20Connections.png)
 
 > 🔗 https://en.wikipedia.org/wiki/Classical_logic
 

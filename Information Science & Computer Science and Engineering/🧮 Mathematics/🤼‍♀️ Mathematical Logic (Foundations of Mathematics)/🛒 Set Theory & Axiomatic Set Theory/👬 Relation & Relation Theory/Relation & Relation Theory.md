@@ -86,6 +86,9 @@ Sometimes describing predicates with sets instead of functions is more convenien
 
 
 ## Properties of Relation
+> [!links]
+> ↗ [Number Sets & Field Construction (Completion) and Extension](../Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md) "closure"
+
 > 🔗 https://en.wikipedia.org/wiki/Relation_(mathematics)#Properties_of_relations
 
 A relation $R$ over a set $X$ can be characterized by several important properties. Below are the primary definitions and examples.
@@ -197,7 +200,21 @@ _[Total order](https://en.wikipedia.org/wiki/Total_order "Total order")_
 - A relation that is reflexive, antisymmetric, transitive and connected.
 _[Strict total order](https://en.wikipedia.org/wiki/Total_order#Strict_total_order "Total order")_
 - A relation that is irreflexive, asymmetric, transitive and connected.
-#### Uniqueness Properties
+
+#### Congruence Relation
+↗ [Elementary Number Theory](../../../💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
+↗ [Congruence](../../../💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/0x03%20Congruence/Congruence.md)
+
+#### Uniqueness and Totality Properties & Function ⭐
+> [!links]
+> ↗ [Set Mapping & Function](../Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
+> ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+> 
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> 
+> ↗ [Category Theory (范畴论)](../../../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+
+
 > 🔗 https://en.wikipedia.org/wiki/Relation_(mathematics)#Uniqueness_properties_2
 
 One-to-one[e]
@@ -208,14 +225,6 @@ Many-to-one[e]
 - Functional and not injective. For example, the red relation in the diagram is many-to-one, but the green, blue and black ones are not.
 Many-to-many[e]
 - Not injective nor functional. For example, the black relation in the diagram is many-to-many, but the red, green and blue ones are not.
-#### Uniqueness and Totality Properties & Function ⭐
-> [!links]
-> ↗ [Set Mapping & Function](../Set%20Mapping%20&%20Function/Set%20Mapping%20&%20Function.md)
-> ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
-> 
-> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-> 
-> ↗ [Category Theory (范畴论)](../../../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Relation_(mathematics)#Uniqueness_and_totality_properties
 
