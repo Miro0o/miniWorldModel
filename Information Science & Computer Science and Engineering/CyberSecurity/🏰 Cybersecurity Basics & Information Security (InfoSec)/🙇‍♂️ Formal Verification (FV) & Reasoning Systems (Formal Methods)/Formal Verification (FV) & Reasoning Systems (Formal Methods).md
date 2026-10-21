@@ -31,9 +31,9 @@
 - ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 ↗ [Symbolic and Algebraic Manipulation](../../../../../../🧠%20Computing%20Methodologies/Symbolic%20and%20Algebraic%20Manipulation/Symbolic%20and%20Algebraic%20Manipulation.md)
 
-↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
-- ↗ [Generic & Automated Theorem Provers (ATP)](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Theorem%20Provers%20&%20Constraint%20Solvers/Generic%20&%20Automated%20Theorem%20Provers%20(ATP)/Generic%20&%20Automated%20Theorem%20Provers%20(ATP).md)
-	- ↗ [Isabelle & Isar Language](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Theorem%20Provers%20&%20Constraint%20Solvers/Generic%20&%20Automated%20Theorem%20Provers%20(ATP)/Isabelle%20&%20Isar%20Language/Isabelle%20&%20Isar%20Language.md)
+↗ [Formal Verifiers & Constraint Solvers & Checkers](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers.md)
+- ↗ [Theorem Provers & Proof Assistants](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Theorem%20Provers%20&%20Proof%20Assistants.md)
+	- ↗ [Isabelle & Isar Language](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Interactive%20Theorem%20Prover%20(ITP)/Isabelle%20&%20Isar%20Language/Isabelle%20&%20Isar%20Language.md)
 - ↗ [SAT Solving & Algorithms](🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md)
 - ↗ [SMT Solving & Algorithms](🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)
 - etc.
@@ -84,22 +84,22 @@ Tools and Sources
 		- Automatic Protocol Composition Checker APCC: for a given set of protocols check that the sufficient conditions of [[AMMV15]](https://www.imm.dtu.dk/~samo/Geo-comp.pdf) for typing and parallel composition are met. This tool is based on a [master thesis by Ivana Kojovic](https://www.imm.dtu.dk/~samo/APCC-classic.zip).
 		- [Download as zip](https://www.imm.dtu.dk/~samo/SPS.zip).
 
+https://www.cse.cuhk.edu.hk/~pick/csci5690/
+CSCI5690: Automated Reasoning about Software Systems
 
 https://community.wvu.edu/~krsubramani/courses/backupcourses/dm2Spr2013/coursetext/CalcofComp.pdf#
 The Calculus of Computation Decision Procedures with Applications to Verification
 Aaron R. Bradley · Zohar Manna
 
-
 https://link.springer.com/book/10.1007/978-3-030-05156-3
 [Flemming Nielson](https://link.springer.com/book/10.1007/978-3-030-05156-3#author-0-0) , [Hanne Riis Nielson](https://link.springer.com/book/10.1007/978-3-030-05156-3#author-0-1)
 Formal Methods: An Appetizer, 2019
 
+
+### Other Resources
 https://www.imm.dtu.dk/~dibj/2025/faoc/main.pdf
 Formal Methods – My 50+ Years as an Engineer, Researcher and Scientist
 DINES BJØRNER, Technical University of Denmark, Denmark
-
-
-### Other Resources
 
 
 
@@ -124,7 +124,7 @@ DINES BJØRNER, Technical University of Denmark, Denmark
 > ↗ [Mathematics](../../../🧮%20Mathematics/Mathematics.md) "Proofing, Reasoning, and Computing"
 > - ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 > - ↗ [Formal System, Formal Semantics, and Formal Logic](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) ⭐
-> - ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md) ⭐
+> - ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md) ⭐
 > 
 > ↗ [Symbolic AI & Logic Programs](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Symbolic%20AI%20&%20Logic%20Programs/Symbolic%20AI%20&%20Logic%20Programs.md)
 
@@ -420,14 +420,14 @@ Properties
 > ↗ [Hardware (Digital Circuits) Verification](Hardware%20(Digital%20Circuits)%20Verification/Hardware%20(Digital%20Circuits)%20Verification.md)
 > ↗ [Program (Formal) Verification](Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
 > 
-> ↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
+> ↗ [Formal Verifiers & Constraint Solvers & Checkers](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers.md)
 > 
 > ---
 > ↗ [Problem Solving & Search-Based Methods](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
 > ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
 > 
 > ↗ [Mathematical Optimization (Programming)](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-> ↗ [Code (Program) Optimization](../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Code%20(Program)%20Optimization.md)
+> ↗ [Code (Program) Analysis & Optimization](../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20(Program)%20Analysis%20&%20Optimization/Code%20(Program)%20Analysis%20&%20Optimization.md)
 > 
 > ↗ [Neuro-Symbolic AI](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
 

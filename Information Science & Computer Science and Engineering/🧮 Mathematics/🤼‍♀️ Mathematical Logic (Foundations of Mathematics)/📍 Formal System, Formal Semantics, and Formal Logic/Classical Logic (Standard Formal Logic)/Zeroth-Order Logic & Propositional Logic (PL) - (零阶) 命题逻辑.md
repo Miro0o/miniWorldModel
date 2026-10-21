@@ -495,7 +495,7 @@ Formulas can be viewed as a data structure for representing sets and relations. 
 
 ## Reasoning in Propositional Logic
 > [!links]
-> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 > ↗ [Mathematics /Types of Proofs](../../../Mathematics.md#Types%20of%20Proofs)
 
 > 🤖 GPT 6.0

@@ -10,7 +10,7 @@
 ↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time).md)
 ↗ [Compilation Phase](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
 ↗ [Program Synthesis & Code Generation](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
-↗ [Code (Program) Optimization](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Code%20(Program)%20Optimization.md)
+↗ [Code (Program) Analysis & Optimization](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20(Program)%20Analysis%20&%20Optimization/Code%20(Program)%20Analysis%20&%20Optimization.md)
 
 ↗ [Software (Program) Techniques & Binary Engineering](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
 ↗ [Program Analysis Basics](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
@@ -98,6 +98,10 @@ Appendices
 - [Measuring and Analyzing GPU Kernel Performance](https://mlc.ai/modern-gpu-programming-for-mlsys/appendix/benchmarking_gpu_kernels.html)
 - [Compiler Internals](https://mlc.ai/modern-gpu-programming-for-mlsys/tirx_guide/arch/index.html)
 - [Debugging Warp-Specialized Kernels](https://mlc.ai/modern-gpu-programming-for-mlsys/appendix/debugging_warp_specialized.html)
+#### Paper
+https://arxiv.org/abs/2502.10517
+KernelBench: Can LLMs Write Efficient GPU Kernels?
+[Anne Ouyang](https://arxiv.org/search/cs?searchtype=author&query=Ouyang,+A), [Simon Guo](https://arxiv.org/search/cs?searchtype=author&query=Guo,+S), [Simran Arora](https://arxiv.org/search/cs?searchtype=author&query=Arora,+S), [Alex L. Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang,+A+L), [William Hu](https://arxiv.org/search/cs?searchtype=author&query=Hu,+W), [Christopher Ré](https://arxiv.org/search/cs?searchtype=author&query=R%C3%A9,+C), [Azalia Mirhoseini](https://arxiv.org/search/cs?searchtype=author&query=Mirhoseini,+A)
 
 
 ### Other Resources

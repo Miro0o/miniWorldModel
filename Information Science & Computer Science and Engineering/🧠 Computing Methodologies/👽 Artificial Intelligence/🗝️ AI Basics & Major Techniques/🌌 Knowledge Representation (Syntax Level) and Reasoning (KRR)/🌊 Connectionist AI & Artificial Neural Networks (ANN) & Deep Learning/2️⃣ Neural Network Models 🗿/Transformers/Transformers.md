@@ -81,8 +81,23 @@ Inside the Transformer: The Life of a Token (May 26, 2026)
 
 
 ## Intro: The Original Transformer Architecture
-> 🤖 GPT 6.0 Astra
-> https://chatgpt.com/share/6ac505cc-7e9c-83ec-8de1-8ab0731d1161
+> [!TIP] 👍 👍 👍 Andrej Karpathy
+> 🎬 [Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=zfnvhJmbQC26LAwN)
+> - https://youtu.be/VMj-3S1tku0?si=TDg1gcB9wF5OF3VK
+> 	- The spelled-out intro to neural networks and backpropagation: building micrograd
+> - https://youtu.be/PaCmpygFfXo?si=Z845OJ-7Xo25WUeF
+> 	- The spelled-out intro to language modeling: building makemore
+> - https://youtu.be/kCc8FmEb1nY?si=Dhj1moY2pHkyiCiT
+> 	- Let's build GPT: from scratch, in code, spelled out.
+> - https://youtu.be/zduSFxRajkE?si=CjiI41S49hiXhUPs
+> 	- Let's build the GPT Tokenizer
+> - https://youtu.be/l8pRSuU81PU?si=3E5YttKgEyNX5-Dg
+> 	- Let's reproduce GPT-2 (124M)
+
+> [!TIP] 🤖 GPT 6.0 Astra
+> https://chatgpt.com/share/6ac505cc-7e9c-83ec-8de1-8ab0731d1161 (theory)
+> https://chatgpt.com/share/6ad4ef23-f5a4-83ec-b676-42414319db1e (practice) ⭐
+>  (step by step explanation, forward + backward)
 
 > [!Quote] Sequence modeling
 > ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../../../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
@@ -217,7 +232,7 @@ Un-Embedding
 ### MLP (Feed-Forward Network, FFN)
 
 
-### Probability
+### LM Head & Probability (Logits)
 
 
 ### Encoder & Decoder Arch

@@ -15,6 +15,14 @@
 
 ↗ [Program Synthesis & Code Generation](../../../Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
 
+↗ [Relational (Data) Models](../../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Relational%20(Data)%20Models.md)
+↗ [Relational Data Model Languages](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Database%20Languages/Record-Based%20Data%20Model%20Languages/Relational%20Data%20Model%20Languages/Relational%20Data%20Model%20Languages.md)
+↗ [Datalog (Data Logic)](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Datalog%20(Data%20Logic)/Datalog%20(Data%20Logic).md)
+
+↗ [Congruence](../../../../../../../../🧮%20Mathematics/💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/0x03%20Congruence/Congruence.md)
+↗ [Congruence Equations](../../../../../../../../🧮%20Mathematics/💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/0x03%20Congruence/Congruence%20Equations/Congruence%20Equations.md)
+↗ [First Order Theory (FOT) & Satisfiability Modulo Theories (SMT)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First%20Order%20Theory%20(FOT)%20&%20Satisfiability%20Modulo%20Theories%20(SMT).md)
+
 
 ### Learning Resources
 https://arxiv.org/abs/1012.1802

@@ -328,7 +328,7 @@ A compiler must accept all source programs that conform to the specification of 
 ↗ [Tree Basics](../../../🧮%20Mathematics/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Tree%20Basics.md)
 #### The Science of Code Optimization
 > [!links]
-> ↗ [Code (Program) Optimization](Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Code%20(Program)%20Optimization.md)
+> ↗ [Code (Program) Analysis & Optimization](Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20(Program)%20Analysis%20&%20Optimization/Code%20(Program)%20Analysis%20&%20Optimization.md)
 
 > 📖 Compilers Principles Techniques and Tools 2nd Edition
 

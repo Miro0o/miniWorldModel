@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [PRISM](../../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/PRISM.md)
+↗ [PRISM](../../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/PRISM.md)
 ↗ [Probabilistic CTL (PCTL)](../../../../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Probabilistic%20CTL%20(PCTL).md)
 
 
@@ -60,7 +60,7 @@ Two ways to compute $\pi = 𝑙𝑖𝑚𝑖𝑡_{𝑛\to\infty}\theta_n$:
 	2. $\pi = \pi \cdot 𝑃 \Leftrightarrow \pi - \pi \cdot 𝑃 = 0 \Leftrightarrow \pi(I - P) = 0$
 		1. $lim_{n\to\infty}\theta_n =lim_{n\to\infty}(\iota \cdot P^n) = \pi$
 		2. $det(\pi) = det(lim_{n\to\infty}(\iota \cdot P^n)) = 0 \Leftrightarrow lim_{n\to\infty}(det(\iota \cdot P^n))=0$ (?)
-		3. ↗ [Eigenvalues, Eigenvectors, and Invariant Subspaces](../../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/📌%20Linear%20Algebra%20Basics/Eigenvalues,%20Eigenvectors,%20and%20Invariant%20Subspaces/Eigenvalues,%20Eigenvectors,%20and%20Invariant%20Subspaces.md)
+		3. ↗ [Eigenvalues & Eigenvectors](../../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Vector%20&%20Vector%20Space%20(Linear%20Space)/Eigenvalues%20&%20Eigenvectors.md)
 
 It's not always that the limit $\pi = 𝑙𝑖𝑚𝑖𝑡_{𝑛\to\infty}\theta_n$ is well defined and can be computed as the (unique) stationary distribution $\pi = \pi \cdot 𝑃$:
 There are **cases** where :
@@ -70,7 +70,7 @@ There are **cases** where :
 
 Examples:
 - ![](../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2013.24.52.png)
-- 💡 Use ↗ [PRISM](../../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/PRISM.md) or ↗ [Z3 Theorem Prover](../../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Theorem%20Provers%20&%20Constraint%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/Z3%20Theorem%20Prover.md) to compute the steady state distribution of fourth example: 
+- 💡 Use ↗ [PRISM](../../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/PRISM.md) or ↗ [Z3 Theorem Prover](../../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/Z3%20Theorem%20Prover.md) to compute the steady state distribution of fourth example: 
 	- ![](../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2013.35.59.png)
 
 

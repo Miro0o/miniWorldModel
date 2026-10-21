@@ -303,7 +303,7 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 <small><a>https://towardsdatascience.com/the-concept-of-artificial-neurons-perceptrons-in-neural-networks-fab22249cbfc/</a></small>
 ##### Linear Function
 ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
-↗ [Linear Map](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/📌%20Linear%20Algebra%20Basics/Linear%20Map.md)
+↗ [Linear Map](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Vector%20&%20Vector%20Space%20(Linear%20Space)/Linear%20Map.md)
 ##### Activation Function
 ↗ [Activation Functions (Transfer Functions)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Activation%20Functions%20(Transfer%20Functions).md)
 
@@ -345,6 +345,7 @@ A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $
 #### Optimization: Gradient Descent & Back-propagation (and Beyond)⭐ ⭐
 > [!links]
 > ↗ [Information Theory](../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
+> ↗ [Probability Theory & Statistics](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 > 
 > ---
 > 
@@ -508,13 +509,13 @@ A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $
 Artificial intelligence (AI): to re-create human intelligence.
 
 
-The idea of **(machine) learning** based AI: to build a system such that it can learn rules automatically from the environment /data. Therefore, big data techniques or data-driven methods.
+The idea of **(machine) learning** based AI: to build a system such that it can learn rules automatically from the environment /data. Therefore, big data /data-driven methods.
 - This is like statistics and probability theory: from data to learn a statistical model, treat that statistical model as the probabilistic model, and use the probabilistic model to predict next move.
-- Against the idea of symbolic based AI: to manually design rules for a system to execute that handle the (specific) task well. It is natural to think that it is easy to design algorithm for a specific task, while it is very hard if we want to design rules for a very generalized task.
+- Against the idea of symbolic based AI, which is to manually design rules for a system to execute that handle the (specific) task well. It is natural to think that it is easy to design algorithm for a specific task, while it is very hard if we want to design rules for a very generalized task.
 
 
-The intuition of **deep learning (DL)**, is to model such a learnable system as a neural network, and feed tons of data to it to learn such a pattern, since (we hypothesize) this resembles how human intelligence works in principle. More formally (mathematically), a neural network is a **parameterized function**, built from simpler computations:
-- neuron: typically $a = \phi(w^T x + b)$, a weighted sum plus a bias, followed by an activation function $\phi()$.
+The intuition of **deep learning (DL)**, is to model such a learnable system as a neural network, and feed tons of data to it to learn such a pattern automatically, since (we hypothesize) this resembles how human intelligence works in principle. More formally (mathematically), a neural network is a **parameterized function**, built from simpler computations: (this is how we formally model the intelligence to be)
+- neuron: typically $a = \phi(w^T x + b)$, a weighted sum plus a bias (affine map), followed by an activation function $\phi()$.
 	- perceptron: a particular neuron with a hard threshold activation. The classical perceptron is not trained by ordinary backpropagation through that threshold; modern networks usually use differentiable or almost-everywhere differentiable activations.
 	- multi-layer perceptron (MLP).
 - neural layer: a vector-valued function, often computing multiple neurons in parallel, e.g. $h = \phi(Wx + b)$.
@@ -529,7 +530,7 @@ For the neural net:
 - $\hat{y} = f_{\theta}(x)$: model output /prediction.
 
 
-For the neural net to actually learn something:
+For the neural net to actually learn:
 - Define the target ("ground truth") as $y$, and a scalar **loss function** $\ell(\hat{y}, y)$ that measures how undesirable the prediction is relative to the target. For one example, write $L(\theta; x,y) = \ell(f_{\theta}(x), y)$ to make its dependence on the parameters explicit.
 - The objective depends on the task and learning setting:
 	- **supervised learning**: use input-target pairs, e.g. classification or regression losses.
@@ -540,14 +541,8 @@ For the neural net to actually learn something:
 
 
 To design a good neural net towards that learning objective:
-- Using supervised learning as the running example, the ideal goal is to minimize the **population risk** over the target data distribution $\mathcal{P}$:
-$$
-\min_{\theta} R(\theta), \qquad R(\theta) = \mathbb{E}_{(x,y)\sim\mathcal{P}}[\ell(f_{\theta}(x), y)].
-$$
-- We generally do not know $\mathcal{P}$, so we use a finite training set $\{(x_n,y_n)\}_{n=1}^{N}$ and minimize the **empirical risk**:
-$$
-\min_{\theta} J(\theta), \qquad J(\theta) = \frac{1}{N}\sum_{n=1}^{N}\ell(f_{\theta}(x_n), y_n).
-$$
+- Using supervised learning as the running example, the ideal goal is to minimize the **population risk** over the target data distribution $\mathcal{P}$: $$ \min_{\theta} R(\theta), \qquad R(\theta) = \mathbb{E}_{(x,y)\sim\mathcal{P}}[\ell(f_{\theta}(x), y)].$$
+- We generally do not know $\mathcal{P}$, so we use a finite training set $\{(x_n,y_n)\}_{n=1}^{N}$ and minimize the **empirical risk**: $$ \min_{\theta} J(\theta), \qquad J(\theta) = \frac{1}{N}\sum_{n=1}^{N}\ell(f_{\theta}(x_n), y_n). $$
 	- Training aims to reduce this objective; it does not generally guarantee finding a global minimum.
 	- A **regularization** term may be added, e.g. $J(\theta) + \lambda\Omega(\theta)$. In practice, gradients are often estimated from mini-batches.
 - Low training loss alone does not guarantee good performance on unseen data. We want **generalization** to the target distribution. **Inductive bias** means the assumptions or preferences that guide learning beyond the observed data. Architecture, regularization, and the training procedure can all introduce inductive biases.
@@ -568,19 +563,333 @@ $$
 To effectively train a neural net towards that learning objective:
 - typically use gradient descent & back-propagation
 
-For a simple feedforward network with $M$ layers, define:
-$$
-h_0 = x, \qquad h_i = f_i(h_{i-1};\theta_i), \qquad \hat{y} = h_M.
-$$
-Then the whole neural net is written $f_{\theta} = f_M \circ f_{M-1} \circ \cdots \circ f_1$: **the rightmost function is applied first**. For the following derivation, use one example and write $L = \ell(h_M,y)$; all activation vectors and their gradients are column vectors.
+For a simple feedforward network with $M$ layers, define the layer activations $h_i$: $$ h_0 = x, \qquad h_i = f_i(h_{i-1};\theta_i), \qquad \hat{y} = h_M. $$
+Then the whole neural net is written $f_{\theta} = f_M \circ f_{M-1} \circ \cdots \circ f_1$: **the rightmost function is applied first**. For the following derivation, use one example and write the loss as $L = \ell(h_M,y)$; all activation vectors and their gradients are column vectors.
 
-==Backpropagation== computes gradients of the loss with respect to the parameters by applying the chain rule backward through the computational graph. **Adjacent layers' weights are independent parameters; the chain rule follows intermediate activations, not a dependency $W_i \to W_{i+1}$.**
+==Backpropagation== computes gradients of the loss with respect to the parameters by applying the chain rule backward through the computational graph. **When parameters are not shared across layers, adjacent layers' weights are separate parameter variables; the chain rule follows intermediate activations, not a dependency $W_i \to W_{i+1}$.**
+- For an affine-plus-activation layer, write $$z_i = W_i h_{i-1} + b_i, \qquad h_i = f_i(h_{i-1};\theta_i) = \phi_i(z_i).$$
+- The forward dependency of the loss on $W_i$ follows the path $$W_i \to z_i \to h_i \to h_{i+1} \to \cdots \to h_M \to L.$$
+The following diagram maps one affine-plus-elementwise-activation layer to its individual neurons. Orange annotations place each loss gradient beside the corresponding forward value.
 
-In general, let $g_i = \nabla_{h_i}L$. Starting with $g_M = \nabla_{h_M}\ell(h_M,y)$, propagate:
+```tikz
+\begin{document}%
+% Fixed opaque palette: identical contrast in light and dark page themes.
+\definecolor{DiagramPaper}{HTML}{F8FAFC}%
+\definecolor{DiagramInk}{HTML}{1F2937}%
+\definecolor{DiagramForward}{HTML}{1D4ED8}%
+\definecolor{DiagramOperation}{HTML}{0F766E}%
+\definecolor{DiagramBackward}{HTML}{9A3412}%
+\definecolor{DiagramConnection}{HTML}{5D77A0}%
+\definecolor{DiagramValueFill}{HTML}{EDF2FF}%
+\definecolor{DiagramOperationFill}{HTML}{E7F4F1}%
+\definecolor{DiagramParameterFill}{HTML}{EEF2F6}%
+\definecolor{DiagramAuxFill}{HTML}{F1F5F9}%
+\definecolor{DiagramAuxLine}{HTML}{7A8798}%
+\definecolor{DiagramAuxInk}{HTML}{526174}%
+\definecolor{DiagramFrame}{HTML}{A8B2C0}%
+\pgfdeclarelayer{diagrambackground}%
+\pgfsetlayers{diagrambackground,main}%
+\begin{tikzpicture}[
+  font=\small, >=stealth, color=DiagramInk, text=DiagramInk, line width=0.8pt,
+  value/.style={draw=DiagramForward, fill=DiagramValueFill, rounded corners=2pt,
+    text width=1.7cm, minimum height=1.0cm, align=center},
+  operation/.style={draw=DiagramOperation, fill=DiagramOperationFill, rounded corners=2pt,
+    minimum width=1.75cm, minimum height=1.0cm, align=center},
+  parameter/.style={draw=DiagramAuxLine, fill=DiagramParameterFill, rounded corners=2pt,
+    inner sep=5pt, align=center},
+  unit/.style={draw=DiagramForward, fill=DiagramValueFill, circle,
+    minimum size=1.1cm, inner sep=2pt},
+  forward/.style={->, draw=DiagramForward, line width=1pt}
+]
+% Vector view: the affine and activation operations together form f_i.
+\node[font=\bfseries] at (6.1,3.2)
+  {(a) One layer: vectors and trainable parameters};
+\draw[draw=DiagramAuxLine, dashed, rounded corners=5pt]
+  (2.1,-1.2) rectangle (10.6,1.1);
+\node[fill=DiagramPaper, inner sep=3pt] at (7.5,1.1)
+  {Layer $f_i$: affine + activation};
+\node[value] (input) at (0.4,0)
+  {$h_{i-1}$\\[-1pt]{\scriptsize previous layer output}};
+\node[operation] (affine) at (3.5,0)
+  {Affine\\$W_i h_{i-1}+b_i$};
+\node[value, text width=2.1cm] (preactivation) at (6.3,0)
+  {$z_i$\\[-1pt]{\scriptsize pre-activation}\\[-1pt]{\scriptsize vector}};
+\node[operation] (activation) at (9.2,0)
+  {Activation\\$\phi_i$};
+\node[value] (output) at (12.2,0)
+  {$h_i$\\[-1pt]{\scriptsize layer output vector}};
+\node[parameter] (parameters) at (3.5,2.1)
+  {Trainable parameters\\$\theta_i:\ W_i,\ b_i$};
+\draw[forward] (parameters) -- (affine);
+\draw[forward] (input) -- (affine);
+\draw[forward] (affine) -- (preactivation);
+\draw[forward] (preactivation) -- (activation);
+\draw[forward] (activation) -- (output);
+\node[text=DiagramBackward, font=\scriptsize] at (0.4,-0.95)
+  {$g_{i-1}=\nabla_{h_{i-1}}L$};
+\node[text=DiagramBackward, font=\scriptsize] at (6.3,-0.95)
+  {$\delta_i=\nabla_{z_i}L$};
+\node[text=DiagramBackward, font=\scriptsize] at (12.2,-0.95)
+  {$g_i=\nabla_{h_i}L$};
+
+% Scalar view: one row of W_i and one bias feed neuron j.
+\node[font=\bfseries] at (6.1,-1.75)
+  {(b) Zoom into neuron $j$ of layer $i$};
+\draw[draw=DiagramAuxLine, dashed, rounded corners=5pt]
+  (4.05,-5.65) rectangle (10.6,-3.35);
+\node[fill=DiagramPaper, inner sep=3pt] at (7.3,-3.35)
+  {Neuron $j$};
+\node[unit] (infirst) at (0.4,-2.9) {$h_{i-1,1}$};
+\node[unit] (ink) at (0.4,-4.5) {$h_{i-1,k}$};
+\node[unit, font=\scriptsize] (inlast) at (0.4,-6.1) {$h_{i-1,d_{i-1}}$};
+\node[unit, draw=DiagramOperation, fill=DiagramOperationFill] (sum) at (4.8,-4.5)
+  {$\sum$};
+\node[value, text width=1.05cm] (zj) at (6.9,-4.5)
+  {$z_{i,j}$};
+\node[operation] (phij) at (9.2,-4.5)
+  {$\phi_i$\\[-1pt]{\scriptsize activation}};
+\node[unit] (hj) at (12.2,-4.5) {$h_{i,j}$};
+\node[parameter] (bias) at (4.8,-2.7) {$b_{i,j}$};
+\draw[forward] (infirst) -- node[pos=0.52, above, sloped,
+  fill=DiagramPaper, inner sep=2pt] {$w^{(i)}_{j1}$} (sum);
+\draw[forward] (ink) -- node[pos=0.50, above,
+  fill=DiagramPaper, inner sep=2pt] {$w^{(i)}_{jk}$} (sum);
+\draw[forward] (inlast) -- node[pos=0.52, below, sloped,
+  fill=DiagramPaper, inner sep=2pt] {$w^{(i)}_{j\,d_{i-1}}$} (sum);
+\draw[forward] (bias) -- (sum);
+\draw[forward] (sum) -- (zj);
+\draw[forward] (zj) -- (phij);
+\draw[forward] (phij) -- (hj);
+\node[align=center, font=\scriptsize] at (0.4,-7.2)
+  {Components of $h_{i-1}$\\only three are drawn};
+\node[align=center, font=\scriptsize] at (3.45,-6.45)
+  {Incoming edge weights\\row $j$ of $W_i$};
+\node[align=center, font=\scriptsize] at (12.2,-5.85)
+  {One component of $h_i$\\one neuron output};
+\node[align=center] at (6.1,-8.2)
+  {$w^{(i)}_{jk}=(W_i)_{jk},\quad h_{i-1,k}=(h_{i-1})_k,
+    \quad b_{i,j}=(b_i)_j$\\[7pt]
+   $z_{i,j}=\displaystyle\sum_{k=1}^{d_{i-1}}
+     w^{(i)}_{jk}h_{i-1,k}+b_{i,j},
+     \qquad h_{i,j}=\phi_i(z_{i,j})$};
+% An opaque canvas prevents page themes from showing through the diagram.
+\begin{pgfonlayer}{diagrambackground}
+\path[fill=DiagramPaper, draw=DiagramFrame, line width=0.5pt,
+  rounded corners=5pt]
+  ([xshift=-8pt,yshift=-8pt]current bounding box.south west)
+  rectangle
+  ([xshift=8pt,yshift=8pt]current bounding box.north east);
+\end{pgfonlayer}
+\end{tikzpicture}
+\end{document}
+```
+
+Here $d_i$ is the number of neurons in layer $i$; $j$ selects one of these neurons, and $k$ selects one component of its input. The scalar coordinates are $h_{i,j}=(h_i)_j$ and $z_{i,j}=(z_i)_j$. The parameter vector $\theta_i$ collects all entries of $W_i$ and $b_i$.
+
+- With the parameters of layer $i$ collected into a vector $\theta_i$, the **chain rule** expands to:
+  $$
+  \nabla_{\theta_i}L
+  = \left(\frac{\partial h_i}{\partial\theta_i}\right)^T
+  \underbrace{
+  \left(\frac{\partial h_{i+1}}{\partial h_i}\right)^T
+  \cdots
+  \left(\frac{\partial h_M}{\partial h_{M-1}}\right)^T
+  \nabla_{h_M}\ell(h_M,y)
+  }_{\nabla_{h_i}L}.
+  $$
+  For $i=M$, the product of later-layer Jacobians is empty and is interpreted as the identity. The transposes follow from the column-vector gradient convention; the rightmost factor acts first.
+
+The following diagram shows computation for the entire layer. Every neuron in layer $i$ has the same affine-plus-elementwise-activation structure. The darker row makes one coordinate easier to read; the pale rows, their biases, and their incoming and outgoing connections participate in the same layer computation. The layer boundary groups these rows into $f_i$, and the brackets below collect complete columns into vector quantities. All backward formulas apply to entire vectors or matrices: $g_i$ and $\delta_i$ contain all neuron coordinates, $\nabla_{W_i}L$ is a $d_i\times d_{i-1}$ matrix, and $\nabla_{b_i}L$ is a $d_i$-vector. The numbered factors (1)-(4) match the expanded chain rule.
+
+```tikz
+\begin{document}%
+% Fixed opaque palette: identical contrast in light and dark page themes.
+\definecolor{DiagramPaper}{HTML}{F8FAFC}%
+\definecolor{DiagramInk}{HTML}{1F2937}%
+\definecolor{DiagramForward}{HTML}{1D4ED8}%
+\definecolor{DiagramOperation}{HTML}{0F766E}%
+\definecolor{DiagramBackward}{HTML}{9A3412}%
+\definecolor{DiagramConnection}{HTML}{5D77A0}%
+\definecolor{DiagramValueFill}{HTML}{EDF2FF}%
+\definecolor{DiagramOperationFill}{HTML}{E7F4F1}%
+\definecolor{DiagramParameterFill}{HTML}{EEF2F6}%
+\definecolor{DiagramAuxFill}{HTML}{F1F5F9}%
+\definecolor{DiagramAuxLine}{HTML}{7A8798}%
+\definecolor{DiagramAuxInk}{HTML}{526174}%
+\definecolor{DiagramFrame}{HTML}{A8B2C0}%
+\pgfdeclarelayer{diagrambackground}%
+\pgfsetlayers{diagrambackground,main}%
+\begin{tikzpicture}[
+  font=\small, >=stealth, color=DiagramInk, text=DiagramInk,
+  neuron/.style={circle, draw=DiagramForward, fill=DiagramValueFill,
+    minimum size=0.95cm, inner sep=1pt, font=\scriptsize},
+  operation/.style={draw=DiagramOperation, fill=DiagramOperationFill,
+    rounded corners=2pt, minimum width=0.85cm,
+    minimum height=0.75cm, inner sep=3pt},
+  faint/.style={draw=DiagramAuxLine, fill=DiagramAuxFill, text=DiagramAuxInk},
+  forward/.style={->, draw=DiagramForward, line width=0.9pt},
+  connection/.style={->, draw=DiagramConnection,
+    line width=0.6pt},
+  faintconnection/.style={->, draw=DiagramAuxLine, line width=0.6pt},
+  backward/.style={->, dashed, draw=DiagramBackward, line width=0.95pt},
+  factor/.style={fill=DiagramPaper, inner sep=2pt, font=\scriptsize},
+  gradient/.style={text=DiagramBackward, fill=DiagramPaper,
+    inner sep=3pt, align=center},
+  labeltext/.style={font=\scriptsize, align=center}
+]
+\node[font=\bfseries] at (7.5,5.85)
+  {Layer-wise forward and backward propagation};
+\draw[forward] (-0.1,4.55) -- (15.2,4.55);
+\node[fill=DiagramPaper, text=DiagramForward] at (7.5,5.1)
+  {Forward, entire layer: $z_i=W_i h_{i-1}+b_i$,
+   \quad $h_i=\phi_i(z_i)$};
+
+% All neurons of layer i share the same affine-plus-activation structure.
+% The darker middle row only makes the coordinate notation easier to read.
+\draw[draw=DiagramOperation, dashed, rounded corners=4pt]
+  (1.25,-3.05) rectangle (6.55,3.55);
+\node[factor, text=DiagramOperation] at (3.9,3.55)
+  {Layer $i$: all neurons};
+\node[neuron] (inputone) at (0,2.0) {$h_{i-1,1}$};
+\node[neuron] (inputk) at (0,0) {$h_{i-1,k}$};
+\node[neuron] (inputlast) at (0,-2.0) {$h_{i-1,d_{i-1}}$};
+
+% The other rows are drawn explicitly, including their bias inputs.
+\foreach \tag/\row/\y in {one/1/2.0,last/{d_i}/-2.0} {
+  \node[circle, faint, minimum size=0.75cm] (sum\tag) at (2.0,\y) {$\sum$};
+  \node[fill=DiagramPaper, text=DiagramAuxInk, minimum width=0.8cm,
+    minimum height=0.65cm, font=\small] (z\tag) at (3.3,\y) {$z_{i,\row}$};
+  \node[operation, faint] (phi\tag) at (4.6,\y) {$\phi_i$};
+  \node[neuron, faint] (h\tag) at (5.9,\y) {$h_{i,\row}$};
+  \node[text=DiagramAuxInk] (bias\tag) at (2.0,\y+0.95) {$b_{i,\row}$};
+  \foreach \source in {inputone,inputk,inputlast} {
+    \draw[faintconnection] (\source) -- (sum\tag);
+  }
+  \draw[faintconnection] (bias\tag) -- (sum\tag);
+  \draw[faintconnection] (sum\tag) -- (z\tag);
+  \draw[faintconnection] (z\tag) -- (phi\tag);
+  \draw[faintconnection] (phi\tag) -- (h\tag);
+}
+\node[circle, draw=DiagramOperation, fill=DiagramOperationFill,
+  minimum size=0.75cm] (sumj) at (2.0,0) {$\sum$};
+\node[fill=DiagramPaper, minimum width=0.8cm, minimum height=0.65cm]
+  (zj) at (3.3,0) {$z_{i,j}$};
+\node[operation] (phij) at (4.6,0) {$\phi_i$};
+\node[neuron, draw=DiagramOperation, fill=DiagramOperationFill, line width=1.1pt]
+  (hj) at (5.9,0) {$h_{i,j}$};
+\node (biasj) at (2.0,0.95) {$b_{i,j}$};
+\draw[forward] (inputone) -- (sumj);
+\draw[forward] (inputk) -- node[factor, above, pos=0.5]
+  {$w^{(i)}_{jk}$} (sumj);
+\draw[forward] (inputlast) -- (sumj);
+\draw[forward] (biasj) -- (sumj);
+\draw[forward] (sumj) -- (zj);
+\draw[forward] (zj) -- (phij);
+\draw[forward] (phij) -- (hj);
+\node[labeltext] at (3.9,-2.78)
+  {All rows form $f_i$; $\theta_i:\ W_i,b_i$.};
+
+\foreach \r/\y in {1/2.0,2/0,3/-2.0} {
+  \node[neuron] (next\r) at (8.1,\y) {$h_{i+1,\r}$};
+  \node (skip\r) at (9.35,\y) {$\cdots$};
+  \node[neuron] (before\r) at (10.6,\y) {$h_{M-1,\r}$};
+  \node[neuron] (out\r) at (12.8,\y) {$h_{M,\r}$};
+}
+\foreach \source in {hone,hlast} {
+  \foreach \r in {1,2,3} { \draw[faintconnection] (\source) -- (next\r); }
+}
+\foreach \r in {1,2,3} { \draw[connection] (hj) -- (next\r); }
+\foreach \s in {1,2,3} {
+  \foreach \t in {1,2,3} { \draw[connection] (before\s) -- (out\t); }
+}
+\node[labeltext] at (0,4.0) {Previous layer\\$h_{i-1}$};
+\node[labeltext] at (3.3,4.0) {Pre-activations\\$z_i$};
+\node[labeltext] at (5.9,4.0) {Layer output\\$h_i$};
+\node[labeltext] at (8.1,4.0) {Layer $i+1$\\$h_{i+1}$};
+\node[labeltext] at (10.6,4.0) {Layer $M-1$\\$h_{M-1}$};
+\node[labeltext] at (12.8,4.0) {Output\\$h_M=\hat y$};
+\node[factor, text=DiagramForward] at (7.0,2.7) {$W_{i+1}$};
+\node[factor, text=DiagramForward] at (11.7,2.7) {$W_M$};
+\node[circle, draw=DiagramAuxLine, minimum size=0.8cm] (loss) at (15.1,0) {$L$};
+\node (target) at (15.1,2.7) {$y$};
+\draw[forward] (target) -- (loss);
+\foreach \r in {1,2,3} { \draw[connection] (out\r) -- (loss); }
+\node[factor] at (14.0,2.7) {$\ell\ (4)$};
+
+% Brackets refer to complete columns, including the pale rows.
+\foreach \x in {0,3.3,5.9,8.1,10.6,12.8} {
+  \draw[draw=DiagramAuxLine, line width=0.6pt]
+    (\x-0.5,-3.2) -- (\x-0.5,-3.45) --
+    (\x+0.5,-3.45) -- (\x+0.5,-3.2);
+  \draw[draw=DiagramAuxLine, densely dotted] (\x,-3.45) -- (\x,-4.3);
+}
+\node[anchor=west, fill=DiagramPaper, text=DiagramBackward, font=\bfseries]
+  at (-0.6,-3.95) {Backward: entire vectors};
+\node[gradient] (gprev) at (0,-4.65) {$g_{i-1}$};
+\node[gradient] (delta) at (3.3,-4.65) {$\delta_i$};
+\node[gradient] (gi) at (5.9,-4.65) {$g_i$};
+\node[gradient] (gnext) at (8.1,-4.65) {$g_{i+1}$};
+\node[gradient] (gskip) at (9.35,-4.65) {$\cdots$};
+\node[gradient] (gbefore) at (10.6,-4.65) {$g_{M-1}$};
+\node[gradient] (gout) at (12.8,-4.65) {$g_M$};
+\node[gradient] (seed) at (15.1,-4.65) {$1$};
+\draw[backward] (seed) -- node[factor, above] {$\nabla_{h_M}\ell\ (4)$} (gout);
+\draw[backward] (gout) -- node[factor, above] {$J_M^T\ (3)$} (gbefore);
+\draw[backward] (gbefore) -- (gskip);
+\draw[backward] (gskip) -- (gnext);
+\draw[backward] (gnext) -- node[factor, above] {$J_{i+1}^T\ (2)$} (gi);
+\draw[backward] (gi) -- node[factor, above] {$\odot\,\phi_i'(z_i)$} (delta);
+\draw[backward] (delta) -- node[factor, above] {$W_i^T$} (gprev);
+\node[labeltext] at (15.1,-5.25) {$\partial L/\partial L$};
+
+% All local backward results retain their vector or matrix shape.
+\node[gradient] at (0,-5.55)
+  {$g_{i-1}=W_i^T\delta_i$\\[3pt]{\scriptsize $d_{i-1}$-vector}};
+\node[gradient] (weightgrad) at (1.1,-6.8)
+  {Weight gradient\\[4pt]$\displaystyle
+    \nabla_{W_i}L=\delta_i h_{i-1}^T$\\[4pt]
+    {\scriptsize $d_i\times d_{i-1}$ matrix}};
+\node[gradient] (biasgrad) at (5.4,-6.8)
+  {Bias gradient\\[4pt]$\displaystyle
+    \nabla_{b_i}L=\delta_i$\\[4pt]{\scriptsize $d_i$-vector}};
+\draw[backward] (delta) -- node[factor, above left] {$h_{i-1}^T$} (weightgrad);
+\draw[backward] (delta) -- node[factor, above right] {$I_{d_i}$} (biasgrad);
+\node[align=center, text=DiagramBackward] at (11.4,-5.9)
+  {$\displaystyle g_i=\nabla_{h_i}L,\qquad
+     \delta_i=\nabla_{z_i}L$\\[7pt]
+   $\displaystyle \delta_i=g_i\odot\phi_i'(z_i)$};
+\node[align=center] at (11.3,-7.35)
+  {$\displaystyle \nabla_{\theta_i}L
+   =\underbrace{P_i^T}_{(1)}
+    \underbrace{J_{i+1}^T}_{(2)}\cdots
+    \underbrace{J_M^T}_{(3)}
+    \underbrace{\nabla_{h_M}\ell(h_M,y)}_{(4)}$};
+\node[align=center, font=\footnotesize] at (7.5,-8.75)
+  {$P_i=\partial h_i/\partial\theta_i,\qquad
+    J_k=\partial h_k/\partial h_{k-1}$\\[5pt]
+   The dark row explains the notation; every row participates in the vector computations.\\[3pt]
+   Only representative neurons are drawn; intervening layers are omitted.};
+% An opaque canvas prevents page themes from showing through the diagram.
+\begin{pgfonlayer}{diagrambackground}
+\path[fill=DiagramPaper, draw=DiagramFrame, line width=0.5pt,
+  rounded corners=5pt]
+  ([xshift=-8pt,yshift=-8pt]current bounding box.south west)
+  rectangle
+  ([xshift=8pt,yshift=8pt]current bounding box.north east);
+\end{pgfonlayer}
+\end{tikzpicture}
+\end{document}
+```
+
+$P_i$ maps changes in the parameters of layer $i$ to changes in its output; $J_k$ maps changes in the input of layer $k$ to changes in its output. For the affine-plus-elementwise-activation layer above,
 $$
-g_{i-1} = \left(\frac{\partial h_i}{\partial h_{i-1}}\right)^T g_i.
+J_k = \operatorname{diag}(\phi_k'(z_k))W_k, \qquad
+J_k^T g_k = W_k^T\bigl(g_k\odot\phi_k'(z_k)\bigr) = W_k^T\delta_k,
 $$
-Here $\partial h_i / \partial h_{i-1}$ is a Jacobian. If $\theta_i$ is the vector of parameters belonging only to layer $i$, its gradient is:
+where $\delta_k=\nabla_{z_k}L$. Thus each $J_k^T$ factor backpropagates through both the activation and the affine transformation of that layer.
+
+In general, define the loss gradient with respect to the layer activation as $g_i = \nabla_{h_i}L$. The expanded product is evaluated recursively: starting with $g_M = \nabla_{h_M}\ell(h_M,y)$, propagate $$g_{i-1} = \left(\frac{\partial h_i}{\partial h_{i-1}}\right)^T g_i, \qquad i=M,\ldots,1.$$
+Here $\partial h_i / \partial h_{i-1}$ is the Jacobian matrix, with entries $[\partial h_i / \partial h_{i-1}]_{jk} = \partial(h_i)_j / \partial(h_{i-1})_k$. The gradient with respect to the parameters belonging only to layer $i$ is then:
 $$
 \nabla_{\theta_i}L = \left(\frac{\partial h_i}{\partial\theta_i}\right)^T g_i.
 $$
@@ -588,30 +897,20 @@ $$
 For the common layer $z_i = W_i h_{i-1} + b_i$, $h_i = \phi_i(z_i)$, with an elementwise activation:
 - $W_i\in\mathbb{R}^{d_i\times d_{i-1}}$, $h_{i-1}\in\mathbb{R}^{d_{i-1}}$, and $z_i,b_i,h_i\in\mathbb{R}^{d_i}$.
 - The gradient arriving from the loss /later layers is $g_i = \nabla_{h_i}L$.
-- First backpropagate through the activation:
-$$
-\delta_i = \nabla_{z_i}L = g_i \odot \phi_i'(z_i),
-$$
-where $\odot$ means elementwise multiplication. For a non-elementwise operation, use its Jacobian-transpose product instead.
-- Then backpropagate through the affine transformation:
-$$
-\nabla_{W_i}L = \delta_i h_{i-1}^T, \qquad
-\nabla_{b_i}L = \delta_i, \qquad
-g_{i-1} = W_i^T\delta_i.
-$$
-- Thus, for consecutive affine-plus-elementwise-activation layers:
-$$
-\delta_i = (W_{i+1}^T\delta_{i+1})\odot\phi_i'(z_i), \qquad i=M-1,\ldots,1,
-$$
-with $\delta_M = (\nabla_{h_M}\ell(h_M,y))\odot\phi_M'(z_M)$.
+- First backpropagate through the activation: $$\delta_i = \nabla_{z_i}L = g_i \odot \phi_i'(z_i),$$where $\odot$ means elementwise multiplication. For a non-elementwise operation, use its Jacobian-transpose product instead.
+- Then backpropagate through the affine transformation: $$ \nabla_{W_i}L = \delta_i h_{i-1}^T, \qquad \nabla_{b_i}L = \delta_i, \qquad g_{i-1} = W_i^T\delta_i.$$
+- Thus, for consecutive affine-plus-elementwise-activation layers: $$\delta_i = (W_{i+1}^T\delta_{i+1})\odot\phi_i'(z_i), \qquad i=M-1,\ldots,1,$$with $\delta_M = (\nabla_{h_M}\ell(h_M,y))\odot\phi_M'(z_M)$.
 
-The forward pass computes intermediate values; the backward pass starts at the loss and uses those values to calculate gradients for layers $M,M-1,\ldots,1$. For a mini-batch average loss, parameter gradients are averaged across its examples. In a graph with branches or shared parameters, gradient contributions from all relevant paths are summed.
+The forward pass computes intermediate values; the backward pass starts at the loss and uses those values to calculate gradients for layers $M,M-1,\ldots,1$. **For a mini-batch average loss, parameter gradients are averaged across its examples**. In a graph with branches or shared parameters, gradient contributions from all relevant paths are summed.
 
-**Backpropagation computes gradients; an optimizer uses them to update parameters.** For vanilla ==gradient descent==, with learning rate $\eta>0$:
-$$
-W_i^{\mathrm{new}} = W_i - \eta\nabla_{W_i}J, \qquad
-b_i^{\mathrm{new}} = b_i - \eta\nabla_{b_i}J.
-$$
+> [!TIP]
+> For $$Y=XW+b$$
+> 
+> If we know: $$G_Y=\frac{\partial L}{\partial Y}$$
+> 
+> Then we know: $$G_W=X^\top G_Y, \\ G_b=\sum_i G_{Y,i}, \\ G_X=G_YW^\top$$
+
+Backpropagation only computes raw gradients; an optimizer uses them to actually update parameters. For vanilla ==gradient descent==, with learning rate $\eta>0$: $$W_i^{\mathrm{new}} = W_i - \eta\nabla_{W_i}J, \qquad b_i^{\mathrm{new}} = b_i - \eta\nabla_{b_i}J.$$
 - $\nabla_{W_i}J$ is the **gradient**, whereas $\Delta W_i = W_i^{\mathrm{new}} - W_i = -\eta\nabla_{W_i}J$ is the **parameter update**.
 - We may write $W_i^{\mathrm{new}} = W_i + \Delta W_i$, but adding the positive gradient with a positive learning rate would be gradient ascent, not descent.
 - Using a mini-batch gradient gives a stochastic gradient descent (SGD) update.
@@ -620,8 +919,14 @@ $$
 	- update: one gradient update (for one feed input)
 
 More generally, write $\theta_{t+1} = \theta_t + \eta_t d_t$, where $d_t$ is the update direction (contain raw gradient information); vanilla gradient descent uses $d_t = -\nabla_{\theta}J(\theta_t)$. To improve optimization:
-- choose the update direction using gradient history or adaptive scaling, e.g. momentum or Adam.
-- choose the learning rate /step size $\eta_t$, possibly using a **Learning Rate (LR) Schedule**.
+- ⭐ choose the update direction using gradient history or adaptive scaling
+	- e.g. momentum or Adam.
+- ⭐ choose the learning rate /step size $\eta_t$, possibly using a **Learning Rate (LR) Schedule**.
+	- two meanings for learning rates
+		- during one model training, $\eta_i$ for all $\theta_i$
+			- e.g. Adam
+		- weight transfer for different model training
+			- e.g. muP
 - use curvature or other structural information where appropriate.
 - ...
 3️⃣ These are <a>optimization problems</a> (↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md)).

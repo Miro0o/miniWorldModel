@@ -85,6 +85,7 @@ Chebyshev acceleration
 Anderson acceleration
 
 
+
 ## Conjugate Gradient (CG) Methods
 > 🔗 https://en.wikipedia.org/wiki/Conjugate_gradient_method
 

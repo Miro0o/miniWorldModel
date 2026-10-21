@@ -229,8 +229,9 @@ A convolutional neural network consists of an input layer, [hidden layers](http
 ### Architecture Components
 Recognize objects in images:
 - **Translation invariance:** similar output no matter where the object is
-- **Locality**:pixels are more related to near neighbors
-weight sharing
+- **Locality**: pixels are more related to near neighbors
+CNN leverage these properties, and an additional design:
+- weight sharing
 
 #### Convolution Layer
 

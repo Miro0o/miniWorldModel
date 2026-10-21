@@ -21,6 +21,7 @@
 
 ## Random Variable
 ### Definition of Random (Stochastic) Variable
+> [!Links]
 > ↗ [σ-Algebra (sigma Algebra)](../../σ-Algebra%20(sigma%20Algebra)/σ-Algebra%20(sigma%20Algebra).md)
 
 ![](../../../../../../Assets/Pics/Screenshot%202025-11-15%20at%2022.46.56.png)
@@ -49,6 +50,7 @@
 
 
 ### Numeric Characteristics of Random Variables
+i.i.d. independent and identically distributed
 
 
 

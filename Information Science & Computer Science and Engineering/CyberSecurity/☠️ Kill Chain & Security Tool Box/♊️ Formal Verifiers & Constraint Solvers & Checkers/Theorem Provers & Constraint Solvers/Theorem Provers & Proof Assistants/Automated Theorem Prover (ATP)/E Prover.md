@@ -1,4 +1,4 @@
-# Mini-Batch Stochastic Gradient Methods
+# E Prover
 
 [TOC]
 

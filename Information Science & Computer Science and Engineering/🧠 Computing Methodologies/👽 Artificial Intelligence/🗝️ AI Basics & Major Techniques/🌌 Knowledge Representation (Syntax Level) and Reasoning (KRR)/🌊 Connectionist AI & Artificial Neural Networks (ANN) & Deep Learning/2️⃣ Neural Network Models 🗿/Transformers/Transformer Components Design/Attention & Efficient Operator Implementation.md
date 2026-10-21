@@ -236,10 +236,36 @@ DeepSeek 的一套 Attention 实现可以同时具有 MLA 的 KV 压缩、DSA �
 ## Hardware-Efficient Attention
 > [!links]
 > ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
+> ↗ [vLLM](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
+> ↗ [SGLang](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
+> 
 > ↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL.md)
+> ↗ [NVIDIA TensorRT & TensorRT-LLM](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/NVIDIA%20TensorRT%20&%20TensorRT-LLM/NVIDIA%20TensorRT%20&%20TensorRT-LLM.md)
 
 
 ### FlashAttention
+🚧 https://github.com/dao-ailab/flash-attention
+
+> [!Summary]
+> **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness**  
+> Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré  
+> Paper: [https://arxiv.org/abs/2205.14135](https://arxiv.org/abs/2205.14135)
+> ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020261019103130.png)
+> 
+> ---
+> **FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning**  
+> Tri Dao
+> Paper: [https://tridao.me/publications/flash2/flash2.pdf](https://tridao.me/publications/flash2/flash2.pdf)
+>
+> ---
+> FlashAttention-3 is optimized for Hopper GPUs (e.g. H100).
+> Blogpost: [https://tridao.me/blog/2024/flash3/](https://tridao.me/blog/2024/flash3/)
+> Paper: [https://tridao.me/publications/flash3/flash3.pdf](https://tridao.me/publications/flash3/flash3.pdf)
+> 
+> ---
+> FlashAttention-4 (CuTeDSL)
+> FlashAttention-4 is written in CuTeDSL and optimized for Hopper and Blackwell GPUs (e.g. H100, B200).
+
 > 🤖 GPT 6.0 Astra
 > https://chatgpt.com/share/6acb5da7-95d4-83ec-b1b4-3763ed192d6e
 
@@ -248,6 +274,12 @@ DeepSeek 的一套 Attention 实现可以同时具有 MLA 的 KV 压缩、DSA �
 
 
 ### FlashInfer
+🚧 https://github.com/flashinfer-ai/flashinfer
+**FlashInfer** is a library and kernel generator for inference that delivers state-of-the-art performance across diverse GPU architectures. It provides unified APIs for attention, GEMM, and MoE operations with multiple backend implementations including FlashAttention-2/3, cuDNN, CUTLASS, and TensorRT-LLM.
+
+https://arxiv.org/pdf/2501.01005
+FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving
+[Zihao Ye](https://arxiv.org/search/cs?searchtype=author&query=Ye,+Z), [Lequn Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen,+L), [Ruihang Lai](https://arxiv.org/search/cs?searchtype=author&query=Lai,+R), [Wuwei Lin](https://arxiv.org/search/cs?searchtype=author&query=Lin,+W), [Yineng Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang,+Y), [Stephanie Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang,+S), [Tianqi Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen,+T), [Baris Kasikci](https://arxiv.org/search/cs?searchtype=author&query=Kasikci,+B), [Vinod Grover](https://arxiv.org/search/cs?searchtype=author&query=Grover,+V), [Arvind Krishnamurthy](https://arxiv.org/search/cs?searchtype=author&query=Krishnamurthy,+A), [Luis Ceze](https://arxiv.org/search/cs?searchtype=author&query=Ceze,+L)
 
 
 
@@ -264,14 +296,17 @@ DeepSeek 的一套 Attention 实现可以同时具有 MLA 的 KV 压缩、DSA �
 
 ## Sparse Attention
 > [!links]
-> From Dense Attention to Sparse Attention
 > ↗ [MoE (Mixture of Experts) Architecture](../Transformer%20Architecture%20Design/MoE%20(Mixture%20of%20Experts)%20Architecture.md)
 
 > 🤖 GPT 6.1 Sol
 > https://chatgpt.com/share/6ace59a4-16f0-83ec-91ba-bcb18bbb172b (lec9)
 
-
-Sliding Window Attention
+Patterns
+- local /sliding window attention
+- global attention
+- strided /dilated attention
+- block space attention
+- random /content-dependent sparse attention
 
 
 Retained Attention Mass
@@ -321,6 +356,11 @@ Dynamic selection
 
 > 🤖 GPT 6.1 Sol
 > https://chatgpt.com/share/6ace59a4-16f0-83ec-91ba-bcb18bbb172b (lec9)
+
+
+Kernel Based Linear Attention
+
+Causal Linear Attention
 
 
 ### DeltaNet /Gated DeltaNet

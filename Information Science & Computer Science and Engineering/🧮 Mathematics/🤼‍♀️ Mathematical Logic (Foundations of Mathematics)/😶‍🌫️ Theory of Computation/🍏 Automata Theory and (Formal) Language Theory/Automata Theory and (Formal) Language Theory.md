@@ -101,7 +101,7 @@ In [logic](https://en.wikipedia.org/wiki/Logic "Logic"), [mathematics](https:/
 #### Formal Logic & Automated Reasoning
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 - ↗ [Formal System, Formal Semantics, and Formal Logic](../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
-↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 #### Formal Syntax
 ↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 #### Formal Semantics

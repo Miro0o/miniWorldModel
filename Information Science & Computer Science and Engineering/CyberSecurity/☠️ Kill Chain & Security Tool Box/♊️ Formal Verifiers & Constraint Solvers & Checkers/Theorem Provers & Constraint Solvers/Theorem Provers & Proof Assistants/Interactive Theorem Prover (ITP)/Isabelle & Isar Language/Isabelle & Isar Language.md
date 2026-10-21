@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Standard ML (SML)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Standard%20ML%20(SML)/Standard%20ML%20(SML).md)
+↗ [Standard ML (SML)](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Standard%20ML%20(SML)/Standard%20ML%20(SML).md)
 
 
 ### Other Resources

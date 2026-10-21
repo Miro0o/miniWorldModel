@@ -107,7 +107,7 @@ Bottom-up Marking Algorithm
 
 #### Bounded (SAT-Based) Symbolic Model Checking (BMC)
 > [!links]
-> ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Theorem%20Provers%20&%20Constraint%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+> ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
 > ↗ [SAT Solving & Algorithms](../../🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md)
 
 > used to find bugs
@@ -189,9 +189,9 @@ SAT 表示存在长度为 \(k\) 的 counterexample。
 > ↗ [Syntactic Analysis (Parsing)](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/Syntactic%20Analysis%20(Parsing).md)
 > ↗ [Semantic Analysis](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
 > 
-> ↗ [CBMC (C Bounded Model Checker)](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/CBMC%20(C%20Bounded%20Model%20Checker).md)
-> ↗ [PRISM](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/PRISM.md)
-> ↗ [OFMC (Open-Source Fixed-Point Model-Checker)](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/OFMC%20(Open-Source%20Fixed-Point%20Model-Checker).md)
+> ↗ [CBMC (C Bounded Model Checker)](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/CBMC%20(C%20Bounded%20Model%20Checker).md)
+> ↗ [PRISM](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/PRISM.md)
+> ↗ [OFMC (Open-Source Fixed-Point Model-Checker)](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/OFMC%20(Open-Source%20Fixed-Point%20Model-Checker).md)
 
 
 ### Problem (System) Modeling & Intermediate Representation
@@ -229,7 +229,7 @@ nondeterminism
 
 ### BMC-Based MC For C
 > [!Links]
-> ↗ [CBMC (C Bounded Model Checker)](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/CBMC%20(C%20Bounded%20Model%20Checker).md)
+> ↗ [CBMC (C Bounded Model Checker)](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/🤼%20Model%20Checker%20&%20Symbolic%20Model%20Verifier%20(SMV)/CBMC%20(C%20Bounded%20Model%20Checker).md)
 
 > 🤖 GPT 6.1 Sol
 > https://chatgpt.com/share/6ad085a1-6104-83ec-851f-371c8ed85df3
@@ -293,7 +293,7 @@ partial order reduction
 
 symbolic model checking
 - ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md)
-- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Theorem%20Provers%20&%20Constraint%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
 
 compositional reasoning
 

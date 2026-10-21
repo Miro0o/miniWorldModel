@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Linear Map](../../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/📌%20Linear%20Algebra%20Basics/Linear%20Map.md)
+↗ [Linear Map](../../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Vector%20&%20Vector%20Space%20(Linear%20Space)/Linear%20Map.md)
 
 
 ### Learning Resources

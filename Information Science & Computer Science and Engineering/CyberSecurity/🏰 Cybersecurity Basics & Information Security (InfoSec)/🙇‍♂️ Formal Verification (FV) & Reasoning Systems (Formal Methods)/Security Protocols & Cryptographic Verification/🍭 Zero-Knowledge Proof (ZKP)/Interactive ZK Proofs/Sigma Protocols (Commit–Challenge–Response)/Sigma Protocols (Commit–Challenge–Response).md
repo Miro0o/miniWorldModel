@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [ElGamal](../../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/📌%20Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Modular%20Exponentiation%20Based/ElGamal/ElGamal.md)
 
-↗ [CryptHOL](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Theorem%20Provers%20&%20Constraint%20Solvers/Generic%20&%20Automated%20Theorem%20Provers%20(ATP)/Isabelle%20&%20Isar%20Language/CryptHOL.md)
+↗ [CryptHOL](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Interactive%20Theorem%20Prover%20(ITP)/Isabelle%20&%20Isar%20Language/CryptHOL.md)
 
 
 ### Other Resources

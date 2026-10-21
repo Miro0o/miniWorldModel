@@ -232,7 +232,7 @@ https://youtu.be/1il-s4mgNdI?si=DxlD_98ITLZsnCIw
 What does it mean for computers to understand language? | LM1
 vcubingx
 
-👍 👍 👍Andrej Karpathy
+👍 👍 👍 Andrej Karpathy
 🎬 [Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=zfnvhJmbQC26LAwN)
 - https://youtu.be/VMj-3S1tku0?si=TDg1gcB9wF5OF3VK
 	- The spelled-out intro to neural networks and backpropagation: building micrograd
@@ -283,21 +283,6 @@ February 11, 2026 / 28 min read
 https://faichou.com/posts/llm-cache/
 LLM 缓存机制：从计费到原理
 February 5, 2026 / 15 min read
-#### Projects & Libraries
-https://github.com/karpathy/nanogpt
-The simplest, fastest repository for training/finetuning medium-sized GPTs. It is a rewrite of [minGPT](https://github.com/karpathy/minGPT) that prioritizes teeth over education. Still under active development, but currently the file `train.py` reproduces GPT-2 (124M) on OpenWebText, running on a single 8XA100 40GB node in about 4 days of training. The code itself is plain and readable: `train.py` is a ~300-line boilerplate training loop and `model.py` a ~300-line GPT model definition, which can optionally load the GPT-2 weights from OpenAI. That's it.
-
-https://github.com/karpathy/nanochat
-nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$43,000 to train in 2019) for only $48 (~2 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI. On a spot instance, the total cost can be closer to ~$15. More generally, nanochat is configured out of the box to train an entire miniseries of compute-optimal models by setting one single complexity dial: `--depth`, the number of layers in the GPT transformer model (GPT-2 capability happens to be approximately depth 26). All other hyperparameters (the width of the transformer, number of heads, learning rate adjustments, training horizons, weight decays, ...) are calculated automatically in an optimal way.
-For questions about the repo, I recommend either using [DeepWiki](https://deepwiki.com/karpathy/nanochat) from Devin/Cognition to ask questions about the repo, or use the [Discussions tab](https://github.com/karpathy/nanochat/discussions), or come by the [#nanochat](https://discord.com/channels/1020383067459821711/1427295580895314031) channel on Discord.
-
-https://github.com/Ashx098/Mini-LLM
-A production-grade implementation of a decoder-only transformer language model, built from scratch with modern best practices. This project demonstrates the complete pipeline from raw text to a functioning LLM capable of text generation.
-- **Google** for [SentencePiece](https://github.com/google/sentencepiece) tokenizer
-- **Hugging Face** for [Transformers](https://github.com/huggingface/transformers) library
-
-https://github.com/WKQ9411/Mini-LLM
-本项目旨在基于较小的算力，复现当前主流开源模型的架构，实现一个 100-200M 参数量版本的迷你模型。项目将数据集、训练流程等基础设施尽可能固定下来，以便在学习新的模型架构时能够快速复现，从而将主要精力聚焦在模型架构的学习和复现上。
 
 
 ### Papers & Researches
@@ -457,6 +442,11 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 	- ↗ [Context Engineering & ICL (In-Context Learning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/Context%20Engineering%20&%20ICL%20(In-Context%20Learning).md)
 #### LLM Reasoning & Large Reasoning Models (LRM) 🤔
 > [!links]
+> ↗ [Logic (and Critical Thinking)](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md) "reasoning"
+> 
+> ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+> 
 > ↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20(Reasoning%20Language%20Model)%20&%20LRM%20(Large%20Reasoning%20Model).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Reasoning_model
@@ -471,6 +461,8 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 ### LLM Infrastructure & Deployment
 ↗ [LLM Infrastructure (Deployment & Inference)](LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
 ↗ [AI (Data) Infrastructure & Techniques Stack](../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
+
+↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL.md)
 
 
 ### LLM Applications & LLM-Driven Automation
@@ -571,6 +563,52 @@ Artificial General Intelligence?
 ↗ [DeepSeek](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
 
 ↗ [Meta LLama](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Meta%20LLama.md)
+
+
+
+## Case Study: Build a LLM from Scratch
+> [!links]
+> ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning.md) "optimization"
+> 
+> ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md) ⭐
+> > [!TIP] 🤖 GPT 6.0 Astra
+> > https://chatgpt.com/share/6ac505cc-7e9c-83ec-8de1-8ab0731d1161 (theory)
+> > https://chatgpt.com/share/6ad4ef23-f5a4-83ec-b676-42414319db1e (practice) ⭐
+> > (step by step explanation, forward + backward)
+> 
+> ↗ [Attention & Efficient Operator Implementation](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
+
+
+👍 👍 👍 Andrej Karpathy
+🎬 [Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=zfnvhJmbQC26LAwN)
+- https://youtu.be/VMj-3S1tku0?si=TDg1gcB9wF5OF3VK
+	- The spelled-out intro to neural networks and backpropagation: building micrograd
+- https://youtu.be/PaCmpygFfXo?si=Z845OJ-7Xo25WUeF
+	- The spelled-out intro to language modeling: building makemore
+- https://youtu.be/kCc8FmEb1nY?si=Dhj1moY2pHkyiCiT
+	- Let's build GPT: from scratch, in code, spelled out.
+- https://youtu.be/zduSFxRajkE?si=CjiI41S49hiXhUPs
+	- Let's build the GPT Tokenizer
+- https://youtu.be/l8pRSuU81PU?si=3E5YttKgEyNX5-Dg
+	- Let's reproduce GPT-2 (124M)
+
+
+---
+
+https://github.com/karpathy/nanogpt
+The simplest, fastest repository for training/finetuning medium-sized GPTs. It is a rewrite of [minGPT](https://github.com/karpathy/minGPT) that prioritizes teeth over education. Still under active development, but currently the file `train.py` reproduces GPT-2 (124M) on OpenWebText, running on a single 8XA100 40GB node in about 4 days of training. The code itself is plain and readable: `train.py` is a ~300-line boilerplate training loop and `model.py` a ~300-line GPT model definition, which can optionally load the GPT-2 weights from OpenAI. That's it.
+
+https://github.com/karpathy/nanochat
+nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$43,000 to train in 2019) for only $48 (~2 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI. On a spot instance, the total cost can be closer to ~$15. More generally, nanochat is configured out of the box to train an entire miniseries of compute-optimal models by setting one single complexity dial: `--depth`, the number of layers in the GPT transformer model (GPT-2 capability happens to be approximately depth 26). All other hyperparameters (the width of the transformer, number of heads, learning rate adjustments, training horizons, weight decays, ...) are calculated automatically in an optimal way.
+For questions about the repo, I recommend either using [DeepWiki](https://deepwiki.com/karpathy/nanochat) from Devin/Cognition to ask questions about the repo, or use the [Discussions tab](https://github.com/karpathy/nanochat/discussions), or come by the [#nanochat](https://discord.com/channels/1020383067459821711/1427295580895314031) channel on Discord.
+
+https://github.com/Ashx098/Mini-LLM
+A production-grade implementation of a decoder-only transformer language model, built from scratch with modern best practices. This project demonstrates the complete pipeline from raw text to a functioning LLM capable of text generation.
+- **Google** for [SentencePiece](https://github.com/google/sentencepiece) tokenizer
+- **Hugging Face** for [Transformers](https://github.com/huggingface/transformers) library
+
+https://github.com/WKQ9411/Mini-LLM
+本项目旨在基于较小的算力，复现当前主流开源模型的架构，实现一个 100-200M 参数量版本的迷你模型。项目将数据集、训练流程等基础设施尽可能固定下来，以便在学习新的模型架构时能够快速复现，从而将主要精力聚焦在模型架构的学习和复现上。
 
 
 
