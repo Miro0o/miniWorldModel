@@ -13,7 +13,7 @@
 
 
 ### Related Topics
-↗ [AI on Cloud](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20on%20Cloud/AI%20on%20Cloud.md)
+↗ [AI on Cloud](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/AI%20on%20Cloud/AI%20on%20Cloud.md)
 
 
 ### Other Resources
@@ -28,7 +28,7 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 
 
 ### Cloud Computing Models
-↗ [Cloud Service (Delivery) Models](../../Cloud%20Service%20(Delivery)%20Models.md)
+↗ [Cloud Service (Delivery) Models](../../Cloud%20Service%20%28Delivery%29%20Models.md)
 
 
 ### Cloud Computing Deployment Models
@@ -45,7 +45,7 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 
 
 ### 🤔 To learn more
-🔗 Go to [Amazon Web Service (AWS)](../../../../Cloud%20Service%20Porviders/Amazon%20Web%20Service%20(AWS)/Amazon%20Web%20Service%20(AWS).md) to learn more. AWS is the world-leading cloud services provider.
+🔗 Go to [Amazon Web Service (AWS)](../../../../Cloud%20Service%20Porviders/Amazon%20Web%20Service%20%28AWS%29/Amazon%20Web%20Service%20%28AWS%29.md) to learn more. AWS is the world-leading cloud services provider.
 
 🔗 [Cloud Computing](Cloud%20Computing.md)
 
@@ -55,7 +55,7 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 ### [AWS](https://aws.amazon.com)
 ![](../../../../../../../../Assets/Pics/D9FE9AC9-DD57-4FB0-BDB7-3A87F5BC6920.png)
 
-↗️ [Amazon Web Service (AWS)](../../../../Cloud%20Service%20Porviders/Amazon%20Web%20Service%20(AWS)/Amazon%20Web%20Service%20(AWS).md)
+↗️ [Amazon Web Service (AWS)](../../../../Cloud%20Service%20Porviders/Amazon%20Web%20Service%20%28AWS%29/Amazon%20Web%20Service%20%28AWS%29.md)
 
 
 ### Azure

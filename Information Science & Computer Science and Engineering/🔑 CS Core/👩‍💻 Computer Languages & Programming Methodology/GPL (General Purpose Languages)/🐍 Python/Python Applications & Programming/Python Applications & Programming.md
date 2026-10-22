@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Python Web](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Language%20&%20Ecosystems/Python%20Web.md)
-↗ [Python Based ML Libraries](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/Python%20Based%20ML%20Libraries.md)
+↗ [Python Based ML Libraries](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/Python%20Based%20ML%20Libraries.md)
 
 ↗ [The Internet Development (and Web Development)](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/The%20Internet%20Development%20%28and%20Web%20Development%29.md)
 ↗ [Web (HTML) Scraping & Anti-Bot](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/Other%20Web%20Related%20Technologies/Web%20%28HTML%29%20Scraping%20&%20Anti-Bot/Web%20%28HTML%29%20Scraping%20&%20Anti-Bot.md)

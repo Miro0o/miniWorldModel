@@ -15,6 +15,7 @@
 ↗ [Compute Unified Device Architecture & CUDA Programming](../../../../Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20%28IO%20Devices%29%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
 ↗ [CUDA C++](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Lowering/CUDA%20C++/CUDA%20C++.md)
 
+↗ [Machine Learning Compilation & Kernel Dev](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md)
 ↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL.md)
 
 

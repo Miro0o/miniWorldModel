@@ -23,13 +23,30 @@ This repository does not claim to describe the universe as it objectively is. In
 
 To provide an overview of the knowledge base, I vibe coded an Obsidian plugin: 🔗 [`miniWorldMap`](https://community.obsidian.md/plugins/mini-world-map). You are welcome to download it for a better visualization of how the knowledge is connected!
 
-![](Assets/Pics/Screenshot%202026-06-13%20at%2023.34.32.png)
+![](Assets/Pics/Screenshot%202026-10-22%20at%2010.43.01.png)
 
 
 > [!caution]
 > This is a personal knowledge base. Commercial use is strictly prohibited. Redistribution must include attribution and the same license.
 > 
 > 中介不要拿我的笔记去骗钱。
+
+
+----
+TOC
+- [Motivation & Introduction](#Motivation%20&%20Introduction)
+- [Reading Guidance](#Reading%20Guidance)
+	- [Structure of Single Note File](#Structure%20of%20Single%20Note%20File)
+	- [Searching Among Files](#Searching%20Among%20Files)
+	- [This Notebook and Generative AI](#This%20Notebook%20and%20Generative%20AI)
+- [About The Content of This Notebook](#About%20The%20Content%20of%20This%20Notebook)
+	- [Sitemap (Incomplete)](#Sitemap%20(Incomplete))
+	- [Visualization & miniWorldMap Plugin](#Visualization%20&%20miniWorldMap%20Plugin)
+- [FAQ & Troubleshooting](#FAQ%20&%20Troubleshooting)
+	- [The Hidden Files](#The%20Hidden%20Files)
+	- [File System Compatibility](#File%20System%20Compatibility)
+- [The End](#The%20End)
+- [License](#License)
 
 
 
@@ -164,7 +181,8 @@ Lastly, again hinted at earlier, this notebook is me. It's my thoughts of the un
 
 
 
-## Sitemap & Entrances to the Notebook
+## About The Content of This Notebook
+### Sitemap (Incomplete)
 Like said earlier, `miniWorldModel` is a well-organized notebook that acts like a giant mind map. Hence, to start reading the notebook one needs simply start with the only root file (the root node of the mind map) as everything unfolds here: ↗ [Universe, Self-Awareness, and Intelligence](Universe,%20Self-Awareness,%20and%20Intelligence.md). In this root file, I summarize my cognitive model of the universe as a unified framework (thus, the whole structure of this notebook). 
 
 That being said, I give a very brief (and incomplete) index to `miniWorldModel` below. You can view them as the entry points to the `miniWorldModel`. 
@@ -230,7 +248,7 @@ That being said, I give a very brief (and incomplete) index to `miniWorldModel` 
 					- ↗ [Cybersecurity Basics & Information Security (InfoSec)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29.md)
 					- ↗ [Cryptology & Secure Communication](Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 			- Opportunities & Career Development
-				- ↗ [International Master & PhD Programmes](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
+				- ↗ [International Master & PhD Programmes](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/%28CS%29%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
 				- ↗ [CS & IT Jobs & Interns Related](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
 	- ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/Social%20Science.md)
 		- ↗ [Politics & Human (Sustainable) Development](Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Social%20Science/🌏%20Politics%20&%20Human%20%28Sustainable%29%20Development/Politics%20&%20Human%20%28Sustainable%29%20Development.md)
@@ -252,11 +270,11 @@ That being said, I give a very brief (and incomplete) index to `miniWorldModel` 
 		- ↗ [Fermi Paradox](Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20%28ETI%29/Fermi%20Paradox.md)
 
 
-### A Glimpse of the Notebook & miniWorldMap ⭐
+### Visualization & miniWorldMap Plugin
 As I’ve emphasized throughout, this notebook is structured as a mind map, with extensive links connecting its leaf nodes -- much like the illustration shown at the beginning of this README. 
 The combination of bidirectional linking and hierarchical structure is the core idea of this knowledge base. However, there is currently no public visualization tool that presents a view like this. Therefore, I made one myself (with Codex): 🔗 [`miniWorldMap`](https://community.obsidian.md/plugins/mini-world-map). Please download it from the Obsidian Community Plugins marketplace to gain a better visualization of the overall knowledge base. 
 
-Below, I will introduce the structure of the knowledge base by first showing two existing views separately, and then the combined view supported by `miniWorldMap`.
+Below, I will introduce the structure of the knowledge base by first showing two existing views separately (and why they don't look well separately), and then the combined view supported by `miniWorldMap`.
 
 > [!TIP]
 > 
@@ -285,7 +303,7 @@ Below, I will introduce the structure of the knowledge base by first showing two
 
 ---
 1️⃣ Bidirectional linking. 
-The screenshots below are from Obsidian’s native 🔗 [Graph View](https://obsidian.md/help/plugins/graph) plugin. While the graph view is visually appealing, it does not represent nodes in a hierarchical structure.
+The screenshots below are from Obsidian’s native 🔗 [Graph View](https://obsidian.md/help/plugins/graph) plugin. While the graph view is visually appealing, it does not represent nodes in a hierarchical structure. Also, when node size grows up it looks messy (despite fancy visual effects).
 
 <div class="carousel">  
 <img src="Assets/Pics/Screenshot%202026-02-06%20at%2002.04.14.png">  
@@ -316,16 +334,16 @@ Key design ideas:
 In the screenshots below, the first few images show `miniWorldMap` in the day theme, with hierarchy links highlighted on hover (showing ancestors, siblings, and successors); the rest show `miniWorldMap` in the night theme, with note internal/external links highlighted on hover. 
 
 <div class="carousel">  
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.34.32.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.35.26.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.36.11.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.35.50.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.37.08.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.41.14.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.41.38.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.39.48.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.39.14.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.43.36.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2010.43.01%201.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2011.54.58.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2011.54.27.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2011.55.35.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2011.55.25.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2011.58.42.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2012.00.42.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2012.04.02.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2012.14.47.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2012.12.54.png">
 </div>
 
 Please go to the Obsidian page for 🔗 [`miniWorldMap`](https://community.obsidian.md/plugins/mini-world-map) for more details about the plugin.

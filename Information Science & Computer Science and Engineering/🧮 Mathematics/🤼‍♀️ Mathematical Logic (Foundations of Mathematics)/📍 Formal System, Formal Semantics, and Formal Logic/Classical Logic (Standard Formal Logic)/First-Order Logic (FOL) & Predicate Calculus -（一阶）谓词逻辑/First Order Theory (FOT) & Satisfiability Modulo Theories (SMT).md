@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [SMT Solving & Algorithms](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)
-↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Theorem%20Provers%20&%20Constraint%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
+↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
 
 
 ### Learning Resources
@@ -25,6 +25,8 @@ terminology, more detail
 
 ## Intro
 > [!quote] GPT 6.0 Astra
+> ↗ [Classical Logic (Standard Formal Logic)](../Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
+> 
 > https://chatgpt.com/share/6abfada4-0500-83ec-a068-c4896dd9161d
 > https://chatgpt.com/share/6abfadb2-47f4-83ec-8b4a-27d20510d311
 > 
@@ -77,7 +79,7 @@ Fragments are useful
 
 ## First Order Theories & Theory Solvers
 > [!links]
-> ↗ [Z3 Theorem Prover](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Theorem%20Provers%20&%20Constraint%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/Z3%20Theorem%20Prover.md)
+> ↗ [Z3 Theorem Prover](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/Z3%20Theorem%20Prover.md)
 
 
 ### Theory of Equality $T_E$
@@ -122,7 +124,7 @@ Fragments are useful
 > [!Links]
 > ↗ [SMT Solving & Algorithms](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)
 > ![](../../../../../../Assets/Pics/Screenshot%202026-10-08%20at%2022.23.38.png)
-> ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Theorem%20Provers%20&%20Constraint%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
+> ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers/SMT%20%28Satisfiability%20Modulo%20Theory%29%20Solvers.md)
 
 ![](../../../../../../Assets/Pics/Screenshot%202026-10-17%20at%2016.26.36.png)
 <small>The Basic SMT Problem</small>

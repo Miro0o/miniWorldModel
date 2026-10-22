@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Probabilistic Models (Distributions) & Stochastic Process](../🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+↗ [Probabilistic Models (Distributions) & Stochastic Process](../🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process.md)
 
 
 ### Other Resources
@@ -21,7 +21,8 @@
 
 ## Random Variable
 ### Definition of Random (Stochastic) Variable
-> ↗ [σ-Algebra (sigma Algebra)](../../σ-Algebra%20(sigma%20Algebra)/σ-Algebra%20(sigma%20Algebra).md)
+> [!Links]
+> ↗ [σ-Algebra (sigma Algebra)](../../σ-Algebra%20%28sigma%20Algebra%29/σ-Algebra%20%28sigma%20Algebra%29.md)
 
 ![](../../../../../../Assets/Pics/Screenshot%202025-11-15%20at%2022.46.56.png)
 
@@ -49,6 +50,7 @@
 
 
 ### Numeric Characteristics of Random Variables
+i.i.d. independent and identically distributed
 
 
 

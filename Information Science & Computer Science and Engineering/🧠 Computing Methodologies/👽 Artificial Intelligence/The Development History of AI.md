@@ -217,7 +217,7 @@ ACM CCS 2012
 
 ### Formal Reasoning 
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
-↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
+↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
 > 🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Formal_reasoning
 

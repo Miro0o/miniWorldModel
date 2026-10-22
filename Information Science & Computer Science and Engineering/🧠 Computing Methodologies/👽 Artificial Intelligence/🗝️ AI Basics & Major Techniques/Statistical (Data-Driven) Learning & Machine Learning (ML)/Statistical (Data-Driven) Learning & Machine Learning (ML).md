@@ -20,6 +20,9 @@
 
 ↗ [R Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Science%20&%20Data%20Processing/R%20Language/R%20Language.md)
 
+↗ [Machine Learning Compilation & Kernel Dev](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md)
+↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL.md)
+
 
 ### Learning Resources
 #### Courses 
@@ -38,15 +41,6 @@
 https://github.com/datawhalechina/leedl-tutorial
 李宏毅老师是台湾大学的教授，其[《机器学习》（2021年春）](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)是深度学习领域经典的中文视频之一。李老师幽默风趣的授课风格深受大家喜爱，让晦涩难懂的深度学习理论变得轻松易懂，他会通过很多动漫相关的有趣例子来讲解深度学习理论。李老师的课程内容很全面，覆盖了到深度学习必须掌握的常见理论，能让学生对于深度学习的绝大多数领域都有一定了解，从而可以进一步选择想要深入的方向进行学习，培养深度学习的直觉，对于想入门深度学习又想看中文讲解的同学是非常推荐的。
 - 本教程主要内容源于[《机器学习》（2021年春）](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)，并在其基础上进行了一定的原创。比如，为了尽可能地降低阅读门槛，笔者对这门公开课的精华内容进行选取并优化，对所涉及的公式都给出详细的推导过程，对较难理解的知识点进行了重点讲解和强化，以方便读者较为轻松地入门。此外，为了丰富内容，笔者在教程中选取了[《机器学习》（2017年春）](https://speech.ee.ntu.edu.tw/~hylee/ml/2017-spring.php) 的部分内容，并补充了不少除这门公开课之外的深度学习相关知识。
-
-[Machine Learning Compilation](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B3%BB%E7%BB%9F/MLC/)
-- 这门课是机器学习编译领域的顶尖学者陈天奇在2022年暑期开设的一门在线课程。其实机器学习编译无论在工业界还是学术界仍然是一个非常前沿且快速更迭的领域，国内外此前还没有为这个方向专门开设的相关课程。因此如果对机器学习编译感兴趣想有个全貌性的感知的话，可以学习一下这门课。
-- 本课程主要以 [Apache TVM](https://tvm.apache.org/) 这一主流的机器学习编译框架为例（陈天奇是这个框架的创始人之一），聚焦于如何将开发模式下（如 Tensorflow, Pytorch, Jax）的各类机器学习模型，通过一套普适的抽象和优化算法，变换为拥有更高性能并且适配各类底层硬件的部署模式。课程讲授的知识点都是相对 High-Level 的宏观概念，同时每节课都会有一个配套的 Jupyter Notebook 来通过具体的代码讲解知识点，因此如果从事 TVM 相关的编程开发的话，这门课有丰富且规范的代码示例以供参考。
-- 所有的课程资源全部开源并且有中文和英文两个版本，B站和油管分别有中文和英文的课程录影。
-- 课程网站：[https://mlc.ai/summer22-zh/](https://mlc.ai/summer22-zh/)
-- 课程视频：[Bilibili](https://www.bilibili.com/video/BV15v4y1g7EU?spm_id_from=333.337.search-card.all.click&vd_source=a4d76d1247665a7e7bec15d15fd12349)
-- 课程笔记：[https://mlc.ai/zh/index.html](https://mlc.ai/zh/index.html)
-- 课程作业：[https://github.com/mlc-ai/notebooks/blob/main/assignment](https://github.com/mlc-ai/notebooks/blob/main/assignment)
 #### Videos
 🎬【00 预告【动手学深度学习v2】】 https://www.bilibili.com/video/BV1if4y147hS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 🎬 [AI 论文精读 -- 李沐](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)
@@ -250,7 +244,7 @@ From a theoretical viewpoint, [probably approximately correct learning](https:/
 | Self-Attention (restricted) | $O(r \cdot n \cdot d)$ | $O(1)$ | $O(n/r)$ |
 	2. grid /spatial modeling (e.g. ↗ [Computer Vision (CV)](../../Computer%20Vision%20%28CV%29/Computer%20Vision%20%28CV%29.md), ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/CNN%20%28Convolutional%20Neural%20Network%29.md))
 	3. graph /network modeling (e.g. ↗ [GNN (Graph Neural Network)](../🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/GNN%20%28Graph%20Neural%20Network%29/GNN%20%28Graph%20Neural%20Network%29.md))
-	4. tabular & structured modeling (e.g. ↗ [XGBoost](../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/Hybrid%20Languages%20&%20Cross%20Platforms/XGBoost/XGBoost.md))
+	4. tabular & structured modeling (e.g. ↗ [XGBoost](../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/Hybrid%20Languages%20&%20Cross%20Platforms/XGBoost/XGBoost.md))
 	5. multimodal modeling
 #### Statistical Learning & Machine Learning, Neural Network & Deep Learning, and AI?
 #machine_learning #statistical_learning #neural_networks #deep_learning #AI
@@ -597,6 +591,14 @@ Model Evaluation & Metrics
 
 ↗ [Trust-worthy AI & LLM Safety and Security](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
 ↗ [Philosophy, Ethics, and Risks of AI](../../Philosophy,%20Ethics,%20and%20Risks%20of%20AI/Philosophy,%20Ethics,%20and%20Risks%20of%20AI.md)
+
+
+
+## Machine Learning System & Infra
+↗ [AI (Data) Infrastructure & Machine Learning Systems](../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems.md)
+↗ [LLM Infrastructure (Deployment & Inference)](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
+
+↗ [Machine Learning Compilation & Kernel Dev](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md)
 
 
 

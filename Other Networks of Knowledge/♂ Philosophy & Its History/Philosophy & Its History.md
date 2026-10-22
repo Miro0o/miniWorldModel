@@ -194,7 +194,7 @@ The quintessentially quantum mechanical uncertainty principle comes in many form
 > ↗ [Proof Theory](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md)
 > ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
 > 
-> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
+> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 > ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20%28Decision%20Making%29.md)
 > ↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20%28Reasoning%20Language%20Model%29%20&%20LRM%20%28Large%20Reasoning%20Model%29.md)
 
@@ -225,8 +225,8 @@ The topic of causality remains a staple in [contemporary philosophy](https://en
 
 
 ### Philosopher or Ph.D. ?
-↗ [(CS) Master & PhD Guide - Preparation & Application](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
-↗ [International Master & PhD Programmes](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
+↗ [(CS) Master & PhD Guide - Preparation & Application](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/%28CS%29%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/%28CS%29%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
+↗ [International Master & PhD Programmes](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/%28CS%29%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
 
 
 

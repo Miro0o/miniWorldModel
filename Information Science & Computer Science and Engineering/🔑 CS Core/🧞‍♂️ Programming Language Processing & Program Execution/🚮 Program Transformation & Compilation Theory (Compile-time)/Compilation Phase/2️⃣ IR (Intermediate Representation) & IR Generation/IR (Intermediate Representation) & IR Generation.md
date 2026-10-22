@@ -17,9 +17,12 @@
 ↗ [MLIR (Multi-Level Intermediate Representation)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/🦅%20LLVM/MLIR%20%28Multi-Level%20Intermediate%20Representation%29/MLIR%20%28Multi-Level%20Intermediate%20Representation%29.md)
 
 ↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL.md)
-↗ [OpenAI Triton](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Lowering/OpenAI%20Triton/OpenAI%20Triton.md)
-↗ [TileLang (Tile-AI)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Lowering/OpenAI%20Triton/TileLang%20%28Tile-AI%29.md)
-↗ [NVIDIA TensorRT & TensorRT-LLM](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/NVIDIA%20TensorRT%20&%20TensorRT-LLM/NVIDIA%20TensorRT%20&%20TensorRT-LLM.md)
+- ↗ [OpenAI Triton](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Lowering/OpenAI%20Triton/OpenAI%20Triton.md)
+- ↗ [TileLang (Tile-AI)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Lowering/OpenAI%20Triton/TileLang%20%28Tile-AI%29.md)
+- ↗ [NVIDIA TensorRT & TensorRT-LLM](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/NVIDIA%20TensorRT%20&%20TensorRT-LLM/NVIDIA%20TensorRT%20&%20TensorRT-LLM.md)
+
+↗ [AST & CST (Abstract & Contrete Syntax Tree)](../1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20%28Parsing%29/AST%20&%20CST%20%28Abstract%20&%20Contrete%20Syntax%20Tree%29.md)
+↗ [CFG (Control Flow Graph) & ICFG (Interprocedure CFG)](../1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/CFG%20%28Control%20Flow%20Graph%29%20&%20ICFG%20%28Interprocedure%20CFG%29.md)
 
 
 ### Other Resources

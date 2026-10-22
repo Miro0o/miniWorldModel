@@ -48,6 +48,54 @@ test('merges separate edits to the same file and preserves manual commit ancestr
   assert.equal(run(f.target, ['merge-base', manual, generated]), manual);
 });
 
+test('merges adjacent heading and legacy Windows link-label edits over later main updates', async t => {
+  const original = '### Courses & Books\n[Stanford /CS143: Compilers](CS143%20-%20Compilers.md)\n\nbody\n\nlast\n';
+  const f = await fixture(t, { 'Note.md': original, 'CS143 - Compilers.md': '# Compilers\n' });
+  await write(f.target, 'Note.md', original.replace('CS143: Compilers', 'CS143 - Compilers').replace('\nbody\n', '\nmanual body\n'));
+  const manual = commit(f.target, 'legacy Windows label and manual body');
+  await write(f.source, 'Note.md', original.replace('Courses & Books', 'Learning Resources'));
+  commit(f.source, 'rename heading next to converted label');
+  await sync(f);
+  const expected = '### Learning Resources\n[Stanford /CS143 - Compilers](CS143%20-%20Compilers.md)\n\nmanual body\n\nlast\n';
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), expected);
+  const generated = commit(f.target, 'generated adjacent edits');
+  assert.equal(run(f.target, ['rev-parse', generated + '^']), manual);
+  await write(f.source, 'Note.md', original.replace('Courses & Books', 'Learning Resources').replace('\nlast\n', '\nmain last\n'));
+  commit(f.source, 'later main edit');
+  await sync(f);
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), expected.replace('\nlast\n', '\nmain last\n'));
+});
+
+test('merges adjacent replacements and deletions in either branch without adding a final newline', async t => {
+  for (const [ours, theirs, expected] of [
+    ['manual first\nsecond\nlast', 'first\nmain second\nlast', 'manual first\nmain second\nlast'],
+    ['first\nmanual second\nlast', 'main first\nsecond\nlast', 'main first\nmanual second\nlast'],
+    ['second\nlast', 'first\nmain second\nlast', 'main second\nlast'],
+    ['first\nmanual second\nlast', 'second\nlast', 'manual second\nlast']
+  ]) {
+    const f = await fixture(t, { 'Note.md': 'first\nsecond\nlast' });
+    await write(f.target, 'Note.md', ours);
+    commit(f.target, 'Windows edit');
+    await write(f.source, 'Note.md', theirs);
+    commit(f.source, 'main edit');
+    await sync(f);
+    assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), expected);
+  }
+});
+
+test('an insertion at a changed line boundary remains a conflict without writing files or state', async t => {
+  const f = await fixture(t, { 'Note.md': 'first\nsecond\nlast\n' });
+  const ours = 'manual first\nsecond\nlast\n';
+  await write(f.target, 'Note.md', ours);
+  commit(f.target, 'Windows edit');
+  await write(f.source, 'Note.md', 'first\ninserted\nsecond\nlast\n');
+  commit(f.source, 'main insertion');
+  await assert.rejects(sync(f), /overlapping changes/);
+  assert.equal(await fs.readFile(path.join(f.target, 'Note.md'), 'utf8'), ours);
+  assert.equal(run(f.target, ['status', '--porcelain']), '');
+  assert.equal(JSON.parse(await fs.readFile(path.join(f.target, STATE))).last_synced_main, f.initialMain);
+});
+
 test('a later main commit uses the new generated baseline and keeps earlier manual text', async t => {
   const f = await fixture(t);
   await write(f.target, 'Note.md', 'first\n\nmanual second\n\nthird\n\nlast\n');

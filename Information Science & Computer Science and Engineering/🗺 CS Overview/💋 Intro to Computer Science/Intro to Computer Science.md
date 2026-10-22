@@ -542,7 +542,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 			2. ↗ [Type Theory (类型论)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
 		4. ↗ [Proof Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md)
 			1. ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md) 🤔
-		5. ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
+		5. ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 	3. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 		1. ↗ [Programming Language Theory (PLT)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
 		2. ↗ [Functional Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
@@ -660,12 +660,13 @@ These questions, from general to specific, track my path in learning CS. The lin
 	3. ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 		1. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md) 🔥
 			1. ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC.md) 🤔 ![AI-Layer.excalidraw | 800](../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
-			2. ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md)
+			2. ↗ [AI (Data) Infrastructure & Machine Learning Systems](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems.md)
+			3. ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md)
 				1. ↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20%28Large%20Language%20Model%29.md) 🔥 🔥
 				2. ↗ [Multimodal AI & MLLM](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
-			3. ↗ [Computer Vision (CV)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Computer%20Vision%20%28CV%29/Computer%20Vision%20%28CV%29.md)
-			4. ↗ [AI + Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20%28WM%29/AI%20+%20Virtual%20Reality/AI%20+%20Virtual%20Reality.md)
-			5. etc.
+			4. ↗ [Computer Vision (CV)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Computer%20Vision%20%28CV%29/Computer%20Vision%20%28CV%29.md)
+			5. ↗ [AI + Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20%28WM%29/AI%20+%20Virtual%20Reality/AI%20+%20Virtual%20Reality.md)
+			6. etc.
 		2. ↗ [Scientific Computing](../../🧠%20Computing%20Methodologies/🧬%20Scientific%20Computing/Scientific%20Computing.md)
 		3. ↗ [High Performance Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
 		4. etc.
@@ -712,27 +713,30 @@ These questions, from general to specific, track my path in learning CS. The lin
 		1. Duration
 		2. Cost
 		3. Performance: how to maximally reduce the decrease of performance over time?
-	7. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md) (note that the security issue is a special topic because it spans all aspects that related to information system and information processing, unlike other CS disciplines that might just specialize on one certain area.)
+	7. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md) & Safety? (note that the security issue is a special topic because it spans all aspects that related to information system and information processing, unlike other CS disciplines that might just specialize on one certain area.)
 		1. ↗ [Risk Management (In Cyberspace)](../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/Risk%20Management%20%28In%20Cyberspace%29.md)
 			1. ![risk_management_and_software_security.excalidraw | 1000](../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
 			2. ↗ [Cybersecurity Threats & Attacks](../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
 		2. ↗ [Cybersecurity Basics & Information Security (InfoSec)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29.md)
 		3. ↗ [Cryptology & Secure Communication](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 			1. ↗ [Cryptography](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
-		4. Security aspects \#1:
+		4. Security /safety aspects \#1:
 			1. ↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/Software%20Security.md) 🤡
 				1. ↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
 					1. ↗ [Program Analysis Basics](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
 			2. ↗ [Hardware Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🪖%20Hardware%20Security/Hardware%20Security.md)
 			3. ↗ [Protocol & Policy Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🗂️%20Protocol%20&%20Policy%20Security/Protocol%20&%20Policy%20Security.md)
-			4. ↗ [Social Engineering & Physical Security](../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
-			5. ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
-		5. Security aspects \#2:
+			4. ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
+				1. ↗ [Constraint Solving & Theorem Proving](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+				2. ↗ [(Formal) Model Checking (MC)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking%20%28MC%29/%28Formal%29%20Model%20Checking%20%28MC%29.md)
+				3. ↗ [Program (Formal) Verification](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Program%20%28Formal%29%20Verification/Program%20%28Formal%29%20Verification.md)
+			5. ↗ [Social Engineering & Physical Security](../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
+		5. Security /safety aspects \#2:
 			1. ↗ [Data Security](../../CyberSecurity/Data%20Security/Data%20Security.md)
 				1. ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../CyberSecurity/Data%20Security/📌%20Data%20Privacy%20&%20PET%20%28Privacy%20Enhancement%20Technologies%29/Data%20Privacy%20&%20PET%20%28Privacy%20Enhancement%20Technologies%29.md)
 				2. ↗ [🤔 Content Security & Public Opinion Control 🤔](../../CyberSecurity/Data%20Security/🤔%20Content%20Security%20&%20Public%20Opinion%20Control%20🤔/🤔%20Content%20Security%20&%20Public%20Opinion%20Control%20🤔.md)
 			2. ↗ [Application Security](../../CyberSecurity/Application%20Security/Application%20Security.md)
-				1. ↗ [Trust-worthy AI & LLM Safety and Security](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md) 🤔
+				1. ↗ [Trust-worthy AI & LLM Safety and Security](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
 			3. ↗ [Network (& Communication) Security](../../CyberSecurity/Network%20%28&%20Communication%29%20Security/Network%20%28&%20Communication%29%20Security.md)
 				1. ↗ [Network Security Mechanisms](../../CyberSecurity/Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/Network%20Security%20Mechanisms.md)
 					1. ↗ [Network Security Protocol Stacks](../../CyberSecurity/Network%20%28&%20Communication%29%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Network%20Security%20Protocol%20Stacks.md)

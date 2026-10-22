@@ -12,8 +12,8 @@
 ↗ [Standard ML (SML)](../../GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Standard%20ML%20%28SML%29/Standard%20ML%20%28SML%29.md)
 ↗ [OCaml](../../GPL%20%28General%20Purpose%20Languages%29/📌%20Functional%20Programming%20Languages/Caml/OCaml/OCaml.md)
 
-↗ [Formal Verifiers & Constraint Solvers (Proof Assistants)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29.md)
-↗ [HOL Interactive Theorem Prover](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Theorem%20Provers%20&%20Constraint%20Solvers/Generic%20&%20Automated%20Theorem%20Provers%20%28ATP%29/HOL%20Interactive%20Theorem%20Prover.md)
+↗ [Formal Verifiers & Constraint Solvers & Checkers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers.md)
+↗ [HOL Interactive Theorem Prover](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Interactive%20Theorem%20Prover%20%28ITP%29/HOL%20Interactive%20Theorem%20Prover.md)
 
 ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
 

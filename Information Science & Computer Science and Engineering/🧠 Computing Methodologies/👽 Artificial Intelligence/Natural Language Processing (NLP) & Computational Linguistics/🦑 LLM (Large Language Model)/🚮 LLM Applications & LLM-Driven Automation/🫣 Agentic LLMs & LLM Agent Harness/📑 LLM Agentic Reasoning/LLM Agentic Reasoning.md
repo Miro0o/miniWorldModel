@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
-↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../../../LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20(Reasoning%20Language%20Model)%20&%20LRM%20(Large%20Reasoning%20Model).md)
+↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
+↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../../../LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20%28Reasoning%20Language%20Model%29%20&%20LRM%20%28Large%20Reasoning%20Model%29.md)
 
-↗ [AI4Math](../../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Math/AI4Math.md)
+↗ [AI4Math](../../../../../❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4Math/AI4Math.md)
 ↗ [AI4Code](../../../../../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
 
 

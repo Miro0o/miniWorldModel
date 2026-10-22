@@ -29,4 +29,8 @@ Many vector spaces that are considered in mathematics are also endowed with othe
 
 
 
+## Finite-Dimensional Vector Space
+
+
+
 ## Ref

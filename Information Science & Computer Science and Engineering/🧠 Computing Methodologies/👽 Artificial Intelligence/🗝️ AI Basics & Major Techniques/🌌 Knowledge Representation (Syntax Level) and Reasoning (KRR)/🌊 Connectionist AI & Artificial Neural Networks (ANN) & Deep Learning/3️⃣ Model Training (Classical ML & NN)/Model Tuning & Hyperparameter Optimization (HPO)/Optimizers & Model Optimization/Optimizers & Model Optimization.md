@@ -25,18 +25,18 @@ Gradient Descent Algorithm Survey
 
 
 ## Intro
-Optimizer: 
+Optimization /optimizer mechanism:
 - raw gradient  --- optimizer --> update direction
 - $W_{t+1} = W_{t} - \eta (\text{update direction})$
 
 
-### Problems in Deep Learning Optimization
+Problems in DL optimization:
 1. scalability
-	1. e.g. ↗ [Mini-Batch Stochastic Gradient Methods](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/Stochastic%20Gradient%20Methods/Mini-Batch%20Stochastic%20Gradient%20Methods.md)
+	1. e.g. mini-batch
 2. efficiency
 	1. e.g. 
 		1. ↗ [Numerical Optimization](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/Numerical%20Optimization.md) 
-		2. ↗ [First-Order & Gradient Methods](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md) "accelerated gd"
+		2. ↗ [First-Order & Gradient Methods](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md) "accelerated GD"
 3. hyperparameter transferability
 	1. e.g. Maximal Update Parameterization（μP）
 
@@ -191,7 +191,9 @@ idea:
 > [!TIP]
 > $m_t=\beta_1m_{t-1}+(1-\beta_1)g_t$; 
 > $v_t=\beta_2v_{t-1}+(1-\beta_2)g_t^2$; 
-> $\theta_{t+1}=\theta_t-\eta\hat m_t/(\sqrt{\hat v_t}+\epsilon)$
+> $\theta_{t+1}=\theta_t-\eta\frac{\hat m_t}{(\sqrt{\hat v_t}+\epsilon)}$
+> 
+> ($g_t^2$: coordinate-wise square)
 
 > [!quote]
 > https://chatgpt.com/share/6ac1f745-bcfc-83ec-bfd4-4c3367d1af85
@@ -214,7 +216,7 @@ adam + l2 vs adamW
 > [!links]
 > ↗ [First-Order & Gradient Methods](../../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20%28OR%29%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20%28Programming%29/🦋%20Optimization%20Algorithms%20&%20Computation/🐟%20Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md) "Frank–Wolfe algorithm"
 > 
-> ↗ [Singular Value Decomposition (SVD)](../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29/📌%20Linear%20Algebra%20Basics/Eigenvalues,%20Eigenvectors,%20and%20Invariant%20Subspaces/Singular%20Value%20Decomposition%20%28SVD%29.md)
+> ↗ [Operators on Inner Product Space](../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29/Vector%20&%20Vector%20Space%20%28Linear%20Space%29/Inner%20Product%20Space/Operators%20on%20Inner%20Product%20Space.md) "SVD"
 
 > [!TIP]
 > $M_t=\beta M_{t-1}+G_t$; 
@@ -238,7 +240,7 @@ Optimal Learning Rate is Architecture-dependent:
 
 ### Maximal Update Parameterization（μP）
 > [!links]
-> ↗ [Singular Value Decomposition (SVD)](../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29/📌%20Linear%20Algebra%20Basics/Eigenvalues,%20Eigenvectors,%20and%20Invariant%20Subspaces/Singular%20Value%20Decomposition%20%28SVD%29.md)
+> ↗ [Operators on Inner Product Space](../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20%28模%29/Vector%20&%20Vector%20Space%20%28Linear%20Space%29/Inner%20Product%20Space/Operators%20on%20Inner%20Product%20Space.md) "SVD"
 > 
 > ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process.md)
 > ↗ [Random Walk](../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20%28Distributions%29%20&%20Stochastic%20Process/Random%20Walk/Random%20Walk.md)

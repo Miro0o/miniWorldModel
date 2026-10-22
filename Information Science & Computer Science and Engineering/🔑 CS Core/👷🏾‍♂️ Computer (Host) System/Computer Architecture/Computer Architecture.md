@@ -6,19 +6,19 @@
 
 ## Res
 ### Related Topics
-↗ [Digital (Logic) Electronics Foundations](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Digital (Logic) Electronics Foundations](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20%28Logic%29%20Electronics%20Foundations/Digital%20%28Logic%29%20Electronics%20Foundations.md)
 ↗ [Computer Implementations, Teardown & Repairs](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
-↗ [Programming Language & Formal Semantics](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Programming Language & Formal Semantics](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
-↗ [ASM (Assembly Languages)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ASM%20(Assembly%20Languages).md)
+↗ [ASM (Assembly Languages)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/ASM%20%28Assembly%20Languages%29.md)
 
 ↗ [Distributed Computing & Systems](../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
-↗ [Cloud Operating System & Platform (System Level Engineering)](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering).md)
+↗ [Cloud Operating System & Platform (System Level Engineering)](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20%28System%20Level%20Engineering%29/Cloud%20Operating%20System%20&%20Platform%20%28System%20Level%20Engineering%29.md)
 
-↗ [Database Applications (DBAP) & Services](../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
-↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+↗ [Database Applications (DBAP) & Services](../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20%28DBAP%29%20&%20Services/Database%20Applications%20%28DBAP%29%20&%20Services.md)
+↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
 
-↗ [AI (Data) Infrastructure & Techniques Stack](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
+↗ [AI (Data) Infrastructure & Machine Learning Systems](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems.md)
 
 
 ### Learning Resources
@@ -190,7 +190,7 @@ The Classic Definition: Architecture vs. Organization
 ##### #1 - Computer Architecture = ISA + Computer Organization ✅
 This is the definition I use in this whole notes. However, sometimes people refer to ISA only when they say "computer architecture".
 ##### #2 - Computer Architecture = ISA
-> **Computer architecture**, or ↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md), is the designed set of rules of how a CPU /machine can be manipulated, it's the computer from a programmer's (mostly low level) perspective.
+> **Computer architecture**, or ↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md), is the designed set of rules of how a CPU /machine can be manipulated, it's the computer from a programmer's (mostly low level) perspective.
 
 > 🔗 https://foxsen.github.io/archbase/%E5%BC%95%E8%A8%80.html#%E4%BB%80%E4%B9%88%E6%98%AF%E8%AE%A1%E7%AE%97%E6%9C%BA
 
@@ -205,10 +205,10 @@ This is the definition I use in this whole notes. However, sometimes people refe
 在整个计算机体系结构中有这么多分层，我们需要清楚的一点是，设计整个计算机体系架构即设计每一层时都需要做到权衡彼此。因此 指令集架构的设计会影响软件程序和微架构，即需要在同时兼顾上下相互影响的设计实现一个特定的指令集体系架构。
 #### Computer Organization =? Microarchitecture
 > [!links]
-> ↗ [Systems on Chip (SoC)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Systems%20on%20Chip%20(SoC).md)
-> ↗ [Motherboard & Mainboard](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Motherboard%20&%20Mainboard.md)
+> ↗ [Systems on Chip (SoC)](Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/Systems%20on%20Chip%20%28SoC%29.md)
+> ↗ [Motherboard & Mainboard](Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Motherboard%20&%20Mainboard.md)
 
-> **Computer organization**, or ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md), is the implementation method of a given ISA. 
+> **Computer organization**, or ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model.md), is the implementation method of a given ISA. 
 
 > 🤖 Gemini 3.0 Pro
 > https://gemini.google.com/share/ebedeb833ded
@@ -239,10 +239,10 @@ microarchitecture can refer to the design of CPU core only, the design of CPU, o
 
 so many mixed usages of these confusing terms!
 
-↗ [Microprocessor & Microprocessors Unit (MPU)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
+↗ [Microprocessor & Microprocessors Unit (MPU)](Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29.md)
 ##### #2 - Computer Organization = Motherboard Organization (CPU + Others)
 > [!links]
-> ↗ [Motherboard & Mainboard](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Motherboard%20&%20Mainboard.md)
+> ↗ [Motherboard & Mainboard](Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Motherboard%20&%20Mainboard.md)
 
 > 🤖 Gemini 3.0 Pro
 > https://gemini.google.com/share/ebedeb833ded
@@ -254,7 +254,7 @@ Historically, "Computer Organization" also referred to how the **entire box** 
 - **Verdict:** This is technically "System Organization," but it falls under the same umbrella.
 ##### 3# - Computer Organization = Microarchitecture = Motherboard (SoCs)
 > [!links]
-> ↗ [Systems on Chip (SoC)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Systems%20on%20Chip%20(SoC).md)
+> ↗ [Systems on Chip (SoC)](Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/Systems%20on%20Chip%20%28SoC%29.md)
 
 > 🤖 Gemini 3.0 Pro
 > https://gemini.google.com/share/ebedeb833ded
@@ -308,13 +308,13 @@ WPS被唤醒后处在运行状态。发现操作系统传过来的数据是个�
 “计算机体系结构”课程是研究怎么造计算机，而不是怎么用计算机。我们不是学习驾驶汽车，而是学习如何造汽车。一个计算机体系结构设计人员就像一个带兵打仗的将领，要学会排兵布阵。要上知天文、下知地理，否则就不会排兵布阵，或者只会纸上谈兵地排兵布阵，只能贻误军国大事。对计算机体系结构设计来说，“排兵布阵”就是体系结构设计，“上知天文”就是了解应用程序、操作系统、编译器的行为特征，“下知地理”就是了解逻辑、电路、工艺的特点。永远不要就体系结构论体系结构，要做到应用、系统、结构、逻辑、电路、器件的融会贯通。就像《论语》中说的“**吾道一以贯之**”。
 #### (General) Computer Architecture Hierarchy
 > [!links]
-> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md).
+> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md).
 > 
-> ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
-> - ↗ [Microprocessor & Microprocessors Unit (MPU)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
-> - ↗ [CPU (Central Processing Unit)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+> ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model.md)
+> - ↗ [Microprocessor & Microprocessors Unit (MPU)](Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29.md)
+> - ↗ [CPU (Central Processing Unit)](Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/CPU%20%28Central%20Processing%20Unit%29.md)
 > 
-> ↗ [Non-von Neumann Based Microarchitectures](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
+> ↗ [Non-von Neumann Based Microarchitectures](Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 
 ![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer Architecture Hierarchy</small>
@@ -367,8 +367,8 @@ WPS被唤醒后处在运行状态。发现操作系统传过来的数据是个�
 学习计算机体系结构的人一定要把图[1.1](https://foxsen.github.io/archbase/%E5%BC%95%E8%A8%80.html#fig:hierarchy1)装在心中。从一般意义上说，计算机体系结构的研究内容包括指令系统结构、硬件系统结构和CPU内部的微结构。但做体系结构设计而上不懂应用和操作系统，下不懂晶体管级行为，就像带兵打仗排兵布阵的人不知天文、不晓地理，是做不好体系结构的。首先，指令系统就是从应用程序算法中抽取出来的“算子”。只有对应用程序有深入的了解，才能决定哪些事情通过指令系统由硬件直接实现，哪些事情通过指令组合由软件实现。其次，硬件系统和CPU的微结构要针对应用程序的行为进行优化。如针对媒体处理等流式应用，需要通过预取提高性能；CPU的高速缓存就是利用了应用程序访存的局部性；CPU的转移猜测算法就是利用了应用程序转移行为的重复性和相关性；CPU的内存带宽设计既要考虑CPU本身的访存需求，也要考虑由显示引起的GPU访问内存的带宽需求。再次，指令系统和CPU微结构的设计要充分考虑操作系统的管理需求。如操作系统通过页表进行虚存管理需要CPU实现TLB（Translation Lookaside Buffer）对页表进行缓存并提供相应的TLB管理指令；CPU实现多组通用寄存器高速切换的机制有利于加速多线程切换；CPU实现多组控制寄存器和系统状态的高速切换机制有利于加速多操作系统切换。最后，计算机中主要的硬件实体如CPU、GPU、南北桥、内存等都是通过晶体管来实现的，只有对晶体管行为有一定的了解才能在结构设计阶段对包括主频、成本、功耗在内的硬件开销进行评估。如高速缓存的容量是制约CPU主频和面积的重要因素，多发射结构的发射电路是制约主频的重要因素，在微结构设计时都是进行权衡取舍的重要内容。
 ##### Turing Machine & Von Neumann Model
 > [!links]
-> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-> ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model.md)
 
 > 🔗 https://foxsen.github.io/archbase/%E5%BC%95%E8%A8%80.html#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%84%E6%88%90
 
@@ -420,7 +420,7 @@ WPS被唤醒后处在运行状态。发现操作系统传过来的数据是个�
 #micro_architecture #computer_architecture #computer_organization #ISA 
 
 > [!links]
-> ↗ [Computer Processors & Logic Chips (Theory Part)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part).md) "ISA, Microarchitecture, Microprocessor, CPU, and Die/Silicon?"
+> ↗ [Computer Processors & Logic Chips (Theory Part)](Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29.md) "ISA, Microarchitecture, Microprocessor, CPU, and Die/Silicon?"
 #### Microcomputer Principles & Interfaces (微机原理与接口)
 **Microcomputer principles & interfaces** is the knowledge about computer **processors** (mostly CPU, a kind of processor) and how it is operating (instruction execution and data transfer, which involves **bus** and **interfaces**). 
 
@@ -428,9 +428,9 @@ Computer Processors strongly relate to **microarchitectures** and **ISA**. Hence
 
 To control computer processors in a programmable way, knowledge about assembly languages is also expected. 
 
-↗ [ASM (Assembly Languages)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ASM%20(Assembly%20Languages).md)
+↗ [ASM (Assembly Languages)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/ASM%20%28Assembly%20Languages%29.md)
 ↗ [Computer Interfaces & Hardware Drivers](../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md)
 
 
 ### Historical Development of Computer Architecture Design
@@ -467,8 +467,8 @@ To control computer processors in a programmable way, knowledge about assembly l
 
 ↗ [Computing Methodologies](../../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 - ↗ [Artificial Intelligence](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-	- ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
-- ↗ [Quantum Computing (and Communication)](../../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
+	- ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC.md)
+- ↗ [Quantum Computing (and Communication)](../../../🧠%20Computing%20Methodologies/Quantum%20Computing%20%28and%20Communication%29/Quantum%20Computing%20%28and%20Communication%29.md)
 
 ↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 

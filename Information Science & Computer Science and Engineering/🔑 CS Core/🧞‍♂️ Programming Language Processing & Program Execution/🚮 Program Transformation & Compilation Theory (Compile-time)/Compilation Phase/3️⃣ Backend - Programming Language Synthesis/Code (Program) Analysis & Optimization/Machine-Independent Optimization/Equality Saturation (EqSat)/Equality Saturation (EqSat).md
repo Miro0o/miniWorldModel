@@ -1,0 +1,57 @@
+# Equality Saturation (EqSat)
+
+[TOC]
+
+
+
+## Res
+### Related Topics
+↗ [Universal Algebra (泛代数)](../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20%28泛代数%29/Universal%20Algebra%20%28泛代数%29.md)
+↗ [Term Algebra & Free Σ-algebra](../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20%28泛代数%29/Σ-algebra%20%28Sigma-Algebra%29/Term%20Algebra%20&%20Free%20Σ-algebra.md)
+
+↗ [Programming Language Theory (PLT)](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+↗ [Program Equivalence and Metatheory](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Program%20Equivalence%20and%20Metatheory/Program%20Equivalence%20and%20Metatheory.md)
+↗ [Equational Reasoning & Term Rewriting](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Program%20Equivalence%20and%20Metatheory/Equational%20Reasoning%20&%20Term%20Rewriting/Equational%20Reasoning%20&%20Term%20Rewriting.md)
+
+↗ [Program Synthesis & Code Generation](../../../Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
+
+↗ [Relational (Data) Models](../../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20%28Data%20Modeling%29/Record-Based%20Data%20Models/Relational%20%28Data%29%20Models/Relational%20%28Data%29%20Models.md)
+↗ [Relational Data Model Languages](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/Database%20Languages/Record-Based%20Data%20Model%20Languages/Relational%20Data%20Model%20Languages/Relational%20Data%20Model%20Languages.md)
+↗ [Datalog (Data Logic)](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Prolog%20%28Programmation%20en%20Logique%29/Datalog%20%28Data%20Logic%29/Datalog%20%28Data%20Logic%29.md)
+
+↗ [Congruence](../../../../../../../../🧮%20Mathematics/💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/0x03%20Congruence/Congruence.md)
+↗ [Congruence Equations](../../../../../../../../🧮%20Mathematics/💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/0x03%20Congruence/Congruence%20Equations/Congruence%20Equations.md)
+↗ [First Order Theory (FOT) & Satisfiability Modulo Theories (SMT)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20%28Standard%20Formal%20Logic%29/First-Order%20Logic%20%28FOL%29%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First%20Order%20Theory%20%28FOT%29%20&%20Satisfiability%20Modulo%20Theories%20%28SMT%29.md)
+
+
+### Learning Resources
+https://arxiv.org/abs/1012.1802
+Equality Saturation: A New Approach to Optimization
+- [Ross Tate](https://arxiv.org/search/cs?searchtype=author&query=Tate,+R) (University of California, San Diego), [Michael Stepp](https://arxiv.org/search/cs?searchtype=author&query=Stepp,+M) (University of California, San Diego), [Zachary Tatlock](https://arxiv.org/search/cs?searchtype=author&query=Tatlock,+Z) (University of California, San Diego), [Sorin Lerner](https://arxiv.org/search/cs?searchtype=author&query=Lerner,+S) (University of California, San Diego)
+
+https://arxiv.org/abs/2101.01332
+Equality Saturation for Tensor Graph Superoptimization
+[Yichen Yang](https://arxiv.org/search/cs?searchtype=author&query=Yang,+Y), [Phitchaya Mangpo Phothilimtha](https://arxiv.org/search/cs?searchtype=author&query=Phothilimtha,+P+M), [Yisu Remy Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang,+Y+R), [Max Willsey](https://arxiv.org/search/cs?searchtype=author&query=Willsey,+M), [Sudip Roy](https://arxiv.org/search/cs?searchtype=author&query=Roy,+S), [Jacques Pienaar](https://arxiv.org/search/cs?searchtype=author&query=Pienaar,+J)
+
+https://dl.acm.org/doi/abs/10.1145/3385412.3386012
+Synthesizing structured CAD models with equality saturation and inverse transformations
+
+https://ieeexplore.ieee.org/document/10247797
+Automating Constraint-Aware Datapath Optimization using E-Graphs
+
+https://arxiv.org/abs/2511.20782
+Optimism in Equality Saturation
+[Russel Arbore](https://arxiv.org/search/cs?searchtype=author&query=Arbore,+R), [Alvin Cheung](https://arxiv.org/search/cs?searchtype=author&query=Cheung,+A), [Max Willsey](https://arxiv.org/search/cs?searchtype=author&query=Willsey,+M)
+
+
+### Other Resources
+https://inst.eecs.berkeley.edu/~cs294-260/sp24/
+Declarative Program Analysis and Optimization
+
+
+
+## Intro
+
+
+
+## Ref

@@ -13,7 +13,8 @@
 ↗ [Model Training (Classical ML & NN)](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Training%20%28Classical%20ML%20&%20NN%29.md)
 ↗ [Model Tuning & Hyperparameter Optimization (HPO)](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29.md)
 
-↗ [Running ML on GPU](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Running%20ML%20on%20GPU.md)
+↗ [AI (Data) Infrastructure & Machine Learning Systems](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems.md)
+↗ [Machine Learning Compilation & Kernel Dev](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md)
 
 
 ### Learning Resources

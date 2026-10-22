@@ -176,11 +176,11 @@ Note that the standard model is *not* the only interpretation:
 
 ## Reasoning in Frist-Order Logic
 > [!links]
-> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
+> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
 
 ### Formal Deduction in Logics
-↗ [Logic And Mechanized (Formal) Reasoning /Formalized Deduction](../../../Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29/Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md#Formalized%20Deduction)
+↗ [Logic And Mechanized (Formal) Reasoning /Formalized Deduction](../../../Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md#Formalized%20Deduction)
 
 
 ### Proof Systems & Inference Rules

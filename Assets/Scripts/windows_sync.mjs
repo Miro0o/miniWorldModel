@@ -46,6 +46,41 @@ function converted(bytes, file, index, config, { sourceFile = file, sourceIndex 
   catch (error) { if (error instanceof TypeError) return bytes; throw error; }
 }
 
+function mergeDisjointLines(base, ours, theirs, files) {
+  let lines;
+  try { lines = [base, ours, theirs].map(data => utf8.decode(data).match(/[^\n]*\n|[^\n]+$/g) ?? []); }
+  catch (error) { if (error instanceof TypeError) return null; throw error; }
+  const edits = [];
+  for (const [filename, updated] of [[files[0], lines[1]], [files[2], lines[2]]]) {
+    const diff = spawnSync('git', ['diff', '--no-index', '--no-ext-diff', '--no-textconv', '--no-color',
+      '--text', '--diff-algorithm=myers', '--unified=0', '--inter-hunk-context=0', '--', files[1], filename],
+    { encoding: 'utf8', maxBuffer: 128 * 1024 * 1024 });
+    if (diff.status !== 0 && diff.status !== 1) throw new Error(diff.stderr || 'Cannot compare merge inputs');
+    for (const match of diff.stdout.matchAll(/^@@ -(\d+)(?:,(\d+))? \+(\d+)(?:,(\d+))? @@/gm)) {
+      const count = Number(match[2] ?? 1);
+      const start = Number(match[1]) - (count ? 1 : 0);
+      const next = Number(match[3]) - 1;
+      edits.push({ start, end: start + count, text: updated.slice(next, next + Number(match[4] ?? 1)).join('') });
+    }
+  }
+  edits.sort((a, b) => a.start - b.start || a.end - b.end);
+  const output = [];
+  let cursor = 0;
+  let previous;
+  for (const edit of edits) {
+    if (previous && edit.start === previous.start && edit.end === previous.end && edit.text === previous.text) continue;
+    // Adjacent replacements affect different original lines. Insertions at a
+    // replacement boundary have ambiguous ordering and must remain conflicts.
+    if (edit.start < cursor || (previous && edit.start === previous.end
+      && (edit.start === edit.end || previous.start === previous.end))) return null;
+    output.push(lines[0].slice(cursor, edit.start).join(''), edit.text);
+    cursor = edit.end;
+    previous = edit;
+  }
+  output.push(lines[0].slice(cursor).join(''));
+  return Buffer.from(output.join(''));
+}
+
 async function merge(file, base, ours, theirs, temp) {
   if (same(ours, theirs)) return ours;
   if (same(ours, base)) return theirs;
@@ -56,8 +91,14 @@ async function merge(file, base, ours, theirs, temp) {
   const files = ['ours', 'base', 'theirs'].map(name => path.join(temp, name));
   await Promise.all([ours, base, theirs].map((data, i) => fs.writeFile(files[i], data)));
   const result = spawnSync('git', ['merge-file', '-p', '--diff3', ...files], { maxBuffer: 128 * 1024 * 1024 });
-  if (result.status !== 0) throw new Error(`${file}: overlapping changes; sync stopped without writing files`);
-  return result.stdout;
+  if (result.status === 0) return result.stdout;
+  // Git groups neighboring line edits into conflicts even when neither side
+  // changed the same line. Accept only provably disjoint base-line ranges.
+  if (result.status > 0 && result.status <= 127) {
+    const combined = mergeDisjointLines(base, ours, theirs, files);
+    if (combined !== null) return combined;
+  }
+  throw new Error(`${file}: overlapping changes; sync stopped without writing files`);
 }
 
 function changes(source, base, head) {

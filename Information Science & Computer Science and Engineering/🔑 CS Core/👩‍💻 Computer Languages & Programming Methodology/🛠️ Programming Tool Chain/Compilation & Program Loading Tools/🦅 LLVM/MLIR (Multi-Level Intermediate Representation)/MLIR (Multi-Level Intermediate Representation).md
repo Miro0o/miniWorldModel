@@ -27,6 +27,7 @@ Throughout this series we'll cover the following topics eventually leading up to
 - Part 9 - Superoptimizing Deep Learning
 
 
+
 ## Intro
 
 

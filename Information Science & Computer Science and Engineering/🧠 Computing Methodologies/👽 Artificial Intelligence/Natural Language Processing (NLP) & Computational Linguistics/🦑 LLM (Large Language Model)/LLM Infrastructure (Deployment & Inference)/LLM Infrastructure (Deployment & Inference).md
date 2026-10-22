@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [AI (Data) Infrastructure & Techniques Stack](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack.md)
-- ↗ [ML Programming & Frameworks](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/ML%20Programming%20&%20Frameworks.md)
-	- ↗ [RAY](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/RAY/RAY.md)
-- ↗ [Foundation Models & Development & SDKs](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/Foundation%20Models%20&%20Development%20&%20SDKs.md)
-- ↗ [Model Monitoring & Observability](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/Model%20Monitoring%20&%20Observability/Model%20Monitoring%20&%20Observability.md)
-- ↗ [Model Web Demo & Web Deployment](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/Model%20Web%20Demo%20&%20Web%20Deployment/Model%20Web%20Demo%20&%20Web%20Deployment.md)
+↗ [AI (Data) Infrastructure & Machine Learning Systems](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems.md)
+- ↗ [ML Programming & Frameworks](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/ML%20Programming%20&%20Frameworks.md)
+	- ↗ [RAY](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/RAY/RAY.md)
+- ↗ [Foundation Models & Development & SDKs](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/Foundation%20Models%20&%20Development%20&%20SDKs.md)
+- ↗ [Model Monitoring & Observability](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/Model%20Monitoring%20&%20Observability/Model%20Monitoring%20&%20Observability.md)
+- ↗ [Model Web Demo & Web Deployment](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/Model%20Web%20Demo%20&%20Web%20Deployment/Model%20Web%20Demo%20&%20Web%20Deployment.md)
 
 ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 ↗ [Attention & Efficient Operator Implementation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
@@ -20,12 +20,13 @@
 - ↗ [Agentic AI Workflow Dev](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
 - ↗ [AI API Call & AI Gateway](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20API%20Call%20&%20AI%20Gateway.md)
 
-↗ [AI on Cloud](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/AI%20on%20Cloud/AI%20on%20Cloud.md)
+↗ [AI on Cloud](../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/AI%20on%20Cloud/AI%20on%20Cloud.md)
 
 ↗ [vLLM](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
 ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
 
 ↗ [GPU (Graphics Processing Unit)](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Accelerators%20%28Coprocessors%29/GPU%20%28Graphics%20Processing%20Unit%29/GPU%20%28Graphics%20Processing%20Unit%29.md)
+↗ [Machine Learning Compilation & Kernel Dev](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md)
 ↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL.md)
 - ↗ [NVIDIA TensorRT & TensorRT-LLM](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/NVIDIA%20TensorRT%20&%20TensorRT-LLM/NVIDIA%20TensorRT%20&%20TensorRT-LLM.md)
 - ↗ [Google XLA & OpenXLA](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/Google%20XLA%20&%20OpenXLA.md)
@@ -195,7 +196,7 @@ Inside vLLM: Anatomy of a High-Throughput LLM Inference System
 > ↗ [Tokenization Techniques & Tokenizers](../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
 > ↗ [BPE (Byte Pair Encoding)](../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/BPE%20%28Byte%20Pair%20Encoding%29.md)
 > 
-> ↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL.md) 🤔
+> ↗ [Machine Learning Compilation & Kernel Dev](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md) 🤔
 > "Map: LLM Inference & AI Compilation"
 > "LLM Inference Workload"
 
@@ -558,7 +559,7 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 
 
 ### 1️⃣ LLM Compilation
-↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL.md)
+↗ [Machine Learning Compilation & Kernel Dev](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md)
 - Transformer Computation Graph & Operator
 	- static compilation
 	- dynamic compilation

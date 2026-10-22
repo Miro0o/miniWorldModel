@@ -10,7 +10,7 @@
 ↗ [Graph Theory](../../../../../../../🧮%20Mathematics/Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/Graph%20Theory.md)
 
 ↗ [Python Libs /PyG](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/📌%20Python%20Third-party%20Libs/Security%20&%20Cryptology/PyG.md)
-↗ [Python Libs /DGL](../../../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/DGL/DGL.md)
+↗ [Python Libs /DGL](../../../../../🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/DGL/DGL.md)
 
 
 ### Introduction

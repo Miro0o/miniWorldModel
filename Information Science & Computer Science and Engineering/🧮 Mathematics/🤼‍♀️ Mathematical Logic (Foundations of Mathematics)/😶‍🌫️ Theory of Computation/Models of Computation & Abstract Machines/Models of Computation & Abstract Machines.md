@@ -534,7 +534,7 @@ The subset of all _total_ recursive functions with values in {0,1} is known 
 > 
 > ↗ [Programming Language Processing & Program Execution](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 > ↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
-> ↗ [Code (Program) Optimization](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Code%20%28Program%29%20Optimization.md)
+> ↗ [Code (Program) Analysis & Optimization](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20%28Program%29%20Analysis%20&%20Optimization/Code%20%28Program%29%20Analysis%20&%20Optimization.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Rewriting
 
