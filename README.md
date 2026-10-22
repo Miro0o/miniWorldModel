@@ -334,16 +334,16 @@ Key design ideas:
 In the screenshots below, the first few images show `miniWorldMap` in the day theme, with hierarchy links highlighted on hover (showing ancestors, siblings, and successors); the rest show `miniWorldMap` in the night theme, with note internal/external links highlighted on hover. 
 
 <div class="carousel">  
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.34.32.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.35.26.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.36.11.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.35.50.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.37.08.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.41.14.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.41.38.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.39.48.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.39.14.png">
-<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.43.36.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2010.43.01%201.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2011.54.58.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2011.54.27.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2011.55.35.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2011.55.25.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2011.58.42.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2012.00.42.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2012.04.02.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2012.14.47.png">
+<img src="Assets/Pics/Screenshot%202026-10-22%20at%2012.12.54.png">
 </div>
 
 Please go to the Obsidian page for 🔗 [`miniWorldMap`](https://community.obsidian.md/plugins/mini-world-map) for more details about the plugin.
