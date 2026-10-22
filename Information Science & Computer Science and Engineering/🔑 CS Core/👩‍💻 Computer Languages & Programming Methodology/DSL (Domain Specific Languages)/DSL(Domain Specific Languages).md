@@ -12,7 +12,7 @@
 
 ↗ [Web Templating Apps & Frameworks](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Apps%20&%20Frameworks/Web%20Templating%20Apps%20&%20Frameworks.md)
 
-↗ [AI (LLM) Compilers & GPU Operators DSL](../🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL.md)
+↗ [Machine Learning Compilation & Kernel Dev](../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md)
 
 ↗ [Media Formats & Standards & Codec (Coder-Decoder)](../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder).md)
 

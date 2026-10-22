@@ -13,7 +13,7 @@
 
 
 ### Related Topics
-↗ [AI on Cloud](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20on%20Cloud/AI%20on%20Cloud.md)
+↗ [AI on Cloud](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Machine%20Learning%20Systems/AI%20on%20Cloud/AI%20on%20Cloud.md)
 
 
 ### Other Resources

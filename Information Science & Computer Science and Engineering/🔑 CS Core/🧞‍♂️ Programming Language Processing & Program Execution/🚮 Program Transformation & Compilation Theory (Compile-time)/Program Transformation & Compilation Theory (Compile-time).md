@@ -32,7 +32,7 @@
 - ↗ [JS Engines (JS Compilation)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/JS%20Engines%20(JS%20Compilation).md)
 
 
-### Courses & Books
+### Learning Resources
 🏫 [Stanford /CS143: Compilers](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20143%20Compilers/CS143:%20Compilers.md)
 
 🏫 [NJU / 软件分析](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/软件分析/软件分析.md)
@@ -56,6 +56,76 @@ Andrew W.Appel, Jens Palsberg
 
 📖 Advanced Compiler Design and Implementation
 Steven S.Muchnick
+
+https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/
+CS 6120: Advanced Compilers: The Self-Guided Online Course
+- CS 6120 is a PhD-level [Cornell CS](https://www.cs.cornell.edu/) course by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) on programming language implementation. It covers universal compilers topics like intermediate representations, data flow, and “classic” optimizations as well as more research-flavored topics such as parallelization, just-in-time compilation, and garbage collection. The work consists of reading papers and open-source hacking tasks, which use [LLVM](https://llvm.org/) and [an educational IR invented just for this class](https://capra.cs.cornell.edu/bril/).
+[Lesson 1:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/1/) Welcome & Overview
+- [video](https://vod.video.cornell.edu/media/0_bug89uok)
+- [Producing Wrong Data Without Doing Anything Obviously Wrong!](https://dl.acm.org/citation.cfm?id=1508275)  
+    Todd Mytkowicz, Amer Diwan, Matthias Hauswirth, and Peter F. Sweeney. ASPLOS 2009.
+- [SIGPLAN Empirical Evaluation Guidelines](https://www.sigplan.org/Resources/EmpiricalEvaluation/)
+[Lesson 2:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/2/) Representing Programs
+- [representing programs](https://vod.video.cornell.edu/media/1_vnx6laq9)
+- [getting started with Bril](https://vod.video.cornell.edu/media/1_jc91ke0h)
+[Lesson 3:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/3/) Local Analysis & Optimization
+- [simple dead code elimination](https://vod.video.cornell.edu/media/1_6k52flbg)
+- [local value numbering](https://vod.video.cornell.edu/media/1_i2gnhw41)
+[Lesson 4:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/4/) Data Flow
+- [data flow](https://vod.video.cornell.edu/media/1_72tqupsb)
+- [implementation task](https://vod.video.cornell.edu/media/1_mjy6lamo)
+[Lesson 5:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/5/) Global Analysis
+- [global analysis & optimization](https://vod.video.cornell.edu/media/1_i5apfx6t)
+- [Efficient Path Profiling](https://dl.acm.org/citation.cfm?id=243857)  
+    Thomas Ball and James R. Larus. MICRO 1996.
+[Lesson 6:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/6/) Static Single Assignment
+- [static single assignment](https://vod.video.cornell.edu/media/1_130pq2fh)
+- [Provably Correct Peephole Optimizations with Alive](https://dl.acm.org/citation.cfm?id=2737965)  
+    Nuno P. Lopes, David Menendez, Santosh Nagarakatte, and John Regehr. PLDI 2015.
+[Lesson 7:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/7/) LLVM
+- [introduction to LLVM](https://vod.video.cornell.edu/media/1_f231lwkz)
+- [writing an LLVM pass](https://vod.video.cornell.edu/media/1_4nrtmvc9)
+[Lesson 8:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/8/) Loop Optimization
+- [video](https://vod.video.cornell.edu/media/1_2shcxd1h)
+[Lesson 9:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/9/) Interprocedural Analysis
+- [video](https://vod.video.cornell.edu/media/1_9csov2la)
+- [Type-Based Alias Analysis](https://dl.acm.org/citation.cfm?id=277670)  
+    Amer Diwan, Kathryn S. McKinley, and J. Eliot B. Moss.
+[Lesson 10:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/10/) Alias Analysis
+- [video](https://vod.video.cornell.edu/media/1_7ngps985)
+- [A Unified Theory of Garbage Collection](https://dl.acm.org/citation.cfm?id=1028982)  
+    David F. Bacon, Perry Cheng, and V. T. Rajan. OOPSLA 2004.
+- [Fast Conservative Garbage Collection](http://www.cs.utexas.edu/~mckinley/papers/conservative-gc-oopsla-2014.pdf)  
+    Rifat Shahriyar, Stephen M. Blackburn, and Kathryn S. McKinley. OOPSLA 2014.
+ [Lesson 11:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/11/) Memory Management
+- [video](https://vod.video.cornell.edu/media/1_21p8mjsw)
+- [An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes](http://portal.acm.org/citation.cfm?id=74884)  
+    C. Chambers, D. Ungar, and E. Lee. OOPSLA 1989.
+- [Trace-Based Just-in-Time Type Specialization for Dynamic Languages](https://dl.acm.org/citation.cfm?id=1542476.1542528)  
+    Andreas Gal, Brendan Eich, Mike Shaver, David Anderson, David Mandelin, Mohammad R. Haghighat, Blake Kaplan, Graydon Hoare, Boris Zbarsky, Jason Orendorff, Jesse Ruderman, Edwin W. Smith, Rick Reitmaier, Michael Bebenita, Mason Chang, and Michael Franz. PLDI 2009.
+[Lesson 12:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/12/) Dynamic Compilers
+- [Dynamic Compilers](https://vod.video.cornell.edu/media/1_ltb1t94i)
+- [Tracing via Speculation](https://vod.video.cornell.edu/media/1_nk1o4hzm)
+- [Superoptimizer: A Look at the Smallest Program](https://courses.cs.washington.edu/courses/cse501/15sp/papers/massalin.pdf)  
+    Alexia Massalin. ASPLOS 1987.
+- [Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures](https://dl.acm.org/citation.cfm?id=2594339)  
+    Phitchaya Mangpo Phothilimthana, Tikhon Jelvis, Rohin Shah, Nishant Totla, Sarah Chasins, and Rastislav Bodik. PLDI 2014.
+[Lesson 13:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/13/) Program Synthesis
+- [video](https://vod.video.cornell.edu/media/1_mxclvd8z)
+- [Threads Cannot Be Implemented as a Library](https://dl.acm.org/doi/10.1145/1065010.1065042)  
+    Hans-J. Boehm. PLDI 2005.
+- [Exploiting Superword Level Parallelism with Multimedia Instruction Sets](https://dl.acm.org/doi/10.1145/358438.349320)  
+    Samuel Larsen and Saman Amarasinghe. PLDI 2000.
+- [A Type and Effect System for Deterministic Parallel Java](http://dpj.cs.illinois.edu/DPJ/Publications_files/DPJ-OOPSLA-2009.pdf)  
+    Robert L. Bocchino, Vikram S. Adve, Danny Dig, Sarita V. Adve, Stephen Heumann, Rakesh Komuravelli, Jeffrey Overbey, Patrick Simmons, Hyojin Sung, and Mohsen Vakilian. OOPSLA 2009.
+- [Formal Verification of a Realistic Compiler](https://dl.acm.org/citation.cfm?id=1538814)  
+    Xavier Leroy. CACM in 2009.
+[Lesson 14:](https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/14/) Concurrency & Parallelism
+- [video](https://vod.video.cornell.edu/media/1_8cpusna2)
+- 
+
+https://www.sciencedirect.com/book/monograph/9780128154120/engineering-a-compiler
+Engineering a Compiler | Third Edition • 2022
 
 
 ### Other Resources

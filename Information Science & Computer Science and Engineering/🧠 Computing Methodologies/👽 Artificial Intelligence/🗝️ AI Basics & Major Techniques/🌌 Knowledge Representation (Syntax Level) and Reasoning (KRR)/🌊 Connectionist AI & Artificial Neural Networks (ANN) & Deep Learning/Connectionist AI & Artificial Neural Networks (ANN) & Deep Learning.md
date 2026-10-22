@@ -19,9 +19,9 @@
 ↗ [(Deep) Generative Models](../../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Probabilistic%20Modeling%20Distinction/🪽%20(Deep)%20Generative%20Models/(Deep)%20Generative%20Models.md)
 ↗ [LLM (Large Language Model)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
-↗ [Running ML on GPU](../../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Running%20ML%20on%20GPU.md)
-↗ [PyTorch](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/📌%20PyTorch/PyTorch.md)
-↗ [Tensorflow](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/Hybrid%20Languages%20&%20Cross%20Platforms/📌%20Tensorflow/Tensorflow.md)
+↗ [AI (Data) Infrastructure & Machine Learning Systems](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Machine%20Learning%20Systems/AI%20(Data)%20Infrastructure%20&%20Machine%20Learning%20Systems.md)
+↗ [PyTorch](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Machine%20Learning%20Systems/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/📌%20PyTorch/PyTorch.md)
+↗ [Tensorflow](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Machine%20Learning%20Systems/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/Hybrid%20Languages%20&%20Cross%20Platforms/📌%20Tensorflow/Tensorflow.md)
 
 
 ### Learning Resource

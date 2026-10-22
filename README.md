@@ -23,13 +23,30 @@ This repository does not claim to describe the universe as it objectively is. In
 
 To provide an overview of the knowledge base, I vibe coded an Obsidian plugin: 🔗 [`miniWorldMap`](https://community.obsidian.md/plugins/mini-world-map). You are welcome to download it for a better visualization of how the knowledge is connected!
 
-![](Assets/Pics/Screenshot%202026-06-13%20at%2023.34.32.png)
+![](Assets/Pics/Screenshot%202026-10-22%20at%2010.43.01.png)
 
 
 > [!caution]
 > This is a personal knowledge base. Commercial use is strictly prohibited. Redistribution must include attribution and the same license.
 > 
 > 中介不要拿我的笔记去骗钱。
+
+
+----
+TOC
+- [Motivation & Introduction](#Motivation%20&%20Introduction)
+- [Reading Guidance](#Reading%20Guidance)
+	- [Structure of Single Note File](#Structure%20of%20Single%20Note%20File)
+	- [Searching Among Files](#Searching%20Among%20Files)
+	- [This Notebook and Generative AI](#This%20Notebook%20and%20Generative%20AI)
+- [About The Content of This Notebook](#About%20The%20Content%20of%20This%20Notebook)
+	- [Sitemap (Incomplete)](#Sitemap%20(Incomplete))
+	- [Visualization & miniWorldMap Plugin](#Visualization%20&%20miniWorldMap%20Plugin)
+- [FAQ & Troubleshooting](#FAQ%20&%20Troubleshooting)
+	- [The Hidden Files](#The%20Hidden%20Files)
+	- [File System Compatibility](#File%20System%20Compatibility)
+- [The End](#The%20End)
+- [License](#License)
 
 
 
@@ -164,7 +181,8 @@ Lastly, again hinted at earlier, this notebook is me. It's my thoughts of the un
 
 
 
-## Sitemap & Entrances to the Notebook
+## About The Content of This Notebook
+### Sitemap (Incomplete)
 Like said earlier, `miniWorldModel` is a well-organized notebook that acts like a giant mind map. Hence, to start reading the notebook one needs simply start with the only root file (the root node of the mind map) as everything unfolds here: ↗ [Universe, Self-Awareness, and Intelligence](Universe,%20Self-Awareness,%20and%20Intelligence.md). In this root file, I summarize my cognitive model of the universe as a unified framework (thus, the whole structure of this notebook). 
 
 That being said, I give a very brief (and incomplete) index to `miniWorldModel` below. You can view them as the entry points to the `miniWorldModel`. 
@@ -252,11 +270,11 @@ That being said, I give a very brief (and incomplete) index to `miniWorldModel` 
 		- ↗ [Fermi Paradox](Other%20Networks%20of%20Knowledge/Science%20&%20Engineering/Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20(ETI)/Fermi%20Paradox.md)
 
 
-### A Glimpse of the Notebook & miniWorldMap ⭐
+### Visualization & miniWorldMap Plugin
 As I’ve emphasized throughout, this notebook is structured as a mind map, with extensive links connecting its leaf nodes -- much like the illustration shown at the beginning of this README. 
 The combination of bidirectional linking and hierarchical structure is the core idea of this knowledge base. However, there is currently no public visualization tool that presents a view like this. Therefore, I made one myself (with Codex): 🔗 [`miniWorldMap`](https://community.obsidian.md/plugins/mini-world-map). Please download it from the Obsidian Community Plugins marketplace to gain a better visualization of the overall knowledge base. 
 
-Below, I will introduce the structure of the knowledge base by first showing two existing views separately, and then the combined view supported by `miniWorldMap`.
+Below, I will introduce the structure of the knowledge base by first showing two existing views separately (and why they don't look well separately), and then the combined view supported by `miniWorldMap`.
 
 > [!TIP]
 > 
@@ -285,7 +303,7 @@ Below, I will introduce the structure of the knowledge base by first showing two
 
 ---
 1️⃣ Bidirectional linking. 
-The screenshots below are from Obsidian’s native 🔗 [Graph View](https://obsidian.md/help/plugins/graph) plugin. While the graph view is visually appealing, it does not represent nodes in a hierarchical structure.
+The screenshots below are from Obsidian’s native 🔗 [Graph View](https://obsidian.md/help/plugins/graph) plugin. While the graph view is visually appealing, it does not represent nodes in a hierarchical structure. Also, when node size grows up it looks messy (despite fancy visual effects).
 
 <div class="carousel">  
 <img src="Assets/Pics/Screenshot 2026-02-06 at 02.04.14.png">  

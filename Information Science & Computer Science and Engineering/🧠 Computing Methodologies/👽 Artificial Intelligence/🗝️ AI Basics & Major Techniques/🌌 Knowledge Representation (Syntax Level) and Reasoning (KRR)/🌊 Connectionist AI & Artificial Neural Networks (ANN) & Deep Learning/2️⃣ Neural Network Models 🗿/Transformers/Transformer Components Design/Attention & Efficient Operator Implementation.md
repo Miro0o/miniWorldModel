@@ -104,7 +104,7 @@ Beyond Residual Connection:
 ## Intro
 > [!links]
 > ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md) "LLM Serving"
-> ↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL.md) "LLM Inference Workload"
+> ↗ [Machine Learning Compilation & Kernel Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md) "LLM Inference Workload"
 
 > [!Abstract]
 > ![|500](../../../../../../../../../Assets/Pics/Pasted%20image%2020250920191324.png)
@@ -239,6 +239,7 @@ DeepSeek 的一套 Attention 实现可以同时具有 MLA 的 KV 压缩、DSA �
 > ↗ [vLLM](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
 > ↗ [SGLang](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
 > 
+> ↗ [Machine Learning Compilation & Kernel Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md)
 > ↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL.md)
 > ↗ [NVIDIA TensorRT & TensorRT-LLM](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/NVIDIA%20TensorRT%20&%20TensorRT-LLM/NVIDIA%20TensorRT%20&%20TensorRT-LLM.md)
 

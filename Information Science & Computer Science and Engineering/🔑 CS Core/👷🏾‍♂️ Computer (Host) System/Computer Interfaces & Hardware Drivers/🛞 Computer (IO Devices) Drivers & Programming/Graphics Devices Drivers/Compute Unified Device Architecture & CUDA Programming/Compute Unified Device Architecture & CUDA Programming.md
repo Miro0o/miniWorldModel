@@ -5,7 +5,7 @@
 
 
 ## Res
-🏠 
+🏠 https://developer.nvidia.com/cuda-toolkit 
 🚧 
 📂 https://docs.nvidia.com/cuda/cuda-c-programming-guide/contents.html
 

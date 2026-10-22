@@ -13,6 +13,9 @@
 ↗ [VPU (Vision Processing Unit)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Full-Customized%20ASIC/VPU%20(Vision%20Processing%20Unit)/VPU%20(Vision%20Processing%20Unit).md)
 
 
+### Other Resources
+
+
 
 ## Intro
 
