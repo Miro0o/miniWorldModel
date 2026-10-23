@@ -20,12 +20,14 @@
 - ↗ [LEAN](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
 - ↗ [Viper (Verification Infrastructure for Permission-​based Reasoning)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Viper%20(Verification%20Infrastructure%20for%20Permission-​based%20Reasoning).md)
 - ↗ [WhyML & Why3](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/WhyML%20&%20Why3.md)
+- ↗ [Dafny](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Dafny.md)
 
 ↗ [ICT System Reliability (Correctness) & Verification](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 ↗ [Hardware (Digital Circuits) Verification](../Hardware%20(Digital%20Circuits)%20Verification/Hardware%20(Digital%20Circuits)%20Verification.md)
 
 ↗ [Software (Program) Techniques & Binary Engineering](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
 - ↗ [Program Analysis Basics](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+	- ↗ [SCA (Static Code Analysis) & SAST](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
 - ↗ [Program Synthesis & Code Generation](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
 
 ↗ [Programming Language Processing & Program Execution](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
@@ -88,6 +90,14 @@ COS 516/ECE 516: Automated Reasoning about Software, Fall 2026
 
 
 ## Intro
+> [!links]
+> ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+> ↗ [Axiomatic Semantics (Hoare-Style Logic)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Axiomatic%20Semantics%20(Hoare-Style%20Logic)/Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
+> ↗ [Denotational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Denotational%20Semantics.md)
+> ↗ [Operational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
+> 
+> ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+
 > 📖 Principles of Model Checking, Christel Baier and Joost-Pieter Katoen
 
 **Software Verification**: ↗ [Software Quality Assurance (SQA)](../../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
@@ -120,15 +130,12 @@ COS 516/ECE 516: Automated Reasoning about Software, Fall 2026
 > 🔗 https://courses.compute.dtu.dk/02245/
 
 One of the most fundamental questions in computer science is whether the programs we write are correct. In fact, the concern about correctness is as old as computers: Alan Turing already asked in 1949^[[Alan M. Turing. On checking a large routine. Report of a Conference on High Speed Automatic Calculating Machines, pages 67–69, 1949.](https://turingarchive.kings.cam.ac.uk/publications-lectures-and-talks-amtb/amt-b-8)]
-
 > "how can one check a routine in the sense of making sure that it is right?”
 
 Early on, we learn that we should test our programs to increase our confidence in the correctness of our programs. However, as adequately summarized by Turing Award winner Edsgar W. Dijkstra^[[Edsger W. Dijkstra: The humble programmer, CACM 1972](https://dl.acm.org/doi/10.1145/355604.361591)],
-
 > “program testing can be very effective to show the presence of bugs, but it is hopelessly inadequate for showing their absence.”
 
 Dijkstra went on to note that
-
 > “the only effective way to raise the confidence level of a program is to give a convincing proof of its correctness.”
 
 This course is concerned with the principles and pragmatics of _deductive_ **program verification** ­­­­- techniques for deriving such correctness proofs in a _machine-checkable_, _compositional_, and _automated_ fashion. All of the highlighted aspects play an important role:
@@ -354,7 +361,6 @@ Assertional and Deductive Verification
 
 ---
 Verification of Concurrent and Reactive Programs
-
 - **1976 — Owicki–Gries Method**
 	- Extended Hoare-style deductive verification from sequential programs to **parallel / concurrent programs**.
 	- Each process is first proved locally correct.
@@ -370,7 +376,6 @@ Verification of Concurrent and Reactive Programs
 
 ---
 Static Analysis through Abstraction
-
 - **1977 — Patrick Cousot and Radhia Cousot, Abstract Interpretation**
 	- Introduced a general mathematical framework for sound static program analysis.
 	- Instead of computing exact program behaviors, analyze an **abstract approximation** of those behaviors.
@@ -384,7 +389,6 @@ Static Analysis through Abstraction
 
 ---
 Model Checking: Algorithmic Verification
-
 - **1981–1982 — Clarke–Emerson and Queille–Sifakis**
 	- Established **model checking** as an automatic verification technique.
 	- Developed independently by:
@@ -421,7 +425,6 @@ Model Checking: Algorithmic Verification
 
 ---
 Local Reasoning about Memory
-
 - **2001–2002 — Separation Logic**
 	- Extended Hoare-style reasoning to programs manipulating mutable heap structures.
 	- Introduced operators such as **separating conjunction** (`*`) for reasoning about disjoint regions of memory.
@@ -435,12 +438,10 @@ Local Reasoning about Memory
 
 ---
 SMT-Based Automated Deductive Verification
-
 - **2000s — Verification Conditions + Automated Theorem Proving / SMT**
   - Deductive verification became increasingly automated.
 
   Typical workflow:
-
   `Program + Specifications`
   → `Verification Condition Generator`
   → `Logical Verification Conditions (VCs)`
@@ -453,21 +454,16 @@ SMT-Based Automated Deductive Verification
     - loop invariants,
     - function contracts,
     - termination measures.
-
   - The verifier automatically converts the program and its specifications into
     logical proof obligations.
-
   - If all required VCs are proved valid, the program is verified with respect to
     its specification.
-
   - Conceptually, validity checking can be reduced to satisfiability checking:
-
     `VC is valid`
     ⇔
     `¬VC is unsatisfiable`
 
   - Typical solver outcomes:
-
     - `UNSAT` for `¬VC` → the VC is proved valid
     - `SAT` → the VC does not hold; a model may help diagnose the failure
     - `UNKNOWN` → the solver could not establish the result
@@ -484,7 +480,6 @@ SMT-Based Automated Deductive Verification
 - **2010 — Dafny**
   - A verification-aware programming language and automatic program verifier.
   - Specifications are written directly alongside executable code, for example:
-
     - `requires` — preconditions
     - `ensures` — postconditions
     - `invariant` — loop invariants
@@ -492,7 +487,6 @@ SMT-Based Automated Deductive Verification
     - `decreases` — termination measures
 
   - Simplified verification pipeline:
-
     `Dafny program`
     → `Boogie`
     → `Verification Conditions`
@@ -509,44 +503,36 @@ SMT-Based Automated Deductive Verification
 Modern Program Verification
 
 Modern verification systems increasingly combine several previously separate ideas:
-
 - **Deductive verification**
   - Hoare logic
   - weakest preconditions
   - verification-condition generation
   - SMT solving
-
 - **Model checking**
   - explicit-state exploration
   - symbolic model checking
   - bounded model checking
   - temporal-logic verification
-
 - **Static analysis**
   - abstract interpretation
   - dataflow analysis
   - shape analysis
-
 - **Abstraction and refinement**
   - predicate abstraction
   - CEGAR
-
 - **Symbolic reasoning**
   - symbolic execution
   - constraint solving
   - SAT / SMT
-
 - **Heap and modular reasoning**
   - separation logic
   - ownership
   - permissions
-
 - **Invariant / specification synthesis**
   - template-based synthesis
   - CEGIS / SyGuS
   - CHC solving
   - PDR / IC3-style reasoning
-
 - **Recent AI-assisted approaches**
   - LLM-generated specifications,
   - invariants,
@@ -558,9 +544,7 @@ Modern verification systems increasingly combine several previously separate ide
 ##### Two Major Traditions
 A useful high-level view is that program verification developed along two major, partly converging traditions:
 
-
 1. Deductive / Proof-Based Verification
-
 `Program + Specification`
 → `Proof Obligations`
 → `Theorem Prover / SMT Solver`
@@ -580,7 +564,6 @@ Characteristics:
 
 
 2. Model-Based / Algorithmic Verification
-
 `System`
 → `State-Transition Model`
 → `Model-Checking Algorithm`
@@ -699,6 +682,45 @@ Today
 |**Path / state-space explosion**|Symbolic execution, state merging/subsumption, CEGAR, bounded exploration|Hybrid fuzzing + symbolic/concolic execution; learned or coverage-guided search; compositional summaries|★★★★☆ _(bug finding)_; ★★☆☆–★★★☆☆ _(exhaustive proof)_|
 |**Specification**|Contracts, specification languages/DSLs, formal models, property templates|LLM-assisted specification synthesis; specification mining; test/oracle/verifier-guided refinement|★★☆☆|
 |**Abstraction design**|Abstract interpretation, predicate abstraction, CEGAR, domain-specific abstractions|Automatic abstraction discovery; learned abstractions; data-driven/neural-guided refinement|★★★★☆|
+
+
+
+## Program Verification Basics
+### Hoare Logic & Axiomatic Semantics
+↗ [Axiomatic Semantics (Hoare-Style Logic)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Axiomatic%20Semantics%20(Hoare-Style%20Logic)/Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
+
+
+### Programs to Hoare Logic Proof Rules
+
+#### Automate Hoare Logic Inference
+
+
+### Predicate Transformation
+#### Weakest Precondition & Strongest Postcondition
+
+|比较|Weakest Precondition|Strongest Postcondition|
+|---|---|---|
+|简称|wp / wlp|sp|
+|起点|Postcondition \(Q\)|Precondition \(P\)|
+|方向|Backward|Forward|
+|要求|哪些初始状态可以保证 \(Q\)？|哪些最终状态可能被到达？|
+|对应状态集合|最大的安全初始状态集合|精确的终止后继状态集合|
+|最终验证|\(P\models wp(St,Q)\)|\(sp(St,P)\models Q\)|
+|典型用途|VC Generation|Symbolic Execution|
+#### Weakest Precondition & Algorithm
+
+Guarded Commands 的 wp 和 sp
+
+|Statement|\(wp(St,Q)\)|\(sp(St,P)\)|
+|---|---|---|
+|`x := E`|\(Q[E/x]\)|\(\exists x_0.\,(x=E[x_0/x])\land P[x_0/x]\)|
+|`assume R`|\(R\rightarrow Q\)|\(P\land R\)|
+|`assert R`|\(R\land Q\)|\(P\land R\)|
+|`St1; St2`|\(wp(St_1,wp(St_2,Q))\)|\(sp(St_2,sp(St_1,P))\)|
+#### Strongest Postcondition & Symbolic Execution
+
+
+### Inductive Assertion Method & Basic Paths
 
 
 

@@ -381,6 +381,12 @@ Formal semantics is concerned with rigorously specifying the meaning, or behavio
 - it can reveal ambiguities and subtle complexities in apparently crystal clear defining documents (for example, programming language manuals), and
 - it can form the basis for implementation, analysis, and verification (in particular, proofs of correctness).
 
+| Semantics    | 核心问题          | 主要数学对象                 |
+| ------------ | ------------- | ---------------------- |
+| Operational  | 程序怎样执行？       | Transition、Execution   |
+| Axiomatic    | 执行前后能保证什么？    | Assertion、Hoare Triple |
+| Denotational | 整个程序代表什么数学对象？ | Functions、Domains      |
+
 
 ### Formal Semantics of Programming Language
 ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
