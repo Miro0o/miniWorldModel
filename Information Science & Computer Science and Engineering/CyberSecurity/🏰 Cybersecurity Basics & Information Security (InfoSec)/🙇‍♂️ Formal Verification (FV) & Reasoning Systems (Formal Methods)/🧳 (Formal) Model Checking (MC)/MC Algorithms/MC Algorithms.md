@@ -300,3 +300,142 @@ compositional reasoning
 
 
 ## Ref
+> [!summary] CSCI5690 Lec 6.2 — SAT-Based Model Checking & CBMC
+> 
+> - **1. Bounded Model Checking (BMC)**
+>     - **Core Idea:** 将 Model Checking 转化为 SAT 问题，寻找长度不超过 $k$ 的 counterexample，而不是计算所有 reachable states。
+>     - **Transition System:** $M=(S,I,T)$
+>         - $S$: state space；$I$: initial states；$T$: transition relation。
+>         - $Init(\vec V)$: 初始状态约束；$T(\vec V,\vec V')$: 单步转移约束。
+>     - **Path Unrolling:** 引入 $\vec V_0,\ldots,\vec V_k$，编码长度为 $k$ 的执行路径：
+>         - $Path(k)=Init(\vec V_0)\land\bigwedge_{i=0}^{k-1}T(\vec V_i,\vec V_{i+1})$
+>         - 一个 symbolic formula 可以同时表示大量 concrete execution paths，无须逐条枚举。
+>     - **BMC Encoding:** 对 safety property $AG\,q$，寻找第 $k$ 步违反 $q$ 的路径：
+>         - $B(M,q,k)=Path(k)\land\neg q(\vec V_k)$
+>         - **SAT:** 存在长度为 $k$ 的 counterexample，可以提取 execution trace。
+>         - **UNSAT:** 不存在长度恰好为 $k$、在终点违反 $q$ 的路径；不代表系统永远安全。
+>     - **BMC Procedure:** 从 $k=0$ 开始逐步增加 bound，每次构造公式并调用 SAT solver。
+>         - 首次 SAT 得到 shortest counterexample（按 transition 数量）。
+>         - Formula size 随 bound $k$ 增长。
+>     - **Completeness Threshold:**
+>         - 对 finite-state systems，如果所有深度直到足够大的 completeness threshold 都没有反例，可以证明 safety。
+>         - Diameter = 从 initial states 到各 reachable states 的 shortest-path distance 的最大值。
+>         - 实践中 threshold 可能极大或难以计算，因此基本 BMC 主要用于 falsification（找 bug）。
+> 
+> - **2. BMC vs. BDD-Based Symbolic Model Checking**
+>     - **BDD-Based:**
+>         - 通过 symbolic state traversal 计算 reachable state sets。
+>         - $F_{i+1}=F_i\cup Post(F_i)$，直到达到 fixed point。
+>         - 主要维护的是状态集合，BDD 可能发生 size explosion。
+>     - **SAT-Based BMC:**
+>         - 通过 transition unrolling 直接搜索 counterexample paths。
+>         - 不显式计算或存储 intermediate reachable state sets，也不需要 fixed point。
+>         - 通常更适合寻找较短的 bug traces，但受到 bound 和 formula size 限制。
+>     - **Key Distinction:** BDD-based 方法主要计算 reachable states；BMC 直接求解满足约束的 bad paths。
+>     - 两者都属于 symbolic model checking；区别在于 symbolic representation 和 verification algorithm。
+> 
+> - **3. Unbounded Verification via Induction**
+>     - **Goal:** 证明 $M\models AG\,q$，即所有 reachable states 都满足 $q$。
+>     - **Base Case:** 所有 initial states 满足 $q$。
+>         - $Init(V)\Rightarrow q(V)$
+>         - SAT check: $Init(V)\land\neg q(V)$ 应为 **UNSAT**。
+>     - **Inductive Step:** 满足 $q$ 的状态经过一步合法 transition 后仍满足 $q$。
+>         - $q(V)\land T(V,V')\Rightarrow q(V')$
+>         - SAT check: $q(V)\land T(V,V')\land\neg q(V')$ 应为 **UNSAT**。
+>     - Base Case + Inductive Step 都成立，则 $q$ 是 inductive invariant，可以证明 unbounded safety。
+>     - **Important Distinction:**
+>         - Inductive Step 返回 SAT 不一定代表真实 bug，因为得到的状态可能 unreachable。
+>         - Invariant: $Reach\subseteq\llbracket q\rrbracket$。
+>         - Inductive Invariant: 还要求 $Init\subseteq\llbracket q\rrbracket$ 以及 $Post(\llbracket q\rrbracket)\subseteq\llbracket q\rrbracket$。
+>         - Inductive Invariant $\Rightarrow$ Invariant，但反过来不一定成立。
+>     - **Invariant Strengthening:** 若 $q$ 本身不 inductive，可以寻找更强的 $Inv$：
+>         - $Init\Rightarrow Inv$
+>         - $Inv(V)\land T(V,V')\Rightarrow Inv(V')$
+>         - $Inv\Rightarrow q$
+> 
+> - **4. Other SAT-Based Unbounded Verification Methods**
+>     - **k-Induction:**
+>         - 将 simple induction 扩展为使用连续 $k$ 个状态满足 $q$ 的假设。
+>         - Base Case 检查从初始状态出发的 bounded paths。
+>         - Inductive Step 检查任意连续合法状态序列能否从前 $k$ 个状态满足 $q$ 推出下一个状态也满足 $q$。
+>         - 比 simple induction 更强，但不保证总能成功。
+>     - **Interpolation-Based Verification:**
+>         - 从 UNSAT proof 中提取 Craig interpolant。
+>         - Interpolant 可用于 over-approximate intermediate reachable states。
+>         - 利用这些状态近似信息辅助证明 unbounded safety。
+> 
+> - **5. SAT-Based Program Verification**
+>     - **Goal:** 给定 Program $P$、Property $q$ 和 Bound $k$，检查是否存在违反 $q$ 的 bounded execution。
+>     - **Main Reduction:** Program execution → Logical Constraints → SAT/SMT。
+>     - **Assertion Checking:**
+>         - $C$: program constraints；$A$: assertion。
+>         - Verification condition: $C\models A$。
+>         - SAT check: $C\land\neg A$。
+>         - **SAT:** 找到满足程序约束但违反 assertion 的 execution。
+>         - **UNSAT:** 被建模和覆盖的执行中不存在 assertion violation。
+>     - 常见 Safety Bugs: array out-of-bounds、division by zero、null pointer dereference、arithmetic overflow、assertion violation。
+> 
+> - **6. CBMC (C Bounded Model Checker)**
+>     - 使用 SAT-based BMC 检查 C/C++ 程序的 safety properties。
+>     - **Toolflow:** C Program → Parser → Static Analysis → Equations → CNF → SAT Solver → Result / Counterexample。
+>     - **Four Main Transformation Steps:**
+>         - **Step 1 — Simplify Control Flow:** 消除 side effects，规范化 loops，显式表示控制流跳转。
+>         - **Step 2 — Loop Unwinding:** 将循环按给定 bound 展开为有限的 conditional executions。
+>         - **Step 3 — SSA Conversion:** 将重复赋值转换成不同版本的变量。
+>         - **Step 4 — Formula Encoding:** 将 assignments 和 assertions 转换成逻辑约束，交给 SAT/SMT solver。
+> 
+> - **7. Loop Unwinding & Unwinding Assertions**
+>     - SAT-based BMC 处理有限长度的 executions，因此需要为 loops 设置 unwinding bound。
+>     - **Loop Unwinding:** 将 `while(cond) { Body; }` 展开为有限层 nested `if`。
+>     - **Unwinding Assertion:** 检查达到展开上限后，loop condition 是否已经为 false。
+>         - 典型形式：`assert(!cond)`。
+>         - Assertion holds：该执行不需要超过 bound 的循环次数。
+>         - Assertion fails：存在需要继续执行循环的路径，当前 unwinding 不充分。
+>     - **Important:** Unwinding assertion failure 不一定是原程序的 bug，而可能只是 bound 太小。
+>     - 只有所有原始 claims 和所有 unwinding assertions 都得到验证，才能在相应建模语义下证明完整 safety。
+> 
+> - **8. Static Single Assignment (SSA)**
+>     - **Core Idea:** 每个变量版本只赋值一次，使 imperative assignments 可以转换成 declarative logical constraints。
+>     - **Repeated Assignments:**
+>         - 原程序：`x = 1; x = x + 2;`
+>         - SSA：$x_1=1,\quad x_2=x_1+2$。
+>         - 避免把 state update 错误地理解为同一个变量的逻辑等式 $x=x+2$。
+>     - **Conditional Branches & $\phi$-Functions:**
+>         - 不同 branches 产生不同的变量版本。
+>         - 在 control-flow join point 使用 $\phi$-function 合并。
+>         - 例如：$x_3=\phi(x_1,x_2)=ITE(c,x_1,x_2)$。
+>         - $ITE(c,a,b)$：当 $c$ 为 true 时选择 $a$，否则选择 $b$。
+>     - **Array Updates:** 可用 Array Theory 表示，例如 $a_1=Store(a_0,i,v)$。
+>     - **Key Connection:** SSA 是连接 program semantics、compiler intermediate representation 和 SAT/SMT encoding 的重要桥梁。
+> 
+> - **9. Modeling Primitives**
+>     - **`assert(e)`:** 要求所有被检查的执行都满足 $e$；违反时产生 counterexample。
+>     - **`assume(e)`:** 限制允许的执行路径；不满足 $e$ 的执行被排除。
+>     - **`nondet_int()`:** 返回 symbolic nondeterministic integer，表示所有可能的合法整数值，而不是随机采样一个值。
+>     - **Key Distinction:**
+>         - `assume(e)` = constraint / precondition。
+>         - `assert(e)` = property / proof obligation。
+>         - 对应逻辑关系：$\text{Assumptions}\models\text{Assertions}$。
+> 
+> - **10. Important CBMC Commands (Lecture Syntax)**
+>     - `cbmc --show-claims -I include file.c` — 显示程序中的 verification claims。
+>     - `cbmc --unwind n --claim x -I include file.c` — 使用 unwind bound `n` 检查指定 claim。
+>     - `cbmc --help` — 查看命令参数。
+> 
+> - **11. Critical SAT / UNSAT Distinctions**
+>     - **BMC SAT:** 找到真实的 bounded counterexample。
+>     - **BMC UNSAT:** 指定 bound 内未找到 counterexample，不等于 unbounded safety proof。
+>     - **Induction Base SAT:** 存在违反 property 的 initial state。
+>     - **Induction Step SAT:** 归纳条件失败，但可能只是 unreachable states 导致的 spurious counterexample。
+>     - **Induction Base + Step UNSAT:** 可以证明 unbounded safety。
+>     - **CBMC UNSAT:** 没有在当前覆盖范围内发现错误；需要进一步确认 loop unwinding 和建模是否完整。
+> 
+> - **12. Overall Knowledge Connections**
+>     - **Logic / SAT:** 将 verification condition 转成 satisfiability problem；$\Gamma\models\varphi$ iff $\Gamma\land\neg\varphi$ is UNSAT。
+>     - **Transition Systems / Temporal Logic:** 用 $M\models AG\,q$ 描述系统的 unbounded safety。
+>     - **BDD-Based MC:** Reachability computation + Fixed Point。
+>     - **SAT-Based BMC:** Transition Unrolling + Counterexample Search。
+>     - **Induction / k-Induction / Interpolation:** 从 bounded reasoning 扩展到 unbounded verification。
+>     - **CBMC:** Program → Loop Unwinding → SSA → Constraints / CNF → SAT Solver。
+>     - **Central Insight:** 将程序的动态执行行为编码为静态逻辑约束，再使用 automated reasoning 判断是否存在违反 specification 的执行。
+

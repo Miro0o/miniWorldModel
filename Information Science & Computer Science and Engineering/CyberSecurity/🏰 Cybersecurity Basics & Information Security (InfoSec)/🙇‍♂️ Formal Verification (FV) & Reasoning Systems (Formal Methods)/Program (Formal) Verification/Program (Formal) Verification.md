@@ -725,3 +725,181 @@ Guarded Commands 的 wp 和 sp
 
 
 ## Ref
+> [!summary] CSCI5690 Lecture 7 — Program Verification with Hoare Logic
+>
+> - **1. Program Semantics & Modeling**
+>     - **Program State**：$s \in \mathcal{S}$，包含 program counter (pc)、variables、stack、heap 等。
+>     - **Transition System**：$T \subseteq \mathcal{S} \times \mathcal{S}$，描述程序执行引起的状态变化 $s \rightarrow s'$。
+>     - **State Set Representation**
+>         - Explicit：直接枚举状态。
+>         - Symbolic：使用 predicate $P$ 表示状态集合 $\llbracket P \rrbracket = \{s \in \mathcal{S} \mid P(s)\}$。
+>     - **Three Types of Program Semantics**
+>         - Operational Semantics：通过状态转移或执行步骤定义程序行为；包括 Big-Step / Small-Step Semantics。
+>         - Axiomatic Semantics：通过 assertions 和 proof rules 描述程序执行前后的逻辑关系。
+>         - Denotational Semantics：将程序解释为数学函数或数学域上的运算。
+>     - **Imp Language**：`skip`、`x := E`、`St1; St2`、`if C then St1 else St2`、`while C do St`。
+>
+> - **2. Hoare Logic & Program Correctness**
+>     - **Hoare Triple**：$\{P\}\ St\ \{Q\}$。
+>         - $P$：Precondition，执行前需要满足的条件。
+>         - $St$：Program Statement。
+>         - $Q$：Postcondition，执行后需要保证的条件。
+>     - **Partial Correctness**：如果初始状态满足 $P$，且程序终止，则最终状态必须满足 $Q$；不要求 termination。
+>         - $\models \{P\}St\{Q\}$：Semantic Validity。
+>         - $\vdash \{P\}St\{Q\}$：Syntactic Provability，能够使用 Hoare Logic Rules 证明。
+>         - 特殊情况：$\{false\}St\{Q\}$、$\{P\}St\{true\}$、$\{P\}\ while\ true\ do\ skip\ \{Q\}$ 都满足 partial correctness。
+>     - **Total Correctness**：Partial Correctness + Termination；讲义记为 $[P]\ St\ [Q]$。
+>     - **Soundness**：$\vdash \{P\}St\{Q\} \Rightarrow \models \{P\}St\{Q\}$。
+>     - **Relative Completeness**：在 assertion language 表达能力足够，且能够证明底层逻辑公式的理想条件下，Hoare Logic 可证明所有语义有效的 partial correctness specifications；不代表一般程序验证可判定。
+>
+> - **3. Hoare Logic Proof Rules**
+>     - **Skip**：$\{P\}\ skip\ \{P\}$。
+>     - **Assignment**：$\{Q[E/x]\}\ x:=E\ \{Q\}$。
+>         - $Q[E/x]$：将 $Q$ 中自由出现的 $x$ 安全替换为 $E$。
+>         - 本质是 Backward Reasoning：从期望的 postcondition 反推 precondition。
+>     - **Composition**：若 $\{P\}St_1\{R\}$ 且 $\{R\}St_2\{Q\}$，则 $\{P\}St_1;St_2\{Q\}$。
+>         - $R$ 是 Intermediate Assertion；如何自动找到 $R$ 是自动化证明中的一个问题。
+>     - **Conditional**：分别证明 $\{P \land C\}St_1\{Q\}$ 和 $\{P \land \neg C\}St_2\{Q\}$。
+>     - **While**：若 $\{I \land C\}Body\{I\}$，则 $\{I\}\ while\ C\ do\ Body\ \{I \land \neg C\}$。
+>         - $I$ 为 Loop Invariant；规则只保证 partial correctness。
+>     - **Rule of Consequence**
+>         - Strengthening Precondition：$P' \Rightarrow P$，允许使用更强的 $P'$。
+>         - Weakening Postcondition：$Q \Rightarrow Q'$，允许使用更弱的 $Q'$。
+>         - 注意方向：Precondition 可以加强，Postcondition 可以减弱。
+>
+> - **4. Loop Invariant & Inductive Invariant**
+>     - **Invariant**：在所有实际 reachable loop-header states 上成立的性质。
+>         - $Reach(Init) \subseteq \llbracket I \rrbracket$。
+>     - **Inductive Invariant**：不仅实际成立，而且自身足以支持 inductive proof。
+>         - Initialization：$Init \subseteq \llbracket I \rrbracket$。
+>         - Preservation：$Post_{Body}(\llbracket I \land C \rrbracket) \subseteq \llbracket I \rrbracket$。
+>         - 即 $\{I \land C\}Body\{I\}$。
+>     - **关系**：Inductive Invariant $\Rightarrow$ Invariant；反过来不一定成立。
+>         - 原因：Invariant 只约束 reachable states；Inductiveness 必须对所有满足 $I \land C$ 的状态成立，包括 unreachable states。
+>         - Invariant Strengthening：通过加入辅助约束排除不合适的状态，使候选 invariant 变成 inductive。
+>     - **Loop Verification 的三个证明义务**
+>         - Initialization：循环开始之前建立 $I$。
+>         - Preservation：$I \land C \Rightarrow wp(Body,I)$。
+>         - Postcondition：$I \land \neg C \Rightarrow Q$。
+>     - **Invariant 的作用**：通过有限的逻辑公式 over-approximate reachable states，从而避免枚举任意多次循环执行。
+>
+> - **5. Predicate Transformers — wp & sp**
+>     - **Weakest Precondition (wp)**：Backward Reasoning，从目标 $Q$ 反推保证 $Q$ 的最弱初始条件。
+>         - 最弱 = 限制最少 = 包含最多初始状态。
+>         - $\{P\}St\{Q\}$ valid $\iff P \Rightarrow wp(St,Q)$ valid。
+>     - **Strongest Postcondition (sp)**：Forward Reasoning，从初始条件 $P$ 计算所有可能终止结果的最精确描述。
+>         - 最强 = 限制最多 = 对应最小的合法 postcondition state set。
+>         - $\{P\}St\{Q\}$ valid $\iff sp(St,P) \Rightarrow Q$ valid。
+>     - **核心对偶关系**：$sp(St,P) \Rightarrow Q \iff P \Rightarrow wp(St,Q)$（在相同的 partial correctness 语义下）。
+>     - **wp Calculation Rules**
+>         - Skip：$wp(skip,Q)=Q$。
+>         - Assignment：$wp(x:=E,Q)=Q[E/x]$。
+>         - Sequence：$wp(St_1;St_2,Q)=wp(St_1,wp(St_2,Q))$。
+>         - Conditional：$wp(if\ C\ then\ St_1\ else\ St_2,Q)=(C \Rightarrow wp(St_1,Q)) \land (\neg C \Rightarrow wp(St_2,Q))$。
+>     - **sp Calculation Rules**
+>         - Assignment：$sp(x:=E,P)=\exists x_{old}.\,(x=E[x_{old}/x]) \land P[x_{old}/x]$。
+>         - Sequence：$sp(St_1;St_2,P)=sp(St_2,sp(St_1,P))$。
+>         - Conditional：分别计算两个分支的 sp，再使用 disjunction 合并。
+>     - **sp 与 Model Checking 的联系**
+>         - $sp(St,P)$ 对应 transition relation 的 Post-Image。
+>         - $Post_T(P)(s')=\exists s.\,T(s,s') \land P(s)$。
+>         - sp 经常产生 existential quantifiers，因此可能需要 Quantifier Elimination。
+>
+> - **6. Weakest Liberal Precondition & Fixed Points**
+>     - **wlp vs. Total-Correctness wp**
+>         - $wlp(St,Q)$：只保证程序一旦终止，结果满足 $Q$；允许 non-termination。
+>         - $wp_{total}(St,Q)$：保证程序终止并满足 $Q$。
+>         - 讲义使用 $wp$ 表示 weakest liberal precondition，即讨论 partial correctness 的版本。
+>         - 对于 `while true do skip`：$wlp=true$，而 $wp_{total}=false$。
+>     - **为什么 Loop 需要 Fixed Point？**
+>         - `while C do St` 可以递归展开为 `if C then (St; while C do St) else skip`。
+>         - 循环的前置条件依赖于自身，因此产生方程 $X=F(X)$。
+>         - $F(X)=(\neg C \land Q) \lor (C \land wlp(St,X))$。
+>     - **LFP vs. GFP**
+>         - Weakest Liberal Precondition：使用 Greatest Fixed Point，$wlp(while\ C\ do\ St,Q)=\nu F$。
+>         - Total-Correctness wp：使用 Least Fixed Point，$wp_{total}(while\ C\ do\ St,Q)=\mu F_{total}$。
+>         - 直观区别：GFP 接受不会产生错误终止结果的状态（包括可能不终止的情况）；LFP 只接受能够保证终止且结果正确的状态。
+>         - 与 Model Checking 联系：Reachability 常使用 LFP；partial-correctness wlp 的循环语义使用 GFP，二者计算目标不同。
+>
+> - **7. Automated Program Verification & VC Generation**
+>     - **基本流程**：Annotated Program → Verification Condition Generator (VCG) → VCs → SMT Solver / Theorem Prover。
+>     - **Annotations**：Preconditions、Postconditions、Loop Invariants，以及终止性证明所需的 Ranking Functions。
+>     - **Verification Conditions (VCs)**：将程序正确性转化为需要证明 valid 的逻辑公式 $\varphi_1,\ldots,\varphi_n$。
+>         - Validity Checking：$\models VC \iff \neg VC$ is UNSAT。
+>     - **Approximate Weakest Precondition (awp)**
+>         - 非循环语句：按照 wp 规则递归计算。
+>         - Annotated Loop：$awp(while\ C\ do\ \{I\}\ Body,Q)=I$。
+>         - 同时生成额外 VCs，检查 $I$ 的 preservation 与 $I \land \neg C \Rightarrow Q$。
+>         - 如果所有相关 VCs 成立，且 $P \Rightarrow awp(St,Q)$，则 Hoare Triple valid。
+>         - 注意：这是充分条件，不一定是必要条件；正确程序也可能因为 invariant 太弱而验证失败（False Alarm）。
+>     - **Dafny**：使用 program annotations 与 wp-based VC Generation 验证程序。
+>         - `requires`：Precondition。
+>         - `ensures`：Postcondition。
+>         - `invariant`：Loop Invariant。
+>         - `decreases`：Ranking Function / Termination Metric。
+>
+> - **8. Guarded Commands (GC)**
+>     - 一种用于程序验证的简化 Intermediate Representation，方便逻辑推理与 VC Generation。
+>     - **Core Commands**
+>         - `assume B`：限制可行路径；不满足 $B$ 的路径被排除。
+>         - `assert B`：检查必须成立的性质；存在不满足 $B$ 的 reachable state 则为 assertion failure。
+>         - `havoc x`：对 $x$ 进行 nondeterministic assignment，可以取任意允许值。
+>         - `c1; c2`：Sequential Composition。
+>         - `c1 [] c2`：Nondeterministic Choice。
+>     - **关键区别：assume vs. assert**
+>         - $wp(assume\ B,Q)=B \Rightarrow Q$。
+>         - $wp(assert\ B,Q)=B \land Q$。
+>         - $sp(assume\ B,P)=sp(assert\ B,P)=P \land B$，但 assert 的安全性仍需单独验证。
+>     - **其他规则**
+>         - $wp(havoc\ x,Q)=\forall x.\,Q$。
+>         - $wp(c_1\mathbin{[]}c_2,Q)=wp(c_1,Q)\land wp(c_2,Q)$。
+>     - **Control Flow Encoding**
+>         - `if B then S else T` → `(assume B; S) [] (assume !B; T)`。
+>         - Loop → `assert I; havoc modified_variables; assume I; ((assume C; Body; assert I; assume false) [] assume !C)`。
+>         - 通过 invariant 和 havoc，将无限循环的验证转化为有限的 loop-free proof obligations。
+>
+> - **9. Symbolic Execution & Inductive Assertion Method**
+>     - **Symbolic Execution**
+>         - 使用 symbolic variables 和 path constraints 描述程序执行，而非只运行具体输入。
+>         - 沿路径正向传播状态条件，可使用 sp 进行形式化。
+>         - Branch Conditions 通过 `assume` 限制路径；Assertions 对应需要证明的 safety conditions。
+>         - 常结合 SAT/SMT Solver 判断路径可行性、寻找 counterexamples。
+>     - **Inductive Assertion Method**
+>         - 将 Control Flow Graph (CFG) 按关键 annotations 划分为有限的 Basic Paths。
+>         - Basic Paths 通常连接入口、循环头不变量和出口等关键位置，避免无限展开 loops。
+>         - 对每条路径 $\{F\}S\{G\}$ 生成 VC。
+>             - Backward：$F \Rightarrow wp(S,G)$。
+>             - Forward：$sp(S,F) \Rightarrow G$。
+>         - 验证所有 basic paths 的 proof obligations，包括 loop-back paths，即可利用 induction 建立 partial correctness。
+>     - **Typical Applications**
+>         - wp：VC Generation、Inductive Assertion Method、Predicate Abstraction。
+>         - sp：Symbolic Execution、Static Program Analysis、Invariant Generation。
+>
+> - **10. Termination & Total Correctness**
+>     - **核心关系**：Total Correctness = Partial Correctness + Termination。
+>     - **Well-Founded Relation**：不存在无限严格下降链的关系。
+>         - $(\mathbb{N},<)$ 是 well-founded；$(\mathbb{Z},<)$ 不是。
+>         - 自然数元组上的 Lexicographic Ordering 也是 well-founded。
+>     - **Ranking Function / Loop Variant**
+>         - $\delta:\mathcal{S}\rightarrow Z$，其中 $(Z,\prec)$ 是 well-founded set/relation。
+>         - 每次 loop iteration 必须满足 $\delta(s')\prec\delta(s)$。
+>         - 因为良基关系不允许无限下降，所以循环不能无限执行。
+>     - **Common Ranking Functions**
+>         - Scalar：如 $\delta=n-i$，要求非负并严格递减。
+>         - Lexicographic：如 $\delta=(i,j)$，先比较 $i$，若 $i$ 不变，再比较 $j$。
+>         - Lexicographic Ordering 允许低优先级分量增加，只要更高优先级分量严格下降。
+>     - **Invariant vs. Variant**
+>         - Invariant：证明 What remains true（Safety / Partial Correctness）。
+>         - Variant / Ranking Function：证明 Why execution must stop（Termination）。
+>     - **Total Correctness Verification**：同时检查 inductive invariants、postconditions，以及所有相关循环的 ranking-function decrease。
+>
+> - **11. Overall Connections & Key Takeaways**
+>     - **Program Semantics**：Program → Transition Relation → State Sets / Predicates。
+>     - **Hoare Logic**：使用 proof rules 证明程序满足 pre/postconditions。
+>     - **Predicate Transformers**：wp 反向推导必要条件；sp 正向计算可能的结果状态。
+>     - **VC Generation**：将程序证明转化为逻辑公式，再由 SMT Solver 验证。
+>     - **Loop Verification**：通过 inductive invariants 对无限多次迭代进行有限证明。
+>     - **Termination Verification**：通过 well-founded relations 和 ranking functions 排除 infinite executions。
+>     - **Connections to Model Checking**：共同使用 transition systems、reachability、fixed points、state predicates 和 inductive invariants。
+>     - **Main Challenges**：自动生成足够强的 invariants、ranking functions，以及处理 heap、concurrency、recursion 等复杂程序特性。
+>     - **Core Pipeline**：Program + Specification + Annotations → VC Generation → SAT/SMT/Theorem Proving → Correctness Guarantee。

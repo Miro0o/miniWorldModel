@@ -25,7 +25,7 @@
 ↗ [Attack Simulation - Red, Blue, Purple, White](🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
 ↗ [Network Penetration (Pen-testing)](../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 
-↗ [Trust-worthy AI & LLM Safety and Security](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
+↗ [Trust-worthy AI & LLM Safety and Security](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
 
 
 ### Other Resources

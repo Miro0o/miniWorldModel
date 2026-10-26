@@ -648,3 +648,290 @@ compositional reasoning
 ## Ref
 [Model Checking -- An Overview]: https://web.stanford.edu/class/cs357/lecture12.pdf
 [15-817 Introduction to Model Checking | CMU Fall 2009 ]: https://www.cs.cmu.edu/~emc/15817-f09/index.html
+
+> [!summary] Lecture 6 — Model Checking (Part 1) | Knowledge Summary
+> - **1. Model Checking — 核心思想**
+>     - Model Checking 是一种基于 State Space Traversal 的自动化形式化验证技术，主要用于 finite-state systems，尤其是 concurrent / reactive systems。
+>     - 核心问题：给定系统模型 $M$ 和 specification $\varphi$，判断 $M \models \varphi$ 是否成立。
+>     - 基本流程：
+>         - Program / System → Kripke Structure $M$（Semantic Model）
+>         - Requirements → Temporal Logic Formula $\varphi$（Specification）
+>         - Model Checker → Verified / Counterexample
+>     - 与 SAT 的区别：
+>         - SAT：是否存在一个 interpretation，使公式成立？$\exists I,\ I\models\varphi$
+>         - Model Checking：给定具体模型 $M$，它是否满足 $\varphi$？
+>     - 优点：高度自动化、可生成 counterexamples、适合 partial specifications。
+>     - 局限：State Explosion、可能需要 abstraction、难以直接表达完整的系统需求。
+>
+> - **2. Reachability & Safety Verification**
+>     - Safety：Nothing bad will happen；典型形式为 $AG\neg Bad$。
+>     - Forward Reachability：从 initial states 出发，探索所有 reachable states。
+>         - $F_0=I$，$F_{k+1}=Post(F_k)$（恰好 $k+1$ 步可达）。
+>         - $F^*=\bigcup_{k\geq 0}F_k$：所有 reachable states。
+>         - Safety check：$F^*\cap Bad=\varnothing$。
+>     - Backward Reachability：从 bad states 反向寻找哪些状态能够到达它们。
+>         - $B_0=Bad$，$B_{k+1}=Pre(B_k)$。
+>         - $B^*=\bigcup_{k\geq 0}B_k$：所有能够到达 bad states 的状态。
+>         - Safety check：$B^*\cap I=\varnothing$。
+>     - Explicit-state vs Symbolic：
+>         - Explicit：检查状态集合的交集是否为空。
+>         - Symbolic：检查对应 Boolean formulas 的合取是否 unsatisfiable。
+>     - Reachability 可以转化为 Least Fixed Point：
+>         - $Reach(I)=\mu Z.(I\cup Post(Z))$。
+>         - $CanReach(Bad)=\mu Z.(Bad\cup Pre(Z))$。
+>
+> - **3. Kripke Structure — 系统的数学模型**
+>     - 定义：$M=\langle S,S_0,T,L\rangle$。
+>         - $S$：States。
+>         - $S_0\subseteq S$：Initial states。
+>         - $T\subseteq S\times S$：Transition relation。
+>         - $L:S\to 2^{AP}$：Labeling function，指定每个状态中成立的 atomic propositions。
+>     - Path：无限状态序列 $\pi=s_0s_1s_2\cdots$，满足 $\forall i\geq0,\ (s_i,s_{i+1})\in T$。
+>     - State Satisfaction：$M,s\models\varphi$，表示公式在特定状态 $s$ 成立。
+>     - Model Satisfaction：$M\models\varphi\iff\forall s\in S_0,\ M,s\models\varphi$。
+>     - Kripke Structure 可以理解为 Transition System + Atomic Proposition Labeling。
+>     - 与之前的 Logic / Model Theory 的联系：
+>         - Temporal Logic Formula 属于 Syntax / Specification。
+>         - Kripke Structure 属于 Semantics / Model。
+>         - Satisfaction Relation 将两者联系起来。
+>         - Transition relation $T$ 类似 Kripke modal semantics 中的 accessibility relation。
+>     - Concurrent Systems：
+>         - 使用 Interleaving Semantics：每一步执行某个 process 的 transition。
+>         - Global state 包含 shared variables 和各个 process 的 program counters。
+>         - 必须考虑不同 processes 的所有合法 interleavings。
+>
+> - **4. Safety vs Liveness**
+>     - Safety：Nothing bad will happen。
+>         - 如果无限路径违反 Safety，必然存在一个有限 bad prefix，使其所有无限延伸都违反该性质。
+>         - 典型性质：Mutual Exclusion、Never Divide by Zero。
+>         - CTL 示例：$AG\neg(inCritical_1\land inCritical_2)$。
+>     - Liveness：Something good will happen。
+>         - 每个有限路径前缀都可以延伸成一条满足该性质的无限路径。
+>         - 典型性质：Starvation Freedom、Eventual Response。
+>         - CTL 示例：$AG(request\rightarrow AF\,ack)$。
+>     - 关键区别：
+>         - Safety violation 可以由有限 bad prefix 证明。
+>         - 纯 Liveness violation 不能仅凭有限前缀证明；在有限状态系统中，通常用包含循环的无限路径表示 counterexample。
+>         - Mutual Exclusion 不代表 Starvation Freedom。
+>
+> - **5. Temporal Logic — 时间与路径**
+>     - Temporal Logic 是 Modal Logic 的扩展，用于描述系统执行随时间变化的性质。
+>     - Path Quantifiers：
+>         - $A$（All Paths）：所有执行路径。
+>         - $E$（Exists a Path）：至少存在一条执行路径。
+>     - Temporal Operators：
+>         - $X\varphi$（neXt）：下一时刻满足 $\varphi$。
+>         - $F\varphi$（Finally）：未来某个时刻满足 $\varphi$。
+>         - $G\varphi$（Globally）：从现在起始终满足 $\varphi$。
+>         - $\varphi U\psi$（Strong Until）：$\psi$ 必须最终出现，且之前始终满足 $\varphi$。
+>         - $\varphi W\psi$（Weak Until）：$\psi$ 可以不出现，但此时 $\varphi$ 必须永远成立。
+>     - Important Until Equivalence：
+>         - $\varphi W\psi\equiv G\varphi\lor(\varphi U\psi)$。
+>         - Until 允许目标 $\psi$ 在当前时刻成立（$k=0$），此时不要求 $\varphi$ 成立。
+>         - Strong Until 必须最终满足 $\psi$；Weak Until 不要求。
+>
+> - **6. CTL、LTL、CTL* 的关系**
+>     - CTL*：同时包含 Path Quantifiers 和 Temporal Operators 的表达框架。
+>     - CTL（Computation Tree Logic）：
+>         - Branching-time logic：描述 computation tree 上不同未来分支的性质。
+>         - 每个 temporal operator 都必须直接搭配一个 path quantifier。
+>         - 典型形式：$AX,EX,AF,EF,AG,EG,A[U],E[U]$。
+>         - 可以在不同的嵌套层次使用 $A$ 和 $E$。
+>     - LTL（Linear Temporal Logic）：
+>         - Linear-time logic：描述单条 computation path 上随时间变化的性质。
+>         - 公式不包含显式 path quantifiers。
+>         - Model Checking 时，默认要求所有 initial execution paths 满足公式。
+>         - 典型形式：$X,F,G,U$。
+>     - Expressive Power：
+>         - $CTL\subsetneq CTL^*$。
+>         - $LTL\subsetneq CTL^*$。
+>         - CTL 和 LTL 的表达能力不可互相包含。
+>         - CTL 可以表达某些 branching properties，例如 $AG(EFp)$。
+>         - LTL 可以表达某些 CTL 无法表达的 path properties，例如 $FGp$。
+>
+> - **7. CTL Operators — 核心语义**
+>     - Next：
+>         - $EXp$：至少有一个 successor 满足 $p$。
+>         - $AXp$：所有 successors 都满足 $p$。
+>     - Eventually：
+>         - $EFp$：存在一条路径，最终到达 $p$。
+>         - $AFp$：所有路径最终都会到达 $p$。
+>     - Globally：
+>         - $EGp$：存在一条路径，$p$ 始终成立。
+>         - $AGp$：所有路径上，$p$ 始终成立。
+>     - Until：
+>         - $E[pUq]$：存在一条路径，$p$ 持续成立直到 $q$ 最终出现。
+>         - $A[pUq]$：所有路径都必须满足上述条件。
+>     - 常见 Specification：
+>         - Safety：$AG\neg Bad$。
+>         - Reachability：$EF\,Target$。
+>         - Eventual Response：$AG(req\rightarrow AF\,ack)$。
+>         - Infinitely Often：$AGAFp$。
+>         - Eventual Permanent Property：$AFAGp$。
+>     - 容易混淆：
+>         - $EFp$ vs $AFp$：至少一条路径最终达到 vs 所有路径最终达到。
+>         - $EGp$ vs $AGp$：至少一条路径永远满足 vs 所有路径永远满足。
+>         - $AFp$ vs $AGEFp$：所有路径最终达到 $p$ vs 每个可达状态始终保留某条可达到 $p$ 的路径。
+>         - $AFp$ vs $AGAFp$：最终发生一次 vs 从每个未来状态出发仍保证最终发生（沿每条路径无限次发生）。
+>
+> - **8. LTL — 常用公式与容易混淆的区别**
+>     - $G(request\rightarrow F\,ack)$：每次请求最终都会得到确认。
+>     - $GFp$：$p$ infinitely often（无限多次出现）。
+>     - $FGp$：$p$ eventually always（最终稳定为 true）。
+>     - 两者区别：
+>         - $GFp$ 允许 $p$ 不断在 true / false 之间变化。
+>         - $FGp$ 要求某个时刻以后 $p$ 永远为 true。
+>         - $FGp\Rightarrow GFp$，反方向不成立。
+>     - 常用 LTL Equivalences：
+>         - $F\varphi\equiv true\ U\varphi$。
+>         - $G\varphi\equiv\neg F\neg\varphi$。
+>         - $G\varphi\equiv\varphi\land XG\varphi$。
+>         - $F\varphi\equiv\varphi\lor XF\varphi$。
+>
+> - **9. Fairness — 并发调度的公平性**
+>     - 问题：Interleaving Semantics 允许 scheduler 无限期忽略某个 process，导致 starvation。
+>     - Fairness 用于限制哪些 infinite execution paths 被视为合理执行。
+>     - 三种 Fairness：
+>         - Absolute Fairness：Process 必须无限次执行。
+>             - $GF\,exec$。
+>         - Strong Fairness：如果 process 无限次 ready，那么必须无限次执行。
+>             - $GF\,ready\rightarrow GF(ready\land exec)$。
+>         - Weak Fairness：如果 process 从某个时刻开始持续 ready，那么必须获得无限次执行机会。
+>             - $FG\,ready\rightarrow GF(ready\land exec)$。
+>     - Strong Fairness 比 Weak Fairness 更强：
+>         - Strong 只要求 infinitely often enabled。
+>         - Weak 要求 continuously enabled（最终持续 ready）。
+>     - Fair Kripke Structure：
+>         - $M=\langle S,S_0,T,L,\mathcal F\rangle$，其中 $\mathcal F\subseteq2^S$。
+>         - Fair Path 必须无限次访问每个 fairness set 中的某些状态。
+>         - 形式化：$\forall P\in\mathcal F,\ Inf(\pi)\cap P\neq\varnothing$。
+>         - Path quantifiers 只在 fair paths 上解释。
+>     - LTL 可以描述上述 fairness conditions；CTL 通常通过 Fair Kripke Structures 处理公平路径约束。
+>
+> - **10. CTL Model Checking — Bottom-up Marking Algorithm**
+>     - 核心思想：不是直接判断整个公式，而是逐层计算满足每个 subformula 的状态集合。
+>     - Satisfaction Set：
+>         - $Sat(\varphi)=\{s\in S\mid M,s\models\varphi\}$。
+>         - $M\models\varphi\iff S_0\subseteq Sat(\varphi)$。
+>     - 算法流程：
+>         - 将 CTL formula 分解为 subformulas。
+>         - 从最内层 atomic propositions 开始。
+>         - 使用已计算的 satisfaction sets 逐层标记外层公式。
+>         - Temporal operators 通过 graph traversal / fixed-point iteration 计算。
+>         - 最后检查所有 initial states 是否满足最外层公式。
+>     - Boolean Operators：
+>         - $Sat(\neg\varphi)=S\setminus Sat(\varphi)$。
+>         - $Sat(\varphi\land\psi)=Sat(\varphi)\cap Sat(\psi)$。
+>         - $Sat(\varphi\lor\psi)=Sat(\varphi)\cup Sat(\psi)$。
+>     - Predecessor Operators：
+>         - $Pre_\exists(Z)=\{s\mid\exists s'\in Z,\ T(s,s')\}$。
+>         - $Pre_\forall(Z)=\{s\mid\forall s',\ T(s,s')\Rightarrow s'\in Z\}$。
+>         - $Sat(EX\varphi)=Pre_\exists(Sat(\varphi))$。
+>
+> - **11. Fixed-point Computation — CTL 算法核心**
+>     - Fixed Point：对于集合函数 $F:2^S\to2^S$，满足 $F(Z)=Z$ 的集合。
+>     - Least Fixed Point（$\mu$）：
+>         - 从 $Z_0=\varnothing$ 开始，$Z_{i+1}=F(Z_i)$。
+>         - 集合逐渐增大，直到稳定。
+>         - 常用于 Eventually / Strong Until：通过有限步骤找到满足目标的状态。
+>     - Greatest Fixed Point（$\nu$）：
+>         - 从 $Z_0=S$ 开始，$Z_{i+1}=F(Z_i)$。
+>         - 集合逐渐缩小，直到稳定。
+>         - 常用于 Globally：保留能够无限期维持性质的状态。
+>     - 核心 Fixed-point Equations（令 $P=Sat(p),\ Q=Sat(q)$）：
+>         - $Sat(EFp)=\mu Z.(P\cup Pre_\exists(Z))$。
+>         - $Sat(AFp)=\mu Z.(P\cup Pre_\forall(Z))$。
+>         - $Sat(EGp)=\nu Z.(P\cap Pre_\exists(Z))$。
+>         - $Sat(AGp)=\nu Z.(P\cap Pre_\forall(Z))$。
+>         - $Sat(E[pUq])=\mu Z.(Q\cup(P\cap Pre_\exists(Z)))$。
+>         - $Sat(A[pUq])=\mu Z.(Q\cup(P\cap Pre_\forall(Z)))$。
+>     - 重要 Recursive Equivalences：
+>         - $EGp\equiv p\land EX(EGp)$。
+>         - $EFp\equiv p\lor EX(EFp)$。
+>         - $AGp\equiv p\land AX(AGp)$。
+>         - $AFp\equiv p\lor AX(AFp)$。
+>         - $E[pUq]\equiv q\lor(p\land EX(E[pUq]))$。
+>     - 关键：Recursive Equation 本身不足以确定语义，必须选择正确的 Least / Greatest Fixed Point。
+>     - 有限状态空间上，单调集合运算的迭代最终会稳定。
+>
+> - **12. CTL Formula Duality / Equivalences**
+>     - $AXp\equiv\neg EX\neg p$。
+>     - $AFp\equiv\neg EG\neg p$。
+>     - $AGp\equiv\neg EF\neg p$。
+>     - $EFp\equiv\neg AG\neg p$。
+>     - $AFp\equiv A[true\ U\ p]$。
+>     - $EFp\equiv E[true\ U\ p]$。
+>     - 这些等价关系使不同 CTL operators 可以被归约到少量基本运算。
+>     - CTL 的一个 Adequate Set of Connectives：
+>         - $\{false,\neg,\land,EX,EU,EG\}$。
+>
+> - **13. State Explosion Problem**
+>     - 对于 $n$ 个 Boolean state variables，潜在状态数量为 $2^n$。
+>     - 对于并发系统，global state space 是各组件状态空间的乘积：
+>         - $|S|=\prod_i|S_i|$。
+>     - 即使 model checking 算法对显式模型是 polynomial-time，模型本身也可能指数增长。
+>     - 缓解方法：
+>         - Symbolic Model Checking：使用 BDD / SAT 等表示，而不是直接枚举所有状态。
+>         - Abstraction：抽象掉与 specification 无关的变量和细节。
+>         - Partial Order Reduction（POR）：减少相对于 property 等价的并发 interleavings。
+>         - Compositional Reasoning：将系统分解为 components 并分别验证。
+>
+> - **14. Symbolic Model Checking — BDD-Based**
+>     - 核心思想：将 State Sets 表示为 Boolean Characteristic Functions。
+>         - Set → Characteristic Function → Boolean Formula → BDD。
+>         - 状态变量：$V=(x_1,\ldots,x_n)$。
+>         - Next-state variables：$V'=(x'_1,\ldots,x'_n)$。
+>         - Transition Relation：$T(V,V')$。
+>         - Satisfaction Set：$\chi_\varphi(V)$，表示哪些状态满足 $\varphi$。
+>     - Boolean Connectives 可以通过 BDD Apply 操作实现。
+>     - 核心操作：PreImage / Symbolic Backward Traversal。
+>         - $\chi_{EXg}(V)=\exists V'.[T(V,V')\land\chi_g(V')]$。
+>         - 含义：寻找所有能够一步转移到满足 $g$ 的状态的当前状态。
+>         - $\exists V'$ 消去 next-state variables。
+>     - Symbolic Fixed Points：
+>         - $EGh$：从全集开始，不断计算 $H(V)\land PreImage(Z)$，直到稳定（GFP）。
+>         - $E(gUh)$：从空集开始，不断计算 $H(V)\lor(G(V)\land PreImage(Z))$，直到稳定（LFP）。
+>     - BDD Canonicity：
+>         - 固定 variable ordering 下，Reduced Ordered BDD 是 Boolean function 的规范表示。
+>         - 有利于检测 fixed-point iteration 的停止条件 $Z_i=Z_{i-1}$。
+>
+> - **15. Complexity & Practical Limitations**
+>     - CTL Model Checking：
+>         - $O(|M|\cdot|\varphi|)$。
+>         - 经典方法：Bottom-up Marking / Graph-based Fixed-point Algorithms。
+>     - LTL Model Checking：
+>         - $O(|M|\cdot2^{O(|\varphi|)})$。
+>         - 使用 Automata-theoretic Model Checking。
+>         - PSPACE-complete。
+>     - CTL* Model Checking：
+>         - $O(|M|\cdot2^{O(|\varphi|)})$。
+>         - PSPACE-complete。
+>     - 实际瓶颈：
+>         - Formula 通常不大。
+>         - 主要困难往往是 State Explosion，而不只是 formula complexity。
+>     - BDD-Based Model Checking 的限制：
+>         - BDD Size 可能指数增长。
+>         - Variable Ordering 对 BDD 大小影响极大。
+>         - 即使最优 Variable Ordering，也不一定存在足够紧凑的 BDD。
+>     - SMV（Symbolic Model Verifier）：
+>         - 经典 BDD-based CTL Model Checking Tool。
+>         - 输入 System Model、CTL Specification、可选 Fairness Conditions。
+>         - 输出是否满足 specification，失败时可提供 counterexample。
+>     - 下一节课方向：SAT-Based Bounded Model Checking（BMC）。
+>
+> - **16. 最重要的知识联系与易错点**
+>     - Model Checking = Kripke Structure（模型）+ Temporal Logic（性质）+ Satisfaction Checking（验证）。
+>     - Reachability 是最基本的 Model Checking 问题；Safety 常可归约为 Bad State Reachability。
+>     - CTL 的语义是 State-Based；LTL 先描述 Path Properties，再对所有 initial paths 检查。
+>     - $E$ 和 $A$ 量化 Paths；$X,F,G,U$ 描述沿路径的时间性质。
+>     - $AFp$ 不等于 $EFp$；$AG(EFp)$ 也不等于 $AFp$。
+>     - $GFp$（无限次发生）不等于 $FGp$（最终永远成立）。
+>     - Strong Until 与 Weak Until 的关键区别是目标是否必须出现。
+>     - Fairness 影响哪些无限路径被考虑，因此可能改变 Liveness Verification 的结果。
+>     - Eventually / Strong Until 通常对应 LFP（$\mu$）；Globally 通常对应 GFP（$\nu$）。
+>     - Bottom-up Marking 和 Symbolic Model Checking 的语义目标相同，区别主要在状态集合的表示和计算方式。
+>     - BDD 不会消除最坏情况下的指数复杂度，只是在某些系统中能够紧凑表示庞大的状态空间。
+>     - 讲义注意：LTL slide 将 “eventually acknowledged” 写为 $G(request\rightarrow acknowledge)$；按照文字要求应为 $G(request\rightarrow F\,acknowledge)$。
+>
+> - **One-line Summary**
+>     - Model Checking 将系统建模为 Kripke Structure，用 CTL/LTL 描述 Safety、Liveness 等时序性质，通过 State Traversal、Bottom-up Marking、Fixed-point Computation 和 Symbolic Representation（BDD/SAT）自动判断 $M\models\varphi$，其主要挑战是 State Explosion。

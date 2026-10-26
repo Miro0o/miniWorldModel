@@ -28,6 +28,7 @@
 ↗ [LLM For Security](../../../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
 - ↗ [LLM & Software Engineering and Security](../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Software%20Engineering%20and%20Security.md)
 - ↗ [LLM & Fuzzing](../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md)
+↗ [Trust-worthy AI & LLM Safety and Security](../../../Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
 
 ↗ [AIoT (AI for IoT) & Edge AI](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenarios%20&%20Embedded%20Systems/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI.md)
 

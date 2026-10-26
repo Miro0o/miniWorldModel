@@ -12,7 +12,7 @@
 ↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI.md)
 - ↗ [(M)LLM Explainability](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/🥺%20(M)LLM%20Explainability/(M)LLM%20Explainability.md)
 
-↗ [Knowledge Distillation](../../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Knowledge%20Distillation/Knowledge%20Distillation.md)
+↗ [Knowledge Distillation](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Knowledge%20Distillation/Knowledge%20Distillation.md)
 
 ↗ [AI4Security](../../../../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
 ↗ [LLM For Security](../../../../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)

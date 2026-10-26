@@ -746,3 +746,6 @@ https://zhuanlan.zhihu.com/p/675592367
 	3. Part III：约束求解问题
 	4. Part IV：SAT问题求解
 	5. Part V：SMT问题求解
+
+
+[LLMs are making formal software verification feasible at a much larger scale | Anthropic]: anthropic.com/research/formal-verification

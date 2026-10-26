@@ -372,6 +372,13 @@ $$\text{Data} \ \overset{Statistics}{\to} \ \text{Models (Rules)} \ \overset{Pro
 ### Semantics of Transition System
 > [!links]
 > ↗ [Graph Basics](../../../Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+
+Path 是一串状态：$\sigma=s_0s_1s_2\cdots s_n$
+使得每两个相邻状态都满足 Transition Relation：$\boxed{ (s_i,s_{i+1})\in T,\quad 0\leq i<n }$
+这里上界应当是 $i<n$，因为 $s_n$ 已经是最后一个状态。
+例如：$a\rightarrow b\rightarrow c$
+是一个 Path，只要这两条 transition 都存在。
+但它未必从初始状态开始。
 #### Execution & Trace
 **Execution**
 An execution fragment is a sequence of transitions.
