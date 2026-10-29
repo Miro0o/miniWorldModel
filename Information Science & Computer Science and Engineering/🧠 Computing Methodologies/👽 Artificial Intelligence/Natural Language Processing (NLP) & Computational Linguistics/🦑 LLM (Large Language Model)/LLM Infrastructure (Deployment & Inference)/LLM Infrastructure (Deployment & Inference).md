@@ -66,6 +66,34 @@ Orca: A Distributed Serving System for Transformer-Based Generative Models
 
 
 ### Learning Resources
+https://llmsystem.github.io/llmsystem2025spring/
+https://llmsystem.github.io/llmsystemhomework/
+Large Language Model Systems
+CMU 11868
+
+https://haoailab.com/cse234-w25/index.html
+[CSE234: Data Systems for Machine Learning](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B3%BB%E7%BB%9F/CSE234/)
+本课程专注于设计一个全面的大语言模型(LLM)系统课程，作为设计高效LLM系统的入门介绍。
+课程可以更准确地分为三个部分（外加若干 guest lecture）：
+Part 1. 基础：现代深度学习与计算表示
+- Modern DL 与计算图（computational graph / framework 基础）
+- Autodiff 与 ML system 架构概览
+- Tensor format、MatMul 深入与硬件加速器（accelerators）
+Part 2. 系统与性能优化：从 GPU Kernel 到编译与内存
+- GPUs & CUDA（含基本性能模型）
+- GPU MatMul 与算子编译（operator compilation）
+- Triton 编程、图优化与编译（graph optimization & compilation）
+- Memory（含训练/推理中的内存问题与技巧）
+- Quantization（量化方法与系统落地）
+Part 3. LLM系统：训练与推理
+- 并行策略：模型并行、collective communication、intra-/inter-op、自动并行化
+- LLM 基础：Transformer、Attention、MoE
+- LLM 训练优化：FlashAttention 等
+- LLM 推理：continuous batching、paged attention、disaggregated prefill/decoding
+- Scaling law
+（Guest lectures：ML compiler、LLM pretraining/open science、fast inference、tool use & agents 等，作为补充与扩展。）
+CSE234的最大特点在于非常专注于以LLM (LLM System)为核心应用场景，强调真实系统设计中的取舍与工程约束，而非停留在算法或 API 使用层面。课程作业通常需要直接面对性能瓶颈（如内存带宽、通信开销、kernel fusion 等），并通过 Triton 或系统级优化手段加以解决，对理解“为什么某些 LLM 系统设计是现在这个样子”非常有帮助。学习体验整体偏硬核，前期对系统与并行计算背景要求较高，自学时建议提前补齐 CUDA/并行编程与基础系统知识，否则在后半部分（尤其是 LLM 优化与推理相关内容）会明显感到陡峭的学习曲线。但一旦跟上节奏，这门课对从事 LLM Infra / ML Systems / AI Compiler 方向的同学具有很强的长期价值。
+
 https://github.com/henryhxu/CSCI5540
 CSCI5540 Machine Learning Systems, Fall 2026
 - This graduate course will introduce you to the key concepts and the state-of-the-art in large-scale software systems for LLMs and agents, and encourage you to think about either building new tools or how to apply existing ones in various domains.

@@ -897,9 +897,9 @@ Hobart and William Smith Colleges
 
 
 ### 3D Graphics Rendering
+#### 3D Rendering Pipeline
 > 🤖 GPT 6.0 Astra
 > https://chatgpt.com/share/6ac38f2d-5694-83ec-b7e8-300cd5d007ee
-
 
 - 3D Games and Real-Time Rendering
     - Virtual world
@@ -1454,7 +1454,760 @@ NDC
        ↓ viewport transform
 Screen Coordinates
 ```
+#### Light Source & Reflection
+> 🤖 GPT 6.1 Sol
+> https://chatgpt.com/share/6ae05817-3c78-83ec-969b-329600784977
 
+把整堂课串起来：GPU 是如何渲染一面砖墙的？
+这是对整堂 Lecture 的综合理解，也能把它和上一讲连接起来。
+假设你使用 Blender 创建了一面砖墙，然后把它导入 Godot。
+
+Step 1：Mesh 决定墙的几何形状
+这面墙可能只是由两个三角形构成的平面。
+它有顶点位置、顶点法线、UV 等数据。
+
+Step 2：UV 决定贴图怎样放在墙面上
+你给墙设置好 UV Coordinates。
+这样 Shader 就可以知道，对于墙面上的一个片元，应该从贴图的什么位置读取数据。
+
+Step 3：PBR Texture Maps 决定不同位置的材质参数
+Base Color
+定义砖头和砖缝的颜色
+Normal
+模拟砖头与缝隙的凹凸
+Roughness
+控制不同位置的反光宽度
+Ambient Occlusion
+近似砖缝里的环境遮蔽
+
+Step 4：Vertex Shader 处理模型坐标变换
+回到上一讲：$P_{\text{clip}}=PVM P_{\text{model}}$
+这里 \(M\) 是 Model Matrix，\(V\) 是 View Matrix，\(P\) 是 Projection Matrix。
+GPU 通过这些变换得到用于裁剪和投影的坐标。
+
+Step 5：Rasterization 产生 Fragments
+GPU 将投影后的三角形光栅化。
+每个 Fragment 会得到插值的属性，例如 UV Coordinates，以及供后续着色使用的其他信息。
+
+Step 6：Fragment Shader 采样 Texture
+对一个特定 Fragment：
+
+$(u,v)\rightarrow \begin{cases} \text{Base Color}\\ \text{Normal}\\ \text{Roughness}\\ \text{AO} \end{cases}$
+这个过程不是把所有图片直接叠加成最终颜色。
+而是将不同贴图的值作为材质参数，传递给不同的着色计算。
+
+Step 7：使用 Lighting + BRDF 计算光照
+游戏里可能存在一盏 Directional Light，模拟太阳。
+Shader 知道光源的方向 \(L\)，表面法线 \(N\)，以及摄像机的方向 \(V\)。
+它使用 PBR 的 BRDF 计算反射贡献。
+例如砖缝位置的 Normal 会与砖面不同，因此即使真实 Mesh 是平的，也会形成看起来凹陷的光照效果。
+与此同时，Roughness 会影响高光形态，AO 可以近似影响间接照明。
+
+Step 8：经过测试和混合后输出
+最后，Fragment Shader 给出颜色等输出。
+渲染管线还会处理适用的 Depth / Stencil Tests、Blending 等操作。
+最终写入 Framebuffer，形成屏幕上的图像。
+这也是本讲与上一讲的完整连接。
+
+---
+- 3D Graphics Pipeline (Recap)
+    - Model Space → World Space → View Space → Clip Space → NDC → Screen Space
+    - Rasterization: Triangles → Fragments
+    - Fragment Shading: Material, Texture, Lighting
+    - Depth / Stencil Testing, Blending → Final Image
+
+- Lighting
+    - Purpose
+        - Light–surface interactions
+        - Realism, depth perception, atmosphere
+        - Aesthetic and gameplay effects
+    - Point Light (Omnidirectional)
+        - Single position, all directions
+        - Distance attenuation
+        - Inverse-square falloff: $I \propto 1/d^2$
+        - Attenuation: $A(d) = 1/(k_c + k_l d + k_q d^2)$
+        - Examples: Lamps, lanterns
+    - Directional Light
+        - Fixed direction, no specific position
+        - Parallel light rays
+        - No distance attenuation
+        - Example: Sunlight
+    - Spotlight
+        - Position, direction, cone angle
+        - Angular falloff, distance attenuation
+        - Examples: Flashlight, stage lighting
+    - Ambient Light
+        - Constant approximation of indirect illumination
+        - No directional shadows or highlights
+        - Independent of viewing direction
+        - Example: Background illumination in dark scenes
+
+- Lighting and Reflection Models
+    - Reflection Model: Surface response to incoming light
+    - Lighting Model: Reflection + Light Sources + Visibility / Occlusion
+    - Realism vs Computational Efficiency
+
+    - Phong Reflection Model
+        - $I = I_{ambient} + I_{diffuse} + I_{specular}$
+        - Ambient Reflection
+            - Constant background illumination
+            - $I_{ambient} = I_a k_a$
+            - $I_a$: Ambient light intensity
+            - $k_a$: Ambient reflectivity
+        - Diffuse Reflection (Lambertian)
+            - Matte reflection
+            - View-independent outgoing radiance
+            - $I_{diffuse} = I_d k_d \max(0, N \cdot L)$
+            - $I_d$: Diffuse light intensity
+            - $k_d$: Diffuse reflectivity
+            - $N$: Normalized surface normal
+            - $L$: Normalized surface-to-light direction
+            - $N \cdot L = \cos\theta$
+            - $\max(0, N \cdot L)$: Prevents negative lighting
+        - Specular Reflection
+            - Shiny, view-dependent highlights
+            - $I_{specular} = I_s k_s [\max(0, R \cdot V)]^n$
+            - $I_s$: Specular light intensity
+            - $k_s$: Specular reflectivity
+            - $R$: Reflection direction
+            - $V$: Surface-to-viewer direction
+            - $n$: Shininess coefficient
+            - $R = 2(N \cdot L)N - L$
+            - Higher $n$ → Smaller, sharper highlights
+            - Specular evaluated when $N \cdot L > 0$
+
+    - Blinn-Phong Reflection Model
+        - Variation of Phong
+        - Halfway Vector
+            - $H = (L + V)/\|L + V\|$
+            - Midway direction between light and viewer
+        - Specular Reflection
+            - $I_{specular} = I_s k_s [\max(0, N \cdot H)]^n$
+            - Maximum highlight when $N$ aligns with $H$
+        - Avoids explicit reflection-vector calculation
+        - Performance advantage: Implementation-dependent
+        - Same exponent → Broader highlights than Phong
+
+- Physically-Based Rendering (PBR)
+    - Physically plausible light–surface interactions
+    - Energy Conservation
+        - Reflected energy ≤ Incident energy (non-emissive surfaces)
+    - Physically meaningful material parameters
+        - Base Color
+        - Roughness
+        - Metallic
+    - Consistent behavior under different lighting conditions
+
+    - Microfacet Theory
+        - Surface modeled as microscopic mirror-like facets
+        - Microfacet normal distribution
+        - Smooth Surface
+            - Aligned microfacet normals
+            - Narrow, sharp highlights
+        - Rough Surface
+            - Scattered microfacet normals
+            - Broad, dimmer highlights
+
+    - Bidirectional Reflectance Distribution Function (BRDF)
+        - Incoming direction: $\omega_i$
+        - Outgoing direction: $\omega_o$
+        - $f_r(\omega_i,\omega_o) = dL_o/dE_i$
+        - $f_r = f_{diffuse} + f_{specular}$
+        - Common Models
+            - Diffuse: Lambertian
+            - Specular: Cook-Torrance Microfacet Model
+
+    - Diffuse BRDF
+        - $f_{diffuse} = (1-F)(1-m)c/\pi$
+        - $F$: Fresnel term
+        - $m$: Metalness
+        - $c$: Base Color
+        - $\pi$: Lambertian normalization
+        - Fresnel Effect
+            - Reflectance depends on viewing angle
+            - Stronger reflection at grazing angles
+        - Metalness
+            - $m = 0$: Non-metal / Dielectric
+            - $m = 1$: Metal / Conductor
+            - Metals: Little or no diffuse reflection
+
+    - Specular BRDF (Cook-Torrance)
+        - $f_{specular} = DGF/[4(N \cdot V)(N \cdot L)]$
+        - D: Normal Distribution Function (NDF)
+            - Statistical distribution of microfacet normals
+            - Smooth → Concentrated normals, sharp highlights
+            - Rough → Distributed normals, broad highlights
+        - G: Geometry Function
+            - Microfacet occlusion
+            - Shadowing: Incoming light blocked
+            - Masking: Reflected light blocked
+        - F: Fresnel Term
+            - Angle-dependent reflectance
+        - Denominator
+            - Geometric normalization
+            - $N \cdot V$: View-angle factor
+            - $N \cdot L$: Light-angle factor
+
+    - Phong / Blinn-Phong vs PBR
+        - Phong: Empirical reflection model
+        - Blinn-Phong: Halfway-vector specular approximation
+        - PBR: Physically plausible reflection
+        - Shininess vs Roughness
+        - PBR: Energy conservation, Fresnel, microfacets
+
+- Texture Mapping in 3D
+    - Mapping 2D textures onto 3D surfaces
+    - UV Coordinates
+        - $(u,v)$: 2D texture coordinates
+        - Vertex position: $(x,y,z)$
+        - Vertex attributes: Position, Normal, UV
+        - UV interpolation during rasterization
+    - UV Unwrapping
+        - Flattening 3D surfaces into 2D
+        - UV Islands
+        - UV Seams
+            - Same geometric position
+            - Multiple vertex records with different UVs
+
+- PBR Texture Maps (Metallic-Roughness Workflow)
+    - Albedo / Base Color Map
+        - Material base color
+        - Non-metal: Diffuse reflectance color
+        - Metal: Colored specular reflectance
+        - No baked directional lighting, highlights, or shadows
+
+    - Normal Map
+        - Simulates bumps, grooves, surface details
+        - Encodes normals in RGB channels
+        - Tangent-space normals (common)
+        - Object-space normals (alternative)
+        - Changes lighting normals, not geometry
+        - Examples: Bricks, skin pores, fabric
+
+    - Roughness Map
+        - Surface micro-roughness
+        - Low Roughness → Sharp, narrow reflections
+        - High Roughness → Broad, diffuse-looking reflections
+        - Examples: Glossy ceramic, matte rubber
+
+    - Metallic / Metalness Map
+        - Metal vs Non-metal behavior
+        - $0$: Dielectric / Non-metal
+        - $1$: Conductor / Metal
+        - Intermediate values: Transitions / Mixed materials
+        - Examples: Plastic, chrome
+
+    - Ambient Occlusion (AO) Map
+        - Approximate local ambient visibility
+        - Darkens indirect illumination in enclosed regions
+        - Crevices, gaps, folds
+        - Not equivalent to directional shadows
+
+    - Height / Displacement Map
+        - Scalar surface height
+        - Bump Mapping: Apparent surface detail
+        - Parallax Mapping: View-dependent texture offset
+        - Displacement Mapping: Actual geometry modification
+        - Examples: Terrain, embossed surfaces
+
+    - Opacity / Alpha Map
+        - Surface transparency
+        - Alpha Masking
+            - Binary visibility / Fragment discard
+            - Examples: Leaves, fences, cutout decals
+        - Alpha Blending
+            - Partial transparency
+            - Example: Windows
+
+    - Emissive Map
+        - Self-emitted radiance
+        - Bloom: Visible glow / Halo
+        - Emissive Global Illumination: Lighting nearby surfaces
+        - Examples: Neon signs, LEDs, lava, glowing eyes
+
+    - Material Inputs
+        - Constant values or texture maps
+        - Not every material requires every map
+
+- PBR Material Workflows
+    - Metallic-Roughness Workflow
+        - Base Color
+        - Metallic
+        - Roughness
+        - Explicit metalness control
+        - Common in modern real-time rendering
+    - Specular-Glossiness Workflow
+        - Alternative PBR workflow
+        - Diffuse Map
+            - Non-metal: Diffuse surface color
+            - Metal: Little or no diffuse contribution
+        - Specular Map
+            - Direct control of specular strength and color
+            - Non-metal: Weak, nearly neutral specular
+            - Metal: Strong, often colored specular
+        - Glossiness Map
+            - $1$: Smooth, sharp reflections
+            - $0$: Rough, broad reflections
+            - $Glossiness \approx 1 - Roughness$
+    - Workflow Comparison
+        - Metallic-Roughness
+            - Simpler, compact, harder to misuse
+            - Metalness explicitly specified
+        - Specular-Glossiness
+            - More direct specular control
+            - Metalness expressed through diffuse/specular values
+        - Use the renderer's native material workflow
+        - Do not directly interchange incompatible texture maps
+- Key Relationships
+    - Geometry → Surface Shape
+    - UV Mapping → Texture Coordinates
+    - Texture Maps → Material Parameters
+    - Light Sources → Incoming Illumination
+    - Surface Normals → Light Interaction
+    - BRDF → Diffuse + Specular Reflection
+    - PBR → Microfacets + Fresnel + Energy Conservation
+    - Fragment Shader → Shaded Fragment Output
+    - Depth / Stencil / Blending → Final Image
+#### Rendering Computation
+> 🤖 GPT 6.1 Sol
+> https://chatgpt.com/share/6ae05882-973c-83ec-a772-76b898952589
+
+建议最后从三个维度去理解这节课，而不是把所有技术当作彼此独立的术语。
+
+维度一：它解决什么视觉问题？
+
+|技术|解决的问题|
+|---|---|
+|Shadow Volumes|几何精确的硬阴影|
+|Shadow Mapping|实时阴影|
+|PCF|阴影边缘过滤和平滑|
+|PCSS|随遮挡距离变化的软阴影|
+|CSM|阴影分辨率分配|
+|Ray-traced Shadows|基于几何相交的阴影|
+|SSR|利用屏幕已有数据近似反射|
+|SSAO|局部环境遮蔽|
+|Environment Mapping|基于纹理的环境反射|
+|Lightmapping|预计算静态光照|
+|DOF|景深模糊|
+|Bloom|亮光晕效果|
+
+维度二：它主要依赖什么数据？
+
+|技术|核心数据|
+|---|---|
+|Shadow Mapping|Light-space Depth Texture|
+|Shadow Volumes|Shadow Geometry + Stencil Buffer|
+|Ray Tracing|Scene Geometry + Ray Intersection|
+|Deferred Rendering|G-buffer|
+|Forward+|Depth Range + Tile Light Lists|
+|SSR|Screen Color / Depth / Normal|
+|SSAO|Depth / Normal|
+|Environment Mapping|Cubemap|
+|Lightmapping|Baked Lightmap Texture|
+这个表尤其值得掌握。
+因为很多技术虽然产生相似的视觉效果，但使用的数据和计算方式完全不同。
+
+维度三：速度与真实感之间的取舍
+下面是一个定性的比较，用来帮助建立直觉，不代表所有游戏或 GPU 上的实际性能排名。
+
+| 方案                  | 主要优势     | 主要限制                     |
+| ------------------- | -------- | ------------------------ |
+| Shadow Mapping      | 适合实时渲染   | 分辨率、Bias 和 Aliasing      |
+| PCSS                | 更自然的软阴影  | 额外采样成本                   |
+| Ray-traced Shadows  | 直接测试几何遮挡 | 高计算成本                    |
+| SSR                 | 重用当前帧数据  | 只能利用屏幕已有信息               |
+| Environment Mapping | 环境反射成本低  | 不能精确反映所有动态几何             |
+| SSAO                | 局部遮蔽成本较低 | 不是完整 Global Illumination |
+| Lightmapping        | 实时光照成本低  | 静态限制与纹理内存开销              |
+
+
+---
+- 3D Graphics: Advanced Rendering
+    - Shadows
+    - Ray Tracing
+    - Rendering Architectures
+    - Screen-Space Effects
+    - Environment Mapping
+    - Lightmapping
+
+- Shadows
+    - Importance
+        - Visual realism: depth, grounding, spatial awareness
+        - Gameplay cues: distance, movement, lighting
+        - Immersion: dynamic shadows
+
+    - Shadow Volumes
+        - Geometry-based hard shadows
+        - Silhouette edge extrusion
+        - Stencil Buffer
+        - Pipeline
+            - Render scene depth into Depth Buffer
+            - Identify silhouette edges relative to light
+            - Extrude edges away from light
+            - Construct Shadow Volume
+            - Render Shadow Volume with depth testing
+            - Update Stencil Buffer
+                - Front-facing polygons
+                - Back-facing polygons
+                - Opposite stencil count updates
+            - Stencil Count
+                - Zero: lit
+                - Non-zero: shadowed
+        - Pros
+            - Geometrically accurate hard shadows
+        - Cons
+            - No soft shadows
+            - Expensive for complex scenes
+            - Rarely used in modern engines
+
+    - Shadow Mapping
+        - Light-space depth-based shadows
+        - Two rendering passes
+            - Pass 1: Light Perspective
+                - Light View Matrix
+                - Light Projection Matrix
+                - Render scene depth
+                - Store closest depth per texel
+                - Shadow Map: 2D Depth Texture
+            - Pass 2: Camera Perspective
+                - Render scene normally
+                - Transform fragment position into Light Space
+                - Locate corresponding Shadow Map texel
+                - Compare fragment depth with stored depth
+        - Depth Comparison
+            - $d_{fragment} > d_{shadow}$: Shadow
+            - $d_{fragment} \leq d_{shadow}$: Lit
+        - Pros
+            - GPU-friendly
+            - Scales with complex scenes and multiple lights
+            - Soft shadow approximation
+        - Cons
+            - Aliasing artifacts
+            - Limited resolution and precision
+
+    - Soft Shadows
+        - Area Lights
+            - Umbra: fully occluded region
+            - Penumbra: partially occluded region
+        - Percentage Closer Filtering (PCF)
+            - Multiple shadow-map samples
+            - Sampling Kernel: 3x3, 4x4
+            - Depth comparison per sample
+            - Average visibility results
+            - $V_{PCF} = \frac{1}{N}\sum_{i=1}^{N}V_i$
+            - Softer shadow edges
+            - Reduced aliasing
+            - Increased sampling cost
+        - Percentage-Closer Soft Shadows (PCSS)
+            - Extension of PCF
+            - Contact-hardening shadows
+            - Blocker Search
+            - Average Blocker Depth
+            - Penumbra Width Estimation
+                - Light size
+                - Blocker-receiver separation
+            - Variable-radius PCF
+            - Sharp shadows near blockers
+            - Softer shadows farther from blockers
+            - Approximation, not full area-light simulation
+
+    - Shadow Mapping Artifacts
+        - Shadow Acne
+            - Incorrect self-shadowing
+            - Limited resolution
+            - Depth precision errors
+            - Solution: Depth Bias
+            - $d_{fragment} - bias > d_{shadow}$
+        - Peter-panning
+            - Detached or floating shadows
+            - Excessive Depth Bias
+            - Solutions
+                - Bias tuning
+                - Slope-scaled Bias
+        - Perspective Aliasing
+            - Light-space vs Camera-space mismatch
+            - Uneven Shadow Map texel distribution
+            - Low effective resolution near camera
+        - Cascaded Shadow Maps (CSM)
+            - Split Camera View Frustum into cascades
+                - Near
+                - Middle
+                - Far
+            - Separate Shadow Map per cascade
+            - Higher texel density near camera
+            - Better shadow resolution distribution
+
+- Ray Tracing
+    - Ray-traced Shadows
+        - Cast rays from surface points toward lights
+        - Ray-Geometry Intersection
+        - Blocked ray: Shadow
+        - Unblocked ray: Lit
+        - Area Light
+            - Multiple rays toward different light positions
+            - Soft shadow estimation
+        - Pros
+            - Direct geometry visibility testing
+            - No Shadow Map projection/resolution artifacts
+            - Soft shadows
+        - Cons
+            - High computational cost
+            - Benefits from hardware acceleration
+                - NVIDIA RTX
+                - AMD RDNA2+
+
+    - Light Transport
+        - Light interaction with scene geometry
+        - Reflection
+        - Refraction
+        - Shadows
+        - Global Illumination
+
+    - Light Tracing / Forward Ray Tracing
+        - Light -> Surfaces -> Camera
+        - Many paths never reach Camera
+        - Inefficient for real-time rendering
+
+    - Camera-based / Backward Ray Tracing
+        - Camera -> Surfaces -> Lights
+        - Primary Rays
+            - Camera through image-plane samples
+            - Ray-Scene Intersection
+            - Nearest intersection
+            - Visible surface identification
+            - Material and illumination evaluation
+        - Secondary Rays
+            - Shadow Ray
+                - Light visibility / occlusion
+            - Reflection Ray
+                - Mirror reflection direction
+            - Refraction Ray
+                - Transmission through materials
+                - Snell's Law
+            - Indirect-lighting Ray
+                - Additional surface interactions
+                - Indirect illumination
+
+    - Path Tracing
+        - Stochastic sampling
+        - Multiple scattering directions
+        - Multiple light bounces
+        - Direct and indirect illumination
+        - Average many light paths
+        - High computational cost
+
+    - Hybrid Rendering
+        - Rasterization + Ray Tracing
+        - Rasterization for base scene geometry
+        - Selective Ray Tracing
+            - Shadows
+            - Reflections
+            - Refractions
+            - Indirect Illumination
+            - Ray-traced Ambient Occlusion
+                - Hemisphere ray sampling
+        - Performance vs visual fidelity
+
+- Rendering Architectures
+    - Forward Rendering
+        - Geometry and lighting in forward shading
+        - Fragment-level lighting calculations
+        - Simplest form: all lights per fragment
+        - Pros
+            - Simple implementation
+            - Low GPU memory footprint
+            - Transparency support
+        - Cons
+            - Potential redundant lighting calculations
+            - Poor scalability with complex lighting
+            - Limited post-processing flexibility
+
+    - Deferred Rendering
+        - Separate Geometry Pass and Lighting Pass
+        - Pass 1: Geometry Pass
+            - Render scene geometry
+            - Depth Testing
+            - Store visible surface information
+            - G-buffer (Geometry Buffer)
+                - World-space Position
+                - Albedo
+                - Normal
+                - Depth
+        - Pass 2: Lighting Pass
+            - Read G-buffer
+            - Per-screen-pixel lighting
+            - Only visible fragments receive lighting calculations
+        - Pros
+            - Avoid lighting hidden fragments
+            - Efficient for complex lighting
+            - Supports screen-space effects
+                - SSR
+                - SSAO
+        - Cons
+            - G-buffer memory overhead
+            - Transparency not directly supported
+
+    - Forward+ Rendering
+        - Optimized Forward Rendering
+        - Tiled Light Culling
+            - Divide screen into tiles
+                - Example: 16x16 pixels
+            - Obtain Depth Buffer
+                - Optional Depth Pre-pass
+            - Compute minimum/maximum depth per tile
+            - Construct Tile Frustum
+                - Camera Projection
+                - Tile pixel boundaries
+                - Four side planes
+                - Near/Far depth planes
+            - Light-Frustum Intersection Tests
+            - Create per-tile Light Lists
+            - Fragment Shader
+                - Look up tile's Light List
+                - Evaluate candidate lights only
+        - Pros
+            - Reduced redundant lighting
+            - Better scalability with many local lights
+            - Transparency support
+            - Lower overhead than full Deferred Rendering
+        - Cons
+            - No built-in full G-buffer
+            - More complex SSR/SSAO integration
+
+    - Architecture Comparison
+        - Forward
+            - Simple
+            - Transparency-friendly
+            - Potentially expensive with many lights
+        - Deferred
+            - G-buffer-based
+            - Efficient visible-pixel lighting
+            - Transparency limitations
+        - Forward+
+            - Forward shading + Tiled Light Culling
+            - Efficient local-light selection
+            - Transparency-friendly
+
+- Screen-Space Effects
+    - Depth of Field (DOF)
+        - Camera focus simulation
+        - Focal Plane
+        - Depth Buffer
+        - Per-pixel blur based on focal distance
+        - In-focus vs out-of-focus regions
+        - Cinematic rendering
+
+    - Bloom
+        - Bright-pixel extraction
+        - Emissive pixels
+        - Blur bright regions
+        - Add blurred result to original image
+        - Light bleeding / glow
+        - Image-space optical scattering approximation
+        - Pipeline
+            - Original Image
+            - Brightness Extraction
+            - Blur
+            - Combine
+
+    - Screen Space Reflections (SSR)
+        - Reflection using current-frame screen-space data
+        - View Direction
+        - Surface Normal
+        - Reflection Direction
+        - Screen-Space Ray Marching
+        - Ray Depth vs Scene Depth
+        - Approximate intersection detection
+        - Surface Roughness
+            - Reflection blurring/filtering
+        - Limitations
+            - Off-screen geometry unavailable
+            - Occluded geometry unavailable
+            - Missing screen-space information
+
+    - Screen Space Ambient Occlusion (SSAO)
+        - Local ambient occlusion approximation
+        - Depth Buffer
+        - Optional Surface Normals
+        - Nearby depth sampling
+        - Estimate local geometry occlusion
+        - Ambient Visibility
+            - More occlusion -> Less ambient lighting
+        - Basic SSAO
+            - Sphere Sample Kernel
+            - Generate samples around surface point
+            - Project samples into Screen Space
+            - Fetch Scene Depth
+            - Compare sample depth and scene depth
+            - Estimate occluded-sample fraction
+        - Sphere Kernel Problem
+            - Samples inside surrounding geometry
+            - Incorrect occlusion on flat surfaces
+        - Improved SSAO
+            - Hemisphere Sample Kernel
+            - Oriented along Surface Normal
+            - Avoid sampling behind the surface
+        - Limitations
+            - Missing off-screen geometry
+            - Missing occluded geometry
+            - Not full indirect lighting
+
+- Environment Mapping
+    - Image-Based Lighting
+    - Precomputed Environment Texture
+    - Approximate reflective surfaces
+    - Distant environment representation
+    - Cubemap
+        - Six cube faces
+            - Front
+            - Back
+            - Left
+            - Right
+            - Up
+            - Down
+        - Six square textures or packed regions
+    - Reflection Vector
+        - Compute reflection direction
+        - Map direction to Cubemap texel
+        - Sample reflection color
+    - Advantages
+        - Efficient real-time reflections
+        - Low rendering cost
+
+- Lightmapping
+    - Precomputed Static Lighting
+    - Lightmap: baked lighting texture
+    - Static Objects
+    - Offline Light Baking
+        - Static lighting
+        - Shadows
+        - Indirect Illumination
+    - Runtime
+        - Sample Lightmap Texture
+        - Reuse baked lighting
+        - Reduce real-time lighting calculations
+    - Pros
+        - Improved runtime performance
+        - High-quality precomputed lighting
+    - Cons
+        - Texture memory usage
+        - Memory bandwidth
+        - Static lighting/geometry constraints
+        - Rebaking after lighting or geometry changes
+    - Example
+        - The Last of Us (2013)
+        - Precalculated environmental lighting
+
+- Key Rendering Trade-offs
+    - Visual Fidelity vs Performance
+    - Real-time Computation vs Precomputation
+    - Rasterization vs Ray Tracing
+    - Hard Shadows vs Soft Shadows
+    - Shadow Quality vs Shadow Map Resolution
+    - Screen-Space Approximation vs Scene Geometry Accuracy
+    - Forward vs Deferred vs Forward+
+    - GPU Computation vs Memory/Bandwidth
+    - Static Lighting vs Dynamic Lighting
 
 
 ## Ref

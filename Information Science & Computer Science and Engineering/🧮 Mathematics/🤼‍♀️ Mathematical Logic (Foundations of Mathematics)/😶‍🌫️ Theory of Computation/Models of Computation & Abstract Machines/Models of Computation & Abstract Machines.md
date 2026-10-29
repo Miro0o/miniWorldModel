@@ -372,6 +372,7 @@ $$\text{Data} \ \overset{Statistics}{\to} \ \text{Models (Rules)} \ \overset{Pro
 ### Semantics of Transition System
 > [!links]
 > ↗ [Graph Basics](../../../Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+> ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md)
 
 Path 是一串状态：$\sigma=s_0s_1s_2\cdots s_n$
 使得每两个相邻状态都满足 Transition Relation：$\boxed{ (s_i,s_{i+1})\in T,\quad 0\leq i<n }$
@@ -453,7 +454,19 @@ Synchronizations may reduce the size composition but the worstcase is still expo
 > [!links]
 > ↗ [Data Structure in Logic Formulas](../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
 > ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md)
+> 
+> ↗ [(Formal) Model Checking (MC)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md) "symbolic model checking"
+> 
+> Symbolic representations of states of transition systems
+> - Boolean functions: Binary Decision Diagrams (BDDs)
+> Transition system -> characteristic function -> BDD representation
+> Successor -> BDD Image
+> Predecessor -> BDD Pre-image
+> 
+> Symbolic state traversal of transition systems
+> - Boolean functions: Using BDD-based operations
 
+Reachability check for safety property
 Two core approaches:
  1. Check reachability of a state
 	 1. At the heart of many automated verification methods, e.g., model checking, abstract interpretation
@@ -467,14 +480,6 @@ Two core approaches:
 			 1. i.e., if **Inv** holds now, and the system makes one transition, then **Inv** holds in the next state
 		 3. _Safety_: **Inv** implies **not s**
 	 5. The above three checks are called Verification Conditions (VCs)
-
-
----
-Symbolic representations of states of transition systems
-- Boolean functions: Binary Decision Diagrams (BDDs)
-
-Symbolic state traversal of transition systems
-- Boolean functions: Using BDD-based operations
 
 
 

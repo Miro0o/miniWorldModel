@@ -98,10 +98,37 @@ Very popular in the 90’s…
 1. From truth table to decision tree
 2. From decision tree to binary decision tree (BDT)
 3. From decision tree to decision graph
+	1. Shannon decomposition
 4. Ordered binary decision diagram (OBDD)
 5. Reduced ordered BDD (ROBDD)
 	1. ROBDD are canonical
-6. BDD operations
+6. BDD operations (APPLY)
+
+设 Shannon Decomposition 为：$f=(\neg x\land f_0)\lor(x\land f_1),\qquad g=(\neg x\land g_0)\lor(x\land g_1)$
+
+其中 $f_0=f|_{x=0}$、$f_1=f|_{x=1}$，$g_0,g_1$ 同理。
+
+| BDD Operation            | 基于 Shannon Decomposition 的公式                                     | BDD 上如何操作                              | 特殊情况 / 递归规则                                                          |
+| ------------------------ | ---------------------------------------------------------------- | -------------------------------------- | -------------------------------------------------------------------- |
+| Shannon Decomposition    | $f=(\neg x\land f_0)\lor(x\land f_1)$                            | 根节点为 $x$，low=$f_0$，high=$f_1$          | 所有 BDD Operations 的数学基础                                              |
+| NOT                      | $\neg f=(\neg x\land\neg f_0)\lor(x\land\neg f_1)$               | 对 low、high 分别递归 NOT，再重建节点              | $NOT(0)=1,\ NOT(1)=0$                                                |
+| AND                      | $f\land g=(\neg x\land(f_0\land g_0))\lor(x\land(f_1\land g_1))$ | low=$AND(f_0,g_0)$，high=$AND(f_1,g_1)$ | 若 $root(f)=x<root(g)=y$，则 low=$AND(f_0,g)$，high=$AND(f_1,g)$         |
+| OR                       | $f\lor g=(\neg x\land(f_0\lor g_0))\lor(x\land(f_1\lor g_1))$    | low=$OR(f_0,g_0)$，high=$OR(f_1,g_1)$   | 若 $root(f)=x<root(g)=y$，则 low=$OR(f_0,g)$，high=$OR(f_1,g)$           |
+| Restrict \(x=0\)         | $f\|_{x=0}=f_0$                                                  | 直接返回 low                               | 如果根变量 $y\ne x$，递归 Restrict 两个 children，再重建                           |
+| Restrict $x=1$           | $f\|_{x=1}=f_1$                                                  | 直接返回 high                              | 如果根变量 $y\ne x$，递归 Restrict 两个 children，再重建                           |
+| Exists $x$               | $\exists x.f=f_0\lor f_1$                                        | $OR(low,high)$，消去 $x$                  | 如果根变量 $y\ne x$，结果为 $(\neg y\land\exists x.A)\lor(y\land\exists x.B)$ |
+| Forall $x$               | $\forall x.f=f_0\land f_1$                                       | $AND(low,high)$，消去 $x$                 | 如果根变量 $y\ne x$，结果为 $(\neg y\land\forall x.A)\lor(y\land\forall x.B)$ |
+| Composition $x\mapsto g$ | $f[x\mapsto g]=(\neg g\land f_0)\lor(g\land f_1)$                | $ITE(g,f_1,f_0)$，替换变量并构建结果 BDD         | 如果根变量 $y\ne x$，递归替换两个 children，并通过 ITE 重建以保持 ordering                |
+| Reduction Rule 1         | $f_0=f_1\Rightarrow f=f_0$                                       | 若 low=high，删除当前节点                      | 不影响 Boolean function 的语义                                             |
+| Reduction Rule 2         | 相同的 $(x,f_0,f_1)$ 表示相同子函数                                        | 合并相同的 subgraphs                        | 通过 Unique Table 共享节点                                                 |
+
+其中，特殊情况列里的：$f=(\neg y\land A)\lor(y\land B)$
+
+表示当前 BDD 的根变量为 $y$，low 对应 $A$，high 对应 $B$。如果 $x$ 根本不出现在函数中，Restrict、Exists、Forall 和 Composition 都不改变原函数。AND/OR 在两根变量顺序相反时，对称处理即可。
+
+另外：$ITE(c,t,e)=(c\land t)\lor(\neg c\land e)$
+
+所有需要重建节点的运算都要进行 Reduction，以保证结果仍然是 ROBDD。
 
 
 

@@ -911,6 +911,13 @@ Further, a SAT solver (zero-th order logic) can be extend to a SMT solver (first
 > [!EXAMPLE] 例子
 > $A \lor \neg A$，$\forall x (x \doteq x)$ 都是重言式。
 #### Equisatisfiability
+> [!links]
+> ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20(PL)%20-%20(零阶)%20命题逻辑.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Equisatisfiability
+
+In [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") (a subtopic within the field of [formal logic](https://en.wikipedia.org/wiki/Formal_logic "Formal logic")), two [formulae](https://en.wikipedia.org/wiki/Formula_\(logic\) "Formula (logic)") are **equisatisfiable** if the first formula is [satisfiable](https://en.wikipedia.org/wiki/Satisfiable "Satisfiable") whenever the second is and vice versa; in other words, either both formulae are satisfiable or neither is. The truth values of two equisatisfiable formulae may nevertheless disagree for a particular assignment of variables. As a result, equisatisfiability differs from [logical equivalence](https://en.wikipedia.org/wiki/Logical_equivalence "Logical equivalence"), since two equivalent formulae always have the same models, whereas equisatisfiable ones need only share satisfiability status. More formally, the equisatisfiability meta formula f![{\displaystyle f}](https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61) is true if either the two subformulae are both satisfiable or if they both are not: $$f\;\equiv \;(\operatorname {Sat} (\phi )\land \operatorname {Sat} (\psi ))\lor (\lnot \operatorname {Sat} (\phi )\land \lnot \operatorname {Sat} (\psi ))\;\equiv \;\operatorname {Sat} (\phi )\leftrightarrow \operatorname {Sat} (\psi )$$
+Equisatisfiability is generally used in the context of translating formulae, so that one can define a translation to be correct if the original and resulting formulae are equisatisfiable. Examples of translations that preserve equisatisfiability are [Skolemization](https://en.wikipedia.org/wiki/Skolemization "Skolemization") and some translations into [conjunctive normal form](https://en.wikipedia.org/wiki/Conjunctive_normal_form "Conjunctive normal form") such as the [Tseytin transformation](https://en.wikipedia.org/wiki/Tseytin_transformation "Tseytin transformation").
 #### Compactness and Löwenheim–Skolem
 
 %% 

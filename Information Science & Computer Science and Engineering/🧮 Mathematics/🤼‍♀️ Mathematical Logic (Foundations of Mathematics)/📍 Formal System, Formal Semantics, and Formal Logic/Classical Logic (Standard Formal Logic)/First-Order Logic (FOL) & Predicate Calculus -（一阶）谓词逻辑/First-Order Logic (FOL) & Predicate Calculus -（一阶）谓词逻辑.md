@@ -243,6 +243,7 @@ Example 1: $\dfrac{\forall x.\mathrm{even}(x)\lor\mathrm{odd}(x)}{\mathrm{even}(
 Example 2: $\dfrac{\forall x.\exists y.x=y}{\exists y.x=y[y+1/x]}$ i.e., $\dfrac{\forall x.\exists y.x=y}{\exists z.y+1=z}$
 
 NB: that this does **not** result in the following! $\dfrac{\forall x.\exists y.x=y}{\exists y.y+1=y}$
+- Because the y in existential generalization $[y+1/x]$ and the y in formula $\exists y.x=y$ are not the same y. Safe substitution requires to separate them.
 #### Proof Systems and Proof Systems about Proof Systems
 There are different kinds of proof systems for reasoning about FOL formulas and meta-level reasoning
 - Reasoning about FOL formulas, as seen in natural deduction systems, e.g., $\dfrac{P \to Q \qquad P}{Q}$
