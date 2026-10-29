@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
-- ↗ [Supervised Learning](../../../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Supervised%20Learning/Supervised%20Learning.md)
-- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29.md)
+- ↗ [Supervised Learning](../../../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Supervised%20Learning/Supervised%20Learning.md)
+- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20%28Data-Driven%29%20Learning%20&%20Machine%20Learning%20%28ML%29/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20%28RL%29%20&%20Sequential%20Decision%20Making.md)
 
 
 ### Other Resources
@@ -53,8 +53,8 @@ After alignment tuning: The model chooses **acceptable answers among many valid 
 
 
 ### Alignment Criteria
-> ↗ [Trust-worthy AI & LLM Safety and Security](../../../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
-> ↗ [Attack Simulation - Red, Blue, Purple, White](../../../../../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
+> ↗ [Trust-worthy AI & LLM Safety and Security](../../../../../../Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
+> ↗ [Attack Simulation - Red, Blue, Purple, White](../../../../../../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
 
 > 🔗 Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (No. arXiv:2303.18223). arXiv. [https://doi.org/10.48550/arXiv.2303.18223](https://doi.org/10.48550/arXiv.2303.18223)
 
@@ -70,12 +70,12 @@ As we can see, these criteria are quite subjective, and are developed based on h
 ## Alignment With Feedback
 ### By Alignment Methods
 #### Reinforcement Learning Based 
-↗ [RLFT (Reinforcement Learning Fine Tuning)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
-- ↗ [RLVR & RLVP (RL with Verifiable Rewards & Path)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20&%20Regimes/RLVR%20&%20RLVP%20(RL%20with%20Verifiable%20Rewards%20&%20Path).md)
-- ↗ [RLHF (RL from Human Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20&%20Regimes/RLHF%20(RL%20from%20Human%20Feedback).md)
-- ↗ [RLAIF (RL from AI Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20&%20Regimes/RLAIF%20(RL%20from%20AI%20Feedback).md)
+↗ [RLFT (Reinforcement Learning Fine Tuning)](../Fine%20Tuning%20Methods/RLFT%20%28Reinforcement%20Learning%20Fine%20Tuning%29/RLFT%20%28Reinforcement%20Learning%20Fine%20Tuning%29.md)
+- ↗ [RLVR & RLVP (RL with Verifiable Rewards & Path)](../Fine%20Tuning%20Methods/RLFT%20%28Reinforcement%20Learning%20Fine%20Tuning%29/Reward%20Models%20&%20Regimes/RLVR%20&%20RLVP%20%28RL%20with%20Verifiable%20Rewards%20&%20Path%29.md)
+- ↗ [RLHF (RL from Human Feedback)](../Fine%20Tuning%20Methods/RLFT%20%28Reinforcement%20Learning%20Fine%20Tuning%29/Reward%20Models%20&%20Regimes/RLHF%20%28RL%20from%20Human%20Feedback%29.md)
+- ↗ [RLAIF (RL from AI Feedback)](../Fine%20Tuning%20Methods/RLFT%20%28Reinforcement%20Learning%20Fine%20Tuning%29/Reward%20Models%20&%20Regimes/RLAIF%20%28RL%20from%20AI%20Feedback%29.md)
 #### Supervised Learning Based
-↗ [SFT (Supervised Fine Tuning)](../Fine%20Tuning%20Methods/SFT%20(Supervised%20Fine%20Tuning)/SFT%20(Supervised%20Fine%20Tuning).md)
+↗ [SFT (Supervised Fine Tuning)](../Fine%20Tuning%20Methods/SFT%20%28Supervised%20Fine%20Tuning%29/SFT%20%28Supervised%20Fine%20Tuning%29.md)
 
 
 ### By Human Factors
@@ -96,7 +96,7 @@ In existing work, there are mainly three kinds of approaches to collecting feedb
 
 In the following, we focus on a well-known technique, reinforcement learning from human feedback (RLHF), which has been widely used in the recent powerful LLMs such as ChatGPT. As discussed below, the alignment criteria introduced in Section 5.2.1 can be fulfilled by learning from human feedback on the responses of LLMs to users’ queries.
 ##### Reinforcement Learning from Human Feedback (RLHF)
-↗ [RLHF (RL from Human Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20&%20Regimes/RLHF%20(RL%20from%20Human%20Feedback).md)
+↗ [RLHF (RL from Human Feedback)](../Fine%20Tuning%20Methods/RLFT%20%28Reinforcement%20Learning%20Fine%20Tuning%29/Reward%20Models%20&%20Regimes/RLHF%20%28RL%20from%20Human%20Feedback%29.md)
 
 #### 🎯 Alignment With Non-Human Feedback
 

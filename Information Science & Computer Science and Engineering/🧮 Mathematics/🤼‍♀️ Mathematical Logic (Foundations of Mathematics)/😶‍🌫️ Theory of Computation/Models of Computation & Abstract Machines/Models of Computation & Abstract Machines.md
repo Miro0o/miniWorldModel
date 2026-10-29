@@ -242,6 +242,7 @@ These are common in OS, verification, and concurrency theory.
 > - hardware circuits are transition systems
 > - communication processes are transition systems
 > - etc.
+> ↗ [Operational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
 > 
 > ↗ [Data Structure in Logic Formulas](../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
 
@@ -371,6 +372,14 @@ $$\text{Data} \ \overset{Statistics}{\to} \ \text{Models (Rules)} \ \overset{Pro
 ### Semantics of Transition System
 > [!links]
 > ↗ [Graph Basics](../../../Combinatorics%20%28Combinatorial%20Mathematics%29/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+> ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20%28Binary%20Decision%20Diagrams%29%20&%20ROBDD.md)
+
+Path 是一串状态：$\sigma=s_0s_1s_2\cdots s_n$
+使得每两个相邻状态都满足 Transition Relation：$\boxed{ (s_i,s_{i+1})\in T,\quad 0\leq i<n }$
+这里上界应当是 $i<n$，因为 $s_n$ 已经是最后一个状态。
+例如：$a\rightarrow b\rightarrow c$
+是一个 Path，只要这两条 transition 都存在。
+但它未必从初始状态开始。
 #### Execution & Trace
 **Execution**
 An execution fragment is a sequence of transitions.
@@ -445,7 +454,19 @@ Synchronizations may reduce the size composition but the worstcase is still expo
 > [!links]
 > ↗ [Data Structure in Logic Formulas](../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
 > ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20%28Binary%20Decision%20Diagrams%29%20&%20ROBDD.md)
+> 
+> ↗ [(Formal) Model Checking (MC)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking%20%28MC%29/%28Formal%29%20Model%20Checking%20%28MC%29.md) "symbolic model checking"
+> 
+> Symbolic representations of states of transition systems
+> - Boolean functions: Binary Decision Diagrams (BDDs)
+> Transition system -> characteristic function -> BDD representation
+> Successor -> BDD Image
+> Predecessor -> BDD Pre-image
+> 
+> Symbolic state traversal of transition systems
+> - Boolean functions: Using BDD-based operations
 
+Reachability check for safety property
 Two core approaches:
  1. Check reachability of a state
 	 1. At the heart of many automated verification methods, e.g., model checking, abstract interpretation
@@ -459,14 +480,6 @@ Two core approaches:
 			 1. i.e., if **Inv** holds now, and the system makes one transition, then **Inv** holds in the next state
 		 3. _Safety_: **Inv** implies **not s**
 	 5. The above three checks are called Verification Conditions (VCs)
-
-
----
-Symbolic representations of states of transition systems
-- Boolean functions: Binary Decision Diagrams (BDDs)
-
-Symbolic state traversal of transition systems
-- Boolean functions: Using BDD-based operations
 
 
 

@@ -589,7 +589,7 @@ Model Evaluation & Metrics
 ↗ [Computational Learning Theory](../🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/Computational%20Learning%20Theory/Computational%20Learning%20Theory.md)
 ↗ [(M)LLM Explainability](../🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/🥺%20%28M%29LLM%20Explainability/%28M%29LLM%20Explainability.md)
 
-↗ [Trust-worthy AI & LLM Safety and Security](../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
+↗ [Trust-worthy AI & LLM Safety and Security](../../Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
 ↗ [Philosophy, Ethics, and Risks of AI](../../Philosophy,%20Ethics,%20and%20Risks%20of%20AI/Philosophy,%20Ethics,%20and%20Risks%20of%20AI.md)
 
 

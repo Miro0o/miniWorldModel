@@ -6,18 +6,18 @@
 
 ## Res
 ### Related Topics
-↗ [ICT System Reliability (Correctness) & Verification](../../../../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20%28Correctness%29%20&%20Verification.md)
-↗ [Attack Simulation - Red, Blue, Purple, White](../../../../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
+↗ [ICT System Reliability (Correctness) & Verification](../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20%28Correctness%29%20&%20Verification.md)
+↗ [Attack Simulation - Red, Blue, Purple, White](../../../CyberSecurity/⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
 
-↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI.md)
-- ↗ [(M)LLM Explainability](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/🥺%20%28M%29LLM%20Explainability/%28M%29LLM%20Explainability.md)
+↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI.md)
+- ↗ [(M)LLM Explainability](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20%28eXplainable%20AI%29%20&%20Mathematical%20Analysis%20of%20AI/🥺%20%28M%29LLM%20Explainability/%28M%29LLM%20Explainability.md)
 
-↗ [Knowledge Distillation](../../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Knowledge%20Distillation/Knowledge%20Distillation.md)
+↗ [Knowledge Distillation](../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Knowledge%20Distillation/Knowledge%20Distillation.md)
 
-↗ [AI4Security](../../../../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
-↗ [LLM For Security](../../../../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
+↗ [AI4Security](../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
+↗ [LLM For Security](../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
 
-↗ [AI4SE](../../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
+↗ [AI4SE](../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 
 ↗ [LLM & Software Engineering and Security](../../../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Software%20Engineering%20and%20Security.md)
 ↗ [LLM-Software-Security-Research-Dossier-2026](../../../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/Dossiers/LLM-Software-Security-Research-Dossier-2026/LLM-Software-Security-Research-Dossier-2026.md)
@@ -129,8 +129,8 @@ Detecting and countering misuse of AI: September 2026
 
 ## AI /LLM Security
 > [!links]
-> ↗ [AI4Security](../../../../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
-> ↗ [LLM For Security](../../../../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
+> ↗ [AI4Security](../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
+> ↗ [LLM For Security](../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
 
 
 

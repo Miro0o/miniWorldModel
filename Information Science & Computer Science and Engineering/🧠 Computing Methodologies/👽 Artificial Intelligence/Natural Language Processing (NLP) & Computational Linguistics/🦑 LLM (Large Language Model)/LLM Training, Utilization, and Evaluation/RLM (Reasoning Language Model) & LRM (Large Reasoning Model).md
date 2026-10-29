@@ -63,6 +63,10 @@ Large Language Model Reasoning Failures
 
 
 ### Projects
+https://github.com/rasbt/reasoning-from-scratch
+
+https://sebastianraschka.com/reasoning-from-scratch/
+Build a Reasoning Model (From Scratch)
 
 
 ### Other Resources

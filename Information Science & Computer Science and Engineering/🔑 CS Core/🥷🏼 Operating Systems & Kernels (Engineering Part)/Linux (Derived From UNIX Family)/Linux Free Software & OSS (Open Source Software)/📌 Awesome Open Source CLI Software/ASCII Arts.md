@@ -8,6 +8,10 @@
 ### Related Topics
 
 
+### Other Resources
+https://www.ascii-magic.com/
+
+
 
 ## Screensavers
 - [cmatrix](https://github.com/Treri/cmatrix) - Scrolling 'Matrix'-like screen.

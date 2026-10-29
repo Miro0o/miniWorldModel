@@ -374,8 +374,8 @@ Transformation into NNF:
 - Eliminate implication and bi-implication
 $$
 \begin{aligned}
-F_1 \to F_2 &\equiv \neg F_1 \lor F_2 \\
-F_1 \leftrightarrow F_2 &\equiv (F_1 \to F_2) \land (F_2 \to F_1)
+F_1 \leftrightarrow F_2 &\equiv (F_1 \to F_2) \land (F_2 \to F_1) \\
+F_1 \to F_2 &\equiv \neg F_1 \lor F_2
 \end{aligned}
 $$
 

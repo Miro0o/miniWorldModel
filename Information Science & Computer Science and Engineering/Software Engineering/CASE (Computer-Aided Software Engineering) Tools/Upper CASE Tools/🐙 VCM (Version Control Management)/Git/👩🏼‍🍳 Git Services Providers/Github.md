@@ -15,7 +15,7 @@ Features:
 
 
 ### Related Topics
-↗ [Awesome CLI Integration](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
+↗ [Awesome CLI Integration](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/Linux%20Free%20Software%20&%20OSS%20%28Open%20Source%20Software%29/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 
 
 ### Other Resources
@@ -29,6 +29,7 @@ Plot your repository stars over time
 A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426)talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
 👍 https://deepwiki.org/
+DeepWiki is an AI-powered documentation and Q&A tool that automatically generates structured wikis, architecture diagrams, and code-based explanations for GitHub repositories.
 
 👍 https://anvaka.github.io/map-of-github/
 
@@ -59,21 +60,21 @@ GitHub CLI, or `gh`, is a command-line interface to GitHub for use in your term
 - [Usage examples](https://cli.github.com/manual/examples)
 - [Community extensions](https://github.com/topics/gh-extension)
 
-> There are also other github client CLI tools at ↗ [Awesome CLI Integration](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
+> There are also other github client CLI tools at ↗ [Awesome CLI Integration](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/Linux%20Free%20Software%20&%20OSS%20%28Open%20Source%20Software%29/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 
 
 
 ## 🧸 Github Extensions
 ### 👉 `GCM`
-↗ [GCM (Git Credential Manager)](../Git%20Key%20Management%20&%20Access%20Control/Git%20Credentials%20Helper/GCM%20(Git%20Credential%20Manager).md)
+↗ [GCM (Git Credential Manager)](../Git%20Key%20Management%20&%20Access%20Control/Git%20Credentials%20Helper/GCM%20%28Git%20Credential%20Manager%29.md)
 
 
 ### 👉 `GitHubpage` | `GithubBook`
-↗ [Github Page & Github Book](../../../../../☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Github%20Page%20&%20Github%20Book.md)
+↗ [Github Page & Github Book](../../../../../☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20%28SSG%29/Github%20Page%20&%20Github%20Book.md)
 
 
 ### 👉 `Giscus`
-↗ [giscus](../../../../../☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Commenting/giscus.md)
+↗ [giscus](../../../../../☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Commenting/giscus.md)
 
 
 
