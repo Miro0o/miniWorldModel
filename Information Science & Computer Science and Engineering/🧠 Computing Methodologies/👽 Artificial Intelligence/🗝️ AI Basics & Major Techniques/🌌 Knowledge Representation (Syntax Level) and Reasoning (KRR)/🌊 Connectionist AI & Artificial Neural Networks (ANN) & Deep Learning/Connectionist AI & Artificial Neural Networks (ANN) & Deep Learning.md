@@ -932,6 +932,9 @@ More generally, write $\theta_{t+1} = \theta_t + \eta_t d_t$, where $d_t$ is the
 3️⃣ These are <a>optimization problems</a> (↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md)).
 
 #### Normalization, Scaling, & Standardization
+> [!links]
+> ↗ [Normalization](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Metatheory/Normalization.md)
+
 > 🤖 GPT 6.0
 
 Normalization changes the **scale /distribution of values** so that the training becomes more stable and faster to converge. 

@@ -6,9 +6,10 @@
 
 ## Res
 ### Related Topics
+↗ [Higher-Order Languages & Logics (HOL)](../../🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Higher-Order%20Languages%20&%20Logics%20(HOL).md)
+
 ↗ [PL Static Syntactic Analysis & Type System](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
 ↗ [Type Analysis](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
-↗ [Type Theory (类型论)](../../🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 
 ↗ [Functional Models & Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20(Domain%20Specific%20Languages)/Database%20Languages/Object-Based%20Data%20Model%20Languages/Functional%20Models%20&%20Languages/Functional%20Models%20&%20Languages.md)
 ↗ [Functional Programming Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
@@ -145,7 +146,7 @@ What is PLUS times PLUS?
 
 如果我们记 $\lambda f.\lambda x.x \equiv 0$, $\lambda f.\lambda x.fx \equiv 1, \cdots, \lambda f.\lambda x.f^n x \equiv n$，我们就得到了自然数的另一种表示方式，称之为**邱奇编码**。
 #### CL (Combinatory Logic) & $CL_w$
-↗ [Combinatory Logic](../Combinatory%20Logic.md)
+↗ [Combinatory Logic](../../🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Combinatory%20Logic.md)
 
 > 🔗 https://thzt.github.io/2017/09/07/type-3/
 

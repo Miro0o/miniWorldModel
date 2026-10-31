@@ -1,4 +1,4 @@
-# Machine Learning Compilation & Kernel Dev
+# Machine Learning Compilation (MLC) & Kernel Dev
 
 [TOC]
 
@@ -28,6 +28,7 @@
 
 ↗ [DSL(Domain Specific Languages)](../../../../DSL%20(Domain%20Specific%20Languages)/DSL(Domain%20Specific%20Languages).md)
 
+↗ [High Performance Computing](../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
 ↗ [Parallel Computing & Programming](../../../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing%20&%20Programming/Parallel%20Computing%20&%20Programming.md)
 ↗ [Parallel Programming Libraries & SDK](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/👯‍♀️%20Parallel%20Programming%20Libraries%20&%20SDK/Parallel%20Programming%20Libraries%20&%20SDK.md)
 
@@ -676,7 +677,7 @@ Processors with matrix accelerator
 
 ## Tensor Compilation & Transformer Computation Graph
 > [!links]
-> ↗ [Attention & Efficient Operator Implementation](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
+> ↗ [Attention & Efficient Operator Implementation](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md) ⭐
 > 
 > ↗ [PyTorch](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Machine%20Learning%20Systems/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/📌%20PyTorch/PyTorch.md)
 > ↗ [Tensorflow](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Machine%20Learning%20Systems/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/Hybrid%20Languages%20&%20Cross%20Platforms/📌%20Tensorflow/Tensorflow.md)
@@ -947,8 +948,18 @@ memory latency hiding
 > ↗ [AI4SE](../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 > ↗ [AI4Code](../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
 
+objective: for given workload and hardware, find the optimal (?) implementation
 
-### Landscape
+methodologies:
+- AI based
+	- kernel agent
+		- agent optimize kernel directly
+	- agentic compiler
+		- agent + compilation environment
+- No AI
+
+
+### Landscape ⭐
 https://github.com/youyve/awesome-kernel-agent
 - **127 agent systems** · **176 structured claims** · **47 claims with linked artifacts** · **17 hardware targets** · **5 tooling entries** · research cutoff **2026-10-19**
 Representations and infrastructure
@@ -962,11 +973,6 @@ Research sources
 - [2026-10-19 primary-source audit](https://github.com/youyve/awesome-kernel-agent/blob/main/sources/research_20261019_kernel_agents.md) — latest additions, release updates, date checks, and unresolved evidence
 - [2026-08-25 primary-source audit](https://github.com/youyve/awesome-kernel-agent/blob/main/sources/research_20260825_kernel_agents.md) — previous search protocol, inclusion decisions, corrections, and exclusions
 - [v2 migration review](https://github.com/youyve/awesome-kernel-agent/blob/main/reports/migration-review.md) — facts intentionally left unresolved instead of inferred
-
-https://github.com/youyve/awesome-kernel-benchmark
-**30-second orientation.** This list contains two different kinds of things, and keeping them apart is the whole game:
-1. **Agent benchmarks** — harnesses _designed_ to score LLM kernel generation (KernelBench and its 27 successors). These produce the headline numbers in papers.
-2. **Task sources** (a.k.a. _substrates_) — the classic HPC/GPU suites that agents are evaluated _on_ or asked to optimize (PolyBench, NPB, Rodinia, …). An agent paper saying "we optimize XSBench kernels" is using a task source, not a benchmark — its numbers are only comparable to another paper that shares both the task source _and_ the measurement method.
 Evaluation integrity and reward hacking
 - [robust-kbench](https://github.com/SakanaAI/robust-kbench) — hardened KernelBench after AI CUDA Engineer exploits; [paper](https://arxiv.org/abs/2509.14279)
 - [METR Kernel Reward-Hacking Challenge](https://github.com/METR/RE-Bench/tree/main/ai_rd_triton_cumsum) — an evaluation task where reward hacking is explicitly audited
@@ -982,6 +988,22 @@ Competitions and leaderboards
 - [GPU MODE reference kernels](https://github.com/gpu-mode/reference-kernels) — NVIDIA and AMD kernel leaderboards, including distributed kernels
 - [AWS Trainium MoE Challenge](https://github.com/aws-neuron/nki-moe) — Qwen3 MoE on Trainium
 - [KernelArena](https://www.kernelarena.ai/) — open accelerator-kernel evaluation and leaderboard
+
+
+https://github.com/youyve/awesome-kernel-benchmark
+**30-second orientation.** This list contains two different kinds of things, and keeping them apart is the whole game:
+1. **Agent benchmarks** — harnesses _designed_ to score LLM kernel generation (KernelBench and its 27 successors). These produce the headline numbers in papers.
+2. **Task sources** (a.k.a. _substrates_) — the classic HPC/GPU suites that agents are evaluated _on_ or asked to optimize (PolyBench, NPB, Rodinia, …). An agent paper saying "we optimize XSBench kernels" is using a task source, not a benchmark — its numbers are only comparable to another paper that shares both the task source _and_ the measurement method.
+What should I evaluate my agent on?
+Pick by what you need to _prove_:
+- **"My numbers are comparable to prior work"** → [KernelBench](https://github.com/ScalingIntelligence/KernelBench) — the de-facto standard everyone reports. Know its limits (see scorecard) and never use it as sole evidence.
+- **"My speedups are not reward-hacking artifacts"** → [robust-kbench](https://github.com/SakanaAI/robust-kbench) — anti-gaming filters, forward+backward, 1e-5 tolerances.
+- **"My kernels are correct on real production shapes"** → [BackendBench](https://github.com/meta-pytorch/BackendBench) — PyTorch OpInfo edge cases + TorchBench production traces; ships kernels as a pip backend.
+- **"My kernels are fast in an absolute sense, not just vs eager"** → [SOL-ExecBench](https://research.nvidia.com/benchmarks/sol-execbench) / [CUDABench](https://github.com/CUDA-Bench/CUDABench) — ceiling-relative scores (caveat: both use datasheet peaks, which are 8–15% loose vs measured ceilings).
+- **"My agent's wins survive a real serving stack"** → [ISO-Bench](https://github.com/Lossfunk/ISO-Bench) (vLLM/SGLang merged-PR tasks) / [FlashInfer-Bench](https://github.com/flashinfer-ai/flashinfer-bench).
+- **"My results are honest about compute budget"** → [GEAK](https://github.com/AMD-AGI/GEAK) — the only one decomposing sequential@k vs parallel@k.
+- **Triton specifically** → [TritonBench](https://github.com/thunlp/TritonBench); **ROCm/AMD** → GEAK, [AgentKernelArena](https://github.com/AMD-AGI/AgentKernelArena), [NPUEval](https://github.com/AMDResearch/NPUEval); **Ascend NPU** → [MultiKernelBench](https://github.com/wzzll123/MultiKernelBench), [AscendKernelBench](https://github.com/mindspore-ai/akg), [NPUKernelBench](https://openi.pcl.ac.cn/PCL-Benchmark/NPUKernelBench); **CUDA correctness with hidden tests** → [ComputeEval](https://github.com/NVIDIA/compute-eval).
+**The honest answer for a serious paper is a portfolio:** one comparability anchor (KernelBench) + one hardened oracle (robust-kbench or BackendBench) + one absolute metric (SOL-ExecBench-style) + explicit budget reporting. No single existing benchmark covers all four — that gap is visible in the scorecard below.
 
 
 
