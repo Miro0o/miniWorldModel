@@ -26,7 +26,7 @@
 ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
 
 ↗ [GPU (Graphics Processing Unit)](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Accelerators%20%28Coprocessors%29/GPU%20%28Graphics%20Processing%20Unit%29/GPU%20%28Graphics%20Processing%20Unit%29.md)
-↗ [Machine Learning Compilation & Kernel Dev](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md)
+↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20%28MLC%29%20&%20Operator%20Dev.md)
 ↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL.md)
 - ↗ [NVIDIA TensorRT & TensorRT-LLM](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/NVIDIA%20TensorRT%20&%20TensorRT-LLM/NVIDIA%20TensorRT%20&%20TensorRT-LLM.md)
 - ↗ [Google XLA & OpenXLA](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/Google%20XLA%20&%20OpenXLA.md)
@@ -196,6 +196,13 @@ https://bojieli.github.io/ai-infra-book/
 | 11  | [资源调度与运行环境](https://bojieli.github.io/ai-infra-book/manuscripts/11-%E8%B5%84%E6%BA%90%E8%B0%83%E5%BA%A6%E4%B8%8E%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83.html) | 模型服务和工具环境如何共享资源，减少等待？       |
 | 12  | [端边云协同](https://bojieli.github.io/ai-infra-book/manuscripts/12-%E7%AB%AF%E8%BE%B9%E4%BA%91%E5%8D%8F%E5%90%8C.html)                                         | 任务放在本地、边缘还是云端，怎样兼顾效果、延迟和成本？ |
 
+https://stanford-cs324.github.io/winter2022/lectures/parallelism/
+CS324 - Large Language Model | Stanford
+- [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053.pdf). _M. Shoeybi, M. Patwary, Raul Puri, P. LeGresley, J. Casper, Bryan Catanzaro_. 2019.
+- [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965.pdf). _Yanping Huang, Yonglong Cheng, Dehao Chen, HyoukJoong Lee, Jiquan Ngiam, Quoc V. Le, Z. Chen_. NeurIPS 2018.
+- [Efficient large-scale language model training on GPU clusters using Megatron-LM](https://arxiv.org/pdf/2104.04473.pdf). _D. Narayanan, M. Shoeybi, J. Casper, P. LeGresley, M. Patwary, V. Korthikanti, Dmitri Vainbrand, Prethvi Kashinkunti, J. Bernauer, Bryan Catanzaro, Amar Phanishayee, M. Zaharia_. SC 2021.
+- [TeraPipe: Token-Level Pipeline Parallelism for Training Large-Scale Language Models](https://arxiv.org/pdf/2102.07988.pdf). _Zhuohan Li, Siyuan Zhuang, Shiyuan Guo, Danyang Zhuo, Hao Zhang, D. Song, I. Stoica_. ICML 2021.
+
 
 ### Other Resources
 https://faichou.com/posts/llm-cache/
@@ -224,7 +231,7 @@ Inside vLLM: Anatomy of a High-Throughput LLM Inference System
 > ↗ [Tokenization Techniques & Tokenizers](../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
 > ↗ [BPE (Byte Pair Encoding)](../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/BPE%20%28Byte%20Pair%20Encoding%29.md)
 > 
-> ↗ [Machine Learning Compilation & Kernel Dev](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md) 🤔
+> ↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20%28MLC%29%20&%20Operator%20Dev.md) 🤔
 > "Map: LLM Inference & AI Compilation"
 > "LLM Inference Workload"
 
@@ -586,17 +593,76 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 ↗ [AI API Call & AI Gateway](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20API%20Call%20&%20AI%20Gateway.md)
 
 
-### 1️⃣ LLM Compilation
-↗ [Machine Learning Compilation & Kernel Dev](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md)
+### 1️⃣ LLM Compilation & Operator Dev
+↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20%28MLC%29%20&%20Operator%20Dev.md)
 - Transformer Computation Graph & Operator
 	- static compilation
 	- dynamic compilation
 	- multi-versioning
 - GPU Kernel & Lowering
 
+> [!Notes] ↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20%28MLC%29%20&%20Operator%20Dev.md)
+> objective: for given workload and hardware, find the optimal (?) implementation
+>
+> methodologies:
+>
+> - human expert hand-written operator
+> - AI-written operator&#x20;
+>   - agent optimize operator directly
+> - compilation operator&#x20;
+>   - agentic compiler /neuro-symbolic&#x20;
+>     - llm /agent + compilation environment
+>   - no AI /traditional compiler
+>
+> > 🤖 GPT 6.1 Sol\
+> > &#x20;[https://chatgpt.com/share/6ae597f4-2d00-83ec-8d1e-37773f5a20a6](https://chatgpt.com/share/6ae597f4-2d00-83ec-8d1e-37773f5a20a6)
+>
+> **我们究竟在优化什么？**\
+> &#x20;把问题形式化：\
+> &#x20;给定一个计算任务 (F)、目标 GPU (H) 和一组实际输入 (W)，寻找满足正确性要求、执行效率最高的实现 (P): P^\*=\arg\min\_{P\in\mathcal P,\\;P\approx F} T(P,H,W)这里的 (P) 可以是单个 Kernel，也可以是多个 Kernel 构成的执行方案。
+>
+> 固定计算任务，并不意味着只能改变代码的写法。我们仍然可以改变：
+>
+> - 算法：用另一种数学上等价的算法计算。
+> - 计算图：改变算子融合、拆分与计算顺序。
+> - 数据组织：改变 Layout、内存使用和数据搬运方式。
+> - 并行执行：改变 Tiling、线程映射、流水线和指令。
+> - 实现选择：在多个 Kernel、算法及参数配置之间选择。
+> - 运行时策略：根据输入形状、数据特征选择不同实现。
+>
+> **建立优化方法分类**\
+> &#x20;我建议保留八个维度。其中前六个决定优化系统如何工作，后两个决定它如何被验证与部署。
+>
+> | 维度                              | 回答的问题        | 典型选项                                                                   |
+> | ------------------------------- | ------------ | ---------------------------------------------------------------------- |
+> | D1. 优化粒度 (Granularity)          | 优化的单位有多大？    | Instruction、Kernel、Operator、Fused Subgraph、Full Graph                  |
+> | D2. 优化自由度 (Search Space)        | 允许改变哪些实现决策？  | 算法、Graph、Fusion、Schedule、Layout、Memory、Thread Mapping、Kernel Selection |
+> | D3. 程序表示 (Representation)       | 用什么形式表达候选实现？ | Library、Template、Graph IR、Tensor IR、Schedule DSL、CUDA / Triton、PTX     |
+> | D4. 候选生成 (Candidate Generation) | 新的实现怎样产生？    | 复用、模板实例化、Rewrite、程序合成、直接代码生成                                           |
+> | D5. 搜索策略 (Search Strategy)      | 怎样探索候选空间？    | Greedy、Grid、Random、Evolution、Beam Search、MCTS、约束求解                     |
+> | D6. 决策与引导 (Search Guidance)     | 什么知识指导搜索？    | 人工规则、静态分析、解析 Cost Model、Learned Cost Model、RL Policy、LLM               |
+> | D7. 验证与反馈 (Evaluation)          | 如何判断正确、性能好？  | 形式化等价、数值测试、静态成本估计、GPU Benchmark、Profiling                              |
+> | D8. 优化时机 (Optimization Stage)   | 何时搜索或选择实现？   | 离线优化、AOT Build、JIT、Runtime Dispatch                                    |
+>
+> 我现在会把整个研究问题组织成下面三个层次，而不是再提出六条互相重叠的路线。
+>
+> | 层次                             | 内容                                                     | 作用         |
+> | ------------------------------ | ------------------------------------------------------ | ---------- |
+> | 第 1 层：Problem Definition       | 计算语义、输入分布、目标 GPU、数值容差、Latency / Throughput / Memory 目标 | 固定什么问题需要解决 |
+> | 第 2 层：Optimization Methodology | D1–D8：优化范围、自由度、表示、候选生成、搜索、决策、验证、时机                     | 定义如何寻找优化实现 |
+> | 第 3 层：Evaluation Protocol      | Benchmark Suite、强基线、公平优化预算、跨 Shape / Hardware 泛化、端到端性能 | 客观衡量方法有效性  |
+>
+> 需要强调：固定语义不一定要求浮点结果逐位相同。不同计算顺序、融合和精度策略可能改变舍入误差，因此数值容差、允许的 dtype 和精度限制必须事先明确。
+>
+> **最终判断**\
+> &#x20;现在我们可以把相关领域的术语归到正确位置：\
+> &#x20;Compiler Optimization 是研究程序变换和代码生成的广泛领域；Autotuning / Auto-scheduling 是自动探索实现选择的一类方法；Superoptimization 更关注在语义等价实现空间里寻找更好的程序；Program Synthesis 关注构造满足计算规范的新程序；ML / RL / LLM Agent 则可以参与候选构造、搜索决策和性能预测等多个环节。
+
 
 ### 2️⃣ LLM Serving Process
 > [!links]
+> ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md) "The computation of a token"
+> 
 > ↗ [vLLM](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
 > ↗ [SGLang](LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
 
@@ -668,3 +734,7 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 ![](../../../../../../Assets/Pics/Screenshot%202026-04-26%20at%2017.44.28.png)
 
 [大模型训练并行技术理解-DP/TP/PP/SP/EP - 哈密瓜的文章 - 知乎]: https://zhuanlan.zhihu.com/p/1904506837543420662
+
+[30 【KV cache: 使用大模型或做 agent 必须了解 - henryz | 小红书 - 你的生活兴趣社区】 😆 PJz3O7aUyw2ImIz 😆]: https://www.xiaohongshu.com/discovery/item/6ade18130000000025006227?source=webshare&xhsshare=pc_web&xsec_token=ABuQ2iHXSOiQCnRRE6FejzE_u3mqPQZ-xp2qcY3BPkaoc=&xsec_source=pc_share
+
+[98 【gpu 不是大模型唯一选择 - henryz | 小红书 - 你的生活兴趣社区】 😆 OnZ1l6ZUCCrcFIi 😆]: https://www.xiaohongshu.com/discovery/item/6ad76fda000000002601e07a?source=webshare&xhsshare=pc_web&xsec_token=ABadGIGIcWR4XxcTHmJdUa95ICoO00r0aqfL4fKHfxqzc=&xsec_source=pc_share

@@ -14,6 +14,7 @@
 ↗ [StepFun](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Other%20Models/StepFun.md)
 
 ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
+↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20%28MLC%29%20&%20Operator%20Dev.md)
 
 
 ### Learning Resources
@@ -104,7 +105,7 @@ Beyond Residual Connection:
 ## Intro
 > [!links]
 > ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md) "LLM Serving"
-> ↗ [Machine Learning Compilation & Kernel Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md) "LLM Inference Workload"
+> ↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20%28MLC%29%20&%20Operator%20Dev.md) "LLM Inference Workload"
 
 > [!Abstract]
 > ![|500](../../../../../../../../../Assets/Pics/Pasted%20image%2020250920191324.png)
@@ -233,13 +234,13 @@ DeepSeek 的一套 Attention 实现可以同时具有 MLA 的 KV 压缩、DSA �
 
 
 
-## Hardware-Efficient Attention
+## Hardware-Efficient Attention & Operator Optimization
 > [!links]
 > ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
 > ↗ [vLLM](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
 > ↗ [SGLang](../../../../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
 > 
-> ↗ [Machine Learning Compilation & Kernel Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md)
+> ↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20%28MLC%29%20&%20Operator%20Dev.md) ⭐
 > ↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL.md)
 > ↗ [NVIDIA TensorRT & TensorRT-LLM](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20%28LLM%29%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/NVIDIA%20TensorRT%20&%20TensorRT-LLM/NVIDIA%20TensorRT%20&%20TensorRT-LLM.md)
 
@@ -272,6 +273,19 @@ DeepSeek 的一套 Attention 实现可以同时具有 MLA 的 KV 压缩、DSA �
 
 
 ### SageAttention
+🚧 https://github.com/thu-ml/sageattention
+
+**SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration**  
+Jintao Zhang, Jia Wei, Haofeng Huang, Pengle Zhang, Jun Zhu, Jianfei Chen  
+Paper: [https://arxiv.org/abs/2410.02367](https://arxiv.org/abs/2410.02367)
+
+**SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization**  
+Jintao Zhang, Haofeng Huang, Pengle Zhang, Jia Wei, Jun Zhu, Jianfei Chen  
+Paper: [https://arxiv.org/abs/2411.10958](https://arxiv.org/abs/2411.10958)
+
+**SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training**  
+Jintao Zhang, Jia Wei, Haoxu Wang, Pengle Zhang, Xiaoming Xu, Haofeng Huang, Kai Jiang, Jianfei Chen, Jun Zhu  
+Paper: [https://arxiv.org/abs/2505.11594](https://arxiv.org/abs/2505.11594)
 
 
 ### FlashInfer
@@ -309,9 +323,7 @@ Patterns
 - block space attention
 - random /content-dependent sparse attention
 
-
 Retained Attention Mass
-
 
 Fixed selection
 - Fixed attention
@@ -376,3 +388,7 @@ Causal Linear Attention
 
 ## Ref
 [必看！Sebastian Raschka新博客盘点了所有主要注意力机制]: https://mp.weixin.qq.com/s/xm0EXBmn8QbyzBt3X4GY7A
+
+[30 【KV cache: 使用大模型或做 agent 必须了解 - henryz | 小红书 - 你的生活兴趣社区】 😆 PJz3O7aUyw2ImIz 😆]: https://www.xiaohongshu.com/discovery/item/6ade18130000000025006227?source=webshare&xhsshare=pc_web&xsec_token=ABuQ2iHXSOiQCnRRE6FejzE_u3mqPQZ-xp2qcY3BPkaoc=&xsec_source=pc_share
+
+[73 【大模型的知识藏在 FFN 里，不是注意力 - 阿栗学长 | 小红书 - 你的生活兴趣社区】 😆 qIuXVA0U5PVCgzk 😆]: https://www.xiaohongshu.com/discovery/item/6adf45d7000000001500e1eb?source=webshare&xhsshare=pc_web&xsec_token=ABHvxD3Xo98sa8bpG_eYRgPy5xxSoFZHaT6awkF3VRSNk=&xsec_source=pc_share

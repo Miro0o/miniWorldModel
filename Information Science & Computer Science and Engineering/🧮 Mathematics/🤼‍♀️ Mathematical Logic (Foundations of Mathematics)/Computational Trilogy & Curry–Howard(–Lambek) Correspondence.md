@@ -6,27 +6,20 @@
 
 ## Res
 ### Related Topics
-↗ [Programming Language Theory (PLT)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
-↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
-↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Programming Language Theory (PLT)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+↗ [Computation as Programs - Computer Program Semantics & Models](../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
+↗ [Programming Language & Formal Semantics](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
-↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Logic Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+- ↗ [Lambda Calculus (λ-Calculus)](📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20%28类型论%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 
-↗ [Mathematical Logic (Foundations of Mathematics)](../Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
-- ↗ [Formal System, Formal Semantics, and Formal Logic](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
-↗ [Logic Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
-- ↗ [Lambda Calculus (λ-Calculus)](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+↗ [Formal Verification & Analysis Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
+- ↗ [LEAN](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
 
-↗ [Category Theory (范畴论)](../../🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
-↗ [Type Theory (类型论)](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
-
-↗ [Formal Verification & Analysis Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
-- ↗ [LEAN](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
-
-↗ [Formal Verifiers & Constraint Solvers & Checkers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers.md)
-- ↗ [Theorem Provers & Proof Assistants](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Theorem%20Provers%20&%20Proof%20Assistants.md)
-	- ↗ [Rocq Prover (Formerly Coq)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Interactive%20Theorem%20Prover%20%28ITP%29/Rocq%20Prover%20%28Formerly%20Coq%29/Rocq%20Prover%20%28Formerly%20Coq%29.md)
-	- ↗ [Isabelle & Isar Language](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Interactive%20Theorem%20Prover%20%28ITP%29/Isabelle%20&%20Isar%20Language/Isabelle%20&%20Isar%20Language.md)
+↗ [Formal Verifiers & Constraint Solvers & Checkers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers.md)
+- ↗ [Theorem Provers & Proof Assistants](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Theorem%20Provers%20&%20Proof%20Assistants.md)
+	- ↗ [Rocq Prover (Formerly Coq)](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Interactive%20Theorem%20Prover%20%28ITP%29/Rocq%20Prover%20%28Formerly%20Coq%29/Rocq%20Prover%20%28Formerly%20Coq%29.md)
+	- ↗ [Isabelle & Isar Language](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Interactive%20Theorem%20Prover%20%28ITP%29/Isabelle%20&%20Isar%20Language/Isabelle%20&%20Isar%20Language.md)
 
 
 ### Other Resources
@@ -55,7 +48,7 @@ are but three different perspectives on a single underlying phenomenon at the [
 
 ## Intro
 > [!links]
-> ↗ [Formal System, Formal Semantics, and Formal Logic](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
+> ↗ [Formal System, Formal Semantics, and Formal Logic](📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -203,9 +196,12 @@ It is a generalization of a syntactic [analogy](https://en.wikipedia.org/wiki/A
 > 本文介绍了Curry-Howard-Lambek correspondance，它将本来毫无关系的三个学科联系在了一起，类型理论与程序和计算相关，逻辑学与证明（论）相关，范畴论与模型（论）和代数学相关。
 #### Type Theory + Formal Logics: Curry-Howard (CH) Correspondence
 > [!links]
-> ↗ [Lambda Calculus (λ-Calculus)](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
-> ↗ [Formal System, Formal Semantics, and Formal Logic](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
-> ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20%28PL%29%20-%20%28零阶%29%20命题逻辑.md)
+> ↗ [Type Theory (类型论)](📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
+> ↗ [Proof Theory](Proof%20Theory/Proof%20Theory.md)
+> 
+> ↗ [Lambda Calculus (λ-Calculus)](📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20%28类型论%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+> ↗ [Formal System, Formal Semantics, and Formal Logic](📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
+> ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20%28Standard%20Formal%20Logic%29/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20%28PL%29%20-%20%28零阶%29%20命题逻辑.md)
 
 > 🔗 https://thzt.github.io/2018/02/23/semantics-10/
 
@@ -233,8 +229,8 @@ It is a generalization of a syntactic [analogy](https://en.wikipedia.org/wiki/A
 考虑到以上命题逻辑与类型之间的对应关系，我们可以说，[proofs as programs](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)。
 #### CH + Category Theory: Curry-Howard-Lambek (CHL) Correspondence
 > [!links]
-> ↗ [Category Theory (范畴论)](../../🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
-> ↗ [Cartesian Closed Category (CCC)](../../🩻%20Category%20Theory%20%28范畴论%29/Cartesian%20Closed%20Category%20%28CCC%29.md)
+> ↗ [Category Theory (范畴论)](../🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
+> ↗ [Cartesian Closed Category (CCC)](../🩻%20Category%20Theory%20%28范畴论%29/Cartesian%20Closed%20Category%20%28CCC%29.md)
 
 > 🔗 https://thzt.github.io/2018/02/23/semantics-10/
 
@@ -247,16 +243,16 @@ It is a generalization of a syntactic [analogy](https://en.wikipedia.org/wiki/A
 
 
 ### Extended Interpretation in Mathematics
-![](../../../../Assets/Pics/Pasted%20image%2020260112182510.png)
+![](../../../Assets/Pics/Pasted%20image%2020260112182510.png)
 <small><a>https://seniormars.com/posts/trilogy/</a></small>
 
-![](../../../../Assets/Pics/Pasted%20image%2020260112182521.png)
+![](../../../Assets/Pics/Pasted%20image%2020260112182521.png)
 <small><a>https://seniormars.com/posts/trilogy/</a></small>
 
-![](../../../../Assets/Pics/Pasted%20image%2020260112182541.png)
+![](../../../Assets/Pics/Pasted%20image%2020260112182541.png)
 <small><a>https://seniormars.com/posts/trilogy/</a></small>
 
-![](../../../../Assets/Pics/Pasted%20image%2020260112182607.png)
+![](../../../Assets/Pics/Pasted%20image%2020260112182607.png)
 <small><a>https://seniormars.com/posts/trilogy/</a></small>
 
 
@@ -302,4 +298,4 @@ CH correspondence可以看作是[Brouwer–Heyting–Kolmogorov interpretation](
 考虑到以上命题逻辑与类型之间的对应关系，我们可以说，[proofs as programs](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)。
 
 [LEAN4 入门（introduction） - Lin Mulikas的文章 - 知乎]:https://zhuanlan.zhihu.com/p/678954230
-![](../../../../Assets/Pics/Pasted%20image%2020260109004002.png)
+![](../../../Assets/Pics/Pasted%20image%2020260109004002.png)

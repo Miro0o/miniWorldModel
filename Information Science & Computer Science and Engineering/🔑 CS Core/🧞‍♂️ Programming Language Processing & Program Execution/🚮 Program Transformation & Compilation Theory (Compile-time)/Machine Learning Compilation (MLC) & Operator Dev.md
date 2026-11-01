@@ -1,4 +1,4 @@
-# Machine Learning Compilation & Kernel Dev
+# Machine Learning Compilation (MLC) & Operator Dev
 
 [TOC]
 
@@ -28,6 +28,7 @@
 
 ↗ [DSL(Domain Specific Languages)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%20%28Domain%20Specific%20Languages%29/DSL%28Domain%20Specific%20Languages%29.md)
 
+↗ [High Performance Computing](../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
 ↗ [Parallel Computing & Programming](../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing%20&%20Programming/Parallel%20Computing%20&%20Programming.md)
 ↗ [Parallel Programming Libraries & SDK](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/👯‍♀️%20Parallel%20Programming%20Libraries%20&%20SDK/Parallel%20Programming%20Libraries%20&%20SDK.md)
 
@@ -676,7 +677,7 @@ Processors with matrix accelerator
 
 ## Tensor Compilation & Transformer Computation Graph
 > [!links]
-> ↗ [Attention & Efficient Operator Implementation](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md)
+> ↗ [Attention & Efficient Operator Implementation](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformer%20Components%20Design/Attention%20&%20Efficient%20Operator%20Implementation.md) ⭐
 > 
 > ↗ [PyTorch](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/📌%20PyTorch/PyTorch.md)
 > ↗ [Tensorflow](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/Hybrid%20Languages%20&%20Cross%20Platforms/📌%20Tensorflow/Tensorflow.md)
@@ -939,7 +940,7 @@ memory latency hiding
 
 
 
-## LLM & Agents For Compilation & Kernel
+## Operator Dev & LLM /Agents For Operator Dev
 > [!links]
 > ↗ [LLM (Large Language Model)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20%28Large%20Language%20Model%29.md)
 > ↗ [Agentic LLMs & LLM Agent Harness](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
@@ -947,8 +948,82 @@ memory latency hiding
 > ↗ [AI4SE](../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 > ↗ [AI4Code](../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
 
+objective: for given workload and hardware, find the optimal (?) implementation
 
-### Landscape
+methodologies:
+- human expert hand-written operator
+- AI-written operator
+	- agent optimize operator directly
+- compilation operator
+	- agentic compiler /neuro-symbolic
+		- llm /agent + compilation environment
+	- no AI /traditional compiler
+
+> 🤖 GPT 6.1 Sol
+> https://chatgpt.com/share/6ae597f4-2d00-83ec-8d1e-37773f5a20a6
+
+**我们究竟在优化什么？**
+把问题形式化：
+给定一个计算任务 \(F\)、目标 GPU \(H\) 和一组实际输入 \(W\)，寻找满足正确性要求、执行效率最高的实现 \(P\): $$P^*=\arg\min_{P\in\mathcal P,\;P\approx F} T(P,H,W)$$
+这里的 \(P\) 可以是单个 Kernel，也可以是多个 Kernel 构成的执行方案。
+
+固定计算任务，并不意味着只能改变代码的写法。我们仍然可以改变：
+- 算法：用另一种数学上等价的算法计算。
+- 计算图：改变算子融合、拆分与计算顺序。
+- 数据组织：改变 Layout、内存使用和数据搬运方式。
+- 并行执行：改变 Tiling、线程映射、流水线和指令。
+- 实现选择：在多个 Kernel、算法及参数配置之间选择。
+- 运行时策略：根据输入形状、数据特征选择不同实现。
+
+
+**建立优化方法分类**
+我建议保留八个维度。其中前六个决定优化系统如何工作，后两个决定它如何被验证与部署。
+
+| 维度                              | 回答的问题        | 典型选项                                                                   |
+| ------------------------------- | ------------ | ---------------------------------------------------------------------- |
+| D1. 优化粒度 (Granularity)          | 优化的单位有多大？    | Instruction、Kernel、Operator、Fused Subgraph、Full Graph                  |
+| D2. 优化自由度 (Search Space)        | 允许改变哪些实现决策？  | 算法、Graph、Fusion、Schedule、Layout、Memory、Thread Mapping、Kernel Selection |
+| D3. 程序表示 (Representation)       | 用什么形式表达候选实现？ | Library、Template、Graph IR、Tensor IR、Schedule DSL、CUDA / Triton、PTX     |
+| D4. 候选生成 (Candidate Generation) | 新的实现怎样产生？    | 复用、模板实例化、Rewrite、程序合成、直接代码生成                                           |
+| D5. 搜索策略 (Search Strategy)      | 怎样探索候选空间？    | Greedy、Grid、Random、Evolution、Beam Search、MCTS、约束求解                     |
+| D6. 决策与引导 (Search Guidance)     | 什么知识指导搜索？    | 人工规则、静态分析、解析 Cost Model、Learned Cost Model、RL Policy、LLM               |
+| D7. 验证与反馈 (Evaluation)          | 如何判断正确、性能好？  | 形式化等价、数值测试、静态成本估计、GPU Benchmark、Profiling                              |
+| D8. 优化时机 (Optimization Stage)   | 何时搜索或选择实现？   | 离线优化、AOT Build、JIT、Runtime Dispatch                                    |
+
+我现在会把整个研究问题组织成下面三个层次，而不是再提出六条互相重叠的路线。
+
+|层次|内容|作用|
+|---|---|---|
+|第 1 层：Problem Definition|计算语义、输入分布、目标 GPU、数值容差、Latency / Throughput / Memory 目标|固定什么问题需要解决|
+|第 2 层：Optimization Methodology|D1–D8：优化范围、自由度、表示、候选生成、搜索、决策、验证、时机|定义如何寻找优化实现|
+|第 3 层：Evaluation Protocol|Benchmark Suite、强基线、公平优化预算、跨 Shape / Hardware 泛化、端到端性能|客观衡量方法有效性|
+
+需要强调：固定语义不一定要求浮点结果逐位相同。不同计算顺序、融合和精度策略可能改变舍入误差，因此数值容差、允许的 dtype 和精度限制必须事先明确。
+
+
+**最终判断**
+现在我们可以把相关领域的术语归到正确位置：
+Compiler Optimization 是研究程序变换和代码生成的广泛领域；Autotuning / Auto-scheduling 是自动探索实现选择的一类方法；Superoptimization 更关注在语义等价实现空间里寻找更好的程序；Program Synthesis 关注构造满足计算规范的新程序；ML / RL / LLM Agent 则可以参与候选构造、搜索决策和性能预测等多个环节。
+
+
+### Human Expert Op-Dev
+Deepseek:
+- https://github.com/deepseek-ai/FlashMLA
+	- FlashMLA: Efficient Multi-head Latent Attention Kernels
+- https://github.com/deepseek-ai/DeepGEMM
+	- DeepGEMM: clean and efficient BLAS kernel library on GPU
+- https://github.com/deepseek-ai/DeepSelect
+	- DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers
+- https://github.com/deepseek-ai/TileKernels
+	- A kernel library written in tilelang
+- https://github.com/deepseek-ai/DeepGEMM-Ascend
+	- DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs
+
+
+### LLM + Compilation
+
+
+### LLM /Agent for Op-Dev ⭐
 https://github.com/youyve/awesome-kernel-agent
 - **127 agent systems** · **176 structured claims** · **47 claims with linked artifacts** · **17 hardware targets** · **5 tooling entries** · research cutoff **2026-10-19**
 Representations and infrastructure
@@ -962,11 +1037,6 @@ Research sources
 - [2026-10-19 primary-source audit](https://github.com/youyve/awesome-kernel-agent/blob/main/sources/research_20261019_kernel_agents.md) — latest additions, release updates, date checks, and unresolved evidence
 - [2026-08-25 primary-source audit](https://github.com/youyve/awesome-kernel-agent/blob/main/sources/research_20260825_kernel_agents.md) — previous search protocol, inclusion decisions, corrections, and exclusions
 - [v2 migration review](https://github.com/youyve/awesome-kernel-agent/blob/main/reports/migration-review.md) — facts intentionally left unresolved instead of inferred
-
-https://github.com/youyve/awesome-kernel-benchmark
-**30-second orientation.** This list contains two different kinds of things, and keeping them apart is the whole game:
-1. **Agent benchmarks** — harnesses _designed_ to score LLM kernel generation (KernelBench and its 27 successors). These produce the headline numbers in papers.
-2. **Task sources** (a.k.a. _substrates_) — the classic HPC/GPU suites that agents are evaluated _on_ or asked to optimize (PolyBench, NPB, Rodinia, …). An agent paper saying "we optimize XSBench kernels" is using a task source, not a benchmark — its numbers are only comparable to another paper that shares both the task source _and_ the measurement method.
 Evaluation integrity and reward hacking
 - [robust-kbench](https://github.com/SakanaAI/robust-kbench) — hardened KernelBench after AI CUDA Engineer exploits; [paper](https://arxiv.org/abs/2509.14279)
 - [METR Kernel Reward-Hacking Challenge](https://github.com/METR/RE-Bench/tree/main/ai_rd_triton_cumsum) — an evaluation task where reward hacking is explicitly audited
@@ -984,5 +1054,24 @@ Competitions and leaderboards
 - [KernelArena](https://www.kernelarena.ai/) — open accelerator-kernel evaluation and leaderboard
 
 
+https://github.com/youyve/awesome-kernel-benchmark
+**30-second orientation.** This list contains two different kinds of things, and keeping them apart is the whole game:
+1. **Agent benchmarks** — harnesses _designed_ to score LLM kernel generation (KernelBench and its 27 successors). These produce the headline numbers in papers.
+2. **Task sources** (a.k.a. _substrates_) — the classic HPC/GPU suites that agents are evaluated _on_ or asked to optimize (PolyBench, NPB, Rodinia, …). An agent paper saying "we optimize XSBench kernels" is using a task source, not a benchmark — its numbers are only comparable to another paper that shares both the task source _and_ the measurement method.
+What should I evaluate my agent on?
+Pick by what you need to _prove_:
+- **"My numbers are comparable to prior work"** → [KernelBench](https://github.com/ScalingIntelligence/KernelBench) — the de-facto standard everyone reports. Know its limits (see scorecard) and never use it as sole evidence.
+- **"My speedups are not reward-hacking artifacts"** → [robust-kbench](https://github.com/SakanaAI/robust-kbench) — anti-gaming filters, forward+backward, 1e-5 tolerances.
+- **"My kernels are correct on real production shapes"** → [BackendBench](https://github.com/meta-pytorch/BackendBench) — PyTorch OpInfo edge cases + TorchBench production traces; ships kernels as a pip backend.
+- **"My kernels are fast in an absolute sense, not just vs eager"** → [SOL-ExecBench](https://research.nvidia.com/benchmarks/sol-execbench) / [CUDABench](https://github.com/CUDA-Bench/CUDABench) — ceiling-relative scores (caveat: both use datasheet peaks, which are 8–15% loose vs measured ceilings).
+- **"My agent's wins survive a real serving stack"** → [ISO-Bench](https://github.com/Lossfunk/ISO-Bench) (vLLM/SGLang merged-PR tasks) / [FlashInfer-Bench](https://github.com/flashinfer-ai/flashinfer-bench).
+- **"My results are honest about compute budget"** → [GEAK](https://github.com/AMD-AGI/GEAK) — the only one decomposing sequential@k vs parallel@k.
+- **Triton specifically** → [TritonBench](https://github.com/thunlp/TritonBench); **ROCm/AMD** → GEAK, [AgentKernelArena](https://github.com/AMD-AGI/AgentKernelArena), [NPUEval](https://github.com/AMDResearch/NPUEval); **Ascend NPU** → [MultiKernelBench](https://github.com/wzzll123/MultiKernelBench), [AscendKernelBench](https://github.com/mindspore-ai/akg), [NPUKernelBench](https://openi.pcl.ac.cn/PCL-Benchmark/NPUKernelBench); **CUDA correctness with hidden tests** → [ComputeEval](https://github.com/NVIDIA/compute-eval).
+**The honest answer for a serious paper is a portfolio:** one comparability anchor (KernelBench) + one hardened oracle (robust-kbench or BackendBench) + one absolute metric (SOL-ExecBench-style) + explicit budget reporting. No single existing benchmark covers all four — that gap is visible in the scorecard below.
+
+
 
 ## Ref
+[98 【gpu 不是大模型唯一选择 - henryz | 小红书 - 你的生活兴趣社区】 😆 OnZ1l6ZUCCrcFIi 😆]: https://www.xiaohongshu.com/discovery/item/6ad76fda000000002601e07a?source=webshare&xhsshare=pc_web&xsec_token=ABadGIGIcWR4XxcTHmJdUa95ICoO00r0aqfL4fKHfxqzc=&xsec_source=pc_share
+
+[ForgeKernel: Self-Evolving Kernels Catching and Surpassing Experts and Agents | github]: https://github.com/OpenBMB/ForgeKernel

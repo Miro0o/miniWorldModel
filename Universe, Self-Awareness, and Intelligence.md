@@ -426,7 +426,7 @@ tbd.
 更具体地，普遍联系指出了信息的运动就是信息间的相互联系。在不同的语境下，人们通常对信息的运动（或信息间的相互联系，它们是同义词）按照特征进行分类，并给予不同的名称：
 - 信息科学领域中的“计算”：
 	- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-	- ↗ [Lambda Calculus (λ-Calculus)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+	- ↗ [Lambda Calculus (λ-Calculus)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20%28类型论%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 	- ↗ [Computation as Programs - Computer Program Semantics & Models](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 - 深度学习中的"神经网络"模型：
 	- ↗ [Connectionist AI & Artificial Neural Networks (ANN) & Deep Learning](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20%28Syntax%20Level%29%20and%20Reasoning%20%28KRR%29/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning/Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20%28ANN%29%20&%20Deep%20Learning.md)
@@ -466,7 +466,7 @@ tbd.
 这个公式的深刻性：
 - 知识之间的相通，或者说人类的思维 /（信息）宇宙的相通。这种相通是存在于信息维度中的。
 	- ↗ [Category Theory (范畴论)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
-	- ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
+	- ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
 - 进一步，当 $B$ 与 $A$ 相等， $A\overset{C}{\to} A$，即出现了自我指代 /递归。
 	- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 

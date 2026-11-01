@@ -16,8 +16,8 @@
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
 ↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
-- ↗ [Hilbert-Style Deduction Systems](../Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculi/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
+- ↗ [Hilbert-Style Deduction Systems](../Proof%20Theory/Proof%20Calculi/Hilbert-Style%20Deduction%20Systems.md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 ↗ [Type Theory (类型论)](🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
@@ -262,7 +262,7 @@ To conclude:
 \end{tikzpicture}
 \end{document}
 ```
-Also in ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
+Also in ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
 
 > [!quote] GPT 6.0
 > ↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
@@ -433,7 +433,7 @@ This note.
 
 ---
 Simplified Typed Lambda Calculus
-↗ [Lambda Calculus (λ-Calculus)](🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+↗ [Lambda Calculus (λ-Calculus)](🪸%20Type%20Theory%20%28类型论%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 
 **Syntax** 
 - 🔗 https://thzt.github.io/2017/09/19/type-6/
@@ -442,7 +442,7 @@ Simplified Typed Lambda Calculus
 - 🔗 https://thzt.github.io/2018/02/03/semantics-5/
 - Henkin semantics & Henkin model
 	- ↗ [σ-Algebra (sigma Algebra)](../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/σ-Algebra%20%28sigma%20Algebra%29/σ-Algebra%20%28sigma%20Algebra%29.md)
-	- ↗ [Henkin Model & Henkin Semantics](🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Henkin%20Model%20&%20Henkin%20Semantics.md)
+	- ↗ [Henkin Model & Henkin Semantics](🪸%20Type%20Theory%20%28类型论%29/Lambda%20Calculus%20%28λ-Calculus%29/Henkin%20Model%20&%20Henkin%20Semantics.md)
 - Cartesian closed category
 	- ↗ [Cartesian Closed Category (CCC)](../../🩻%20Category%20Theory%20%28范畴论%29/Cartesian%20Closed%20Category%20%28CCC%29.md)
 #### Algebra & Arithmetic Systems
@@ -676,7 +676,7 @@ Non-Classical Logics
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../Mechanized%20%28Formal%29%20Reasoning%20&%20Automated%20Reasoning%20%28Inference%29.md)
 
 ↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md) ⭐
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md) ⭐
 
 ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md) ⭐
 - ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
@@ -695,7 +695,7 @@ Non-Classical Logics
 
 ## Formal Syntax: Grammatical Category & Logic Formula
 ↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculi/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
 
 ↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29/Formal%20Syntax%20&%20Metasyntax%20%28and%20Metalanguage%29.md) ⭐
@@ -784,7 +784,7 @@ $$\sigma(x) = a, \text{ 其中 } x \in V, a \in \mathbb{M} \text{}$$
 #### Models & Semantics ⭐
 > [!lnks]
 > ↗ [Model Theory (模型论)](../Model%20Theory%20%28模型论%29/Model%20Theory%20%28模型论%29.md)
-> ↗ [Henkin Model & Henkin Semantics](🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Henkin%20Model%20&%20Henkin%20Semantics.md)
+> ↗ [Henkin Model & Henkin Semantics](🪸%20Type%20Theory%20%28类型论%29/Lambda%20Calculus%20%28λ-Calculus%29/Henkin%20Model%20&%20Henkin%20Semantics.md)
 > ↗ [Cartesian Closed Category (CCC)](../../🩻%20Category%20Theory%20%28范畴论%29/Cartesian%20Closed%20Category%20%28CCC%29.md)
 > ↗ [Models of Computation & Abstract Machines](../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
@@ -966,7 +966,7 @@ In the study of Computer Science, we learn both those mathematical logics and co
 Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
 Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
 
-Essentially all the systems have a syntax, a semantics in the styles of Tarski or Kripke, and a Hilbert-style proof procedure (↗ [Hilbert-Style Deduction Systems](../Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)). The expressiveness of the different systems are tightly connected. **The progression from propositional logic (Boolean algebra) to first-order logic (predicate calculus), second-order logic (Natural numbers) and ultimately higher-order logic (Type theory) is a well-studied area, albeit one with many intricacies.** 
+Essentially all the systems have a syntax, a semantics in the styles of Tarski or Kripke, and a Hilbert-style proof procedure (↗ [Hilbert-Style Deduction Systems](../Proof%20Theory/Proof%20Calculi/Hilbert-Style%20Deduction%20Systems.md)). The expressiveness of the different systems are tightly connected. **The progression from propositional logic (Boolean algebra) to first-order logic (predicate calculus), second-order logic (Natural numbers) and ultimately higher-order logic (Type theory) is a well-studied area, albeit one with many intricacies.** 
 
 ==We care primarily about three properties: soundness, completeness, and decidability. ==
 - Soundness relates to whether a statement shown to be true by the proof procedure via a syntactic proof is indeed true in the semantics of the logic.

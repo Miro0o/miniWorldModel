@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Lambda Calculus (λ-Calculus)](../🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+↗ [Lambda Calculus (λ-Calculus)](Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 ↗ [Model Theory (模型论)](../../Model%20Theory%20%28模型论%29/Model%20Theory%20%28模型论%29.md)
 
 ↗ [PL Static Syntactic Analysis & Type System](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
@@ -14,7 +14,7 @@
 
 ↗ [Category Theory (范畴论)](../../../🩻%20Category%20Theory%20%28范畴论%29/Category%20Theory%20%28范畴论%29.md)
 ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
-↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
 
 
 ### Other Resources
@@ -159,8 +159,16 @@ A type theory is a [mathematical logic](https://en.wikipedia.org/wiki/Mathemati
 #### Rules of Inference
 
 
+### Type Constructions
+Function /Product /Sum Types
+Polymorphism /System F
+Dependent Types
+Identity Types /Inductive Types
+Universes
+
+
 ### Type Systems for Lambda Calculus
-↗ [Lambda Calculus (λ-Calculus)](../🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+↗ [Lambda Calculus (λ-Calculus)](Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 
 
 

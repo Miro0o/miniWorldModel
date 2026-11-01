@@ -6,13 +6,13 @@
 
 ## Res
 ### Related Topics
-↗ [Computer (Host) System](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
-↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
-↗ [Computer Architecture](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
-- ↗ [Microprocessor & Microprocessors Unit (MPU)](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
-↗ [Microchips, Chips, Computer Chips & IC (in General)](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20(in%20General).md)
+↗ [Computer (Host) System](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20%28Host%29%20System.md)
+↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
+↗ [Computer Architecture](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Architecture.md)
+- ↗ [Microprocessor & Microprocessors Unit (MPU)](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29.md)
+↗ [Microchips, Chips, Computer Chips & IC (in General)](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20%28in%20General%29.md)
 
-↗ [Computer Taxonomy & Computer (Hardware) Components](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
+↗ [Computer Taxonomy & Computer (Hardware) Components](../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Taxonomy%20&%20Computer%20%28Hardware%29%20Components.md)
 
 ↗ [Embedded Computer Systems](../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
 - ↗ [Embedded Hardwares & Chips](../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
@@ -22,8 +22,8 @@
 ↗ [Electronics & Information Technologies Business Fields Research](../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 ↗ [Semiconductor Industry & Companies](../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/🏖️%20Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
-↗ [HDL (Hardware Definition Languages)](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
-↗ [Verilog](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/Verilog/Verilog.md)
+↗ [HDL (Hardware Description & Definition Languages)](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20%28Hardware%20Description%20&%20Definition%20Languages%29/HDL%20%28Hardware%20Description%20&%20Definition%20Languages%29.md)
+↗ [Verilog](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20%28Hardware%20Description%20&%20Definition%20Languages%29/Verilog/Verilog.md)
 
 
 ### Learning Resources

@@ -6,27 +6,27 @@
 
 ## Res
 ### Related Topics
-↗ [Theory of Computation](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-- ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+↗ [Theory of Computation](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+- ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 ↗ [EE Related Theories & Hardware Implementation](../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/EE%20Related%20Theories%20&%20Hardware%20Implementation.md)
 - ↗ [Classical Electromagnetism](../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Classical%20Electromagnetism.md)
-- ↗ [Digital (Logic) Electronics Foundations](../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+- ↗ [Digital (Logic) Electronics Foundations](../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20%28Logic%29%20Electronics%20Foundations/Digital%20%28Logic%29%20Electronics%20Foundations.md)
 - ↗ [Computer Implementations, Teardown & Repairs](../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
-	- ↗ [Computer Processors & Logic Chips (Implementation Part)](../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part).md)
+	- ↗ [Computer Processors & Logic Chips (Implementation Part)](../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29/Computer%20Processors%20&%20Logic%20Chips%20%28Implementation%20Part%29.md)
 - ↗ [Auxiliary Hardware & Peripherals Implementations](../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Auxiliary%20Hardware%20&%20Peripherals%20Implementations.md)
 
-↗ [HDL (Hardware Definition Languages)](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
+↗ [HDL (Hardware Description & Definition Languages)](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20%28Hardware%20Description%20&%20Definition%20Languages%29/HDL%20%28Hardware%20Description%20&%20Definition%20Languages%29.md)
 
-↗ [Computer Processors & Logic Chips (Theory Part)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part).md)
-- ↗ [CPU (Central Processing Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+↗ [Computer Processors & Logic Chips (Theory Part)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29.md)
+- ↗ [CPU (Central Processing Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/CPU%20%28Central%20Processing%20Unit%29.md)
 ↗ [Embedded Hardwares & Chips](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
 
 ↗ [Motherboard & Mainboard](Motherboard%20&%20Mainboard.md)
 
-↗ [Firmware and Computer (OS) Booting](../../Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
-↗ [Computer Bootstrapping (Booting)](../../Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrapping%20(Booting)/Computer%20Bootstrapping%20(Booting).md)
+↗ [Firmware and Computer (OS) Booting](../../Firmware%20and%20Computer%20%28OS%29%20Booting/Firmware%20and%20Computer%20%28OS%29%20Booting.md)
+↗ [Computer Bootstrapping (Booting)](../../Firmware%20and%20Computer%20%28OS%29%20Booting/🌽%20Computer%20Bootstrapping%20%28Booting%29/Computer%20Bootstrapping%20%28Booting%29.md)
 
 
 ### Other Resources
@@ -59,7 +59,7 @@ Modern CPUs are very complex beasts and there are so much information about them
 
 > 🔗 https://en.wikipedia.org/wiki/Microarchitecture
 
-In computer engineering, ==**microarchitecture**, also called **computer organization**== and sometimes abbreviated as **µarch** or **uarch**, ==is the way a given ↗ [Instruction Set Architecture (ISA)](../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md) is implemented in a particular processor==. A given ISA may be implemented with different microarchitectures; implementations may vary due to different goals of a given design or due to shifts in technology.
+In computer engineering, ==**microarchitecture**, also called **computer organization**== and sometimes abbreviated as **µarch** or **uarch**, ==is the way a given ↗ [Instruction Set Architecture (ISA)](../Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20%28ISA%29%20&%20Processor%20Architecture.md) is implemented in a particular processor==. A given ISA may be implemented with different microarchitectures; implementations may vary due to different goals of a given design or due to shifts in technology.
 
 [Computer architecture](https://en.wikipedia.org/wiki/Computer_architecture "Computer architecture") is the combination of microarchitecture and instruction set architecture.
 
@@ -90,22 +90,22 @@ Just so many mixed usages of different terms!
 
 ### CPU Core Organization
 > [!links]
-> ↗ [Microprocessor & Microprocessors Unit (MPU)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
-> - ↗ [CPU (Central Processing Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
-> - ↗ [GPU (Graphics Processing Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
-> - ↗ [DPU (Data Processing Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Accelerators%20(Coprocessors)/DPU%20(Data%20Processing%20Unit)/DPU%20(Data%20Processing%20Unit).md)
+> ↗ [Microprocessor & Microprocessors Unit (MPU)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29.md)
+> - ↗ [CPU (Central Processing Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/CPU%20%28Central%20Processing%20Unit%29.md)
+> - ↗ [GPU (Graphics Processing Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Accelerators%20%28Coprocessors%29/GPU%20%28Graphics%20Processing%20Unit%29/GPU%20%28Graphics%20Processing%20Unit%29.md)
+> - ↗ [DPU (Data Processing Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Accelerators%20%28Coprocessors%29/DPU%20%28Data%20Processing%20Unit%29/DPU%20%28Data%20Processing%20Unit%29.md)
 >
->↗ [Multicore Processor and Multiprocessors](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multicore%20Processor%20and%20Multiprocessors.md) 
->- ↗ [Multicore Processor Units](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multicore%20Processor%20Units/Multicore%20Processor%20Units.md)
->- ↗ [Multiprocessor Architectures & Parallel Computing](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
+>↗ [Multicore Processor and Multiprocessors](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multicore%20Processor%20and%20Multiprocessors.md) 
+>- ↗ [Multicore Processor Units](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multicore%20Processor%20Units/Multicore%20Processor%20Units.md)
+>- ↗ [Multiprocessor Architectures & Parallel Computing](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
 >
 >↗ [Embedded Hardwares & Chips](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md) 
->↗ [ASIC (Application-Specific Integrated Circuit)](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
->- ↗ [Google TPU (Tensor Processing Unit)](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Full-Customized%20ASIC/Google%20TPU%20(Tensor%20Processing%20Unit)/Google%20TPU%20(Tensor%20Processing%20Unit).md)
+>↗ [ASIC (Application-Specific Integrated Circuit)](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/ASIC%20%28Application-Specific%20Integrated%20Circuit%29.md)
+>- ↗ [Google TPU (Tensor Processing Unit)](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20%28Application-Specific%20Integrated%20Circuit%29/Full-Customized%20ASIC/Google%20TPU%20%28Tensor%20Processing%20Unit%29/Google%20TPU%20%28Tensor%20Processing%20Unit%29.md)
 #### 🎯 Von Neumann Based Models (Stored-Program Computer)
 > [!links]
-> ↗ [Computer Processors & Logic Chips (Theory Part)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part).md)
-> ↗ [Microprocessor & Microprocessors Unit (MPU)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
+> ↗ [Computer Processors & Logic Chips (Theory Part)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29.md)
+> ↗ [Microprocessor & Microprocessors Unit (MPU)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29.md)
 
 **冯·诺依曼架构（Von Neumann Architecture）** 是冯诺依曼参与第一台电子计算机ENIAC的设计并与团队讨论下一代计算机EDVAC的结构时总结而成的，因此冯诺依曼结构严格来说并不是由冯诺依曼独自完成的，而是他首先发表（因为这事，冯诺依曼与EDVAC团队决裂，当然，这是后话了）。 
 
@@ -164,14 +164,14 @@ The design of a von Neumann architecture machine is simpler than in a [Harvard 
 ![](../../../../../Assets/Pics/Pasted%20image%2020260115201409.png)
 <small>Intel 80286 microarchitecture <br> <a>https://en.wikipedia.org/wiki/Intel_80286</a></small>
 
-↗ [Microprocessor & Microprocessors Unit (MPU)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
-↗ [CPU (Central Processing Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
-- ↗ [ALU (Arithmetic Logic Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/ALU%20(Arithmetic%20Logic%20Unit).md)
-- ↗ [Control Unit](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/Control%20Unit.md)
+↗ [Microprocessor & Microprocessors Unit (MPU)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29.md)
+↗ [CPU (Central Processing Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/CPU%20%28Central%20Processing%20Unit%29.md)
+- ↗ [ALU (Arithmetic Logic Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/📌%20Inside%20CPU%20Core%20%28Core%20Microarchitecture%29/ALU%20%28Arithmetic%20Logic%20Unit%29.md)
+- ↗ [Control Unit](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/📌%20Inside%20CPU%20Core%20%28Core%20Microarchitecture%29/Control%20Unit.md)
 - Memory Unit
-	- ↗ [MMU (Memory Management Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/MMU%20(Memory%20Management%20Unit).md)
+	- ↗ [MMU (Memory Management Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/📌%20Inside%20CPU%20Core%20%28Core%20Microarchitecture%29/MMU%20%28Memory%20Management%20Unit%29.md)
 - Input /Output Unit
-	- ↗ [MCU (Memory Controller Unit) & IMC (Integrated Memory Controller)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/Outside%20CPU%20Core%20(Interconnect%20Topology)/MCU%20(Memory%20Controller%20Unit)%20&%20IMC%20(Integrated%20Memory%20Controller).md)
+	- ↗ [MCU (Memory Controller Unit) & IMC (Integrated Memory Controller)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/Outside%20CPU%20Core%20%28Interconnect%20Topology%29/MCU%20%28Memory%20Controller%20Unit%29%20&%20IMC%20%28Integrated%20Memory%20Controller%29.md)
 #### 🎯 Non-Von Neumann Models
 > [!links]
 > ↗ [Non-von Neumann Based Microarchitectures](🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md).

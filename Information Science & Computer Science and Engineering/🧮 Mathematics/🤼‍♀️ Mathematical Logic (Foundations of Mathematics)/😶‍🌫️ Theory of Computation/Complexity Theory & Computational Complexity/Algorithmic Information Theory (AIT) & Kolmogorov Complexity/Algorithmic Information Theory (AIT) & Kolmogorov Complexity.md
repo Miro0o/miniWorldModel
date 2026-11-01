@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
-↗ [Chaos Theory](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Dynamical%20Systems%20Theory/🇺🇳%20Chaos%20Theory/Chaos%20Theory.md)
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../../Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
+↗ [Chaos Theory](../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Dynamical%20Systems%20Theory/🇺🇳%20Chaos%20Theory/Chaos%20Theory.md)
 
 
 ### Other Resources

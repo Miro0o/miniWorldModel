@@ -26,7 +26,7 @@ MIRAGE: The Illusion of Visual Understanding
 
 
 ### Other Resources
-#### Anthropic’sInterpretability Research
+#### Anthropic’s Interpretability Research
 👍 https://transformer-circuits.pub/
 Anthropic’s Interpretability Research
 A surprising fact about modern large language models is that nobody really knows how they work internally. The Interpretability team strives to change that — to understand these models to better plan for a future of safe AI.

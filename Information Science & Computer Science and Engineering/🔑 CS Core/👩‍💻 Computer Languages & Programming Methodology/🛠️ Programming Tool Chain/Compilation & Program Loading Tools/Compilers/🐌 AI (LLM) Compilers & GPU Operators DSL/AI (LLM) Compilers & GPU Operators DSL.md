@@ -16,7 +16,7 @@
 ↗ [Program Synthesis & Code Generation](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
 ↗ [Code (Program) Analysis & Optimization](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20%28Program%29%20Analysis%20&%20Optimization/Code%20%28Program%29%20Analysis%20&%20Optimization.md)
 
-↗ [Machine Learning Compilation & Kernel Dev](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20&%20Kernel%20Dev.md)
+↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20%28MLC%29%20&%20Operator%20Dev.md)
 
 ↗ [LLVM](../../🦅%20LLVM/LLVM.md)
 ↗ [MLIR (Multi-Level Intermediate Representation)](../../🦅%20LLVM/MLIR%20%28Multi-Level%20Intermediate%20Representation%29/MLIR%20%28Multi-Level%20Intermediate%20Representation%29.md)

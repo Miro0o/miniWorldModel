@@ -6,14 +6,21 @@
 
 ## Res
 ### Related Topics
-↗ [High Performance Computer (HPC)](High%20Performance%20Computer%20(HPC).md)
-↗ [IDC & Data Center Networking](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
+↗ [High Performance Computer (HPC)](High%20Performance%20Computer%20%28HPC%29.md)
+↗ [IDC & Data Center Networking](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20%28HPN%29%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
 
-↗ [Concurrency Control](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/Concurrency%20Control.md)
-↗ [Multiprocessor & Multicore Scheduling](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Scheduling%20&%20Resource%20Management/Computer%20Resource%20(CPU%20+%20Memory)%20Scheduling/Process%20Scheduling/Multiprocessor%20&%20Multicore%20Scheduling/Multiprocessor%20&%20Multicore%20Scheduling.md)
-↗ [Multicore Processor and Multiprocessors](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multicore%20Processor%20and%20Multiprocessors.md)
+↗ [Concurrency Control](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/Concurrency%20Control/Concurrency%20Control.md)
+↗ [Multiprocessor & Multicore Scheduling](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Scheduling%20&%20Resource%20Management/Computer%20Resource%20%28CPU%20+%20Memory%29%20Scheduling/Process%20Scheduling/Multiprocessor%20&%20Multicore%20Scheduling/Multiprocessor%20&%20Multicore%20Scheduling.md)
+↗ [Multicore Processor and Multiprocessors](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multicore%20Processor%20and%20Multiprocessors.md)
 
 ↗ [Distributed Computing & Systems](../Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
+
+↗ [AI (Data) Infrastructure & Machine Learning Systems](../👽%20Artificial%20Intelligence/🏗️%20AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems/AI%20%28Data%29%20Infrastructure%20&%20Machine%20Learning%20Systems.md)
+↗ [LLM Infrastructure (Deployment & Inference)](../👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
+↗ [Machine Learning Compilation (MLC) & Operator Dev](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Machine%20Learning%20Compilation%20%28MLC%29%20&%20Operator%20Dev.md)
+
+
+### Learning Resources
 
 
 ### Other Resources

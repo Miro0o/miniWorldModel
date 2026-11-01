@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Proof Theory](../../Proof%20Theory/Proof%20Theory.md)
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](../../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](../../Proof%20Theory/Proof%20Calculi/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
 ↗ [Classical Logic (Standard Formal Logic)](../Classical%20Logic%20%28Standard%20Formal%20Logic%29/Classical%20Logic%20%28Standard%20Formal%20Logic%29.md)
 ↗ [Computer Languages & Programming Methodology](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 - ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20%28General%20Purpose%20Languages%29/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
@@ -21,7 +21,7 @@
 ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
 ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
-↗ [Lambda Calculus (λ-Calculus)](../🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+↗ [Lambda Calculus (λ-Calculus)](../🪸%20Type%20Theory%20%28类型论%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 
 ↗ [Programming Language Processing & Program Execution](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics.md)
@@ -86,7 +86,7 @@ There are several entities commonly expressed in a metalanguage. In logic usuall
 #### Deductive Systems
 > 🔗 [Deductive system](https://en.wikipedia.org/wiki/Deductive_system "Deductive system")
 > ↗ [Proof Theory](../../Proof%20Theory/Proof%20Theory.md)
-> - ↗ [Gentzen-Style Proofs (Natural Deduction)](../../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
+> - ↗ [Gentzen-Style Proofs (Natural Deduction)](../../Proof%20Theory/Proof%20Calculi/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
 
 A _deductive system_ (or, _deductive apparatus_ of a [formal system](https://en.wikipedia.org/wiki/Formal_system "Formal system")) consists of the [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom") (or [axiom schemata](https://en.wikipedia.org/wiki/Axiom_schema "Axiom schema")) and [rules of inference](https://en.wikipedia.org/wiki/Rules_of_inference "Rules of inference") that can be used to [derive](https://en.wikipedia.org/wiki/Formal_proof "Formal proof") the [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem") of the system.
 #### Metavariables
@@ -327,6 +327,9 @@ A **normal form** in logic is ==a standardized, restricted way of writing a logi
 
 
 ### Sequent (序贯): Antecedent + Succedent
+> [!Links]
+> ↗ [Sequent Calculus](../../Proof%20Theory/Proof%20Calculi/Sequent%20Calculus.md)
+
 > 🔗 https://thzt.github.io/2018/01/30/semantics-4/
 
 我们知道，在公理系统中，序贯可以用来表示前提和结论之间的符号联系。

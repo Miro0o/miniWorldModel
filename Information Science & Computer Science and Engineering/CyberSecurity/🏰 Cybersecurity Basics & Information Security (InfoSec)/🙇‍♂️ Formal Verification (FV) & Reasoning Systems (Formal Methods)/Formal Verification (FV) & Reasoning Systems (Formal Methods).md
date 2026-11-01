@@ -18,8 +18,9 @@
 	- ↗ [Complexity Theory & Computational Complexity](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 	- ↗ [Type Theory (类型论)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20%28类型论%29/Type%20Theory%20%28类型论%29.md)
 	- ↗ [Models of Computation & Abstract Machines](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) ⭐
-		- ↗ [Lambda Calculus (λ-Calculus)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🎩%20Higher-Order%20Languages%20&%20Logics%20%28HOL%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
+		- ↗ [Lambda Calculus (λ-Calculus)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20%28类型论%29/Lambda%20Calculus%20%28λ-Calculus%29/Lambda%20Calculus%20%28λ-Calculus%29.md)
 - ↗ [Proof Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Theory.md)
+	- ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
 
 ↗ [Problem Solving & Search-Based Methods](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
 - ↗ [Systematic & Combinatorial Search (Classical Search)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29.md)
@@ -94,6 +95,18 @@ Aaron R. Bradley · Zohar Manna
 https://link.springer.com/book/10.1007/978-3-030-05156-3
 [Flemming Nielson](https://link.springer.com/book/10.1007/978-3-030-05156-3#author-0-0) , [Hanne Riis Nielson](https://link.springer.com/book/10.1007/978-3-030-05156-3#author-0-1)
 Formal Methods: An Appetizer, 2019
+
+https://softwarefoundations.cis.upenn.edu/
+**The Software Foundations series is a broad introduction to the mathematical underpinnings of reliable software.**
+The principal novelty of the series is that every detail is one hundred percent formalized and machine-checked: the entire text of each volume, including the exercises, is literally a "proof script" for the Rocq proof assistant.
+The exposition is intended for a broad range of readers, from advanced undergraduates to PhD students and researchers. No specific background in logic or programming languages is assumed, though a degree of mathematical maturity is helpful. A one-semester course can expect to cover _Logical Foundations_ plus most of _Programming Language Foundations_ or _Verified Functional Algorithms_ or _Security Foundations, or selections from them._
+- _Logical Foundations_ is the entry-point to the series. It covers functional programming, basic concepts of logic, computer-assisted theorem proving, and Rocq.
+- _Programming Language Foundations_ surveys the theory of programming languages, including operational semantics, Hoare logic, and static type systems.
+- _Verified Functional Algorithms_ shows how a variety of fundamental data structures can be specified and mechanically verified.
+- _QuickChick: Property-Based Testing in Rocq_ introduces tools for combining randomized property-based testing with formal specification and proof in the Rocq ecosystem.
+- _Verifiable C_ is an extended hands-on tutorial on specifying and verifying real-world C programs using the Princeton Verified Software Toolchain.
+- _Separation Logic Foundations_ is an in-depth introduction to separation logic—a practical approach to modular verification of imperative programs—and how to build program verification tools on top of it.
+- _Security Foundations_ studies the security of programs by setting clear and rigorous security goals and developing provable enforcement mechanisms.
 
 
 ### Other Resources

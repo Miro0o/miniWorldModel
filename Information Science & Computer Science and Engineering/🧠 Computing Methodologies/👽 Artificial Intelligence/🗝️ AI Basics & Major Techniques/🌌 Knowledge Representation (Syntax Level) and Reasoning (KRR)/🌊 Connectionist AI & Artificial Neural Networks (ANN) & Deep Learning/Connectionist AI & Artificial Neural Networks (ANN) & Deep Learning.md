@@ -932,6 +932,9 @@ More generally, write $\theta_{t+1} = \theta_t + \eta_t d_t$, where $d_t$ is the
 3️⃣ These are <a>optimization problems</a> (↗ [Optimizers & Model Optimization](3️⃣%20Model%20Training%20%28Classical%20ML%20&%20NN%29/Model%20Tuning%20&%20Hyperparameter%20Optimization%20%28HPO%29/Optimizers%20&%20Model%20Optimization/Optimizers%20&%20Model%20Optimization.md)).
 
 #### Normalization, Scaling, & Standardization
+> [!links]
+> ↗ [Normalization](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Metatheory/Normalization.md)
+
 > 🤖 GPT 6.0
 
 Normalization changes the **scale /distribution of values** so that the training becomes more stable and faster to converge. 
@@ -1044,7 +1047,7 @@ Regularization tries to stop a model from fitting the training data **too closel
 >
 
 ↗ [Dataset Preparation](1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
-↗ [LLM Training Datasets](../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/LLM%20Training%20Datasets/LLM%20Training%20Datasets.md)
+↗ [LLM Training Datasets](../../../Natural%20Language%20Processing%20%28NLP%29%20&%20Computational%20Linguistics/🦑%20LLM%20%28Large%20Language%20Model%29/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/LLM%20Training%20Datasets.md)
 
 ↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 - ↗ [CNN (Convolutional Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20%28Convolutional%20Neural%20Network%29/CNN%20%28Convolutional%20Neural%20Network%29.md)
@@ -1095,3 +1098,7 @@ Components in artificial neural networks:
 [AAAI2024 | 分享10篇优秀论文，涉及图神经网络、大模型优化、表格分析等热门话题]: https://mp.weixin.qq.com/s/F7X8N_wUyZQNhDtIfHm17Q
 
 [🎬 学了10年神经网络才敢说，入门第1周看这个]: http://xhslink.com/o/8OaGmWGk5Wz 
+
+[91 【大模型凭什么能叠上百层？ - 阿栗学长 | 小红书 - 你的生活兴趣社区】 😆 JNlas5d4sBlegU9 😆]: https://www.xiaohongshu.com/discovery/item/6ae52fd3000000001202f2a0?source=webshare&xhsshare=pc_web&xsec_token=ABJS52We8RrksL_J9lF4fdAUNgH8PEKZwyrrPeLHeCMYw=&xsec_source=pc_share
+- residual connection
+- layernorm & rmsnorm

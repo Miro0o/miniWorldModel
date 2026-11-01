@@ -1,10 +1,11 @@
-# DeepSeek Reasonix
+# Reasonix
 
 [TOC]
 
 
 
 ## Res
+🏠 https://reasonix.io/
 🚧 https://github.com/esengine/deepseek-reasonix
 
 

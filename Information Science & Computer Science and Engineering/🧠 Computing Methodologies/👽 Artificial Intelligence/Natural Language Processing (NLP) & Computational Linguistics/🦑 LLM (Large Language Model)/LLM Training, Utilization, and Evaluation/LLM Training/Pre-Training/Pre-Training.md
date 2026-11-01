@@ -32,4 +32,86 @@ CS324 - Large Language Model | Stanford
 
 
 
+## Tokenization & Embedding
+> 🤖 GPT-6.0 Astra
+> https://chatgpt.com/share/6ac25d50-45b4-83ec-be26-e304272419c1
+
+```
+原始文本
+"ChatGPT is great!"
+        │
+        ▼
+┌─────────────────┐
+│  Tokenization   │
+│ 文本 → token    │
+└─────────────────┘
+        │
+        ▼
+ [1234, 567, 890]
+   token IDs
+        │
+        ▼
+┌─────────────────┐
+│    Embedding    │
+│ ID → 向量       │
+└─────────────────┘
+        │
+        ▼
+ [0.21, -0.8, ...]
+ [-0.37, 0.12, ...]
+ [0.61,  0.4, ...]
+        │
+        ▼
+ Transformer
+        │
+        ▼
+ Attention / MLP / ...
+```
+
+---
+**Tokenization**
+from words to tokens 
+- token IDs & vocabulary size
+- special tokens
+
+determine LLM workload
+- prefill
+- kv cache
+- attention
+
+---
+**Embedding**
+from tokens to vectors
+(from one-hot encoding to embedding)
+
+static embedding:
+- the initial embedding vectors /matrices
+- fixed; same token same static embedding
+contextual embedding:
+- the embedding vector /matrices of the token changes as attention computation
+- dynamic, more and more contextual information
+
+positional embedding 
+- to mark the sequence number of the token to its embedding matrix
+sinusoidal positional encoding
+RoPE (rotary position embedding)
+- to encode the positional information in QKV, not adding additional vector
+
+one-hot & embedding look up
+
+Un-Embedding
+
+
+### Positional Embedding
+#### Sinusoidal Positional Encoding
+
+#### RoPE
+
+
+
+## Distributed Training
+↗ [LLM Infrastructure (Deployment & Inference)](../../../LLM%20Infrastructure%20%28Deployment%20&%20Inference%29/LLM%20Infrastructure%20%28Deployment%20&%20Inference%29.md)
+
+
+
 ## Ref
