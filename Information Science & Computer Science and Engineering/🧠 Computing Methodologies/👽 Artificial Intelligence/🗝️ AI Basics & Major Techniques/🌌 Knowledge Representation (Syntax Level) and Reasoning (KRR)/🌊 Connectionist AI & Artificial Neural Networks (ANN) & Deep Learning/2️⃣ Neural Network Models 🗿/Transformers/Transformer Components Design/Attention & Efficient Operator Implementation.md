@@ -14,7 +14,7 @@
 ↗ [StepFun](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Other%20Models/StepFun.md)
 
 ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
-↗ [Machine Learning Compilation (MLC) & Kernel Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20(MLC)%20&%20Kernel%20Dev.md)
+↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20(MLC)%20&%20Operator%20Dev.md)
 
 
 ### Learning Resources
@@ -105,7 +105,7 @@ Beyond Residual Connection:
 ## Intro
 > [!links]
 > ↗ [LLM Infrastructure (Deployment & Inference)](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md) "LLM Serving"
-> ↗ [Machine Learning Compilation (MLC) & Kernel Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20(MLC)%20&%20Kernel%20Dev.md) "LLM Inference Workload"
+> ↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20(MLC)%20&%20Operator%20Dev.md) "LLM Inference Workload"
 
 > [!Abstract]
 > ![|500](../../../../../../../../../Assets/Pics/Pasted%20image%2020250920191324.png)
@@ -240,7 +240,7 @@ DeepSeek 的一套 Attention 实现可以同时具有 MLA 的 KV 压缩、DSA �
 > ↗ [vLLM](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/vLLM.md)
 > ↗ [SGLang](../../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Inference%20&%20Serving%20-%20Engines%20&%20Solutions/SGLang.md)
 > 
-> ↗ [Machine Learning Compilation (MLC) & Kernel Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20(MLC)%20&%20Kernel%20Dev.md) ⭐
+> ↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20(MLC)%20&%20Operator%20Dev.md) ⭐
 > ↗ [AI (LLM) Compilers & GPU Operators DSL](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL.md)
 > ↗ [NVIDIA TensorRT & TensorRT-LLM](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilers/🐌%20AI%20(LLM)%20Compilers%20&%20GPU%20Operators%20DSL/Tensor%20&%20Computation%20Graph/NVIDIA%20TensorRT%20&%20TensorRT-LLM/NVIDIA%20TensorRT%20&%20TensorRT-LLM.md)
 
@@ -323,9 +323,7 @@ Patterns
 - block space attention
 - random /content-dependent sparse attention
 
-
 Retained Attention Mass
-
 
 Fixed selection
 - Fixed attention
@@ -390,3 +388,7 @@ Causal Linear Attention
 
 ## Ref
 [必看！Sebastian Raschka新博客盘点了所有主要注意力机制]: https://mp.weixin.qq.com/s/xm0EXBmn8QbyzBt3X4GY7A
+
+[30 【KV cache: 使用大模型或做 agent 必须了解 - henryz | 小红书 - 你的生活兴趣社区】 😆 PJz3O7aUyw2ImIz 😆]: https://www.xiaohongshu.com/discovery/item/6ade18130000000025006227?source=webshare&xhsshare=pc_web&xsec_token=ABuQ2iHXSOiQCnRRE6FejzE_u3mqPQZ-xp2qcY3BPkaoc=&xsec_source=pc_share
+
+[73 【大模型的知识藏在 FFN 里，不是注意力 - 阿栗学长 | 小红书 - 你的生活兴趣社区】 😆 qIuXVA0U5PVCgzk 😆]: https://www.xiaohongshu.com/discovery/item/6adf45d7000000001500e1eb?source=webshare&xhsshare=pc_web&xsec_token=ABHvxD3Xo98sa8bpG_eYRgPy5xxSoFZHaT6awkF3VRSNk=&xsec_source=pc_share

@@ -17,7 +17,7 @@
 
 ↗ [AI (Data) Infrastructure & Machine Learning Systems](../👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Machine%20Learning%20Systems/AI%20(Data)%20Infrastructure%20&%20Machine%20Learning%20Systems.md)
 ↗ [LLM Infrastructure (Deployment & Inference)](../👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
-↗ [Machine Learning Compilation (MLC) & Kernel Dev](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20(MLC)%20&%20Kernel%20Dev.md)
+↗ [Machine Learning Compilation (MLC) & Operator Dev](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20(MLC)%20&%20Operator%20Dev.md)
 
 
 ### Learning Resources

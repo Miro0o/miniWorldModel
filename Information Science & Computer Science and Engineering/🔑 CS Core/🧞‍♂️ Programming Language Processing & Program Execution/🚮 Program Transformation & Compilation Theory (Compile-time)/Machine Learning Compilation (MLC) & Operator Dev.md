@@ -1,4 +1,4 @@
-# Machine Learning Compilation (MLC) & Kernel Dev
+# Machine Learning Compilation (MLC) & Operator Dev
 
 [TOC]
 
@@ -940,7 +940,7 @@ memory latency hiding
 
 
 
-## LLM & Agents For Compilation & Kernel
+## Operator Dev & LLM /Agents For Operator Dev
 > [!links]
 > ↗ [LLM (Large Language Model)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 > ↗ [Agentic LLMs & LLM Agent Harness](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
@@ -951,15 +951,79 @@ memory latency hiding
 objective: for given workload and hardware, find the optimal (?) implementation
 
 methodologies:
-- AI based
-	- kernel agent
-		- agent optimize kernel directly
-	- agentic compiler
-		- agent + compilation environment
-- No AI
+- human expert hand-written operator
+- AI-written operator
+	- agent optimize operator directly
+- compilation operator
+	- agentic compiler /neuro-symbolic
+		- llm /agent + compilation environment
+	- no AI /traditional compiler
+
+> 🤖 GPT 6.1 Sol
+> https://chatgpt.com/share/6ae597f4-2d00-83ec-8d1e-37773f5a20a6
+
+**我们究竟在优化什么？**
+把问题形式化：
+给定一个计算任务 \(F\)、目标 GPU \(H\) 和一组实际输入 \(W\)，寻找满足正确性要求、执行效率最高的实现 \(P\): $$P^*=\arg\min_{P\in\mathcal P,\;P\approx F} T(P,H,W)$$
+这里的 \(P\) 可以是单个 Kernel，也可以是多个 Kernel 构成的执行方案。
+
+固定计算任务，并不意味着只能改变代码的写法。我们仍然可以改变：
+- 算法：用另一种数学上等价的算法计算。
+- 计算图：改变算子融合、拆分与计算顺序。
+- 数据组织：改变 Layout、内存使用和数据搬运方式。
+- 并行执行：改变 Tiling、线程映射、流水线和指令。
+- 实现选择：在多个 Kernel、算法及参数配置之间选择。
+- 运行时策略：根据输入形状、数据特征选择不同实现。
 
 
-### Landscape ⭐
+**建立优化方法分类**
+我建议保留八个维度。其中前六个决定优化系统如何工作，后两个决定它如何被验证与部署。
+
+| 维度                              | 回答的问题        | 典型选项                                                                   |
+| ------------------------------- | ------------ | ---------------------------------------------------------------------- |
+| D1. 优化粒度 (Granularity)          | 优化的单位有多大？    | Instruction、Kernel、Operator、Fused Subgraph、Full Graph                  |
+| D2. 优化自由度 (Search Space)        | 允许改变哪些实现决策？  | 算法、Graph、Fusion、Schedule、Layout、Memory、Thread Mapping、Kernel Selection |
+| D3. 程序表示 (Representation)       | 用什么形式表达候选实现？ | Library、Template、Graph IR、Tensor IR、Schedule DSL、CUDA / Triton、PTX     |
+| D4. 候选生成 (Candidate Generation) | 新的实现怎样产生？    | 复用、模板实例化、Rewrite、程序合成、直接代码生成                                           |
+| D5. 搜索策略 (Search Strategy)      | 怎样探索候选空间？    | Greedy、Grid、Random、Evolution、Beam Search、MCTS、约束求解                     |
+| D6. 决策与引导 (Search Guidance)     | 什么知识指导搜索？    | 人工规则、静态分析、解析 Cost Model、Learned Cost Model、RL Policy、LLM               |
+| D7. 验证与反馈 (Evaluation)          | 如何判断正确、性能好？  | 形式化等价、数值测试、静态成本估计、GPU Benchmark、Profiling                              |
+| D8. 优化时机 (Optimization Stage)   | 何时搜索或选择实现？   | 离线优化、AOT Build、JIT、Runtime Dispatch                                    |
+
+我现在会把整个研究问题组织成下面三个层次，而不是再提出六条互相重叠的路线。
+
+|层次|内容|作用|
+|---|---|---|
+|第 1 层：Problem Definition|计算语义、输入分布、目标 GPU、数值容差、Latency / Throughput / Memory 目标|固定什么问题需要解决|
+|第 2 层：Optimization Methodology|D1–D8：优化范围、自由度、表示、候选生成、搜索、决策、验证、时机|定义如何寻找优化实现|
+|第 3 层：Evaluation Protocol|Benchmark Suite、强基线、公平优化预算、跨 Shape / Hardware 泛化、端到端性能|客观衡量方法有效性|
+
+需要强调：固定语义不一定要求浮点结果逐位相同。不同计算顺序、融合和精度策略可能改变舍入误差，因此数值容差、允许的 dtype 和精度限制必须事先明确。
+
+
+**最终判断**
+现在我们可以把相关领域的术语归到正确位置：
+Compiler Optimization 是研究程序变换和代码生成的广泛领域；Autotuning / Auto-scheduling 是自动探索实现选择的一类方法；Superoptimization 更关注在语义等价实现空间里寻找更好的程序；Program Synthesis 关注构造满足计算规范的新程序；ML / RL / LLM Agent 则可以参与候选构造、搜索决策和性能预测等多个环节。
+
+
+### Human Expert Op-Dev
+Deepseek:
+- https://github.com/deepseek-ai/FlashMLA
+	- FlashMLA: Efficient Multi-head Latent Attention Kernels
+- https://github.com/deepseek-ai/DeepGEMM
+	- DeepGEMM: clean and efficient BLAS kernel library on GPU
+- https://github.com/deepseek-ai/DeepSelect
+	- DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers
+- https://github.com/deepseek-ai/TileKernels
+	- A kernel library written in tilelang
+- https://github.com/deepseek-ai/DeepGEMM-Ascend
+	- DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs
+
+
+### LLM + Compilation
+
+
+### LLM /Agent for Op-Dev ⭐
 https://github.com/youyve/awesome-kernel-agent
 - **127 agent systems** · **176 structured claims** · **47 claims with linked artifacts** · **17 hardware targets** · **5 tooling entries** · research cutoff **2026-10-19**
 Representations and infrastructure
@@ -1008,3 +1072,6 @@ Pick by what you need to _prove_:
 
 
 ## Ref
+[98 【gpu 不是大模型唯一选择 - henryz | 小红书 - 你的生活兴趣社区】 😆 OnZ1l6ZUCCrcFIi 😆]: https://www.xiaohongshu.com/discovery/item/6ad76fda000000002601e07a?source=webshare&xhsshare=pc_web&xsec_token=ABadGIGIcWR4XxcTHmJdUa95ICoO00r0aqfL4fKHfxqzc=&xsec_source=pc_share
+
+[ForgeKernel: Self-Evolving Kernels Catching and Surpassing Experts and Agents | github]: https://github.com/OpenBMB/ForgeKernel

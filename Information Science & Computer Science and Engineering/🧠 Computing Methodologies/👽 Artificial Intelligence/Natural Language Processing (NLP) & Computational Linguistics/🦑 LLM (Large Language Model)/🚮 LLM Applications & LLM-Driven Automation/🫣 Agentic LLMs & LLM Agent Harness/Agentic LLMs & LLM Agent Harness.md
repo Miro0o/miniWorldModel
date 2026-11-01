@@ -489,7 +489,7 @@ site:github.com "Codex" "Claude Code" "Cursor" "SKILL.md"
 > ↗ [Claude Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Claude%20Code.md)
 > ↗ [OpenAI Codex](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenAI%20Codex.md)
 > ↗ [Kimi Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Kimi%20Code.md)
-> ↗ [DeepSeek Reasonix](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/DeepSeek%20Reasonix.md)
+> ↗ [Reasonix](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Reasonix.md)
 
 
 ### Long-Horizon Agentic Ability & LLM Post-Training
@@ -516,6 +516,7 @@ site:github.com "Codex" "Claude Code" "Cursor" "SKILL.md"
 > ↗ [Pi](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Pi.md)
 > ↗ [OpenCode](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenCode.md)
 > ↗ [Kimi Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Kimi%20Code.md)
+> ↗ [DeepSeek Harness (dsh) & Superagent](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/DeepSeek%20Harness%20(dsh)%20&%20Superagent.md)
 > 
 > ↗ [openclaw](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/openclaw.md)
 > ↗ [Hermes Agent](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/Hermes%20Agent.md)

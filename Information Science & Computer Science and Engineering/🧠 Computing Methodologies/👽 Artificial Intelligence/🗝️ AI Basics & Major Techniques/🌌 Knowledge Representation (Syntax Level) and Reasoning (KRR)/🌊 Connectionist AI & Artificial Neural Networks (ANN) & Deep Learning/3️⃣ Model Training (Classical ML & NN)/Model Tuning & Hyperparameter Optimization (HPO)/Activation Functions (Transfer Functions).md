@@ -146,6 +146,6 @@ Notation: $x$ denotes a scalar preactivation, $\sigma(x)=(1+e^{-x})^{-1}$, $\Phi
 [Ramachandran et al. (2017), *Searching for Activation Functions*]: https://arxiv.org/abs/1710.05941
 [Shazeer (2020), *GLU Variants Improve Transformer*]: https://arxiv.org/abs/2002.05202
 
-
-
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-05-14%20at%205.13.34%20PM.png)
+
+[64 【建议收藏｜SwiGLU 和激活函数进化史 - 阿栗学长 | 小红书 - 你的生活兴趣社区】 😆 yG1D1rBcGtVwIXv 😆]: https://www.xiaohongshu.com/discovery/item/6ac026ae000000000200d8ab?source=webshare&xhsshare=pc_web&xsec_token=ABXmHC7Wzf3zjikVXOsh2R9IonVSeSf2YrREL7-Aqiqmk=&xsec_source=pc_share

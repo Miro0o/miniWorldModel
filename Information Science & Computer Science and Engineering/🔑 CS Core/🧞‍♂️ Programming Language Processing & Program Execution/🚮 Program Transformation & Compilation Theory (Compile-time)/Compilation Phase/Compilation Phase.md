@@ -21,7 +21,7 @@
 ## Intro
 ### Compilation Phases
 > [!links]
-> ↗ [Machine Learning Compilation (MLC) & Kernel Dev](../Machine%20Learning%20Compilation%20(MLC)%20&%20Kernel%20Dev.md)
+> ↗ [Machine Learning Compilation (MLC) & Operator Dev](../Machine%20Learning%20Compilation%20(MLC)%20&%20Operator%20Dev.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-22%20at%2020.18.53.png)
 <small>Compilers Principles Techniques and Tools 2nd Edition</small>

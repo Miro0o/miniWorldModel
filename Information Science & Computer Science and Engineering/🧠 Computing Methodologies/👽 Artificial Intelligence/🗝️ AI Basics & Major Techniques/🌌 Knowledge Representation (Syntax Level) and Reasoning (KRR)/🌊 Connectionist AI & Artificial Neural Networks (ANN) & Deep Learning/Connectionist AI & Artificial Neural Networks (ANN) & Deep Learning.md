@@ -1047,7 +1047,7 @@ Regularization tries to stop a model from fitting the training data **too closel
 >
 
 ↗ [Dataset Preparation](1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
-↗ [LLM Training Datasets](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/LLM%20Training%20Datasets/LLM%20Training%20Datasets.md)
+↗ [LLM Training Datasets](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/LLM%20Training%20Datasets.md)
 
 ↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 - ↗ [CNN (Convolutional Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
@@ -1098,3 +1098,7 @@ Components in artificial neural networks:
 [AAAI2024 | 分享10篇优秀论文，涉及图神经网络、大模型优化、表格分析等热门话题]: https://mp.weixin.qq.com/s/F7X8N_wUyZQNhDtIfHm17Q
 
 [🎬 学了10年神经网络才敢说，入门第1周看这个]: http://xhslink.com/o/8OaGmWGk5Wz 
+
+[91 【大模型凭什么能叠上百层？ - 阿栗学长 | 小红书 - 你的生活兴趣社区】 😆 JNlas5d4sBlegU9 😆]: https://www.xiaohongshu.com/discovery/item/6ae52fd3000000001202f2a0?source=webshare&xhsshare=pc_web&xsec_token=ABJS52We8RrksL_J9lF4fdAUNgH8PEKZwyrrPeLHeCMYw=&xsec_source=pc_share
+- residual connection
+- layernorm & rmsnorm

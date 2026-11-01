@@ -44,39 +44,6 @@ CS324 - Large Language Model | Stanford
 
 
 ### Other Resources
-https://faichou.com/posts/a-transformer-walkthrough/
-🤔 From Embedding to Attention: A Transformer Walkthrough
-February 11, 2026 / 28 min read
-```md
-"请将你好翻译成英文"
-  ↓ Tokenizer (BPE)
-[token1, token2, ..., token9]
-  ↓ Embedding Matrix lookup
-[X1, X2, ..., X9]          shape: (9, 4096)
-  ↓ Transformer Layer 1~32（Prefill，全量计算）
-每层：LayerNorm → Attention(+残差) → LayerNorm → FFN(+残差)
-  ↓ 最后一层输出 Z9
-  ↓ LM Head (= Embedding Matrix^T)
-logits: (128000,)
-  ↓ softmax → 概率采样
-"Hello"
-  ↓ Decode 阶段，逐 token 生成，利用 KV Cache
-...
-```
-
-
-https://www.aleksagordic.com/blog (Aleksa Gordić blog)
-https://www.aleksagordic.com/blog/transformer
-Inside the Transformer: The Life of a Token (May 26, 2026)
-- A deep dive into a modern dense transformer: YaRN, hybrid attention, soft capping, QK normalization, FLOPs/token, cluster sizing, and more
-- This post is structured into seven parts:
-	1. [Transformer forward pass](https://www.aleksagordic.com/blog/transformer#cpt1): high-level flow of a token
-	2. [RMSNorm](https://www.aleksagordic.com/blog/transformer#cpt2): the normalization layer
-	3. [GeGLU MLP](https://www.aleksagordic.com/blog/transformer#cpt3): GELU-gated feedforward block
-	4. [MHA](https://www.aleksagordic.com/blog/transformer#cpt4): multi-head self-attention
-	5. [YaRN](https://www.aleksagordic.com/blog/transformer#cpt5): positional embeddings for long context
-	6. [Core Attention](https://www.aleksagordic.com/blog/transformer#cpt6): global + block local
-	7. [Transformer math](https://www.aleksagordic.com/blog/transformer#cpt7): FLOPs/token, cluster sizing, and more
 
 
 
@@ -144,6 +111,10 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 
 
 ### Tokenization & Embedding
+> [!links]
+> ↗ [Pre-Training](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Pre-Training.md)
+> ↗ [Tokenization Techniques & Tokenizers](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
+
 > 🤖 GPT-6.0 Astra
 > https://chatgpt.com/share/6ac25d50-45b4-83ec-be26-e304272419c1
 
@@ -180,7 +151,7 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 ```
 
 ---
-↗ [Tokenization Techniques & Tokenizers](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
+**Tokenization**
 from words to tokens 
 - token IDs & vocabulary size
 - special tokens
@@ -229,7 +200,7 @@ Un-Embedding
 > ![Transformer多头注意力流程图](../../../../../../../../../Assets/Pics/Transformer多头注意力流程图.png)
 
 
-### MLP (Feed-Forward Network, FFN)
+### Feed-Forward Network (FFN) & MLP
 
 
 ### LM Head & Probability (Logits)
@@ -467,6 +438,7 @@ https://sebastianraschka.com/llm-architecture-gallery/
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020261007132322.png)
 ##### Qwen3.8-Flash-Next (125B-A6B)
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020261007131433.png)
+
 #### Arch Design Paradigm
 Dense Decoder vs Sparse Decoder & MoE (Mixture of Experts)
 ↗ [MoE (Mixture of Experts) Architecture](Transformer%20Architecture%20Design/MoE%20(Mixture%20of%20Experts)%20Architecture.md)
@@ -495,6 +467,74 @@ Dense Decoder vs Sparse Decoder & MoE (Mixture of Experts)
 
 
 
+## Inside The LLM Decoder-Only Transformer
+### The Computation of A Token
+> [!TIP]
+> https://faichou.com/posts/a-transformer-walkthrough/
+> 🤔 From Embedding to Attention: A Transformer Walkthrough
+> February 11, 2026 / 28 min read
+> ```md
+> "请将你好翻译成英文"
+> 	  ↓ Tokenizer (BPE)
+>   [token1, token2, ..., token9]
+> 	  ↓ Embedding Matrix lookup
+>   [X1, X2, ..., X9]          shape: (9, 4096)
+> 	  ↓ Transformer Layer 1~32（Prefill，全量计算）
+>   每层：LayerNorm → Attention(+残差) → LayerNorm → FFN(+残差)
+> 	  ↓ 最后一层输出 Z9
+> 	  ↓ LM Head (= Embedding Matrix^T)
+>   logits: (128000,)
+> 	  ↓ softmax → 概率采样
+>   "Hello"
+> 	  ↓ Decode 阶段，逐 token 生成，利用 KV Cache
+>   ...
+>   ```
+>
+> ---
+>   https://www.aleksagordic.com/blog (Aleksa Gordić blog)
+>   https://www.aleksagordic.com/blog/transformer
+>   Inside the Transformer: The Life of a Token (May 26, 2026)
+>   - A deep dive into a modern dense transformer: YaRN, hybrid attention, soft capping, QK normalization, FLOPs/token, cluster sizing, and more
+>   - This post is structured into seven parts:
+> 	  - [Transformer forward pass](https://www.aleksagordic.com/blog/transformer#cpt1): high-level flow of a token
+> 	  - [RMSNorm](https://www.aleksagordic.com/blog/transformer#cpt2): the normalization layer
+> 	  - [GeGLU MLP](https://www.aleksagordic.com/blog/transformer#cpt3): GELU-gated feedforward block
+> 	  - [MHA](https://www.aleksagordic.com/blog/transformer#cpt4): multi-head self-attention
+> 	  - [YaRN](https://www.aleksagordic.com/blog/transformer#cpt5): positional embeddings for long context
+> 	  - [Core Attention](https://www.aleksagordic.com/blog/transformer#cpt6): global + block local
+> 	  - [Transformer math](https://www.aleksagordic.com/blog/transformer#cpt7): FLOPs/token, cluster sizing, and more
+
+
+### The Knowledge & LLM Explanation
+> [!links]
+> ↗ [(M)LLM Explainability](../../../../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/🥺%20(M)LLM%20Explainability/(M)LLM%20Explainability.md)
+
+> [!TIP]
+> 🤔 https://transformer-circuits.pub/2025/attribution-graphs/biology.html
+> **On the Biology of a Large Language Model | Anthropic**
+> - We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of contexts, using our circuit tracing methodology.
+> - In this paper, we focus on applying attribution graphs to study a particular language model – Claude 3.5 Haiku, released in October 2024, which serves as Anthropic’s lightweight production model as of this writing. We investigate a wide range of phenomena. Many of these have been explored before (see [§ 16 Related Work](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#related-work)), but our methods are able to offer additional insight, in the context of a frontier model:
+> 	- [Introductory Example: Multi-step Reasoning.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-tracing) We present a simple example where the model performs “two-hop” reasoning “in its head” to identify that “the capital of the state containing Dallas” is “Austin.” We can see and manipulate an internal step where the model represents “Texas”.
+> 	- [Planning in Poems.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-poems) We discover that the model plans its outputs ahead of time when writing lines of poetry. Before beginning to write each line, the model identifies potential rhyming words that could appear at the end. These preselected rhyming options then shape how the model constructs the entire line.
+> 	- [Multilingual Circuits.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-multilingual) We find the model uses a mixture of language-specific and abstract, language-independent circuits. The language-independent circuits are more prominent in Claude 3.5 Haiku than in a smaller, less capable model.
+> 	- [Addition.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-addition) We highlight cases where the same addition circuitry generalizes between very different contexts.
+> 	- [Medical](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-medical) [Diagnoses](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-medical). We show an example in which the model identifies candidate diagnoses based on reported symptoms, and uses these to inform follow-up questions about additional symptoms that could corroborate the diagnosis – all “in its head,” without writing down its steps.
+> 	- [Entity Recognition and Hallucinations.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-hallucinations) We uncover circuit mechanisms that allow the model to distinguish between familiar and unfamiliar entities, which determine whether it elects to answer a factual question or profess ignorance. “Misfires” of this circuit can cause hallucinations.
+> 	- [Refusal of Harmful Requests.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-refusals) We find evidence that the model constructs a general-purpose “harmful requests” feature during finetuning, aggregated from features representing specific harmful requests learned during pretraining.
+> 	- [An Analysis of a Jailbreak.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-jailbreak) We investigate an attack which works by first tricking the model into starting to give dangerous instructions “without realizing it,” after which it continues to do so due to pressure to adhere to syntactic and grammatical rules.
+> 	- [Chain-of-thought Faithfulness.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-cot) We explore the faithfulness of chain-of-thought reasoning to the model’s actual mechanisms. We are able to distinguish between cases where the model genuinely performs the steps it says it is performing, cases where it makes up its reasoning without regard for truth, and cases where it works backwards from a human-provided clue so that its “reasoning” will end up at the human-suggested answer.
+> 	- [A Model with a Hidden Goal.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-misaligned) We also apply our method to a variant of the model that has been finetuned to pursue a secret goal: exploiting “bugs” in its training process. While the model avoids revealing its goal when asked, our method identifies mechanisms involved in pursuing the goal. Interestingly, these mechanisms are embedded within the model’s representation of its “Assistant” persona.
+
+
+
 ## Ref
 Deng, Y., Xia, C. S., Yang, C., Zhang, S. D., Yang, S., & Zhang, L. (2024). Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries. Proceedings of the IEEE/ACM 46th International Conference on Software Engineering, 1–13. https://doi.org/10.1145/3597503.3623343
 - LLMs can be classified based on variations of the popular Transformer architecture [64] into: Encoder-only, Decoder-only and Encoder-Decoder models. Decoder-only LLMs (e.g., GPT [7, 46], Codex [10] and CodeGen [43]) focus on autoregressive completion tasks by learning to predict the probability of the next token given previously generated tokens. Encoder-only (e.g., CodeBERT [17] and GraphCodeBERT [24]) and Encoder-Decoder (e.g., CodeT5 [79] and PLBART [4]) models on the other hand are designed for infilling tasks, where the pre-training objective is to recover masked-out tokens or token spans in the training data by using bi-directional context.
+
+[91 【大模型凭什么能叠上百层？ - 阿栗学长 | 小红书 - 你的生活兴趣社区】 😆 JNlas5d4sBlegU9 😆]: https://www.xiaohongshu.com/discovery/item/6ae52fd3000000001202f2a0?source=webshare&xhsshare=pc_web&xsec_token=ABJS52We8RrksL_J9lF4fdAUNgH8PEKZwyrrPeLHeCMYw=&xsec_source=pc_share
+- residual connection
+- layernorm & rmsnorm
+
+[73 【大模型的知识藏在 FFN 里，不是注意力 - 阿栗学长 | 小红书 - 你的生活兴趣社区】 😆 qIuXVA0U5PVCgzk 😆]: https://www.xiaohongshu.com/discovery/item/6adf45d7000000001500e1eb?source=webshare&xhsshare=pc_web&xsec_token=ABHvxD3Xo98sa8bpG_eYRgPy5xxSoFZHaT6awkF3VRSNk=&xsec_source=pc_share
+
+[8 【5分钟搞懂 RoPE 位置编码 - 阿栗学长 | 小红书 - 你的生活兴趣社区】 😆 GOhg0QHXXZJLeMB 😆]: https://www.xiaohongshu.com/discovery/item/6ad955e5000000003301890d?source=webshare&xhsshare=pc_web&xsec_token=ABz7-fWZ4jxp2mllkxIQ_CfBe8UaXvXXhEvy1bKjzYU_s=&xsec_source=pc_share
