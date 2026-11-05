@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Instruction Execution](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+↗ [Instruction Execution](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Instruction%20Execution.md)
 
 
 ### Other Resources
@@ -24,14 +24,14 @@ Regardless of whether an architecture is hard-coded or microprogrammed, it is im
 
 ### Instruction Taxonomy by Formats
 ↗ [ISA Instruction Formats](ISA%20Instruction%20Formats.md)
-↗ [x86 Instruction Encoding](../../CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Instruction%20Encoding.md)
-↗ [ARM Instruction Encoding](../../RISC%20(Reduced%20Instruction%20Set%20Computer)/ARM%20Architecture%20Family/ARM%20Instruction%20Encoding.md)
+↗ [x86 Instruction Encoding](../../CISC%20%28Complex%20Instruction%20Set%20Computer%29/x86%20Architecture%20Family%20%2880x86,%208086%20family%29/x86%20Instruction%20Encoding.md)
+↗ [ARM Instruction Encoding](../../RISC%20%28Reduced%20Instruction%20Set%20Computer%29/ARM%20Architecture%20Family/ARM%20Instruction%20Encoding.md)
 
 
 ### Instruction Execution
 Either instructions or data are all informations stored on memory chips.
-↗ [Instruction Execution](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
-↗ [von Neumann /Memory Access](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [Instruction Execution](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Instruction%20Execution.md)
+↗ [von Neumann /Memory Access](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 
 

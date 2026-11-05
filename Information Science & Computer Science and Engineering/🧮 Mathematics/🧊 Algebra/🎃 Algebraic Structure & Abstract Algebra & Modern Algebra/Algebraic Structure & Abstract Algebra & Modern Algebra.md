@@ -624,7 +624,7 @@ The collection of all structures of a given type (same operations and same laws)
 ![Screenshot 2023-01-05 at 7.31.14 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.31.14%20PM.png)
 #### Congruence & Quotient Algebra
 > [!links]
-> ↗ [Equivalence Relation](../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Equivalence%20Relation.md)
+> ↗ [Equivalence Relation](../../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Equivalence%20Relation/Equivalence%20Relation.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Congruence_relation
 

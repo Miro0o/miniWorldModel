@@ -217,6 +217,10 @@ TOC
     - [Additional resources](https://appsec.guide/docs/fuzzing/resources/)
 
 
+https://projectzero.google/
+Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. [Fuzzilli](https://github.com/googleprojectzero/fuzzilli) is a generative JavaScript engine fuzzer and [BigSleep](https://projectzero.google/2024/10/from-naptime-to-big-sleep.html) is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabilities than Fuzzilli (45 versus 37) with a 25% overlap in the specific bugs reported. Since this comparison methodology has a tendency to underestimate overlap, we also performed dedicated experiments to test theoretical overlap in vulnerabilities reported since 2023. These experiments estimated overlap at roughly 60%. Regardless of which value is accurate, a substantial portion of vulnerabilities were discoverable by only LLMs or only fuzzing. While it is extremely promising that LLMs have become able to find so many vulnerabilities so quickly, fuzzing and LLMs are still complementary approaches. We recommend vendors perform both fuzzing and agentic analysis of their code to maximize the number of vulnerabilities that get reported before they impact users.
+
+
 
 ## Intro: Fuzz & Fuzzing Test
 > 🔗 https://en.wikipedia.org/wiki/Fuzzing

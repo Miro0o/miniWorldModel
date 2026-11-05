@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Firmware and Computer (OS) Booting](../../Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
-↗ [Shell & Terminals (Console)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
-↗ [Interrupts (Software & Hardware)](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
+↗ [Firmware and Computer (OS) Booting](../../Firmware%20and%20Computer%20%28OS%29%20Booting/Firmware%20and%20Computer%20%28OS%29%20Booting.md)
+↗ [Shell & Terminals (Console)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/🐚%20Shell%20&%20Terminals%20%28Console%29/Shell%20&%20Terminals%20%28Console%29.md)
+↗ [Interrupts (Software & Hardware)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Interrupts%20%28Software%20&%20Hardware%29.md)
 
 
 ### Learning Resources
@@ -31,8 +31,8 @@ The operating system must have control of the processor (as well as other resour
 
 
 ### Development (History) of OS
-↗ [Development(History) of Operating Systems](Development(History)%20of%20Operating%20Systems.md)
-↗ [Operating System Design (OS Kernel Design) & Kernel Architecture](Operating%20System%20Design%20(OS%20Kernel%20Design)%20&%20Kernel%20Architecture/Operating%20System%20Design%20(OS%20Kernel%20Design)%20&%20Kernel%20Architecture.md)
+↗ [Development(History) of Operating Systems](Development%28History%29%20of%20Operating%20Systems.md)
+↗ [Operating System Design (OS Kernel Design) & Kernel Architecture](Operating%20System%20Design%20%28OS%20Kernel%20Design%29%20&%20Kernel%20Architecture/Operating%20System%20Design%20%28OS%20Kernel%20Design%29%20&%20Kernel%20Architecture.md)
 
 
 ### 🥅 OS Objectives & Functions
@@ -48,25 +48,25 @@ An OS is a program that controls the execution of application programs, and acts
 
 ### Morden Operating Systems
 > [!links]
-> ↗ [Operating Systems & Kernels (Engineering Part)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+> ↗ [Operating Systems & Kernels (Engineering Part)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29.md)
 
 👉 Windows
-- ↗ [Windows NT (New Technology) Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20NT%20(New%20Technology)%20Kernel.md).
+- ↗ [Windows NT (New Technology) Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20%28New%20Technology%29%20Kernel/Windows%20NT%20%28New%20Technology%29%20Kernel.md).
 
 👉 UNIX
-- ↗ [UNIX Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20Kernel.md)
+- ↗ [UNIX Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20Kernel.md)
 - ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.06.15%20PM.png)
 
 
 👉 Linux
-- ↗ [🍸 Linux Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
-- ↗ [Linux (Derived From UNIX Family)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
+- ↗ [🍸 Linux Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
+- ↗ [Linux (Derived From UNIX Family)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/Linux%20%28Derived%20From%20UNIX%20Family%29.md)
 
 👉 MacOS
-- ↗ [macOS Kernel (xnu) & Darwin](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20Kernel%20(xnu)%20&%20Darwin.md).
+- ↗ [macOS Kernel (xnu) & Darwin](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Apple%20Operating%20Systems/macOS%20%28Derived%20From%20UNIX%20Family%29/📌%20macOS%20Kernel%20%28xnu%29%20&%20Darwin/macOS%20Kernel%20%28xnu%29%20&%20Darwin.md).
 
 👉 Android
-- ↗ [Android Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Android%20&%20AOSP/Android%20Kernel/Android%20Kernel.md).
+- ↗ [Android Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Android%20&%20AOSP/Android%20Kernel/Android%20Kernel.md).
 
 
 

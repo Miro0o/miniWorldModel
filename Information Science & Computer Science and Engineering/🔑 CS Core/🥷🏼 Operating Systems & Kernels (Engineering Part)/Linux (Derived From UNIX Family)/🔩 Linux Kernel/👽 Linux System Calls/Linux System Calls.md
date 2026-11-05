@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Program Execution /Interrupts](../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Interrupts%20%28Software%20&%20Hardware%29.md)
+↗ [Program Execution /Interrupts](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Interrupts%20%28Software%20&%20Hardware%29.md)
 ↗ [ASM /Interrupts](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
 
 ↗ [System Calls](../../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md)
@@ -66,7 +66,7 @@ Symbolic constants for system call numbers can be found in the header file `<sys
 
 
 ## Linux System Calls on Different ISA Architecture & ABI
-> ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Procedure%20%28Function%29%20Call%20&%20Runtime%20Memory%20Layout.md)
+> ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Procedure%20%28Function%29%20Call%20&%20Runtime%20Memory%20Layout.md)
 > 🔍 `man syscall`
 
 

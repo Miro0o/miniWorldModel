@@ -8,12 +8,12 @@
 ### Related Topics
 ↗ [C&CPP /OS Level Programming /Process Management](../../../../Software%20Engineering/👇%20System%20Software%20Engineering/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Process%20Management.md)
 
-↗ [Instruction Execution](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+↗ [Instruction Execution](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Instruction%20Execution.md)
 
 ↗ [Distributed Process Management](../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/☯️%20Distributed%20Systems%20Design/Distributed%20Process%20Management/Distributed%20Process%20Management.md)
-↗ [Operating System Kernel (Kernel Mode)](../😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
+↗ [Operating System Kernel (Kernel Mode)](../😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20%28Kernel%20Mode%29.md)
 
-↗ [Programming Language Processing & Program Execution](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Programming Language Processing & Program Execution](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 
 
 ### Other Resources
@@ -22,10 +22,10 @@
 
 ## Intro
 A process is an operating system abstraction that groups together multiple resources:
-- An ↗ [Address Space & Memory Layout](../OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
+- An ↗ [Address Space & Memory Layout](../OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/Address%20Space%20&%20Memory%20Layout.md)
 - One or more ↗ [Threads & Coroutine](Threads%20&%20Coroutine/Threads%20&%20Coroutine.md)
 - Opened files
-- ↗ [Sockets](IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/Sockets.md)
+- ↗ [Sockets](IPC%20%28Inter%20Process%20Communication%29/🧦%20Sockets/Sockets.md)
 - ↗ [Semaphore](Concurrency%20Control/⭐️%20System%20Level%20Concurrency%20Control%20Mechanism/Concurrency%20Control%20Methods%20Abstraction/Semaphore/Semaphore.md)
 - Shared memory regions
 - Timers
@@ -35,14 +35,14 @@ A process is an operating system abstraction that groups together multiple resou
 All this information is grouped in the **Process Control Group (PCB)**. In Linux this is `struct task_struct`.
 
 ↗ [Processes Description & Control](📌%20Processes%20Description%20&%20Control/Processes%20Description%20&%20Control.md)
-↗ (Linux) [Task Management & Scheduling (Process & Threads)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/⭕️%20Task%20Management%20&%20Scheduling%20(Process%20&%20Threads)/Task%20Management%20&%20Scheduling%20(Process%20&%20Threads).md)
+↗ (Linux) [Task Management & Scheduling (Process & Threads)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🔩%20Linux%20Kernel/⭕️%20Task%20Management%20&%20Scheduling%20%28Process%20&%20Threads%29/Task%20Management%20&%20Scheduling%20%28Process%20&%20Threads%29.md)
 
 
 ### Program,Process, OS and Automata 🤔
 
 
 ### Context Switch
-> ↗ [Interrupts (Software & Hardware)](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
+> ↗ [Interrupts (Software & Hardware)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Interrupts%20%28Software%20&%20Hardware%29.md)
 > ↗ [System Calls](📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md)
 
 At any point in time, a uniprocessor system can only execute the code for a single process. When the operating system decides to transfer control from the current process to some new process, it performs a context switch by saving the context of the current process, restoring the context of the new process, and hen passing control to the new process. The new process picks up exactly where it left off.

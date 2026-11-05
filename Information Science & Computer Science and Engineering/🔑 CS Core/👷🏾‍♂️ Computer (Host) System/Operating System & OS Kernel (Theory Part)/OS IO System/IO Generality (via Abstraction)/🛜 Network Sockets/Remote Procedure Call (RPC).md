@@ -6,19 +6,19 @@
 
 ## Res
 ### Related Topics
-↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
-↗ [Local Procedure Call (LPC)](../../../OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/Local%20Procedure%20Call%20(LPC).md)
+↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Procedure%20%28Function%29%20Call%20&%20Runtime%20Memory%20Layout.md)
+↗ [Local Procedure Call (LPC)](../../../OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/IPC%20%28Inter%20Process%20Communication%29/🧦%20Sockets/🌉%20Internal%20Sockets/Local%20Procedure%20Call%20%28LPC%29.md)
 
 ↗ [Network Programming & RPC](../../../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 
-↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20&%20Serialization/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md)
-↗ [(Object) Serialization & Deserialization](../../../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x02%20Presentation%20Layer%20(Syntax%20Layer)/(Object)%20Serialization%20&%20Deserialization/(Object)%20Serialization%20&%20Deserialization.md)
+↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/IDL%20%28Interface%20Description%20Language%29%20&%20Data%20Exchange%20&%20Serialization/IDL%20%28Interface%20Description%20Language%29%20&%20Data%20Exchange%20Formats.md)
+↗ [(Object) Serialization & Deserialization](../../../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x02%20Presentation%20Layer%20%28Syntax%20Layer%29/%28Object%29%20Serialization%20&%20Deserialization/%28Object%29%20Serialization%20&%20Deserialization.md)
 
-↗ [Web (WWW) Protocols](../../../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/Web%20(WWW)%20Protocols.md)
-↗ [RPC Services](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/RPC%20Services/RPC%20Services.md)
-↗ [Cloud RPC Services](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/Cloud%20RPC%20Services.md)
+↗ [Web (WWW) Protocols](../../../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x01%20Application%20Layer/🔥%20Web%20%28WWW%29%20Protocols/Web%20%28WWW%29%20Protocols.md)
+↗ [RPC Services](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/RPC%20Services/RPC%20Services.md)
+↗ [Cloud RPC Services](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20%28System%20Level%20Engineering%29/Orchestration%20&%20Management/Cloud%20RPC%20Services.md)
 
-↗ [Appendix / 什么是RPC？](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/RPC%20Services/Appendix.md)
+↗ [Appendix / 什么是RPC？](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/RPC%20Services/Appendix.md)
 
 
 ### Other Resources
@@ -70,9 +70,9 @@ RPCs are a form of inter-process communication (IPC), in that different processe
 
 
 ### Standard Contact Mechanisms
-To let different clients access servers, a number of standardized RPC systems have been created. Most of these use an ↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20&%20Serialization/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md) to let various platforms call the RPC. The IDL files can then be used to generate code to interface between the client and servers.
+To let different clients access servers, a number of standardized RPC systems have been created. Most of these use an ↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/IDL%20%28Interface%20Description%20Language%29%20&%20Data%20Exchange%20&%20Serialization/IDL%20%28Interface%20Description%20Language%29%20&%20Data%20Exchange%20Formats.md) to let various platforms call the RPC. The IDL files can then be used to generate code to interface between the client and servers.
 
-> For more at ↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20&%20Serialization/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md)
+> For more at ↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/IDL%20%28Interface%20Description%20Language%29%20&%20Data%20Exchange%20&%20Serialization/IDL%20%28Interface%20Description%20Language%29%20&%20Data%20Exchange%20Formats.md)
 
 
 

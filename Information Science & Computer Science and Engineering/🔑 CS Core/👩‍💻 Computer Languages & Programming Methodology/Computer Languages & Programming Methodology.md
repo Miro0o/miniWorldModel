@@ -7,9 +7,6 @@
 ## Res
 ### Related Topics
 ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
-↗ [SCA (Static Code Analysis) & SAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md)
-↗ [Programming Language Processing & Program Execution](../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-- ↗ [Program Transformation & Compilation Theory (Compile-time)](../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
 
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
@@ -458,11 +455,18 @@ Examples are NESL (one of the oldest one) and C/C++ also supports because of som
 
 
 
-## Programming Basics
-### 1️⃣ Programming Model (Designer's Perspective)
+## Programming Langauges Basics
+![](../../../Assets/Pics/Screenshot%202025-09-06%20at%2000.52.22.png)
+<small>【南京大学《软件分析》课程01（Introduction）】 <a>https://www.bilibili.com/video/BV1b7411K7P4</a></small>
+
+
+### 1️⃣ PL Theory
+> [!links]
+> ↗ [Programming Language Theory (PLT)](🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+
 ![](../../../Assets/Pics/Pasted%20image%2020250726224307.png)
 <small>Above is a complete Java program ☕️ BinarySearch.java (<a>https://algs4.cs.princeton.edu/11model/BinarySearch.java.html</a>) that illustrates many of the basic features of our programming model. It implement a classic algorithm known as <b>binary search</b> and tests it for an application known as <b>allowlist filtering</b>.<br><a>https://algs4.cs.princeton.edu/11model/</a></small>
-#### Syntax Level (Components and Grammars)
+#### Syntax (Components and Grammars)
 > 🔗 https://algs4.cs.princeton.edu/11model/
 > The book takes OOP Language of java for example. However, contents below generalize to other languages as well.
 
@@ -656,7 +660,7 @@ More about ADT and programming model:
 	- Design by contract.
 	- _Exceptions and errors_
 	- _Assertions_
-#### Semantic Level
+#### Semantic Models
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
@@ -673,25 +677,53 @@ More about ADT and programming model:
 ##### State Spaces
 
 
-### 2️⃣ Design Consideration of Programming Language (Compiler Engineer's Perspective)
+#### Design Consideration of Programming Language
+> [!links]
+> ↗ [Programming Language Theory (PLT)](🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+
 > Compilers Principles Techniques and Tools 2nd Edition - 1 .6 Programming Language Basics
 > In this section, we shall cover the most important terminology and distinctions that appear in the study of programming languages.
-#### The Static/Dynamic Distinction
+##### The Static/Dynamic Distinction
 
-#### Environments and States
+##### Environments and States
 
-#### Static Scope and Block Structure
+##### Static Scope and Block Structure
 
-#### Explicit Access Control
+##### Explicit Access Control
 
-#### Dynamic Scope
+##### Dynamic Scope
 
-#### Parameter Passing Mechanisms
+##### Parameter Passing Mechanisms
 
-#### Aliasing
+##### Aliasing
 
 
-### 3️⃣ Program in Practice: Data CRUD, Data Structure & Algorithm, and API Calling (Programmer's Perspective)
+### 2️⃣ PL Runtimes & Program Execution
+> [!links]
+> ↗ [Computation as Programs - Computer Program Semantics & Models](../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
+> ↗ [Programming Language Processing & Program Execution](🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+> ↗ [Program Transformation & Compilation Theory (Compile-time)](🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
+
+> [!links]
+> ↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
+> ↗ [SRE (Software Reverse Engineering)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/SRE%20%28Software%20Reverse%20Engineering%29/SRE%20%28Software%20Reverse%20Engineering%29.md)
+
+![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+<small>Application Execution and Computer Data Flow</small>
+
+
+### 3️⃣ PL Applications & Usages of PL
+#### Program Analysis /Verification /Synthesis /...
+↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
+↗ [Program Analysis Basics](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+↗ [SCA (Static Code Analysis) & SAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md)
+
+↗ [Formal Methods & Automated Reasoning](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Methods%20&%20Automated%20Reasoning.md)
+↗ [Program (Formal) Verification](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20%28FV%29/Program%20%28Formal%29%20Verification/Program%20%28Formal%29%20Verification.md)
+
+↗ [Program Transformation & Compilation Theory (Compile-time)](🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
+↗ [Program Synthesis & Code Generation](🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
+#### Programming & Algorithm
 > [!links]
 > ↗ [C & CPP](GPL%20%28General%20Purpose%20Languages%29/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 > ↗ [Python](GPL%20%28General%20Purpose%20Languages%29/🐍%20Python/Python.md)
@@ -705,19 +737,6 @@ More about ADT and programming model:
 > 
 > https://introcs.cs.princeton.edu/java/home/
 > Programming in Java   ·   Computer Science   ·   An Interdisciplinary Approach
-
-
-### Program Execution: What's Under The Hood?
-> [!links]
-> ↗ [Computation as Programs - Computer Program Semantics & Models](../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
-> ↗ [Program Compilation & Execution](../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
-
-> [!links]
-> ↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering.md)
-> ↗ [SRE (Software Reverse Engineering)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/SRE%20%28Software%20Reverse%20Engineering%29/SRE%20%28Software%20Reverse%20Engineering%29.md)
-
-![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
-<small>Application Execution and Computer Data Flow</small>
 
 
 

@@ -6,9 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
+↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../../Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29.md)
 
-↗ [Memory Access & Addressing](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [Memory Access & Addressing](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+
+
+### Other Resources
 
 
 
@@ -17,12 +20,13 @@ The main memory is a temporary storage device that holds both a program and the 
 
 
 ### How Data Fetched: Parallel & Sequential
-> ↗ [ILP (Instruction Level Parallelism)](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/ILP%20(Instruction%20Level%20Parallelism)/ILP%20(Instruction%20Level%20Parallelism).md)
+> ↗ [ILP (Instruction Level Parallelism)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/ILP%20%28Instruction%20Level%20Parallelism%29/ILP%20%28Instruction%20Level%20Parallelism%29.md)
 
 When data is needed from cache, there are two options for retrieving that data. 
 1. We could start an access to cache and, at the same time, start an access to main memory (in **parallel**). If the data is found in cache, the access to main memory is terminated, at no real cost because the accesses were overlapped. If the data is not in cache, the access to main memory is already well on its way. This overlapping helps reduce the cost (in time) for a cache miss. 
 2. The alternative is to perform everything **sequentially**. First, cache is checked; if the data is found, we’re done. If the data is not found in cache, then an access is started to retrieve the data from main memory.
 #### 1. cache & main memory access in parallel
+
 #### 2. cache & main memory access in sequence
 
 
@@ -103,7 +107,7 @@ The third mapping scheme we introduce is **N-way set-associative cache mapping**
 
 
 ## 🤔 Cache Memory Replacement Policies
-Similar to ↗ [Replacement Policy](../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Replacement%20Policy/Replacement%20Policy.md) in virtual memory replacement policies
+Similar to ↗ [Replacement Policy](../../../../Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/Virtual%20Memory%20%28OS%20Software%20Level%29/Replacement%20Policy/Replacement%20Policy.md) in virtual memory replacement policies
 
 
 

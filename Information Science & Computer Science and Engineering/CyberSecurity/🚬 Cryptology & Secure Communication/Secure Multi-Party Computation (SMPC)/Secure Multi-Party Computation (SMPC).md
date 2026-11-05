@@ -6,13 +6,13 @@
 
 ## Res
 ### Related Topics
-↗ [Zero-Knowledge Proof (ZKP)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
-↗ [Homomorphic Encryption (HE)](../🤐%20Cryptography/Modern%20Cryptography/Homomorphic%20Encryption%20(HE)/Homomorphic%20Encryption%20(HE).md)
+↗ [Zero-Knowledge Proof (ZKP)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20%28FV%29/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20%28ZKP%29/Zero-Knowledge%20Proof%20%28ZKP%29.md)
+↗ [Homomorphic Encryption (HE)](../🤐%20Cryptography/Modern%20Cryptography/Homomorphic%20Encryption%20%28HE%29/Homomorphic%20Encryption%20%28HE%29.md)
 ↗ [Key Management Algorithms](../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/Key%20Management%20Algorithms/Key%20Management%20Algorithms.md)
-- [Shamir Threshold Scheme](../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/Key%20Management%20Algorithms/Threshold%20Scheme%20(门限方案)/Shamir%20Threshold%20Scheme.md)
+- [Shamir Threshold Scheme](../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/Key%20Management%20Algorithms/Threshold%20Scheme%20%28门限方案%29/Shamir%20Threshold%20Scheme.md)
 
-↗ [Theory of Computation](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-- ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Theory of Computation](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20%28Formal%29%20Language%20Theory/Automata%20Theory%20and%20%28Formal%29%20Language%20Theory.md)
 
 ↗ [BlockChain](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/De-Fi%20Technologies/BlockChain.md)
 

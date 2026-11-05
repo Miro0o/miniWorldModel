@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Cryptology & Secure Communication](../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
-- ↗ [Zero-Knowledge Proof (ZKP)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20%28ZKP%29/Zero-Knowledge%20Proof%20%28ZKP%29.md)
+- ↗ [Zero-Knowledge Proof (ZKP)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20%28FV%29/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20%28ZKP%29/Zero-Knowledge%20Proof%20%28ZKP%29.md)
 - ↗ [Secure Multi-Party Computation (SMPC)](../../🚬%20Cryptology%20&%20Secure%20Communication/Secure%20Multi-Party%20Computation%20%28SMPC%29/Secure%20Multi-Party%20Computation%20%28SMPC%29.md)
 - ↗ [Homomorphic Encryption (HE)](../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Homomorphic%20Encryption%20%28HE%29/Homomorphic%20Encryption%20%28HE%29.md)
 - Private Set Intersection

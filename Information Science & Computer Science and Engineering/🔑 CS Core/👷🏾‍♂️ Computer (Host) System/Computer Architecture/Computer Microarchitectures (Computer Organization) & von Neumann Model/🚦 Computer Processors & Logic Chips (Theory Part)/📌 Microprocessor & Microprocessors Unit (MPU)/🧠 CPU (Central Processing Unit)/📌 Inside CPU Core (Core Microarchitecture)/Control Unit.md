@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 
-↗ [Control Signals' Pattern](../../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Control%20Signals'%20Pattern.md)
+↗ [Control Signals' Pattern](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Control%20Signals'%20Pattern.md)
 
 
 
@@ -22,7 +22,7 @@ All machine instructions are input into a special program, the microprogram, tha
 
 A microcode microinstruction is retrieved during each clock cycle. The particular instruction retrieved is a function of the current state of the machine and the value of the microsequencer, which is somewhat like a program counter that selects the next instruction from the control store.
 
-↗ [Firmware and Computer (OS) Booting](../../../../../../Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
+↗ [Firmware and Computer (OS) Booting](../../../../../../Firmware%20and%20Computer%20%28OS%29%20Booting/Firmware%20and%20Computer%20%28OS%29%20Booting.md)
 
 
 

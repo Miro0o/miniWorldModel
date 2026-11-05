@@ -6,25 +6,25 @@
 
 ## Res
 ### Related Topics
-↗ [Programming Language Processing & Program Execution](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Programming Language Processing & Program Execution](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Library Level Virtualization](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Library%20Level%20Virtualization/Library%20Level%20Virtualization.md)
 
-↗ [System Call Interfaces (SCI)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/System%20Call%20Interfaces%20(SCI).md)
-- ↗ [POSIX (Portable Operating System Interface)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
+↗ [System Call Interfaces (SCI)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20%28SCI%29/System%20Call%20Interfaces%20%28SCI%29.md)
+- ↗ [POSIX (Portable Operating System Interface)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20%28SCI%29/POSIX%20%28Portable%20Operating%20System%20Interface%29.md)
 
 ↗ [C-like Runtimes](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
 ↗ [OS Level Programming with C & CPP](../../../../Software%20Engineering/👇%20System%20Software%20Engineering/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
 
-↗ [Operating System Kernel (Kernel Mode)](Operating%20System%20Kernel%20(Kernel%20Mode).md)
-↗ [System Core Function Libraries & C Standard Library (User Mode)](System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
-- ↗ [GNU C Library (glibc)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
+↗ [Operating System Kernel (Kernel Mode)](Operating%20System%20Kernel%20%28Kernel%20Mode%29.md)
+↗ [System Core Function Libraries & C Standard Library (User Mode)](System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20%28User%20Mode%29.md)
+- ↗ [GNU C Library (glibc)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/👎%20GNU%20C%20Library%20%28glibc%29/GNU%20C%20Library%20%28glibc%29.md)
 
 ↗ [OS Level Virtualization](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/OS%20Level%20Virtualization/OS%20Level%20Virtualization.md)
 
-↗ [🍸 Linux Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
+↗ [🍸 Linux Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 
 ↗ [Application Runtimes & SDKs](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Application%20Runtimes%20&%20SDKs.md)
-↗ [GUI Desktop Environments & Windowing Systems](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)
+↗ [GUI Desktop Environments & Windowing Systems](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/Linux%20Free%20Software%20&%20OSS%20%28Open%20Source%20Software%29/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)
 ↗ [Media Processing & GUI SDK](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/Media%20Processing%20&%20GUI%20SDK.md)
 
 
@@ -46,7 +46,7 @@ API函数库是连接用户软件和系统内核桥梁，或者是“协议”�
 
 如果各系统平台都能提供相同的系统函数库，那么开发者在这个系统函数库基础之上编写软件代码，那么就很容易将软件移植到各个系统平台。**然而，这只是个美好的愿望**，IEEE就是为了达成这样的愿望才牵头制定POSIX标准。POSIX标准主要就是针对[UNIX API](http://www.unix.org/apis.html)而制订，**不管函数如何包装、功能如何实现，但API按照标准约定来（比如函数变量等符号名称、数据结构、参数类型与个数、基本工具命令名称等）**，Linux完全兼容POSIX标准（部分函数符合POSIX，部分函数是Linux专有，即是POSIX的超集），微软声称Windows部分兼容POSIX标准。
 
-> 💡 世界上总共有两种系统函数库标准：↗ [POSIX (Portable Operating System Interface)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md) 和 windows标准。
+> 💡 世界上总共有两种系统函数库标准：↗ [POSIX (Portable Operating System Interface)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20%28SCI%29/POSIX%20%28Portable%20Operating%20System%20Interface%29.md) 和 windows标准。
 
 主流os内核通常是C语言写成，系统函数库通常以一个或多个链接库文件的形式提供，`其中最重要的是C标准库`，其他的链接库往往调用C标准库而实现，当然也可能直接调用系统内核函数，甚至混合。不同系统平台有多种主流的C标准库共存：
 - [BSD libc](https://en.wikipedia.org/wiki/BSD_libc)，由BSD系统发布；

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [x86 ISA Based ASM](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
+↗ [x86 ISA Based ASM](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
 
 
 ### Documentations
@@ -53,13 +53,13 @@ As of June 2022, most [desktop](https://en.wikipedia.org/wiki/Desktop_computer
 
 
 ### x86/x64 Addressing Mode: Segmented Addressing
-> ↗ [Memory Access & Addressing](../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
-> ↗ [8086 ASM (16 bit) /⛸️ Data Access](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md#⛸️%20Data%20Access)
+> ↗ [Memory Access & Addressing](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+> ↗ [8086 ASM (16 bit) /⛸️ Data Access](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/x86%20ISA%20Based%20ASM/8086%20ASM%20%2816%20bit%29.md#⛸️%20Data%20Access)
 
 
 ### 🌀 x86/x64 Registers
-> ↗ [Register](../../../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/Register.md)
-> ↗ [8086 ASM (16 bit) /🫙 Registers](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md#🫙%20Registers)
+> ↗ [Register](../../../Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/📌%20Inside%20CPU%20Core%20%28Core%20Microarchitecture%29/Register.md)
+> ↗ [8086 ASM (16 bit) /🫙 Registers](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20%28Assembly%20Languages%29%20🆘/x86%20ISA%20Based%20ASM/8086%20ASM%20%2816%20bit%29.md#🫙%20Registers)
 
 ![](../../../../../../../Assets/Pics/x86%20registers%20map.png)
 ##### EFLAGS & RFLAGS
@@ -97,7 +97,7 @@ The modes in which x86 code can be executed in are:
 The processor runs in real mode immediately after power on, so an **operating system kernel**, or other program, must explicitly switch to another mode if it wishes to run in anything but real mode. Switching modes is accomplished by modifying certain bits of the processor's control registers after some preparation, and some additional setup may be required after the switch.
 
 > **💡 Examples**
-> ↗ [Firmware and Computer (OS) Booting](../../../../Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
+> ↗ [Firmware and Computer (OS) Booting](../../../../Firmware%20and%20Computer%20%28OS%29%20Booting/Firmware%20and%20Computer%20%28OS%29%20Booting.md)
 > 
 > - With a computer running legacy BIOS, the BIOS and the boot loader run in Real mode. The 64-bit operating system kernel checks and switches the CPU into Long mode and then starts new kernel-mode threads running 64-bit code.
 > - With a computer running UEFI, the UEFI firmware (except CSM and legacy Option ROM), the UEFI boot loader and the UEFI operating system kernel all run in Long mode.

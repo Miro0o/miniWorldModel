@@ -6,11 +6,11 @@
 
 ## Res
 ### Related Topics
-↗ [Cybersecurity Threats & Attacks](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
-↗ [Social Engineering & Physical Security](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
+↗ [Cybersecurity Threats & Attacks](../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+↗ [Social Engineering & Physical Security](../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 
-↗ [Security Protocols & Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
-- ↗ [Cryptographic Protocols Modeling & Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+↗ [Security Protocols & Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20%28FV%29/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+- ↗ [Cryptographic Protocols Modeling & Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20%28FV%29/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 
 
 ### Other Resources
@@ -23,11 +23,11 @@
 
 ## Cryptographic Attacks
 ### CIA Threats ⭐
-↗ [Core Cryptographic Properties Threats & Countermeasures](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+↗ [Core Cryptographic Properties Threats & Countermeasures](../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 
 
 ### Replay Attacks
-↗ [Authentication (身份鉴别)](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+↗ [Authentication (身份鉴别)](../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Authentication%20%28身份鉴别%29/Authentication%20%28身份鉴别%29.md)
 
 常见的消息重放攻击形式有：
 - **简单重放**：攻击者简单复制一条消息，以后在重新发送它；
@@ -44,12 +44,12 @@
 > In authentication technology, a nonce (number used once) is a random or unique value that is used only once during a cryptographic communication protocol. Its primary purpose is to ensure the freshness and integrity of the exchanged messages and to prevent replay attacks. 
 > The implementation of a nonce depends on the specific cryptographic protocol or authentication mechanism being used. Below are some implementations of nonce in a secure communication.
 ##### 1️⃣ Sequence Number
-↗ [Password Based Authentication (基于口令) /👉 共享一次性口令表 (口令序列)](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#👉%20共享一次性口令表%20(口令序列))
+↗ [Password Based Authentication (基于口令) /👉 共享一次性口令表 (口令序列)](../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Authentication%20%28身份鉴别%29/Password%20Based%20Authentication%20%28基于口令%29/Password%20Based%20Authentication%20%28基于口令%29.md#👉%20共享一次性口令表%20(口令序列))
 
 
 序列号：计数的策略：对付重放攻击的一种方法是在认证交换中使用一个序数来给每一个消息报文编号。仅当收到的消息序数顺序合法时才接受之。但这种方法的困难是要求双方必须保持上次消息的序号。
 ##### 2️⃣ Time Stamp
-↗ [Password Based Authentication (基于口令) /👉 Time-Synchronization (时间同步)](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#👉%20Time-Synchronization%20(时间同步))
+↗ [Password Based Authentication (基于口令) /👉 Time-Synchronization (时间同步)](../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Authentication%20%28身份鉴别%29/Password%20Based%20Authentication%20%28基于口令%29/Password%20Based%20Authentication%20%28基于口令%29.md#👉%20Time-Synchronization%20(时间同步))
 
 时间戳：**A**接受一个新消息仅当该消息包含一个时间戳，该时间戳在**A**看来，是足够接近**A**所知道的当前时间；这种方法要求不同参与者之间的时钟需要同步。
 - 在网络环境中，特别是在分布式网络环境中，时钟同步并不容易做到
@@ -60,9 +60,9 @@
 ##### 3️⃣ Radom Value from Verifier
 验证者发送随机值（如质询）：不可预测、不重复
 
-↗ [Chaos Theory](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Dynamical%20Systems%20Theory/🇺🇳%20Chaos%20Theory/Chaos%20Theory.md)
+↗ [Chaos Theory](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Dynamical%20Systems%20Theory/🇺🇳%20Chaos%20Theory/Chaos%20Theory.md)
 ###### Challenge /Response
-↗ [Password Based Authentication (基于口令) / 👉 Challenge /Response (质询/响应 ｜ 挑战/应答)](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#👉%20Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
+↗ [Password Based Authentication (基于口令) / 👉 Challenge /Response (质询/响应 ｜ 挑战/应答)](../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Authentication%20%28身份鉴别%29/Password%20Based%20Authentication%20%28基于口令%29/Password%20Based%20Authentication%20%28基于口令%29.md#👉%20Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
 
 
 ### MITM (man-in-the-middle) Attacks
@@ -81,7 +81,7 @@ A downgrade attack, also called a bidding-down attack,[1] or version rollback at
 
 
 ### Brute-Force Attacks & Dictionary / Rainbow Table Attacks
-↗ [Password Attack](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
+↗ [Password Attack](../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20%28CTI%29%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
 
 ↗ [Credentials & Password Related Tools](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credentials%20&%20Password%20Related%20Tools.md)
 - ↗ [Login Cracker & Password Cracker](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Login%20Cracker%20&%20Password%20Cracker/Login%20Cracker%20&%20Password%20Cracker.md)

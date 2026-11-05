@@ -7,12 +7,12 @@
 ## Res
 ### Related Topics
 ↗ [Credentials & Password Related Tools](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credentials%20&%20Password%20Related%20Tools.md)
-↗ [Access Control (访问控制)](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
-- ↗ [Authentication (身份鉴别)](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+↗ [Access Control (访问控制)](../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Access%20Control%20%28访问控制%29.md)
+- ↗ [Authentication (身份鉴别)](../../⛈️%20Risk%20Management%20%28In%20Cyberspace%29/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20%28IAM%29/Access%20Control%20%28访问控制%29/Authentication%20%28身份鉴别%29/Authentication%20%28身份鉴别%29.md)
 
-↗ [Key Management](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Provisioning/Key%20Management/Key%20Management.md)
+↗ [Key Management](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev%28Sec%29Ops%20%28Application%20Level%20Engineering%29/🛬%20Continuous%20Delivery/Provisioning/Key%20Management/Key%20Management.md)
 
-↗ [Security Protocols & Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+↗ [Security Protocols & Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20%28FV%29/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
 
 
 ### Other Resources
@@ -71,7 +71,7 @@
 
 
 ## Threshold Scheme (秘密分割)
-↗ [Threshold Scheme (门限方案)](📌%20Key%20Management%20Algorithms%20&%20Protocols/Key%20Management%20Algorithms/Threshold%20Scheme%20(门限方案)/Threshold%20Scheme%20(门限方案).md)
+↗ [Threshold Scheme (门限方案)](📌%20Key%20Management%20Algorithms%20&%20Protocols/Key%20Management%20Algorithms/Threshold%20Scheme%20%28门限方案%29/Threshold%20Scheme%20%28门限方案%29.md)
 
 
 

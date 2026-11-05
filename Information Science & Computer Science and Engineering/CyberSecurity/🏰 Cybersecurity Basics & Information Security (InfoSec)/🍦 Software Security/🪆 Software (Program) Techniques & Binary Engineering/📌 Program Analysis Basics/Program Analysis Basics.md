@@ -14,16 +14,16 @@
 - ↗ [Programming Language Theory (PLT)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
 - ↗ [Compilation & Program Loading Tools](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 
-↗ [Programming Language Processing & Program Execution](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
-↗ [Compilation Phase](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/Compilation%20Phase.md)
-↗ [Program Synthesis & Code Generation](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
-↗ [Code (Program) Analysis & Optimization](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20%28Program%29%20Analysis%20&%20Optimization/Code%20%28Program%29%20Analysis%20&%20Optimization.md)
+↗ [Programming Language Processing & Program Execution](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md)
+↗ [Compilation Phase](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/Compilation%20Phase.md)
+↗ [Program Synthesis & Code Generation](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
+↗ [Code (Program) Analysis & Optimization](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20%28Program%29%20Analysis%20&%20Optimization/Code%20%28Program%29%20Analysis%20&%20Optimization.md)
 
 ↗ [Formal Verification & Analysis Programming Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
-- ↗ [Constraint Solving & Theorem Proving](../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-- ↗ [(Formal) Model Checking (MC)](../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking%20%28MC%29/%28Formal%29%20Model%20Checking%20%28MC%29.md)
-- ↗ [Program (Formal) Verification](../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Program%20%28Formal%29%20Verification/Program%20%28Formal%29%20Verification.md)
+- ↗ [Constraint Solving & Theorem Proving](../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+- ↗ [(Formal) Model Checking (MC)](../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🧳%20%28Formal%29%20Model%20Checking%20%28MC%29/%28Formal%29%20Model%20Checking%20%28MC%29.md)
+- ↗ [Program (Formal) Verification](../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20%28FV%29/Program%20%28Formal%29%20Verification/Program%20%28Formal%29%20Verification.md)
 
 ↗ [AI4SE](../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 
@@ -169,18 +169,23 @@ Program Understanding
 ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md#Symbolic%20Transition%20System%20⭐)
 - Transition System
 - Computational Trees & Execution trace
-#### Program State Space & State Explosion
-↗ [Lattice (Order Theory)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
 
-↗ [MC Algorithms](../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/🧳%20%28Formal%29%20Model%20Checking%20%28MC%29/MC%20Algorithms/MC%20Algorithms.md)
-
-↗ [Neuro-Symbolic AI](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
-↗ [Exploring Neuro-Symbolic AI](../../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/Exploring%20Neuro-Symbolic%20AI/Exploring%20Neuro-Symbolic%20AI.md)
+> [!TIP]
+> Program State Space & State Explosion
+> 
+> ↗ [Formal Methods & Automated Reasoning](../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Methods%20&%20Automated%20Reasoning.md)
+> 
+> ↗ [Program Abstraction & Abstract Interpretation](👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+> ↗ [Lattice (Order Theory)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20%28Order%20Theory%29/Lattice%20%28Order%20Theory%29.md)
+> ↗ [MC Algorithms](../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🧳%20%28Formal%29%20Model%20Checking%20%28MC%29/MC%20Algorithms/MC%20Algorithms.md)
+> 
+> ↗ [Neuro-Symbolic AI](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
+> ↗ [Exploring Neuro-Symbolic AI](../../../../../Academics%20🎓%20%28In%20CS%29/🗒️%20My%20Academic%20Projects%20Workspace/Exploring%20Neuro-Symbolic%20AI/Exploring%20Neuro-Symbolic%20AI.md)
 
 
 ### Program Analysis Techniques Taxonomy
 > [!links]
-> ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../🙇‍♂️%20Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29/Formal%20Verification%20%28FV%29%20&%20Reasoning%20Systems%20%28Formal%20Methods%29.md)
+> ↗ [Formal Methods & Automated Reasoning](../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Methods%20&%20Automated%20Reasoning.md)
 > ↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md)
 > ↗ [DCA (Dynamic Code Analysis) & DAST](👙%20DCA%20%28Dynamic%20Code%20Analysis%29%20&%20DAST/DCA%20%28Dynamic%20Code%20Analysis%29%20&%20DAST.md)
 
@@ -200,10 +205,10 @@ Program Understanding
 - Manual vs Automatic Analysis
 	- The difference between manual and automatic analysis, is whether we have a well-defined procedure for analyzing the code.
 	- In many cases manual inspection is a crucial companion to automatic analysis. If taken to the extreme, we can actually require the user of the tool to prove to us that the code is correct. Now we only have to check the proof, which case we are entering the world of _Program Verification_.
-- Syntactic (↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md), ↗ [Syntactic Analysis (Parsing)](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20%28Parsing%29/Syntactic%20Analysis%20%28Parsing%29.md)) vs Semantic Analysis (↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md))
+- Syntactic (↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md), ↗ [Syntactic Analysis (Parsing)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20%28Parsing%29/Syntactic%20Analysis%20%28Parsing%29.md)) vs Semantic Analysis (↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md))
 	- The difference between a syntactic and a semantic analysis is whether we focus on the **structure** of the program or on the **meaning** of the program.
 	- The structure of the program or syntax is often represented as a tree of nodes as recognized by the parser. In contrast the meaning of the program or semantics is represented as a set of all possible traces of a program. Here trace means a sequence of states and operations possible by the program.
-	- In the realm of program analysis for security, most of the time we are talking about semantic analysis. Analysis below semantic analysis, like syntactic analysis and lexical analysis, are mostly used in ↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md). 
+	- In the realm of program analysis for security, most of the time we are talking about semantic analysis. Analysis below semantic analysis, like syntactic analysis and lexical analysis, are mostly used in ↗ [Program Transformation & Compilation Theory (Compile-time)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29/Program%20Transformation%20&%20Compilation%20Theory%20%28Compile-time%29.md). 
 - ↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20%28Static%20Code%20Analysis%29%20&%20SAST/SCA%20%28Static%20Code%20Analysis%29%20&%20SAST.md) 🆚 ↗ [DCA (Dynamic Code Analysis) & DAST](👙%20DCA%20%28Dynamic%20Code%20Analysis%29%20&%20DAST/DCA%20%28Dynamic%20Code%20Analysis%29%20&%20DAST.md)
 	- Finally we can differentiate between dynamic and static analysis. A dynamic analysis interpolates the meaning of the program from a single trace, where a static analysis tries to predict all possible behaviors.
 	- Dynamic analysis are often just executing the programs, and then reporting any behavior it exhibits. An dynamic analysis often have proof of the bad behavior. A dynamic analysis is **sound** if every behavior it finds is a real behavior, and **complete** if can find all behaviors.

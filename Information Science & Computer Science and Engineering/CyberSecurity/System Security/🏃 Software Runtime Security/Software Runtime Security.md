@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Program Execution (Runtime)](../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+↗ [Program Execution (Runtime)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Program%20Execution%20%28Runtime%29.md)
 ↗ [Cloud-Native System Runtime Security](../Cloud%20Security/🩳%20Cloud-Native%20System%20Runtime%20Security/Cloud-Native%20System%20Runtime%20Security.md)
 
-↗ [DCA (Dynamic Code Analysis) & DAST](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST.md)
-- ↗ [Runtime Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Runtime%20Verification/Runtime%20Verification.md)
-↗ [Dynamics Code Analysis Tools (DCAT)](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Dynamics%20Code%20Analysis%20Tools%20(DCAT).md)
+↗ [DCA (Dynamic Code Analysis) & DAST](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👙%20DCA%20%28Dynamic%20Code%20Analysis%29%20&%20DAST/DCA%20%28Dynamic%20Code%20Analysis%29%20&%20DAST.md)
+- ↗ [Runtime Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20%28InfoSec%29/🍦%20Software%20Security/🪆%20Software%20%28Program%29%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👙%20DCA%20%28Dynamic%20Code%20Analysis%29%20&%20DAST/Runtime%20Verification/Runtime%20Verification.md)
+↗ [Dynamics Code Analysis Tools (DCAT)](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29/Dynamics%20Code%20Analysis%20Tools%20%28DCAT%29.md)
 
 ↗ [Code Sanitizer](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Code%20Sanitizer.md)
 

@@ -10,7 +10,7 @@
 - ↗ [Operating System Components & Runtime Libraries](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
 - ↗ [GUI Desktop Environments & Windowing Systems](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/Linux%20%28Derived%20From%20UNIX%20Family%29/Linux%20Free%20Software%20&%20OSS%20%28Open%20Source%20Software%29/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)
 
-↗ [Programming Language Processing & Program Execution](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Programming Language Processing & Program Execution](../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Compilation & Program Loading Tools](../Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 ↗ [Android Runtime (ART) and Dalvik Virtual Machine (DVM)](Java%20Runtimes%20%28JRE%20&%20JDKs%20Tools%29/Android%20Runtime%20%28ART%29%20and%20Dalvik%20Virtual%20Machine%20%28DVM%29/Android%20Runtime%20%28ART%29%20and%20Dalvik%20Virtual%20Machine%20%28DVM%29.md)
 

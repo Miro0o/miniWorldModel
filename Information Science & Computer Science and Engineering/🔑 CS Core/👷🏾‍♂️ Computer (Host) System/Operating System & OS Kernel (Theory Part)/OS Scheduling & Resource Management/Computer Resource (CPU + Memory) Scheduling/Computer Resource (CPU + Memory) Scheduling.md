@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Interrupts (Software & Hardware)](../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
+↗ [Interrupts (Software & Hardware)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Interrupts%20%28Software%20&%20Hardware%29.md)
 
 
 ### Learning Resources
@@ -36,7 +36,7 @@
 
 Medium-term scheduling is part of the **swapping function**. 
 
-> 💡 The issues involved are discussed in ↗ [Processes Description & Control](../../OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/Processes%20Description%20&%20Control.md), ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md), ↗ [Virtual Memory (OS Software Level)](../../OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
+> 💡 The issues involved are discussed in ↗ [Processes Description & Control](../../OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/📌%20Processes%20Description%20&%20Control/Processes%20Description%20&%20Control.md), ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29.md), ↗ [Virtual Memory (OS Software Level)](../../OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/Virtual%20Memory%20%28OS%20Software%20Level%29/Virtual%20Memory%20%28OS%20Software%20Level%29.md)
 
 Typically, the swapping-in decision is based on the need to manage the degree of multiprogramming. On a system that does not use virtual memory, memory management is also an issue. Thus, the swapping-in decision will consider the memory requirements of the swapped-out processes.
 

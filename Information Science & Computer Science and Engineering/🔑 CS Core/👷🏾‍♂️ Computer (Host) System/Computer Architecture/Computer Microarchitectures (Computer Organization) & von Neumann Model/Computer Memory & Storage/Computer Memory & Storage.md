@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Digital (Logic) Electronics Foundations](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Digital (Logic) Electronics Foundations](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20%28Logic%29%20Electronics%20Foundations/Digital%20%28Logic%29%20Electronics%20Foundations.md)
 
 ↗ [Computer Interfaces & Hardware Drivers](../../../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)
 
-↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
-↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29.md)
+↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29/OS%20Processes%20&%20Automata%20Management%20%28CPU%20+%20Main%20Memory%20Resource%29.md)
 
 ↗ [Storage Chips & Devices](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Storage%20Chips%20&%20Devices/Storage%20Chips%20&%20Devices.md)
 
@@ -65,12 +65,12 @@ The way out of the above dilemma is to not rely on a single memory component or 
 
 The base types that normally constitute the hierarchical memory system include **registers**, **cache**, **main memory**, **secondary memory**, and o**ff-line bulk memory**.
 #### 0️⃣ Registers
-↗ [Register](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/Register.md)
+↗ [Register](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/📌%20Inside%20CPU%20Core%20%28Core%20Microarchitecture%29/Register.md)
 #### 1️⃣ Cache Memory (高速缓存/ 主存和CPU之间的缓冲内存)
 Main memory is usually extended with a higher-speed, smaller cache. The cache is not usually visible to the programmer or, indeed, to the processor. It is a device for staging the movement of data between main memory and processor registers to improve performance.
 
-↗ [CPU Cache (L1, L2)](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/CPU%20Cache%20(L1,%20L2).md)
-↗ [LLC (Last Level Cache) - L3 (L4)](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/Outside%20CPU%20Core%20(Interconnect%20Topology)/LLC%20(Last%20Level%20Cache)%20-%20L3%20(L4).md)
+↗ [CPU Cache (L1, L2)](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/📌%20Inside%20CPU%20Core%20%28Core%20Microarchitecture%29/CPU%20Cache%20%28L1,%20L2%29.md)
+↗ [LLC (Last Level Cache) - L3 (L4)](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/Outside%20CPU%20Core%20%28Interconnect%20Topology%29/LLC%20%28Last%20Level%20Cache%29%20-%20L3%20%28L4%29.md)
 
 > 🤖 Gemini 3.0 Pro
 > https://gemini.google.com/share/ebedeb833ded
@@ -85,10 +85,10 @@ To understand why we have so many different "storage" spots (L1, L2, LLC, RAM), 
 |**LLC (L3)**|**Uncore (Shared)**|**Large (MB)**|**~10-20 nanoseconds**|**The Community Warehouse.**|
 |**RAM**|Motherboard|Huge (GB)|~100 nanoseconds|The Supermarket (The drive takes forever).|
 #### 2️⃣ Main Memory (Primary Memory)（主存）
-↗ [Primary Storage (Main Memory) Technologies & RAM](Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
+↗ [Primary Storage (Main Memory) Technologies & RAM](Primary%20Storage%20%28Main%20Memory%29%20Technologies%20&%20RAM/Primary%20Storage%20%28Main%20Memory%29%20Technologies%20&%20RAM.md)
 ##### 👻 Virtual Memory
-↗ [Virtual Memory (Hardware and Control Structure)](Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
-↗ [Virtual Memory (OS Software Level)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
+↗ [Virtual Memory (Hardware and Control Structure)](Primary%20Storage%20%28Main%20Memory%29%20Technologies%20&%20RAM/Virtual%20Memory%20%28Hardware%20and%20Control%20Structure%29/Virtual%20Memory%20%28Hardware%20and%20Control%20Structure%29.md)
+↗ [Virtual Memory (OS Software Level)](../../../Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/Virtual%20Memory%20%28OS%20Software%20Level%29/Virtual%20Memory%20%28OS%20Software%20Level%29.md)
 
 A hard disk can also be used to provide an extension to main memory known as swap memory. 
 #### 3️⃣ Auxiliary Memory (Secondary Memory)（辅存，二级存储）
@@ -96,7 +96,7 @@ Data are stored more permanently on external mass storage devices, of which the 
 
 External, nonvolatile memory is also referred to as **secondary memory** or **auxiliary memory**. These are used to store program and data files, and are usually visible to the programmer only in terms of files and records, as opposed to individual bytes or words.
 
-↗ [Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)](Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage).md)
+↗ [Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)](Secondary%20%28Auxiliary%29%20Storage%20Technologies%20&%20DAS%20%28Directly%20Attached%20Storage%29/Secondary%20%28Auxiliary%29%20Storage%20Technologies%20&%20DAS%20%28Directly%20Attached%20Storage%29.md)
 #### 4️⃣ Off-line Bulk Memory
 Off-line bulk memory (which includes tertiary memory and off-line storage) requires either human or robotic intervention before any data can be accessed; the data must be transferred from the storage media to secondary memory. 
 
@@ -133,11 +133,11 @@ There are three basic forms of locality:
 ## 🪠 Types of Memory & Storage (Engineering Level)
 ### 1️⃣ Volatile Memory (Registers /Cache Memory /Main Memory)
 #### Registers
-↗ [Register](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/Register.md)
+↗ [Register](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/📌%20Inside%20CPU%20Core%20%28Core%20Microarchitecture%29/Register.md)
 #### RAM (Random Access Memory)
 > RAM is somewhat of a misnomer; a more appropriate name is read-write memory
 > 
-> ↗ [Primary Storage (Main Memory) Technologies & RAM](Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
+> ↗ [Primary Storage (Main Memory) Technologies & RAM](Primary%20Storage%20%28Main%20Memory%29%20Technologies%20&%20RAM/Primary%20Storage%20%28Main%20Memory%29%20Technologies%20&%20RAM.md)
 ##### DRAM (Dynamic RAM)
 The basic operation of all DRAM memories is the same, but there are many flavors, including
 - multibank DRAM (MDRAM)
@@ -154,7 +154,7 @@ The different types of SRAM include asynchronous SRAM, synchronous SRAM, and pip
 
 
 ### 2️⃣ Non-Volatile Memory (NVM, Secondary Memory)
-↗ [Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)](Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage).md)
+↗ [Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)](Secondary%20%28Auxiliary%29%20Storage%20Technologies%20&%20DAS%20%28Directly%20Attached%20Storage%29/Secondary%20%28Auxiliary%29%20Storage%20Technologies%20&%20DAS%20%28Directly%20Attached%20Storage%29.md)
 #### ROM (Read-Only Memory)
 There are five basic types of ROM: ROM, PROM, EPROM, EEPROM, and flash memory. 
 - **PROM (programmable read-only memory)** is a variation on ROM. PROMs can be programmed by the user with the appropriate equipment. Whereas ROMs are hardwired, PROMs have fuses that can be blown to program the chip. Once programmed, the data and instructions in PROM cannot be changed. 
@@ -166,13 +166,13 @@ There are five basic types of ROM: ROM, PROM, EPROM, EEPROM, and flash memory.
 
 
 ## Memory Organization & Access
-↗ [Address Space & Memory Layout](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
-↗ [Memory Access & Addressing](../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [Address Space & Memory Layout](../../../Operating%20System%20&%20OS%20Kernel%20%28Theory%20Part%29/OS%20Memory%20Management%20%28Main%20Memory%20+%20Secondary%20Memory%20Resource%29/Address%20Space%20&%20Memory%20Layout.md)
+↗ [Memory Access & Addressing](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20%28Runtime%29/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 
 
 ## Real-World Examples of Memory Management
-↗ [Real World Examples of Memory Management](Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Real%20World%20Examples%20of%20Memory%20Management.md)
+↗ [Real World Examples of Memory Management](Primary%20Storage%20%28Main%20Memory%29%20Technologies%20&%20RAM/Real%20World%20Examples%20of%20Memory%20Management.md)
 
 
 
