@@ -14,7 +14,7 @@
 ↗ [Model Tuning & Hyperparameter Optimization (HPO)](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Connectionist%20AI%20&%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning/3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
 
 ↗ [AI (Data) Infrastructure & Machine Learning Systems](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Machine%20Learning%20Systems/AI%20(Data)%20Infrastructure%20&%20Machine%20Learning%20Systems.md)
-↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20(MLC)%20&%20Operator%20Dev.md)
+↗ [Machine Learning Compilation (MLC) & Operator Dev](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20(MLC)%20&%20Operator%20Dev.md)
 
 
 ### Learning Resources

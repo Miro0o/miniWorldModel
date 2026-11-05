@@ -17,7 +17,7 @@
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
 ↗ [Computer Languages & Programming Methodology](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-↗ [Programming Language Processing & Program Execution](../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Programming Language Processing & Program Execution](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 
 ↗ [LLM (Large Language Model)](🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 ↗ [Knowledge Graph (KG)](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
@@ -122,7 +122,7 @@ If you have no background in neural networks but would like to take the course a
 
 ↗ [Computer Languages & Programming Methodology](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 - ↗ [Programming Language Theory (PLT)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-↗ [Programming Language Processing & Program Execution](../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Programming Language Processing & Program Execution](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 
 
 ### NLP Background & Classical Approaches
@@ -130,8 +130,8 @@ If you have no background in neural networks but would like to take the course a
 > [!links]
 > ↗ [Learning English the Right Way](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 > - ↗ [English Grammar](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/1️⃣%20English%20Grammar/English%20Grammar.md)
-> ↗ [Programming Language Processing & Program Execution](../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-> - ↗ [Program Transformation & Compilation Theory (Compile-time)](../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time).md)
+> ↗ [Programming Language Processing & Program Execution](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+> - ↗ [Program Transformation & Compilation Theory (Compile-time)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time).md)
 
 > 🔗 https://home.cs.colorado.edu/~martin/slp.html
 > Speech and Language Processing, 2nd ed, 2009
@@ -161,7 +161,7 @@ We often introduce the models and algorithms we present throughout the book as w
 > [!links]
 > ↗ [Mathematical Modeling & Abstraction](../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 > ↗ [Models of Computation & Abstract Machines](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-> ↗ [(Formal) Model Checking (MC)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
+> ↗ [(Formal) Model Checking (MC)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
 > 
 > ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 > ↗ [Classical Logic (Standard Formal Logic)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)

@@ -274,7 +274,7 @@ In general, we will assume that the attacker knows the crypto-system to be crack
 	3. 可以为序列密码、HASH函数等的实现供帮助;
 	4. 算法必须能够用软件和硬件两种方法实现。另外，算法设计相对简单也是一个评估因素。
 ##### Correctness
-↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 ##### Security ⭐
 > 📖 **刘嘉勇**，任德斌，方勇，胡勇，应用密码学（第2版）（“十一五”国家级规划教材），清华大学出版社，2014年11月
 
@@ -395,7 +395,7 @@ Deniable Encryption
 ## 🌅 Secure Communication & Cryptographic Protocols
 > [!links]
 > ↗ [Models of Communication & Cryptographic Protocols and Intruders](🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
-> ↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+> ↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 
 
 ### Secure Communication with Core Cryptographic Properties ⭐
@@ -412,8 +412,8 @@ Deniable Encryption
 
 
 ### Security Protocol Verification
-↗ [Security Protocols & Cryptographic Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
-↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+↗ [Security Protocols & Cryptographic Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 
 
 

@@ -55,7 +55,7 @@
 
 ### Program, Software, and Information Systems
 ↗ [Computation as Programs - Computer Program Semantics & Models](../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
-↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+↗ [Program Execution (Runtime)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
 
 ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
@@ -134,7 +134,7 @@ See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Softw
 
 ### Software Quality and Security
 ↗ [ICT System Reliability (Correctness) & Verification](../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
+↗ [Formal Methods & Automated Reasoning](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Methods%20&%20Automated%20Reasoning.md)
 ↗ [Software Quality Assurance (SQA)](🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
 
 ↗️ [Software Testing](../Operations Management/🧪 Software Testing/Software Testing.md)

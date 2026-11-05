@@ -77,7 +77,7 @@ Kenneth Kunen
 
 ## Ordered Set & Relation
 ↗ [Relation & Relation Theory](👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
-- ↗ [Equivalence Relation](👬%20Relation%20&%20Relation%20Theory/Equivalence%20Relation.md)
+- ↗ [Equivalence Relation](👬%20Relation%20&%20Relation%20Theory/Equivalence%20Relation/Equivalence%20Relation.md)
 - ↗ [Partial Order & Order Theory](👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
 	- ↗ [Lattice (Order Theory)](👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
 

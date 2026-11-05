@@ -19,7 +19,7 @@
 ↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
 ↗ [Program Analysis Basics](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
+↗ [Formal Methods & Automated Reasoning](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Methods%20&%20Automated%20Reasoning.md)
 ↗ [Formal Verifiers & Constraint Solvers & Checkers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers.md)
 
 
@@ -61,9 +61,9 @@ Quality measures include such topics as [correctness](https://en.wikipedia.org/w
 
 ↗ [Software Testing](🧪%20Software%20Testing/Software%20Testing.md)
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
-- ↗ [Program (Formal) Verification](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
-- ↗ [(Formal) Model Checking (MC)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
+↗ [Formal Methods & Automated Reasoning](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Methods%20&%20Automated%20Reasoning.md)
+- ↗ [Program (Formal) Verification](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
+- ↗ [(Formal) Model Checking (MC)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
 
 
 
@@ -86,7 +86,7 @@ Quality measures include such topics as [correctness](https://en.wikipedia.org/w
 		- ↗ [Data Flow Analysis](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Data%20Flow%20Analysis/Data%20Flow%20Analysis.md)
 		- ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
 		- etc.
-	- ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
+	- ↗ [Formal Methods & Automated Reasoning](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Methods%20&%20Automated%20Reasoning.md)
 
 ↗ [Software Testing](🧪%20Software%20Testing/Software%20Testing.md)
 

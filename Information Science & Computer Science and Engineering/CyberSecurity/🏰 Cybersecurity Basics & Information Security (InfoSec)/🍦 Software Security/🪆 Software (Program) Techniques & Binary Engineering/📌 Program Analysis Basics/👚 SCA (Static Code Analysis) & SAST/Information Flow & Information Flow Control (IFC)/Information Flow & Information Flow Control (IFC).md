@@ -12,8 +12,8 @@
 
 ↗ [Cryptology & Secure Communication](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 ↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../../../Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md)
-↗ [Security Protocols & Cryptographic Verification](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
-↗ [Zero-Knowledge Proof (ZKP)](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
+↗ [Security Protocols & Cryptographic Verification](../../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+↗ [Zero-Knowledge Proof (ZKP)](../../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
 
 ↗ [Access Control (访问控制)](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
 
@@ -574,7 +574,7 @@ A _when_ declassification policy regulates when the information can be release
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
 ↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
-↗ [(Formal) Model Checking (MC)](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
+↗ [(Formal) Model Checking (MC)](../../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
 
 - Trace semantics  
 - Bisimulation  
@@ -1061,7 +1061,7 @@ where $p$ was declared with as input $\text{var}_{in}$ and output $\text{var}_{o
 #### Type-System-Based IFC
 > [!links]
 > ↗ [Type Theory (类型论)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
-> ↗ [Type Analysis](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
+> ↗ [Type Analysis](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
 > ↗ [PL Static Syntactic Analysis & Type System](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Security_type_system
@@ -1168,7 +1168,7 @@ Information Flow/Noninterference guarantees that the intruder does not learn any
 - ... not like secrecy in OFMC
 - ... a bit like guessable secrecy in OFMC
 - ... close to α-β-privacy! 
-	- ↗ [Cryptographic Protocols Modeling & Verification /α-β Privacy](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md#α-β%20Privacy)
+	- ↗ [Cryptographic Protocols Modeling & Verification /α-β Privacy](../../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md#α-β%20Privacy)
 
 > [!TIP] Theorem (Non-Interference instantiated for $T \sqsubseteq U$)
 > * Suppose a program $c$ satisfies information flow policy $\gamma$:

@@ -10,12 +10,12 @@
 ↗ [Reliable Data Transfer (RDT)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
 
 ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
-- ↗ [(Formal) Model Checking (MC)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
-- ↗ [Security Protocols & Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
-	- ↗ [Cryptographic Protocols Modeling & Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
-- ↗ [Hardware (Digital Circuits) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Hardware%20(Digital%20Circuits)%20Verification/Hardware%20(Digital%20Circuits)%20Verification.md)
-- ↗ [Program (Formal) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
+↗ [Formal Methods & Automated Reasoning](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Methods%20&%20Automated%20Reasoning.md)
+- ↗ [(Formal) Model Checking (MC)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
+- ↗ [Security Protocols & Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+	- ↗ [Cryptographic Protocols Modeling & Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+- ↗ [Hardware (Digital Circuits) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Hardware%20(Digital%20Circuits)%20Verification/Hardware%20(Digital%20Circuits)%20Verification.md)
+- ↗ [Program (Formal) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
 
 ↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
 - ↗ [Software Testing](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
@@ -53,21 +53,21 @@ Errors are typically concentrated in a few software modules – about half of th
 ### Software Verification
 > [!links]
 > ↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
-> ↗ [Program (Formal) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
+> ↗ [Program (Formal) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
 
 > 📖 Principles of Model Checking, Christel Baier and Joost-Pieter Katoen
 
 **Software Verification**: ↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
 - *Peer reviewing* (↗ [Code Review](🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)) and *software testing* (↗ [Software Testing](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)) are the major software verification techniques used in practice.
-- Formal verification techniques for property P: ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md) & ↗ [Program (Formal) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
+- Formal verification techniques for property P: ↗ [Formal Methods & Automated Reasoning](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Methods%20&%20Automated%20Reasoning.md) & ↗ [Program (Formal) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
 	- Deductive methods:
 		- Method: provide a formal proof that P holds
 		- Tool:
-			- Theorem Prover: ↗ [Theorem Provers & Proof Assistants](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Theorem%20Provers%20&%20Proof%20Assistants.md), ↗ [SMT Solving & Algorithms](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md), ↗ [SAT Solving & Algorithms](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md);
+			- Theorem Prover: ↗ [Theorem Provers & Proof Assistants](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Theorem%20Provers%20&%20Proof%20Assistants.md), ↗ [SMT Solving & Algorithms](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md), ↗ [SAT Solving & Algorithms](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md);
 			- Proof Assistant;
 			- Proof Checker;
 		- Applicable if: system has form a systematical theory
-	- ↗ [(Formal) Model Checking (MC)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md):
+	- ↗ [(Formal) Model Checking (MC)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md):
 		- Method: systematic check on P in ALL STATES
 		- Tool: model checker
 		- Applicable if: system generates (finite) behavioural model
@@ -94,13 +94,13 @@ Errors are typically concentrated in a few software modules – about half of th
 - Automated verification of concurrent programs
 	- ﻿﻿model-based instead of proof-rule based approach
 	- ﻿﻿does the concurrent program satisfy a given (logical) property?
-- ↗ [(Formal) Model Checking (MC)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
+- ↗ [(Formal) Model Checking (MC)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
 
 
 ### Hardware Verification
 > [!links]
 > ↗ [Hardware Quality Assurance (HQA)](../../../Computer%20Engineering,%20Embedded%20&%20IoT/Hardware%20Quality%20Assurance%20(HQA)/Hardware%20Quality%20Assurance%20(HQA).md)
-> ↗ [Hardware (Digital Circuits) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Hardware%20(Digital%20Circuits)%20Verification/Hardware%20(Digital%20Circuits)%20Verification.md)
+> ↗ [Hardware (Digital Circuits) Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Verification%20(FV)/Hardware%20(Digital%20Circuits)%20Verification/Hardware%20(Digital%20Circuits)%20Verification.md)
 
 > 📖 Principles of Model Checking, Christel Baier and Joost-Pieter Katoen
 

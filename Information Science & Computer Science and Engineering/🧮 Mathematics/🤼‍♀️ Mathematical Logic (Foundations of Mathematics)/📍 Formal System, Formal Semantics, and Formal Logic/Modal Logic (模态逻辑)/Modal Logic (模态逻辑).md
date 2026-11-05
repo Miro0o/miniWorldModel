@@ -11,6 +11,8 @@
 
 ↗ [Models of Computation & Abstract Machines](../../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system & kripe structure"
 
+↗ [Bisimulation](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Equivalence%20Relation/Bisimulation.md)
+
 
 ### Other Resources
 https://users.aalto.fi/~rintanj1/notes-logic.pdf

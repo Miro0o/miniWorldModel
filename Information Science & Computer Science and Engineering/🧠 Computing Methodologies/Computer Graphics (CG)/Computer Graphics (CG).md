@@ -21,12 +21,25 @@
 
 ↗ [Computer Vision (CV)](../👽%20Artificial%20Intelligence/Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md)
 
+↗ [Computer Graphics, Acoustics, and Multimedia Related Venues and People](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Application/Computer%20Graphics,%20Acoustics,%20and%20Multimedia%20Related%20Venues%20and%20People.md)
+
+
+### Learning Resources
+
 
 ### Other Resources
+https://math.hws.edu/eck/cs424/downloads/graphicsbook.pdf
+Introduction to Computer Graphics
+Version 1.4, August 2023
+David J. Eck
+Hobart and William Smith Colleges
 
 
 
 ## Intro
+> [!links]
+> ↗ [Computer Graphics Programming](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
+
 > [!TIP]
 > Computer Graphics (CG: generating graphics
 > ↗ [Computer Vision (CV)](../👽%20Artificial%20Intelligence/Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md): understanding graphics

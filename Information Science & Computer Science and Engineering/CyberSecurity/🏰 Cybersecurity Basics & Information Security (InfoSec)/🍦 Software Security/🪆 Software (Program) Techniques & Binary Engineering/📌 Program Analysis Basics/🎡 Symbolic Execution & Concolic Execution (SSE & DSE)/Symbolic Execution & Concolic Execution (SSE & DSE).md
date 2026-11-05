@@ -9,8 +9,8 @@
 ↗ [Symbolic and Algebraic Manipulation](../../../../../../../🧠%20Computing%20Methodologies/Symbolic%20and%20Algebraic%20Manipulation/Symbolic%20and%20Algebraic%20Manipulation.md)
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
-↗ [Constraint Solving & Theorem Proving](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+↗ [Formal Methods & Automated Reasoning](../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Methods%20&%20Automated%20Reasoning.md)
+↗ [Constraint Solving & Theorem Proving](../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 
 ↗ [Problem Solving & Search-Based Methods](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
 - ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
@@ -19,8 +19,8 @@
 ↗ [Control Flow Analysis](../👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Control%20Flow%20Analysis/Control%20Flow%20Analysis.md)
 
 ↗ [Formal Verifiers & Constraint Solvers & Checkers](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers.md)
-- ↗ [SAT Solving & Algorithms](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md)
-- ↗ [SMT Solving & Algorithms](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)
+- ↗ [SAT Solving & Algorithms](../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md)
+- ↗ [SMT Solving & Algorithms](../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)
 	- ↗ [Z3 Theorem Prover](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/Z3%20Theorem%20Prover.md)
 	- ↗ [cvc5 (Cooperating Validity Checker)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/cvc5%20(Cooperating%20Validity%20Checker).md)
 - ↗ [Theorem Provers & Proof Assistants](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Theorem%20Provers%20&%20Proof%20Assistants.md)
@@ -59,11 +59,11 @@ https://jfmc.github.io/z3-play/
 > For satisfiability problem:
 > ↗ [Formal System, Formal Semantics, and Formal Logic](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
 > ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20(PL)%20-%20(零阶)%20命题逻辑.md)
-> ↗ [(Formal) Model Checking (MC)](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
+> ↗ [(Formal) Model Checking (MC)](../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
 
 > [!links]
 > For SMT solving:
-> ↗ [SMT Solving & Algorithms](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)
+> ↗ [SMT Solving & Algorithms](../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)
 > ↗ [Z3 Theorem Prover](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/Z3%20Theorem%20Prover.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/concolic-execution.html
@@ -338,7 +338,7 @@ int incr(int a) {
 ### Symbolic Expressions and Constraint Solving
 > 🔗 https://docs.angr.io/en/latest/core-concepts/symbolic.html
 
-The power of symbolic execution didn't come with the emulation, but with the ability to execute what is known as the **symbolic variables**. Instead of saying that a (symbolic) variable has a _concrete_ numerical value, we can say that it holds a _symbol_, effectively just a name. Then, performing arithmetic operations with that symbol/variable will yield a tree of operations (termed an _abstract syntax tree_ or _↗ [AST & CST (Abstract & Contrete Syntax Tree)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/AST%20&%20CST%20(Abstract%20&%20Contrete%20Syntax%20Tree).md)_, from compiler theory). ASTs can be translated into **constraints** for _↗ [SMT Solving & Algorithms](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)_, like z3, in order to ask questions like “given the output of this sequence of operations, what must the input have been?”. This latter process is known for ↗ [Constraint Solving & Theorem Proving](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md).
+The power of symbolic execution didn't come with the emulation, but with the ability to execute what is known as the **symbolic variables**. Instead of saying that a (symbolic) variable has a _concrete_ numerical value, we can say that it holds a _symbol_, effectively just a name. Then, performing arithmetic operations with that symbol/variable will yield a tree of operations (termed an _abstract syntax tree_ or _↗ [AST & CST (Abstract & Contrete Syntax Tree)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/AST%20&%20CST%20(Abstract%20&%20Contrete%20Syntax%20Tree).md)_, from compiler theory). ASTs can be translated into **constraints** for _↗ [SMT Solving & Algorithms](../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)_, like z3, in order to ask questions like “given the output of this sequence of operations, what must the input have been?”. This latter process is known for ↗ [Constraint Solving & Theorem Proving](../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md).
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/concolic-execution.html#sec:2.3
 
@@ -405,7 +405,7 @@ Another big problem is memory aliasing and arrays. Since we can only access the 
 ## Concolic Execution & DSE (Dynamic Symbolic Execution)
 > [!links]
 > ↗ [Fuzzing (Concrete Execution)](../👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
-> ↗ [(Formal) Model Checking (MC)](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
+> ↗ [(Formal) Model Checking (MC)](../../../../🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🧳%20(Formal)%20Model%20Checking%20(MC)/(Formal)%20Model%20Checking%20(MC).md)
 > 
 > ↗ [angr](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Symbolic%20&%20Concolic%20Execution%20Engines/angr.md)
 > ↗ [SymCC](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Symbolic%20&%20Concolic%20Execution%20Engines/SymCC.md)

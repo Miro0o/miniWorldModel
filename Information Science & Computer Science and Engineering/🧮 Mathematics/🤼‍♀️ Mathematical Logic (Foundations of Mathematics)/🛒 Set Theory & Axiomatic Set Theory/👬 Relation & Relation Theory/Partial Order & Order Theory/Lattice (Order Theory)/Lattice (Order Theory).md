@@ -367,7 +367,7 @@ Every lattice can be embedded into a bounded lattice by adding a greatest and a 
 
 ### Least Fixed-Point (LFP) and Greatest Fixed-Point (GFP)
 > [!links]
-> ↗ [MC Algorithms](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/MC%20Algorithms/MC%20Algorithms.md)
+> ↗ [MC Algorithms](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🧳%20(Formal)%20Model%20Checking%20(MC)/MC%20Algorithms/MC%20Algorithms.md)
 > 
 > ↗ [Modal Logic (模态逻辑)](../../../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Modal%20Logic%20(模态逻辑).md)
 > ↗ [Computation-Tree Logic (CTL*) Family](../../../../📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
@@ -619,11 +619,11 @@ $\boxed{ \begin{gathered} \text{Lattice Theory}\\ \downarrow\\ \text{Fixed-point
 
 ### Fixed Point Computation & Worklist Algorithm
 > [!links]
-> ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
+> ↗ [Formal Methods & Automated Reasoning](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/Formal%20Methods%20&%20Automated%20Reasoning.md)
 > ↗ [Program Analysis Basics](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
 > ↗ [Programming Language Theory (PLT)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 > 
-> ↗ [MC Algorithms](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/MC%20Algorithms/MC%20Algorithms.md)
+> ↗ [MC Algorithms](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Automated%20Reasoning/🧳%20(Formal)%20Model%20Checking%20(MC)/MC%20Algorithms/MC%20Algorithms.md)
 > ↗ [Program Abstraction & Abstract Interpretation](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 
 > 🔗 https://martinsteffen.github.io/compilerconstruction/worklistalgos/

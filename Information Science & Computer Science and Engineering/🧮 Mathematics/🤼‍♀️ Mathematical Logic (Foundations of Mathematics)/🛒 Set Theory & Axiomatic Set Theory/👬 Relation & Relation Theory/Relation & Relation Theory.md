@@ -21,8 +21,6 @@
 ↗ [Markov Process & Markov Chain (MC)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
 - ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
 
-↗ [Bisimulation](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking%20(MC)/Models%20Analysis%20&%20Improvement/Bisimulation.md)
-
 
 ### Other Resources
 
@@ -169,7 +167,7 @@ Relations that satisfy certain combinations of the above properties are particul
 偏序关系，例如通常的序关系$R⊆N×N$，$R(a,b)$当且仅当$a⩽b$。
 #### Equivalence Relation
  >[!links]
- >↗ [Equivalence Relation](Equivalence%20Relation.md)
+ >↗ [Equivalence Relation](Equivalence%20Relation/Equivalence%20Relation.md)
 
 > 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 

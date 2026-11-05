@@ -23,12 +23,63 @@
 ↗ [Compute Unified Device Architecture & CUDA Programming](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
 
 
-### Other Resources
+### Learning Resources
 https://math.hws.edu/eck/cs424/downloads/graphicsbook.pdf
 Introduction to Computer Graphics
 Version 1.4, August 2023
 David J. Eck
 Hobart and William Smith Colleges
+
+https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9
+- [Learning Path](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#learning-path)
+- [Foundations](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#foundations)
+    - [Getting Started](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#getting-started)
+    - [C++](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#c)
+    - [Mathematics](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#mathematics)
+- [Graphics Fundamentals](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#graphics-fundamentals)
+    - [Overview](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#overview)
+    - [Courses](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#courses)
+    - [Software Rendering](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#software-rendering)
+- [GPU Fundamentals](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#gpu-fundamentals)
+    - [GPU Architecture](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#gpu-architecture)
+    - [Shaders](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#shaders)
+- [Graphics APIs](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#graphics-apis)
+    - [OpenGL](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#opengl)
+    - [Vulkan](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#vulkan)
+    - [DirectX 11](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#directx-11)
+    - [DirectX 12](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#directx-12)
+    - [Metal](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#metal)
+    - [WebGL](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#webgl)
+    - [WebGPU](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#webgpu)
+    - [Tooling (Debuggers)](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#tooling-debuggers)
+- [Rendering Techniques](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#rendering-techniques)
+    - [Renderer Architecture](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#renderer-architecture)
+    - [Geometry, Culling and LOD](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#geometry-culling-and-lod)
+    - [Materials and Shading](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#materials-and-shading)
+    - [Lighting and Shadows](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#lighting-and-shadows)
+    - [Global Illumination](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#global-illumination)
+    - [Ray Tracing and Path Tracing](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#ray-tracing-and-path-tracing)
+    - [Volumetric Rendering](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#volumetric-rendering)
+    - [Textures and Sampling](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#textures-and-sampling)
+    - [Post-Processing](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#post-processing)
+    - [Anti-Aliasing and Upscaling](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#anti-aliasing-and-upscaling)
+    - [Color, Tone Mapping and HDR](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#color-tone-mapping-and-hdr)
+    - [Natural Phenomena](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#natural-phenomena)
+    - [Non-Photorealistic Rendering](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#non-photorealistic-rendering)
+- [Going Further](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#going-further)
+    - [Physics](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#physics)
+    - [Machine Learning](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#machine-learning)
+    - [Research Papers](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#research-papers)
+    - [Conferences](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#conferences)
+    - [Blogs](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#blogs)
+    - [Channels](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#channels)
+- [Community and Career](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#community-and-career)
+    - [Communities](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#communities)
+    - [Looking for Work](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#looking-for-work)
+    - [Similar Lists](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9#similar-lists)
+
+
+### Other Resources
 
 
 

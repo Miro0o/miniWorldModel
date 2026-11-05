@@ -12,13 +12,13 @@
 
 ↗ [Web Templating Apps & Frameworks](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Apps%20&%20Frameworks/Web%20Templating%20Apps%20&%20Frameworks.md)
 
-↗ [Machine Learning Compilation (MLC) & Operator Dev](../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20(MLC)%20&%20Operator%20Dev.md)
+↗ [Machine Learning Compilation (MLC) & Operator Dev](../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Machine%20Learning%20Compilation%20(MLC)%20&%20Operator%20Dev.md)
 
 ↗ [Media Formats & Standards & Codec (Coder-Decoder)](../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder).md)
 
 ↗ [CSS (Cascading Style Sheets)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/CSS%20(Cascading%20Style%20Sheets)/CSS%20(Cascading%20Style%20Sheets).md)
 
-↗ [Transformation Control & User-Schedulable Language](../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20(Program)%20Analysis%20&%20Optimization/Machine-Independent%20Optimization/Transformation%20Control%20&%20User-Schedulable%20Language/Transformation%20Control%20&%20User-Schedulable%20Language.md)
+↗ [Transformation Control & User-Schedulable Language](../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20(Program)%20Analysis%20&%20Optimization/Machine-Independent%20Optimization/Transformation%20Control%20&%20User-Schedulable%20Language/Transformation%20Control%20&%20User-Schedulable%20Language.md)
 
 
 ### Other Resources

@@ -1,0 +1,844 @@
+# Formal Methods & Automated Reasoning
+
+[TOC]
+
+
+
+## Res
+### Related Topics
+↗ [Mathematics](../../../../../../🧮%20Mathematics/Mathematics.md)
+- ↗ [Mathematical Modeling & Abstraction](../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
+- ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../../../../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+- ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+	- ↗ [Formal System, Formal Semantics, and Formal Logic](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md)
+	- ↗ [Zeroth-Order Logic & Propositional Logic (PL) - (零阶) 命题逻辑](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20(PL)%20-%20(零阶)%20命题逻辑.md)
+	- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+- ↗ [Theory of Computation](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+	- ↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+	- ↗ [Complexity Theory & Computational Complexity](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+	- ↗ [Type Theory (类型论)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+	- ↗ [Models of Computation & Abstract Machines](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) ⭐
+		- ↗ [Lambda Calculus (λ-Calculus)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🪸%20Type%20Theory%20(类型论)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+- ↗ [Proof Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
+	- ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+
+↗ [Problem Solving & Search-Based Methods](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
+- ↗ [Systematic & Combinatorial Search (Classical Search)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+- ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
+	- ↗ [Constraint Satisfaction Problems (CSPs)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+↗ [Matching & Assignment Problems](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Matching%20&%20Assignment%20Problems/Matching%20&%20Assignment%20Problems.md)
+
+↗ [Programming Language Theory (PLT)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+- ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+↗ [Symbolic and Algebraic Manipulation](../../../../../../🧠%20Computing%20Methodologies/Symbolic%20and%20Algebraic%20Manipulation/Symbolic%20and%20Algebraic%20Manipulation.md)
+
+↗ [Formal Verifiers & Constraint Solvers & Checkers](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers.md)
+- ↗ [Theorem Provers & Proof Assistants](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Theorem%20Provers%20&%20Proof%20Assistants.md)
+	- ↗ [Isabelle & Isar Language](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/♊️%20Formal%20Verifiers%20&%20Constraint%20Solvers%20&%20Checkers/Theorem%20Provers%20&%20Constraint%20Solvers/Theorem%20Provers%20&%20Proof%20Assistants/Interactive%20Theorem%20Prover%20(ITP)/Isabelle%20&%20Isar%20Language/Isabelle%20&%20Isar%20Language.md)
+- ↗ [SAT Solving & Algorithms](🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SAT%20Solving%20&%20Algorithms/SAT%20Solving%20&%20Algorithms.md)
+- ↗ [SMT Solving & Algorithms](🎮%20Constraint%20Solving%20&%20Theorem%20Proving/SMT%20Solving%20&%20Algorithms/SMT%20Solving%20&%20Algorithms.md)
+- etc.
+
+↗ [Software (Program) Techniques & Binary Engineering](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
+↗ [Program Analysis Basics](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+- ↗ [SCA (Static Code Analysis) & SAST](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
+	- ↗ [Program Abstraction & Abstract Interpretation](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+- ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
+↗ [Static Code Analysis Tools (SCAT)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Static%20Code%20Analysis%20Tools%20(SCAT).md)
+
+↗ [Formal Verification & Analysis Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
+- ↗ [LEAN](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
+- ↗ [Viper (Verification Infrastructure for Permission-​based Reasoning)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Viper%20(Verification%20Infrastructure%20for%20Permission-​based%20Reasoning).md)
+↗ [Logic Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+- ↗ [Prolog (Programmation en Logique)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
+↗ [Functional Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+- ↗ [Haskell](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
+
+↗ [Julia](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%20(General%20Purpose%20Languages)/Julia/Julia.md)
+
+↗ [AI4Math](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Math/AI4Math.md)
+
+↗ [Software Quality Assurance (SQA)](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
+↗ [Software Testing](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Security Audit & Security Audit Trail](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
+
+
+### Learning Resources
+👨‍💻 👨‍🏫 https://www.imm.dtu.dk/~samo/
+Sebastian Mödersheim, Associate professor in the [Software Systems Engineering section](https://www.compute.dtu.dk/english/Research/Research-sections/Software-Systems-Engineering) at [DTU Compute](http://compute.dtu.dk/).
+Tools and Sources
+- [noname and α-β privacy](https://www.imm.dtu.dk/~samo/alphabeta/)
+- [PSPSP](https://www.imm.dtu.dk/~samo/pspsp.html)
+- [Compositional Reasoning](https://www.imm.dtu.dk/~samo/composec.html)
+- [Formalizing and Proving a Typing Result for Security Protocols in Isabelle/HOL](https://www.imm.dtu.dk/~samo/typing-soundness)
+- [AIF-Omega (Set-based abstraction)](https://www.imm.dtu.dk/~samo/aifom.html)
+- Open-Source Fixed-Point Model-Checker OFMC
+	- [Latest version 2024](https://www.imm.dtu.dk/~samo/ofmc2024.zip) supporting both AnB and a fragment of ASLan.
+	    - [The OFMC Tutorial](https://www.imm.dtu.dk/~samo/OFMC-tutorial.pdf)
+	    - Release includes source code and executables for windows, mac and linux, so most users will **not** need to compile from source.
+	    - The current source code uses a somewhat experimental parallel library; if compiling from source gives you trouble with that library, replace "Search.hs" by the file "Search-classic.hs" which removes the dependency.
+	- Most relevant papers: [Overview paper](https://www.imm.dtu.dk/~samo/ofmc-fosad.pdf), [Constraint Differentiation](https://www.imm.dtu.dk/~samo/101.pdf), [Algebraic Intruder Deductions](http://www.inf.ethz.ch/personal/basin/pubs/lpar06.pdf), [Secure Pseudonymous Channels](http://domino.research.ibm.com/library/cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/51b2264fa24a84f58525753d002be7ff?OpenDocument), [Algebraic Properties in Alice and Bob Notation](http://domino.research.ibm.com/library/cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/fc9adee76188a3968525746e001e7a8b?OpenDocument&Highlight=0,moedersheim), [Integrating Automated and Interactive Protocol Verification.](https://www.imm.dtu.dk/~samo/integrating.pdf)  
+- SPS/APS and APCC: Protocols, Typing, and Composition
+	- Tool suite by [Omar Almousa](http://lbtweb.pbworks.com/w/page/67121002/Omar%20Almousa), Sebastian Mödersheim, [Paolo Modesti](http://www.ncl.ac.uk/computing/people/profile/paolo.modesti), and [Luca Viganò](https://www.kcl.ac.uk/nms/depts/informatics/people/atoz/viganol.aspx).
+		- [Security Protocol Specification Language SPS](https://www.imm.dtu.dk/~samo/SPS.pdf): An Alice-and-Bob style language (extends AnB and FutureID's APS) with [formats](https://www.imm.dtu.dk/~samo/fabstract-tr.pdf).
+		- Includes translators to Applied Pi/ProVerif and IF/OFMC
+		- Automatic Protocol Composition Checker APCC: for a given set of protocols check that the sufficient conditions of [[AMMV15]](https://www.imm.dtu.dk/~samo/Geo-comp.pdf) for typing and parallel composition are met. This tool is based on a [master thesis by Ivana Kojovic](https://www.imm.dtu.dk/~samo/APCC-classic.zip).
+		- [Download as zip](https://www.imm.dtu.dk/~samo/SPS.zip).
+
+https://www.cse.cuhk.edu.hk/~pick/csci5690/
+CSCI5690: Automated Reasoning about Software Systems
+
+https://community.wvu.edu/~krsubramani/courses/backupcourses/dm2Spr2013/coursetext/CalcofComp.pdf#
+The Calculus of Computation Decision Procedures with Applications to Verification
+Aaron R. Bradley · Zohar Manna
+
+https://link.springer.com/book/10.1007/978-3-030-05156-3
+[Flemming Nielson](https://link.springer.com/book/10.1007/978-3-030-05156-3#author-0-0) , [Hanne Riis Nielson](https://link.springer.com/book/10.1007/978-3-030-05156-3#author-0-1)
+Formal Methods: An Appetizer, 2019
+
+https://softwarefoundations.cis.upenn.edu/
+**The Software Foundations series is a broad introduction to the mathematical underpinnings of reliable software.**
+The principal novelty of the series is that every detail is one hundred percent formalized and machine-checked: the entire text of each volume, including the exercises, is literally a "proof script" for the Rocq proof assistant.
+The exposition is intended for a broad range of readers, from advanced undergraduates to PhD students and researchers. No specific background in logic or programming languages is assumed, though a degree of mathematical maturity is helpful. A one-semester course can expect to cover _Logical Foundations_ plus most of _Programming Language Foundations_ or _Verified Functional Algorithms_ or _Security Foundations, or selections from them._
+- _Logical Foundations_ is the entry-point to the series. It covers functional programming, basic concepts of logic, computer-assisted theorem proving, and Rocq.
+- _Programming Language Foundations_ surveys the theory of programming languages, including operational semantics, Hoare logic, and static type systems.
+- _Verified Functional Algorithms_ shows how a variety of fundamental data structures can be specified and mechanically verified.
+- _QuickChick: Property-Based Testing in Rocq_ introduces tools for combining randomized property-based testing with formal specification and proof in the Rocq ecosystem.
+- _Verifiable C_ is an extended hands-on tutorial on specifying and verifying real-world C programs using the Princeton Verified Software Toolchain.
+- _Separation Logic Foundations_ is an in-depth introduction to separation logic—a practical approach to modular verification of imperative programs—and how to build program verification tools on top of it.
+- _Security Foundations_ studies the security of programs by setting clear and rigorous security goals and developing provable enforcement mechanisms.
+
+
+### Other Resources
+https://www.imm.dtu.dk/~dibj/2025/faoc/main.pdf
+Formal Methods – My 50+ Years as an Engineer, Researcher and Scientist
+DINES BJØRNER, Technical University of Denmark, Denmark
+
+
+
+## Intro
+> [!links]
+> ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> ↗ [Formal System, Formal Semantics, and Formal Logic](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) ⭐
+> 
+> ↗ [Artificial Intelligence](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+> ↗ [Problem Solving & Search-Based Methods](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
+> - ↗ [Systematic & Combinatorial Search (Classical Search)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+> - ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
+> 	- ↗ [Constraint Satisfaction Problems (CSPs)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+> 
+> ↗ [Matching & Assignment Problems](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Matching%20&%20Assignment%20Problems/Matching%20&%20Assignment%20Problems.md)
+
+
+### Formal System and Formal Logic
+> [!links]
+> ↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+> 
+> ↗ [Mathematics](../../../🧮%20Mathematics/Mathematics.md) "Proofing, Reasoning, and Computing"
+> - ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> - ↗ [Formal System, Formal Semantics, and Formal Logic](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) ⭐
+> - ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md) ⭐
+> 
+> ↗ [Symbolic AI & Logic Programs](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Symbolic%20AI%20&%20Logic%20Programs/Symbolic%20AI%20&%20Logic%20Programs.md)
+
+> [!Summary]
+> ↗ [Formal System, Formal Semantics, and Formal Logic](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic.md) ⭐
+> ↗ [Classical Logic (Standard Formal Logic)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
+>
+> A **formal language** is a precisely defined collection of **symbols** and **rules (grammar /syntax)** for combining those symbols into valid **expressions**.
+> - Formal language = Alphabets + Formal syntax
+>
+> A **formal system** goes one step further. It uses a formal language and adds rules (deductive reasoning) that allow us to **derive one expression from other expressions**.
+> - Formal system = 
+> 	- Formal language + (Formal) Proof system, or
+> 	- Formal language + Starting statements /formula (expressed in defined formal language) + Deductive rules (Formal rules)
+> - Syntactic entailment:
+> 	- $\Gamma \vdash \varphi$
+> 	- $\Gamma$ syntactically entail $\varphi$: there **exists a formal proof** of $\varphi$ from $Γ$ , or, by applying deduction rules mechanically, we can infer $\varphi$ given $\Gamma$.
+> 	- It is about what we can proof, given starting statement and inference rules.
+> **Axiomatic system** =
+> - Same as formal system, but not necessarily formal language based.
+> - Language + Axioms (as starting statements) + Deductive rules (Theorems can be deductive rules)
+>
+> A **(formal) semantics** is a structure /interpretation assigned to (formal) language.
+> - $\text{Formal Language} \overset{\text{interpretation}}{\longrightarrow} \text{Meaning / Truth}$
+> - Semantic entailment:
+> 	- $\Gamma \models \varphi$
+> 	- $\Gamma$ semantically entail $\varphi$: **every interpretation /evaluation /model** that makes all formulas in $\Gamma$ true also makes $\varphi$ true.
+> 	- It is about what we define as truth.
+>
+> This naturally introduces: (see "properties of formal /logic system")
+> - soundness: what we can syntactically proof are all semantically true;
+> 	- $\Gamma \vdash \varphi \implies \Gamma \models \varphi$
+> - completeness: what are semantically true can all be syntactically proofed.
+> 	- $\Gamma \models \varphi \implies \Gamma \vdash \varphi$
+>
+> To conclude:
+>
+> ```tikz
+> \usepackage{amsmath,amssymb}
+> \usetikzlibrary{calc}
+> \begin{document}
+> \begin{tikzpicture}[
+>   scale=0.90, transform shape,
+>   font=\small,
+>   mainbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+>                   minimum width=4.25cm, minimum height=6.55cm, align=center},
+>   consequence/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+>                       minimum width=3.10cm, minimum height=1.25cm, align=center},
+>   logicbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+>                    minimum height=1.05cm, align=center},
+>   arr/.style={->, >=stealth, line width=.6pt},
+>   relation/.style={->, >=stealth, line width=.55pt},
+>   linklabel/.style={font=\scriptsize, inner sep=0pt},
+>   smallnote/.style={font=\scriptsize, align=center}
+> ]
+>
+> % =========================
+> % Added logic layer (outside the original four-box structure)
+> % =========================
+> \node[logicbox, minimum width=4.25cm] (ordinarylogic) at (0,4.95)
+>   {\textbf{Ordinary logic}\\[-1pt]{\scriptsize informal / natural-language reasoning}};
+>
+> \node[logicbox, minimum width=8.95cm] (formallogic) at (11.875,4.95)
+>   {\textbf{Formal logic}\\[-1pt]{\scriptsize formal study of inference and logical consequence}};
+>
+> \draw[arr] (ordinarylogic.east) -- (formallogic.west)
+>   node[midway,above=2.2pt,linklabel] {formalize};
+>
+> % =========================
+> % Original four-column structure — preserved
+> % =========================
+> \node[mainbox] (ordinary) at (0,0) {};
+> \node[mainbox] (axiomatic) at (4.75,0) {};
+> \node[mainbox] (formal) at (9.50,0) {};
+> \node[mainbox] (semantic) at (14.25,0) {};
+>
+> % Titles
+> \node[font=\bfseries\large, align=center, text width=3.7cm] at (0,2.45)
+>   {Ordinary\\mathematical\\activity};
+> \node[font=\bfseries\large, align=center, text width=3.7cm] at (4.75,2.45)
+>   {Axiomatic\\presentation};
+> \node[font=\bfseries\large, align=center, text width=3.7cm] at (9.50,2.55)
+>   {Formal system};
+> \node[font=\bfseries, align=center] at (9.50,2.12)
+>   {syntactic side};
+> \node[font=\bfseries\large, align=center, text width=3.7cm] at (14.25,2.45)
+>   {Model-theoretic\\semantics};
+>
+> % Top row content
+> \node[align=center, text width=3.55cm] (mathlang) at (0,.75)
+>   {Mathematical\\language\\[-1pt]{\scriptsize natural / semi-formal}};
+> \node[align=center, text width=3.55cm] (specified) at (4.75,.75)
+>   {Specified language\\and primitive notions};
+> \node[align=center, text width=3.55cm] (flang) at (9.50,.75)
+>   {Formal language $\mathcal L$};
+> \node[align=center, text width=3.55cm] (models) at (14.25,.75)
+>   {Structures /\\interpretations};
+>
+> % Bottom row content
+> \node[align=center, text width=3.55cm] (reason) at (0,-1.55)
+>   {Reasoning and proof\\[-1pt]{\scriptsize ordinary practice}};
+> \node[align=center, text width=3.55cm] (axioms) at (4.75,-1.55)
+>   {Axioms and accepted\\proof methods};
+> \node[align=center, text width=3.55cm] (calculus) at (9.50,-1.55)
+>   {Formal calculus $S$\\[-1pt]{\scriptsize axioms $+$ inference rules}};
+> \node[align=center, text width=3.55cm] (sat) at (14.25,-1.55)
+>   {Satisfaction relation\\[-1pt]$\mathcal M \models \varphi$};
+>
+> % Original vertical arrows
+> \draw[arr] (mathlang.south) -- (reason.north);
+> \draw[arr] (specified.south) -- (axioms.north);
+> \draw[arr] (flang.south) -- (calculus.north);
+> \draw[arr] (models.south) -- (sat.north);
+>
+> % Original horizontal arrows and labels — restored exactly
+> \draw[arr] (mathlang.east) -- (specified.west)
+>   node[midway,above=2.2pt,linklabel] {systematize};
+> \draw[arr] (reason.east) -- (axioms.west)
+>   node[midway,above=2.2pt,linklabel] {axiomatize};
+> \draw[arr] (specified.east) -- (flang.west)
+>   node[midway,above=2.2pt,linklabel] {formalize};
+> \draw[arr] (axioms.east) -- (calculus.west)
+>   node[midway,above=2.2pt,linklabel] {formalize};
+> \draw[arr] (flang.east) -- (models.west)
+>   node[midway,above=2.2pt,linklabel] {interpret};
+>
+> % =========================
+> % Added relation of logic layer to original diagram
+> % =========================
+> % Ordinary logic informs ordinary mathematical reasoning.
+> \draw[relation,dashed] (ordinarylogic.south) -- ($(ordinary.north)+(0,0.02)$)
+>   node[midway,font=\scriptsize,align=center,text width=2.25cm] {used in mathematical reasoning};
+>
+> % Formal logic spans the proof-theoretic and semantic sides.
+> \draw[gray!70, line width=.55pt] (7.26,3.62) -- (16.49,3.62);
+> \draw[gray!70, line width=.55pt] (7.26,3.62) -- (7.26,3.45);
+> \draw[gray!70, line width=.55pt] (16.49,3.62) -- (16.49,3.45);
+> \node[smallnote, fill=white, inner sep=1pt] at (11.875,3.62)
+>   {proof-theoretic / syntactic side \quad + \quad model-theoretic / semantic side};
+> \draw[relation] (formallogic.south) -- (11.875,3.82);
+>
+> % =========================
+> % Original consequence boxes
+> % =========================
+> \node[consequence] (syncon) at (9.50,-4.33)
+>   {$\Gamma \vdash_{S} \varphi$\\[-1pt]{\scriptsize syntactic consequence}};
+> \node[consequence] (semcon) at (14.25,-4.33)
+>   {$\Gamma \models \varphi$\\[-1pt]{\scriptsize semantic consequence}};
+> \draw[arr] (formal.south) -- (syncon.north);
+> \draw[arr] (semantic.south) -- (semcon.north);
+>
+> % =========================
+> % Added soundness / completeness bridges
+> % Restored to the earlier lower-bridge layout; formulas sit with the arrows.
+> % =========================
+> \draw[arr] (syncon.south) -- (9.50,-5.60) -- (14.25,-5.60) -- (semcon.south);
+> \node[font=\scriptsize,above=2.2pt] at (11.875,-5.60)
+>   {soundness: $\Gamma\vdash_S\varphi \Rightarrow \Gamma\models\varphi$};
+>
+> \draw[arr] (semcon.south) -- (14.25,-6.36) -- (9.50,-6.36) -- (syncon.south);
+> \node[font=\scriptsize,above=2.2pt] at (11.875,-6.36)
+>   {completeness: $\Gamma\models\varphi \Rightarrow \Gamma\vdash_S\varphi$};
+>
+> \node[smallnote] at (11.875,-6.96)
+>   {if both hold: $\Gamma\vdash_S\varphi \iff \Gamma\models\varphi$};
+>
+> \end{tikzpicture}
+> \end{document}
+> ```
+
+
+### Formal Methods
+> [!links]
+> ↗ [Problem Solving & Search-Based Methods](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
+> ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
+> 
+> ↗ [Mathematical Optimization (Programming)](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+> ↗ [Code (Program) Analysis & Optimization](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20(Program)%20Analysis%20&%20Optimization/Code%20(Program)%20Analysis%20&%20Optimization.md)
+> 
+> ↗ [Neuro-Symbolic AI](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
+
+
+> 📖 Principles of Model Checking, Christel Baier and Joost-Pieter Katoen
+
+In software and hardware design of complex systems, more time and efforts are spent on verification than on construction. Techniques are sought to reduce and ease the verification efforts while increasing their coverage. Formal methods oﬀer a large potential to obtain an early integration of verification in the design process, to provide more effective verification techniques, and to reduce the verification time.
+
+Let us first briefly discuss the role of formal methods. **To put it in a nutshell, formal methods can be considered as “the applied mathematics for modeling and analyzing ICT systems”.** Their aim is to establish system correctness with mathematical rigor. Their great potential has led to an increasing use by engineers of formal methods for the verification of complex software and hardware systems. Besides, formal methods are one of the “highly recommended” verification techniques for software development of safety-critical systems according to, e.g., the best practices standard of the IEC (International Electrotechnical Commission) and standards of the ESA (European Space Agency). 
+
+---
+
+> 🤖 GPT 5.6 Sol
+
+Formal methods are mathematically rigorous techniques for the **specification, analysis, and verification** of software and hardware systems. ==Their central idea is to transform questions about the ***semantic behavior*** of a system into precisely defined mathematical objects that can be analyzed through ***syntactical manipulation***, such as symbolic computation or mechanical deduction.==
+
+Let $M$ denote a formal model of a system and let $\varphi$ denote a desired property. Verification can then be formulated as the semantic question
+$$
+M \models \varphi,
+$$
+where $\models$ denotes **semantic satisfaction**: whether the behavior represented by $M$ satisfies the meaning of $\varphi$.
+
+Formal methods represent both $M$ and $\varphi$ using a formal syntax and then apply mathematically justified algorithms or deduction rules. In deductive verification, for example, one may establish
+$$
+\Gamma \vdash \varphi,
+$$
+where $\vdash$ denotes **syntactic derivability**. The relation between syntactic deduction and semantic truth is captured by *soundness*:
+$$
+\Gamma \vdash \varphi
+\quad\Longrightarrow\quad
+\Gamma \models \varphi.
+$$
+
+Thus, the general methodology can be summarized as:
+```mermaid
+flowchart LR
+    A[Semantic problem]
+    -->|Formalization| B[Formal model and specification]
+    -->|Mechanical reasoning| C[Proof / analysis]
+    -->|Sound interpretation| D[Semantic guarantee]
+````
+
+Conceptually,
+$$  
+\text{semantic problem} 
+\longrightarrow
+\text{formalization}
+\longrightarrow
+\text{syntactic/symbolic reasoning}
+\longrightarrow
+\text{semantic conclusion}.
+$$
+
+----
+Typical techniques include **theorem proving, model checking, SAT/SMT solving, abstract interpretation, and program verification**. Importantly, formal methods establish properties of the _formal model (specification)_ . Therefore, a mathematically correct proof does not by itself guarantee that the specification faithfully captures the intended real-world behavior.
+
+![](../../../../Assets/Pics/Screenshot%202026-09-11%20at%2018.14.02.png)
+<small><a>https://www.cse.cuhk.edu.hk/~pick/csci5690/</a> CSCI5690: Automated Reasoning about Software Systems</small>
+
+
+---
+Formal Methods, Symbolic Methods, Constraint Solving, Search & AI Planning, and Mathematical Optimization
+> [!links]
+> ↗ [Problem Solving & Search-Based Methods](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
+> ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
+> ↗ [Constraint Satisfaction Problems (CSPs)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+>
+> ↗ [Mathematical Optimization (Programming)](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+> ↗ [Matching & Assignment Problems](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Matching%20&%20Assignment%20Problems/Matching%20&%20Assignment%20Problems.md)
+> 
+> ↗ [Neuro-Symbolic AI](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md) 🤔
+
+#formal_logic #formal_system #formal_methods #symbolic_methods #constraint_solving #combinatorial_search #AI_planning #optimization 
+
+> 🤖 GPT 6.0
+> https://chatgpt.com/share/6aa938f1-e81c-83e8-8d55-a08f91a7aa13
+
+| Area                          | Central question                                                                  | Typical object                       | Typical output                                  |
+| ----------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ | ----------------------------------------------- |
+| **Formal Methods**            | “Can we rigorously prove the system has property P?”                              | Logical/system model + specification | Proof, counterexample, verified implementation  |
+| **Symbolic Methods**          | “Can we reason using expressions/formulas instead of enumerating concrete cases?” | Formulas, terms, symbolic states     | Simplified expression, proof, symbolic solution |
+| **Constraint Solving**        | “Is there an assignment satisfying all these conditions?”                         | Variables + domains + constraints    | Satisfying assignment, or UNSAT                 |
+| **Search & AI Planning**      | “What sequence of choices/actions reaches the goal?”                              | States + actions + transitions       | Path, plan, policy                              |
+| **Mathematical Optimization** | “Among feasible solutions, which is best?”                                        | Variables + constraints + objective  | Optimal or near-optimal solution                |
+
+
+
+## Topics In Formal Methods & Automated Reasoning
+![](../../../../Assets/Pics/Screenshot%202026-09-11%20at%2018.14.02.png)
+<small><a>https://www.cse.cuhk.edu.hk/~pick/csci5690/</a> CSCI5690: Automated Reasoning about Software Systems</small>
+
+
+### Formal Verification (FV)
+> 🔗 https://en.wikipedia.org/wiki/Formal_verification
+
+==In the context of [hardware](https://en.wikipedia.org/wiki/Computer_hardware "Computer hardware") and [software](https://en.wikipedia.org/wiki/Software "Software") systems, **formal verification** is the act of [proving](https://en.wikipedia.org/wiki/Mathematical_proof "Mathematical proof") or disproving the [correctness](https://en.wikipedia.org/wiki/Correctness_\(computer_science\) "Correctness (computer science)") of a system with respect to a certain [formal specification](https://en.wikipedia.org/wiki/Formal_specification "Formal specification") or property, using [formal methods](https://en.wikipedia.org/wiki/Formal_methods "Formal methods") of [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics").== Formal verification is a key incentive for [formal specification](https://en.wikipedia.org/wiki/Formal_specification "Formal specification") of systems, and is at the core of [formal methods](https://en.wikipedia.org/wiki/Formal_methods "Formal methods"). It represents an important dimension of [analysis and verification](https://en.wikipedia.org/wiki/Electronic_design_automation#Analysis_and_verification "Electronic design automation") in [electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation "Electronic design automation") and is one approach to [software verification](https://en.wikipedia.org/wiki/Software_verification "Software verification"). The use of formal verification enables the highest [Evaluation Assurance Level](https://en.wikipedia.org/wiki/Evaluation_Assurance_Level "Evaluation Assurance Level") ([EAL7](https://en.wikipedia.org/wiki/EAL7 "EAL7")) in the framework of [common criteria](https://en.wikipedia.org/wiki/Common_criteria "Common criteria") for [computer security](https://en.wikipedia.org/wiki/Computer_security "Computer security") certification.
+
+Formal verification can be helpful in proving the correctness of systems such as: [cryptographic protocols](https://en.wikipedia.org/wiki/Cryptographic_protocol "Cryptographic protocol"), [combinational circuits](https://en.wikipedia.org/wiki/Combinational_logic "Combinational logic"), [digital circuits](https://en.wikipedia.org/wiki/Digital_circuit "Digital circuit") with internal memory, and software expressed as [source code](https://en.wikipedia.org/wiki/Source_code "Source code") in a [programming language](https://en.wikipedia.org/wiki/Programming_language "Programming language"). Prominent examples of verified software systems include the [CompCert](https://en.wikipedia.org/wiki/CompCert "CompCert") verified [C](https://en.wikipedia.org/wiki/C_programming_language "C programming language") [compiler](https://en.wikipedia.org/wiki/Compiler "Compiler") and the [seL4](https://en.wikipedia.org/wiki/L4_microkernel_family#High_assurance:_seL4 "L4 microkernel family") high-assurance [operating system kernel](https://en.wikipedia.org/wiki/Kernel_\(operating_system\) "Kernel (operating system)").
+
+The verification of these systems is done by ensuring the existence of a [formal proof](https://en.wikipedia.org/wiki/Formal_proof "Formal proof") of a [mathematical model](https://en.wikipedia.org/wiki/Mathematical_model "Mathematical model") of the system. Examples of mathematical objects used to model systems are: [finite-state machines](https://en.wikipedia.org/wiki/Finite-state_machine "Finite-state machine"), [labelled transition systems](https://en.wikipedia.org/wiki/Labelled_transition_system "Labelled transition system"), [Horn clauses](https://en.wikipedia.org/wiki/Horn_clause "Horn clause"), [Petri nets](https://en.wikipedia.org/wiki/Petri_net "Petri net"), [vector addition systems](https://en.wikipedia.org/wiki/Vector_addition_system "Vector addition system"), [timed automata](https://en.wikipedia.org/wiki/Timed_automaton "Timed automaton"), [hybrid automata](https://en.wikipedia.org/wiki/Hybrid_automata "Hybrid automata"), [process algebra](https://en.wikipedia.org/wiki/Process_algebra "Process algebra"), formal semantics of programming languages such as [operational semantics](https://en.wikipedia.org/wiki/Operational_semantics "Operational semantics"), [denotational semantics](https://en.wikipedia.org/wiki/Denotational_semantics "Denotational semantics"), [axiomatic semantics](https://en.wikipedia.org/wiki/Axiomatic_semantics "Axiomatic semantics") and [Hoare logic](https://en.wikipedia.org/wiki/Hoare_logic "Hoare logic").
+
+A common theme: from program to formulas
+
+```tikz
+\begin{document}
+\definecolor{panel}{RGB}{32,34,38}
+\definecolor{paneltwo}{RGB}{42,44,49}
+\definecolor{border}{RGB}{115,118,125}
+\definecolor{textmain}{RGB}{235,235,232}
+\definecolor{textmuted}{RGB}{170,172,176}
+\definecolor{accent}{RGB}{184,154,92}
+\definecolor{accentdark}{RGB}{62,54,39}
+
+\begin{tikzpicture}[
+    >=latex,
+    font=\small,
+    text=textmain,
+
+    box/.style={
+        draw=border,
+        fill=panel,
+        text=textmain,
+        rounded corners,
+        align=center,
+        minimum height=1.6cm,
+        minimum width=2.9cm,
+        line width=0.7pt
+    },
+
+    process/.style={
+        draw=accent,
+        fill=accentdark,
+        text=textmain,
+        rounded corners,
+        align=center,
+        minimum height=2cm,
+        minimum width=3.1cm,
+        line width=1pt
+    },
+
+    note/.style={
+        draw=border,
+        fill=paneltwo,
+        text=textmain,
+        rounded corners,
+        align=left,
+        inner sep=7pt,
+        text width=4.2cm,
+        line width=0.6pt
+    }
+]
+
+% ---------------------------------------------------------
+% Main pipeline
+% ---------------------------------------------------------
+
+\node[box] (program) at (0,0) {
+    \textbf{Program}\\
+    +\\
+    \textbf{Specification}\\[2mm]
+    preconditions\\
+    postconditions\\
+    invariants
+};
+
+\node[process] (vcgen) at (4.2,0) {
+    \textbf{Verification}\\
+    \textbf{Condition Generator}\\[2mm]
+    Program reasoning\\
+    $\rightarrow$ logical formulas
+};
+
+\node[box] (vc) at (8.4,0) {
+    \textbf{Verification}\\
+    \textbf{Conditions}\\[2mm]
+    Proof obligations\\
+    expressed in logic
+};
+
+\node[process] (solver) at (12.6,0) {
+    \textbf{Theorem Prover}\\
+    /\\
+    \textbf{SMT Solver}\\[2mm]
+    Attempts to prove\\
+    each condition
+};
+
+\node[box] (result) at (16.8,0) {
+    \textbf{Verification Result}\\[2mm]
+    proved\\
+    or\\
+    counterexample
+};
+
+
+% ---------------------------------------------------------
+% Main arrows
+% ---------------------------------------------------------
+
+\draw[->, line width=1pt, draw=textmuted]
+    (program) -- (vcgen);
+
+\draw[->, line width=1pt, draw=textmuted]
+    (vcgen) -- (vc);
+
+\draw[->, line width=1pt, draw=textmuted]
+    (vc) -- (solver);
+
+\draw[->, line width=1pt, draw=textmuted]
+    (solver) -- (result);
+
+
+% ---------------------------------------------------------
+% Verification-condition explanation
+% ---------------------------------------------------------
+
+\node[note] (logicnote) at (8.4,3.5) {
+    \textbf{Logical formulas}\\[2mm]
+
+    Verification conditions may involve:
+
+    $\bullet$ propositional logic\\
+    $\bullet$ first-order logic\\
+    $\bullet$ arithmetic\\
+    $\bullet$ arrays\\
+    $\bullet$ bit-vectors
+};
+
+\draw[dashed, ->, draw=border]
+    (logicnote) -- (vc);
+
+
+% ---------------------------------------------------------
+% SMT explanation
+% ---------------------------------------------------------
+
+\node[note] (smtnote) at (12.6,-3.6) {
+    \textbf{Example: Z3}\\[2mm]
+
+    SMT = Satisfiability Modulo Theories.
+
+    Typical theories include:
+
+    $\bullet$ integers and reals\\
+    $\bullet$ arrays\\
+    $\bullet$ bit-vectors\\
+    $\bullet$ equality\\
+    $\bullet$ uninterpreted functions
+};
+
+\draw[dashed, ->, draw=border]
+    (smtnote) -- (solver);
+
+
+% ---------------------------------------------------------
+% Conceptual labels
+% ---------------------------------------------------------
+
+\node[text=textmuted] at (4.2,-1.7)
+    {\footnotesize Program $\rightarrow$ Logic};
+
+\node[text=textmuted] at (12.6,1.7)
+    {\footnotesize Logic $\rightarrow$ Proof};
+
+\end{tikzpicture}
+\end{document}
+```
+
+#### Proof Verification / Computational Verification
+> [!links]
+> ↗ [Complexity-Theoretic Verification](Formal%20Verification%20(FV)/Complexity-Theoretic%20Verification/Complexity-Theoretic%20Verification.md)
+> ↗ [Cryptographic Protocols Modeling & Verification](Formal%20Verification%20(FV)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+
+> [!Abstract]
+> > [!question]
+> > Can a verifier trust a prover efficiently? /How can a weak verifier efficiently check a claim made by a prover?
+> 
+> Examples:
+> -  NP witness checking
+> - Interactive proofs
+> - PCP
+> - MIP*
+> - Zero knowledge
+> - SNARK/STARK
+> - Verifiable computation
+> 
+> Roots:
+> - Complexity theory
+> - Cryptography
+
+```md
+https://chatgpt.com/share/69f8eba9-d41c-83eb-ad90-34a97143f767
+
+Verification Systems
+├── By Soundness: (What kind of cheating prover are we secure against?)
+│   ├── Proof Systems (usually information-theoretic soundness)
+│   └── Argument Systems (computational soundness)
+│
+├── By Interaction:
+│   ├── Interactive (A prover and verifier exchange messages)
+│   └── Non-interactive (The prover sends one proof string, verifier checks it)
+│
+├── By Privacy:
+│   ├── Zero-knowledge
+│   └── Non-ZK
+│
+└── By Research Focus:
+    ├── Complexity Theory
+    └── Cryptography
+
+
+
+Verification Systems
+├── Foundational Logic  
+│ └── Proof Theory  
+│
+├── Complexity-Theoretic Perspective
+│   ├── IP 
+│   ├── PCP
+│   ├── MIP
+│   ├── IOP
+│   ├── Probabilistic checking
+│   └── Class characterizations (NP, PSPACE, NEXP...)
+│
+└── Cryptographic Perspective
+    ├── Zero-Knowledge
+    ├── Proofs of Knowledge
+    ├── Commitments
+    ├── SNARKs
+    ├── STARKs
+    ├── Anonymous credentials
+    └── Verifiable computation
+
+(There is a notion of non-interactive proof, but in complexity theory it is usually not given a famous standalone class name parallel to IP.)
+
+
+
+Intuition Tree
+Can one party convince another?
+│
+├── Needs back-and-forth? → Interactive
+│
+└── Single message? → Non-interactive
+     │
+     ├── Hides witness? → Zero-knowledge
+     ├── Proves witness possession? → Proof of knowledge
+     ├── Short proof? → Succinct
+     └── No trusted setup? → Transparent
+
+
+
+IP      = Interactive Proofs /Interactive polynomial-time verification
+NP      = Non-interactive polynomial-time verification
+NIP     = Non-interactive Proofs
+
+MIP     = Multi-prover Interactive Proofs
+PCP     = Probabilistically Checkable Proofs
+IOP     = Interactive Oracle Proofs
+AM/MA   = Arthur-Merlin protocols
+
+NIZK    = Non-Interactive Zero-Knowledge
+SNARK   = Succinct Non-interactive Argument of Knowledge
+STARK   = Scalable Transparent Argument of Knowledge
+
+----
+NP : one prover, one static proof  
+IP : one prover, interactive  
+MIP : many provers, interactive  
+PCP : one prover, static but queryable  
+IOP : one prover, interactive + oracle access  
+SNARK: one prover, static succinct computational proof
+```
+##### Properties of Proof System
+```
+Properties
+├── Completeness
+├── Soundness
+├── Zero-knowledge
+├── Witness indistinguishable
+├── Proof of knowledge
+├── Succinctness
+├── Transparency
+├── Universality
+└── Post-quantum security
+```
+#### Software /Hardware Verification
+> [!links]
+> ↗ [ICT System Reliability (Correctness) & Verification](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
+> ↗ [Hardware (Digital Circuits) Verification](Formal%20Verification%20(FV)/Hardware%20(Digital%20Circuits)%20Verification/Hardware%20(Digital%20Circuits)%20Verification.md)
+> ↗ [Program (Formal) Verification](Formal%20Verification%20(FV)/Program%20(Formal)%20Verification/Program%20(Formal)%20Verification.md)
+
+> [!Abstract]
+> > [!question]
+> > Is this system correct under all executions? /How can we mathematically prove software/hardware systems behave correctly?
+> 
+> Examples:
+> - Verify OS kernel has no memory bugs
+> - Verify CPU design matches ISA
+> - Verify protocol correctness
+> - Verify smart contracts
+> - Verify aircraft controller safety
+> 
+> Roots:
+> 
+> - Logic
+> - Semantics
+> - Automata
+> - Software engineering
+> - Hardware design
+
+> [!TIP]
+> Verification 🆚 Validation
+> ↗ [ICT System Reliability (Correctness) & Verification](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
+
+
+### Debugging & Vulnerability
+↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
+↗ [Software Testing](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
+
+↗ [Program Analysis Basics](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
+
+↗ [Software Vulnerability & Weakness](../🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
+↗ [Vulnerability Disclosure（漏洞挖掘）](../🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/Vulnerability%20Disclosure（漏洞挖掘）.md)
+↗ [Vulnerability Discovery & Scanning（漏洞检测 & 扫描）](../🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/Vulnerability%20Discovery%20&%20Scanning（漏洞检测%20&%20扫描）.md)
+
+
+### Diagnosis & Repair & Synthesis
+↗ [Program Synthesis & Code Generation](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Program%20Synthesis%20&%20Code%20Generation/Program%20Synthesis%20&%20Code%20Generation.md)
+↗ [Automated Program Repair](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Program%20Synthesis%20&%20Code%20Generation/Automated%20Program%20Repair/Automated%20Program%20Repair.md)
+
+
+
+## Challenges in Formal Methods
+### Undecidability & States Explosion ⭐
+> [!links]
+> ↗ [MC Algorithms](🧳%20(Formal)%20Model%20Checking%20(MC)/MC%20Algorithms/MC%20Algorithms.md)
+> 
+> ↗ [Neuro-Symbolic AI](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
+> ↗ [Exploring Neuro-Symbolic AI](../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/Exploring%20Neuro-Symbolic%20AI/Exploring%20Neuro-Symbolic%20AI.md)
+
+计算复杂度与理论限制
+- **状态爆炸问题 (State Explosion Problem)：** 随着系统并发组件、变量或状态的增加，系统的状态空间呈指数级增长，极易超出计算机的内存和处理能力。
+- **不可判定性 (Undecidability)：** 根据图灵停机问题等基础理论，对于足够复杂的系统（如包含无限数据结构或复杂算术运算的软件），不存在一个通用算法能自动判断其所有属性是否正确。
+- **环境建模困难：** 验证一个组件需要对其运行的外部环境（如操作系统、硬件、网络缺陷）进行精确建模，而环境往往过于复杂，难以完全还原。
+
+---
+**Countermeasures:**
+- State representation
+	- Symbolic model checking
+		- ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Semantics,%20and%20Formal%20Logic/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md)
+	- Bounded model checking
+- Sate space reduction
+	- Partial order reduction
+		- ↗ [Lattice (Order Theory)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md) 
+	- Symmetry reduction
+	- Simulation & bisimulation
+		- ↗ [Bisimulation](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Equivalence%20Relation/Bisimulation.md)
+- Abstraction & refinement
+	- ↗ [Program Abstraction & Abstract Interpretation](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+	- Data abstraction
+	- Predicate abstraction
+	- ↗ [Counterexample-Guided Abstraction Refinement (CEGAR)](Formal%20Verification%20(FV)/Program%20(Formal)%20Verification/Program%20Verification%20Techniques/Counterexample-Guided%20Abstraction%20Refinement%20(CEGAR).md)
+	- ↗ [Invariant Synthesis](🌋%20Invariant%20Synthesis/Invariant%20Synthesis.md)
+		- ↗ [Counterexample-Guided Inductive Synthesis (CEGIS)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Transformation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Program%20Synthesis%20&%20Code%20Generation/Counterexample-Guided%20Inductive%20Synthesis%20(CEGIS)/Counterexample-Guided%20Inductive%20Synthesis%20(CEGIS).md)
+- Computation & architecture
+	- Compositional reasoning
+		- Compositional Verification / Assume-Guarantee
+	- Distributed & Parallel Model Checking
+
+
+### Manual Efforts in Modeling & Proofing
+人力与工程落地成本
+- **极高的学习曲线：** 形式化方法依赖深厚的数理逻辑背景（如时序逻辑、集合论、类型论），普通软件或硬件工程师通常需要大量的系统性培训才能掌握。
+- **高昂的手工证明成本：** 在使用交互式定理证明器（如 Coq, Isabelle, Lean）时，工程师需要手工编写数万行的数学证明步骤，耗费极高的人力。
+- **与现有敏捷开发流程脱节：** 形式化验证往往耗时较长，难以适应现代软件工程中“快速迭代”、“每日构建 (Daily Build)”的敏捷开发节奏。
+
+
+### Specification Gap & Chain of Trust
+“正确性”本身的定义与信任链问题
+- **规范规格的准确性 (Specification Gap)：** 形式化验证只能证明“代码符合规范（Specification）”，但如果规范本身写错了、漏掉了某些安全属性，或者无法准确表达用户的真实意图，验证结果依然没有意义。
+- **编译器与硬件的信任链断裂：** 即使源码在数学上被证明是正确的，但在经过编译器编译、操作系统调度、最终在可能存在硬件缺陷（如 Spectre/Meltdown 漏洞）的芯片上运行时，依然可能发生错误。
+
+
+
+## Ref
+[形式化验证方法研究综述 | CSDN]: https://panpan.blog.csdn.net/article/details/133158054?fromshare=blogdetail&sharetype=blogdetail&sharerId=133158054&sharerefer=PC&sharesource=&sharefrom=from_link
+形式化验证是一种通过数学方法来证明软件、硬件或系统的正确性的技术。它采用形式化语言、逻辑和证明技术，通过对系统建模、规约和验证，从而达到证明系统行为是否满足给定规定的目的的目的。
+
+形式化验证的优势在于它可以对系统进行全面、自动、形式化的测试和验证，从而发现和纠正系统设计的缺陷。它的结果可以得到精确、确定的结论，可以帮助开发人员减少迭代设计和测试的时间和成本。因此，形式化验证在现代软件和硬件系统的开发过程中已经得到广泛应用。
+
+尽管形式化验证具有强大的验证功能，但是它在实际应用中也存在一些挑战。形式化验证需要专业的证明人员和高水平的数学和计算机科学知识，因此成本较高。此外，由于复杂性问题，形式化验证的规模通常在实际系统的规模上有所限制。
+
+综上所述，形式化验证是一种非常有价值的技术，它对提高软件和硬件系统质量的保障作用不可忽视。但是，为了使其更广泛应用于实际开发过程中，还需要不断提高形式化验证的效率和可用性。
+
+[软件所在形式化方法领域多个方向取得进展]: http://www.iscas.ac.cn/xwdt2016/kyjz2016/202404/t20240417_7114585.html
+可满足性模理论（SMT）是形式化方法与自动推理的一个重要方向，它研究在某些特定理论下（如等式理论和无解释函数、数组理论、位向量、线性和非线性算术）的一阶逻辑公式可满足性的判定方法。在算术理论方面，目前大部分SMT求解器主要基于串行求解，相关工作集中在如何改进串行SMT求解器中的求解技术和启发式方法。面对计算资源与算力日益充足的今天，研究团队尝试采用并行和分布式的方法来充分利用算力，以提高SMT问题的求解性能。
+
+研究团队将提出的方法应用到目前国际最先进的求解器CVC5、OpenSMT2、Z3，与基求解器的求解结果相比，仅是8核的并行求解，平均成功求解实例就增加了3495个，求解速度提高约30%。该方法与前沿并行求解技术相比也有显著提升，并且在非线性理论上表现尤为突出。
+
+[静态代码分析之约束求解简介 | 华为云]: https://bbs.huaweicloud.com/blogs/229334
+约束求解和抽象解释，是程序分析的两大基石。一般程序分析问题通常都需要转换为各种数学模型，例如图可达性问题、约束求解问题（通常在符号执行、路径敏感分析等场景使用）等，然后进行特定的求解来发现程序中存在的问题。
+
+本文简单对约束求解进行简单介绍。首先会介绍一些关于约束求解的概念，然后会使用z3求解器举例。
+
+[符号执行 (Symbolic Execution) 与约束求解 (Constraint Solving) - Flowlet的文章 - 知乎]: 
+https://zhuanlan.zhihu.com/p/675592367
+本文为软件分析学科中符号执行（Symbolic Execution）与约束求解（Constraint Solving）子系统的概念论述。
+
+本文主要分为以下几部分：
+1. 符号执行
+	1. Part I：前言
+	2. Part II：经典符号执行
+	3. Part III：符号执行的发展
+	4. Part IV：混合执行
+	5. Part V：执行生成测试
+	6. Part VI：选择符号执行
+2. 约束求解
+	1. Part I：前言
+	2. Part II：约束求解
+	3. Part III：约束求解问题
+	4. Part IV：SAT问题求解
+	5. Part V：SMT问题求解
+
+
+[LLMs are making formal software verification feasible at a much larger scale | Anthropic]: anthropic.com/research/formal-verification
